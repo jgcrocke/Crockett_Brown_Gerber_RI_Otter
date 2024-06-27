@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <origin/>
+                <origin/>
+                <origin/>
+                <pubdate>20010601</pubdate>
+                <title>Freshwater Rivers and Streams (1:5,000)</title>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>RIGIS</publish>
+                </pubinfo>
+                <othercit>Suggested bibliographic reference: RIGIS, 2001. Freshwater Rivers and Streams; streams5k. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 2 October 2014).</othercit>
+                <onlink>http://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/Freshwater_Rivers_and_Streams_5k/FeatureServer</onlink>
+                <onlink>http://data.rigis.org/HYDRO/streams5k.zip</onlink>
+                <lworkcit>
+                    <citeinfo>
+                        <pubdate>20010730</pubdate>
+                        <title>Rhode Island Geographic Information System Database</title>
+                    </citeinfo>
+                </lworkcit>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>These data intended for use in inventory and mapping of fresh water bodies.
+Limitations due to scale, accuracy and completeness of source material should be kept in mind when using these data. Strahler Stream Ordering was added in December, 2006. Stream ordering is used in watershed analyses and for cartographic purposes.</abstract>
+            <purpose>Freshwater river and stream centerline features depicted as vector line features as determined from 1:5000 scale aerial photography.</purpose>
+            <supplinf>Limitations due to scale, accuracy and completeness of source material should be kept in mind when using these data. Strahler Stream Ordering was added in December, 2006. Stream ordering is used in watershed analyses and for cartographic purposes.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <rngdates>
+                    <begdate>19970427</begdate>
+                    <enddate>19970429</enddate>
+                </rngdates>
+            </timeinfo>
+            <current>Current to dates of source material</current>
+        </timeperd>
+        <status>
+            <progress>Complete</progress>
+            <update>Irregular</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-71.921856</westbc>
+                <eastbc>-71.105739</eastbc>
+                <northbc>42.043861</northbc>
+                <southbc>41.147684</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>012</themekey>
+                <themekey>inlandWaters</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>fresh water</themekey>
+                <themekey>rivers</themekey>
+                <themekey>Centerlines</themekey>
+                <themekey>hydrography</themekey>
+                <themekey>Hydrology</themekey>
+                <themekey>streams</themekey>
+            </theme>
+            <place>
+                <placekt>GNIS</placekt>
+                <placekey>New England</placekey>
+                <placekey>United States</placekey>
+                <placekey>northeast</placekey>
+                <placekey>Rhode Island</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>These data are shared under the RIGIS license agreement, which can be viewed below: This
+ dataset is provided 'as is.’ The producer(s) of this dataset, 
+contributors to this dataset, the Rhode Island Geographic Information 
+System (RIGIS) consortium, the State of Rhode Island, and the University
+ of Rhode Island do not make any warranties of any kind for this 
+dataset, and are not liable for any loss or damage however and whenever 
+caused by any use of this dataset.Please acknowledge both RIGIS 
+and the primary producer(s) of this dataset in any derived products.  
+Versions of the RIGIS logo suitable for both printed and web-based 
+products are available at http://www.rigis.org/logos.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Rhode Island Department of Environmental Management</cntorg>
+                    <cntper>Paul Jordan</cntper>
+                </cntorgp>
+                <cntpos>Supervising GIS Specialist</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>235 Promenade St</address>
+                    <city>Providence</city>
+                    <state>RI</state>
+                    <postal>02908</postal>
+                </cntaddr>
+                <cntvoice>401-222-2776 x4315</cntvoice>
+                <cntemail>paul.jordan@dem.ri.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <browse>
+            <browsen>http://www.rigis.org/images/metadata/inlandWaters/5k_streams.gif</browsen>
+            <browset>GIF</browset>
+        </browse>
+        <datacred>URI EDC, RIGIS; RI Dept. of Environmental Management</datacred>
+        <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.1.5686</native>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>Only ArcInfo software generated attribute data included</attraccr>
+        </attracc>
+        <logic>Topologically consistent ArcInfo line coverage</logic>
+        <complete>Complete for limitations of source interpretation for 1:5000 scale photography</complete>
+        <posacc>
+            <horizpa>
+                <horizpar>Considered spatially accurate to map accuracy for 1:5000 photography Estimated accuracy of 10-15 feet.</horizpar>
+            </horizpa>
+        </posacc>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>19910427</pubdate>
+                        <title>RIGIS5KO source Aerial Photography</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>5000</srcscale>
+                <typesrc>hardcopyPhoto</typesrc>
+                <srctime>
+                    <timeinfo>
+                        <rngdates>
+                            <begdate>19970427</begdate>
+                            <enddate>19970429</enddate>
+                        </rngdates>
+                    </timeinfo>
+                    <srccurr>publication date</srccurr>
+                </srctime>
+                <srccitea>RIGIS5KO source Aerial Photography</srccitea>
+            </srcinfo>
+            <procstep>
+                <procdesc>Hydrographic centerlines were manually digitized using CAD software by prime contractor (InterMap. CAD generated line data was transformed and georegistered to ArcInfo ploygon coverages.</procdesc>
+                <procdate>20001101</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>RIDOT</cntorg>
+                            <cntper>GIS Manager</cntper>
+                        </cntorgp>
+                        <cntpos>GIS Manager</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>Two Capitol Hill</address>
+                            <city>Providence</city>
+                            <state>RI</state>
+                            <postal>02903</postal>
+                        </cntaddr>
+                        <cntvoice>401-222-6935 ext 4485</cntvoice>
+                        <cntemail>skut@dot.state.ri.us</cntemail>
+                        <hours>M-F 8-4 est</hours>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+            <procstep>
+                <procdesc>Strahler Stream ordering was completed by the RI Dept of Environmental Management in December 2006 through a heads-up visual inspection and coding.</procdesc>
+                <procdate>20061215</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>RI Department of Environmental Management</cntorg>
+                            <cntper>Paul Jordan</cntper>
+                        </cntorgp>
+                        <cntpos>Supervising GIS Specialist</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>235 Promenade Street</address>
+                            <city>Providence</city>
+                            <state>Rhode Island</state>
+                            <postal>02908</postal>
+                            <country>US</country>
+                        </cntaddr>
+                        <cntvoice>401-222-2776</cntvoice>
+                        <cntfax>401-222-2069</cntfax>
+                        <cntemail>paul.jordan@dem.ri.gov</cntemail>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+            <procstep>
+                <procdesc>Added Point of Contact information for this dataset.</procdesc>
+                <procdate>20150601</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                            <cntper>Erica Tefft</cntper>
+                        </cntorgp>
+                        <cntpos>Research Associate</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>1 Greenhouse Road</address>
+                            <address>Coastal Institute</address>
+                            <city>Kingston</city>
+                            <state>RI</state>
+                            <postal>02881</postal>
+                        </cntaddr>
+                        <cntvoice>401-874-5054</cntvoice>
+                        <cntemail>erica@edc.uri.edu</cntemail>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>String</sdtstype>
+                <ptvctcnt>7983</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>HYDRO_Streams_5K</enttypl>
+                <enttypd>Arc Attribute Table</enttypd>
+                <enttypds>None</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>StrmOrder</attrlabl>
+                <attrdef>Strahler's (1952) stream order system is a simple method of classifying stream segments based on the number of tributaries upstream. A stream with no tributaries (headwater stream) is considered a first order stream. A segment downstream of the confluence of two first order streams is a second order stream. Thus, a nth order stream is always located downstream of the confluence of two (n-1)th order streams. (A number of the 1st order streams may in fact be 0-order, intermittent flows.)</attrdef>
+                <attrdomv>
+                    					
+                    <edom>
+                        						
+                        <edomv>2</edomv>
+                        						
+                        <edomvd>Second Order Stream - Formed by the confluence of first order streams</edomvd>
+                        						
+                        <edomvds>Strahler</edomvds>
+                        					
+                    </edom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                    <cntper>Erica Tefft</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1 Greenhouse Road</address>
+                    <city>Kingston</city>
+                    <state>RI</state>
+                    <postal>02881</postal>
+                </cntaddr>
+                <cntvoice>401-874-5054</cntvoice>
+                <cntemail>erica@edc.uri.edu</cntemail>
+                <cntinst>email preferred</cntinst>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Esri shapefile</formname>
+                    <filedec>ZIP</filedec>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://www.rigis.org</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20161115</metd>
+        <metrd>20080415</metrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>RI Department of Administration; Division of Information Technology</cntorg>
+                    <cntper>John Stachelhaus</cntper>
+                </cntorgp>
+                <cntpos>RIGIS Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>1 Capitol Hill</address>
+                    <city>Providence</city>
+                    <state>Rhode Island</state>
+                    <postal>02908</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>401-222-6483</cntvoice>
+                <cntfax>401-222-6482</cntfax>
+                <cntemail>rigis@admin.ri.gov</cntemail>
+                <hours>8:00 - 3:30</hours>
+                <cntinst>E-mail preferred</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

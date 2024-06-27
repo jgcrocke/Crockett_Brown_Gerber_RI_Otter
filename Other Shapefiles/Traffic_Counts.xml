@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20030801</pubdate>
+                <title>Traffic Counts</title>
+                <edition>2003</edition>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>Rhode Island Dept. of Transportation</publish>
+                </pubinfo>
+                <othercit>Suggested bibliographic reference: RIGIS, 2003. Traffic Counts; s44ttc02. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 16 October 2014).</othercit>
+                <onlink>http://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/Traffic_Counts/FeatureServer</onlink>
+                <onlink>http://data.rigis.org/TRANS/traffic_counts.zip</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This data set was created for the Rhode Island Dept. of Transportation. &#13;
+This data set contains locations for the 24 hour average daily traffic counts on state maintained roads with information containing the station number, the segment of roadway the count was taken on, the city the count location is in and the actual 24 hour average counts for each location.</abstract>
+            <purpose>This data set contains the annual 24 Hour Average Daily Traffic Count Locations on State maintained roads in Rhode Island for 2001.</purpose>
+            <supplinf>This data set contains locations for the 24 hour average daily traffic counts on state maintained roads with information containing the station number, the segment of roadway the count was taken on, the city the count location is in and the actual 24 hour average counts for each location.</supplinf>
+        </descript>
+        <timeperd>
+            <timeinfo>
+                <sngdate>
+                    <caldate>20030801</caldate>
+                </sngdate>
+            </timeinfo>
+            <current>publication date</current>
+        </timeperd>
+        <status>
+            <progress>In work</progress>
+            <update>Annually</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-71.85151</westbc>
+                <eastbc>-71.12425</eastbc>
+                <northbc>42.016548</northbc>
+                <southbc>41.150353</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>transportation</themekey>
+                <themekey>highway</themekey>
+                <themekey>road</themekey>
+                <themekey>018</themekey>
+                <themekey>traffic counts</themekey>
+                <themekey>street</themekey>
+                <themekey>traffic volume</themekey>
+                <themekey>traffic count</themekey>
+            </theme>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+            </theme>
+            <place>
+                <placekt>GNIS</placekt>
+                <placekey>Rhode Island</placekey>
+                <placekey>New England</placekey>
+                <placekey>northeast</placekey>
+                <placekey>United States</placekey>
+            </place>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst>These data are shared under the RIGIS license agreement, which can be viewed below: This
+ dataset is provided 'as is.’ The producer(s) of this dataset, 
+contributors to this dataset, the Rhode Island Geographic Information 
+System (RIGIS) consortium, the State of Rhode Island, and the University
+ of Rhode Island do not make any warranties of any kind for this 
+dataset, and are not liable for any loss or damage however and whenever 
+caused by any use of this dataset.Please acknowledge both RIGIS 
+and the primary producer(s) of this dataset in any derived products.  
+Versions of the RIGIS logo suitable for both printed and web-based 
+products are available at http://www.rigis.org/logos.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Rhode Island Department of Transportation</cntorg>
+                    <cntper>Stephen Kut</cntper>
+                </cntorgp>
+                <cntpos>GIS Manager</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Two Capitol Hill</address>
+                    <city>Providence</city>
+                    <state>RI</state>
+                    <postal>02903</postal>
+                </cntaddr>
+                <cntvoice>401-222-6935 x4485</cntvoice>
+                <cntemail>stephen.kut@dot.ri.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <browse>
+            <browsen>http://www.rigis.org/images/metadata/transportation/traffic-cnts.gif</browsen>
+            <browset>GIF</browset>
+        </browse>
+        <datacred>URI EDC, RIGIS; RI Dept. of Transportation. Icon Credit: Sergey Krivoy via The Noun Project</datacred>
+        <secinfo>
+            <secsys>N/A</secsys>
+            <secclass>Unclassified</secclass>
+            <sechandl>No Security Considerations</sechandl>
+        </secinfo>
+        <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.4.1.5686</native>
+        <crossref>
+            <citeinfo>
+                <pubdate>20030101</pubdate>
+                <title>2001 Traffic Counts</title>
+            </citeinfo>
+        </crossref>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>The point features were digitized from 1997 Orthophotos 2 ' pixel resolution at 5000' scale. Line features good for (+) or (-) 50 foot accuracy and data produced from 1997 aerial photography.</attraccr>
+            <qattracc>
+                <attraccv>No field verification</attraccv>
+                <attracce>None</attracce>
+            </qattracc>
+        </attracc>
+        <logic>None</logic>
+        <complete>None</complete>
+        <lineage>
+            <srcinfo>
+                <srcscale>5000</srcscale>
+                <typesrc>CD-ROM</typesrc>
+                <srccontr>Photographs were used for base of map.</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>Analyzing Access Database containing annual 24 hour average daily traffic counts for 2001 and querying out stations present on state maintained roadways. These locations were used to create the dataset.</procdesc>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>RIDOT (Rhode Island Dept. of Transportation) MIS Section</cntorg>
+                            <cntper>Database Administrator</cntper>
+                        </cntorgp>
+                        <cntpos>Manager</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>Two Capitol Hill</address>
+                            <address>MIS Section</address>
+                            <city>Providence</city>
+                            <state>Rhode Ilsland</state>
+                            <postal>02903</postal>
+                            <country>US</country>
+                        </cntaddr>
+                        <cntvoice>401 222-6935</cntvoice>
+                        <cnttdd>None</cnttdd>
+                        <cntfax>401 222-4403</cntfax>
+                        <cntemail>skut@dot.state.ri.us</cntemail>
+                        <hours>8:00 - 3:30</hours>
+                        <cntinst>E-mail prefered</cntinst>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+            <procstep>
+                <procdesc>Updated Point of Contact information for this dataset from "Database Administrator" to "Stephen Kut."</procdesc>
+                <procdate>20150601</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                            <cntper>Erica Tefft</cntper>
+                        </cntorgp>
+                        <cntpos>Research Associate</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>Coastal Institute</address>
+                            <address>1 Greenhouse Road</address>
+                            <city>Kingston</city>
+                            <state>RI</state>
+                            <postal>02881</postal>
+                        </cntaddr>
+                        <cntvoice>401-874-5054</cntvoice>
+                        <cntemail>erica@edc.uri.edu</cntemail>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>String</sdtstype>
+                <ptvctcnt>855</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>TRANS_Traffic_Counts</enttypl>
+                <enttypd>Feature attribute table</enttypd>
+                <enttypds>Software defaults plus user defined items.</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>CNTY_CLASS</attrlabl>
+                <attrdef>Roadway classification where "2" is a state maintained roadway</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>YR</attrlabl>
+                <attrdef>Year counts were collected</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LASTOFSEGM</attrlabl>
+                <attrdef>Limits station segment falls between</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LASTOFCITY</attrlabl>
+                <attrdef>City station segment is located in</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>T_MEAS</attrlabl>
+                <attrdef>Ending Linear Reference Measure</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>ONMAP</attrlabl>
+                <attrdef>Identifies if station segment count appears on traffic flow map</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>AADTYR</attrlabl>
+                <attrdef>Average counts of vehicles over 24 hour period</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>LRS_NUM</attrlabl>
+                <attrdef>RIDOT Inventory Route number</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>Shape</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Coordinates defining the features.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LASTOFROAD</attrlabl>
+                <attrdef>Actual location of station segment</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>STATIONNO</attrlabl>
+                <attrdef>Unique station number for each segment location</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>F_MEAS</attrlabl>
+                <attrdef>Beginning Linear Reference Measure</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                    					
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                    				
+                </attrdomv>
+            </attr>
+        </detailed>
+        <overview>
+            <eaover>None</eaover>
+            <eadetcit>2001TRAFFICCOUNTS ATTRIBUTES STATIONNO = INTERNAL USE; UNIQUE ID LRS_NUM = RIDOT INVENTORY ROUTE NUMBER F_MEAS = BEGINNING LINEAR REFERENCE MEASURE T_MEAS = ENDING LINEAR REFERENCE MEASURE CNTY_CLASS = ROAD WAY CLASSIFICATION 2 = STATE ROAD 0 = LOCAL ROAD LASTOFCITY = CITY LOCATION OF STATION SEGMENT LASTOFROAD = PHYSICAL LOCATION OF STATION SEGMENT LASTOFSEGMENT = LIMITS OF STATION SEGMENT AADTYR = AVERAGE COUNTS OF VEHICLES OVER 24 HOUR PERIOD YR = YEAR COUNTS WERE COLLECTED ONMAP = STATUS OF COUNT DISPLAY N = COUNT NOT DISPLAYED ON MAP</eadetcit>
+        </overview>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                    <cntper>Erica Tefft</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1 Greenhouse Road</address>
+                    <city>Kingston</city>
+                    <state>RI</state>
+                    <postal>02881</postal>
+                </cntaddr>
+                <cntvoice>401-874-5054</cntvoice>
+                <cntemail>erica@edc.uri.edu</cntemail>
+                <cntinst>email preferred</cntinst>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Esri shapefile</formname>
+                    <filedec>ZIP</filedec>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://www.rigis.org</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20161115</metd>
+        <metrd>20030826</metrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>RI Department of Administration; Division of Information Technology</cntorg>
+                </cntorgp>
+                <cntpos>RIGIS Coordinator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing</addrtype>
+                    <address>1 Capitol Hill</address>
+                    <city>Providence</city>
+                    <state>Rhode Island</state>
+                    <postal>02908</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>401-222-6483</cntvoice>
+                <cntfax>401-222-6482</cntfax>
+                <cntemail>rigis@admin.ri.gov</cntemail>
+                <hours>8:00 - 3:30</hours>
+                <cntinst>E-mail preferred</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+        <metsi>
+            <metscs>N/A</metscs>
+            <metsc>Unclassified</metsc>
+            <metshd>None</metshd>
+        </metsi>
+    </metainfo>
+</metadata>

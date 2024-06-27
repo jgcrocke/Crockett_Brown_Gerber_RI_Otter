@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20160224</pubdate>
+                <title>RIDOT Roads (2016)</title>
+                <edition>2016</edition>
+                <geoform>vector digital data</geoform>
+                <pubinfo>
+                    <pubplace/>
+                    <publish>Rhode Island Department of Transportation</publish>
+                </pubinfo>
+                <othercit>Suggested bibliographic reference: RIGIS, 2016. Rhode Island Department of Transportation Roads; RIDOTrds16. Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 10 March 2016).</othercit>
+                <onlink>http://services2.arcgis.com/S8zZg9pg23JUEexQ/arcgis/rest/services/RIDOT_Roads_2016/FeatureServer</onlink>
+                <onlink>https://data.rigis.org/TRANS/RIDOTrds16.zip</onlink>
+                <lworkcit>
+                    <citeinfo>
+                        <pubdate>19930101</pubdate>
+                        <title>Rhode Island Geographic Information System (RIGIS) Data Distribution System</title>
+                    </citeinfo>
+                </lworkcit>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Includes road names conflated road names from the current RIGIS &amp;quot;Roads-E911&amp;quot; dataset. 
+This data set was created for, and is maintained by, the Rhode Island Department of Transportation for planning and mapping purposes. 
+This dataset includes all highways, roads, and street center lines paved and unpaved suitable for vehicular traffic in Rhode Island initially digitized from Spring 1997 photography. National Grid (New England Electric System) contracted with Intermap Technologies, Ontario, Canada in creating a Massachusetts, Rhode Island 5000' scale dataset using digital Orthophotography. RIDOT contracted with Intermap Technologies to transform the data from Massachusetts State Plane to Rhode Island State Plane (meters). This was accomplished by rectifying the imagery a second time using control data denominated in Rhode Island State Plane meters The Rhode Island State Plane data was subsequently resampled to feet based on Rhode Island State Plane coordinates in feet. The linear center lines were digitized from 1997 Orthophotos 2' pixel resolution at 5000' scale. Through a contract with MicroDATA GIS, road names were conflated from an E91124k Roads data set. Some arc segments and intersections in the E911roads5k data set were generalized for E911 purposes. IMPORTANT NOTE: This dataset contains existing, proposed, and discontinued roads. Take advantage of the CLASS attribute when extracting those road segments wanted for any given project.</abstract>
+            <purpose>This dataset contains street center lines for all Transportation highways, roads, and streets for the entire state of Rhode Island.</purpose>
+            <supplinf>This dataset includes all highways,roads, and street center lines paved and unpaved suitable for vehicular traffic in Rhode Island initially digitized from Spring 1997 photography. National Grid (New England Electric System) contracted with Intermap Technologies, Ontario, Canada in creating a Massachusetts, Rhode Island 5000' scale dataset using digital Orthophotography. RIDOT contracted with Intermap Technologies to transform the data from Massachusetts State Plane to Rhode Island State Plane (meters). This was accomplished by rectifying the imagery a second time using control data denominated in Rhode Island State Plane meters The Rhode Island State Plane data was subsequently resampled to feet based on Rhode Island State Plane coordinates in feet. The linear center lines were digitized from 1997 Orthophotos 2' pixel resolution at 5000' scale. Through a contract with MicroDATA GIS, road names were conflated from an E91124k Roads data set. Some arc segments and intersections in the E911roads5k data set were generalized for E911 purposes. IMPORTANT NOTE: This dataset contains existing, proposed, and discontinued roads. Take advantage of the CLASS attribute when extracting those road segments wanted for any given project.</supplinf>
+        </descript>
+        <status>
+            <progress>In work</progress>
+            <update>As needed</update>
+        </status>
+        <spdom>
+            <bounding>
+                <westbc>-71.864998</westbc>
+                <eastbc>-71.118173</eastbc>
+                <northbc>42.018848</northbc>
+                <southbc>41.14797</southbc>
+            </bounding>
+        </spdom>
+        <keywords>
+            <theme>
+                <themekt>ISO 19115 Topic Category</themekt>
+                <themekey>transportation</themekey>
+            </theme>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>roads</themekey>
+                <themekey>transportation</themekey>
+                <themekey>infrastructure</themekey>
+                <themekey>RIDOT road center lines from 1:5000' orthophotos.</themekey>
+                <themekey>streets</themekey>
+            </theme>
+            <place>
+                <placekt>None</placekt>
+                <placekey>Rhode Island</placekey>
+                <placekey>Statewide</placekey>
+            </place>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>These data are shared under the RIGIS license agreement, which can be viewed below: This
+ dataset is provided 'as is.’ The producer(s) of this dataset, 
+contributors to this dataset, the Rhode Island Geographic Information 
+System (RIGIS) consortium, the State of Rhode Island, and the University
+ of Rhode Island do not make any warranties of any kind for this 
+dataset, and are not liable for any loss or damage however and whenever 
+caused by any use of this dataset.Please acknowledge both RIGIS 
+and the primary producer(s) of this dataset in any derived products.  
+Versions of the RIGIS logo suitable for both printed and web-based 
+products are available at http://www.rigis.org/logos.Additional access and use constraints imposed by the data originator:This dataset is provided for reference only. These data were created for
+ informational, planning and guidance use only. They are a general 
+reference, not a legally authoritative source for the location of 
+natural or manmade features. Proper interpretation of these data may 
+requre the assistance of appropriate professional services. The 
+cartographic representations depicted have not been verified by a RI 
+Registered Professional Land Surveyor and are not intended to be used in
+ place of a survey. The producer makes no warranty, express or implied, 
+related to the accuracy, reliability, completeness, or currentness of 
+these data.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Rhode Island Department of Transportation, MIS Section</cntorg>
+                    <cntper>Stephen Kut</cntper>
+                </cntorgp>
+                <cntpos>Asset Information Systems Manager</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>Two Capitol Hill</address>
+                    <address>MIS Section</address>
+                    <city>Providence</city>
+                    <state>Rhode Island</state>
+                    <postal>02903</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>401-222-6935 x.4485</cntvoice>
+                <cntfax>401-222-4403</cntfax>
+                <cntemail>stephen.kut@dot.ri.gov</cntemail>
+                <cntinst>email preferred</cntinst>
+            </cntinfo>
+        </ptcontac>
+        <datacred>URI EDC, RIGIS; RI Dept. of Transportation; National Grid; RI E911. Icon Credit: Sergey Krivoy via The Noun Project</datacred>
+        <native>Esri ArcGIS 10.4.1.5686</native>
+        <crossref>
+            <citeinfo>
+                <pubdate>20030801</pubdate>
+                <title>Ridotrds</title>
+            </citeinfo>
+        </crossref>
+    </idinfo>
+    <dataqual>
+        <attracc>
+            <attraccr>Proof plots were generated by Intermap Technologies. National Grid staff verified center line accuracy and attribute errors. Corrections made by Intermap Technologies were spot checked by National Grid staff. All line work was checked by National Grid staff using road center lines on orthophotos. Attributes for subsequent updates are checked by RIDOT through internal business processes, annual reporting, measurements, and verified against source information.</attraccr>
+        </attracc>
+        <logic>None performed.</logic>
+        <complete>None performed. State-managed roads are considered to be up-to-date as of February 2016. Local road updates are obtained from Rhode Island E911 when possible, but may not represent current conditions in individual municipalities. Municipal partners are encouraged to contact RI E911 with any changes.</complete>
+        <lineage>
+            <srcinfo>
+                <srccite>
+                    <citeinfo>
+                        <pubdate>20160226</pubdate>
+                        <title>Ridotrds</title>
+                    </citeinfo>
+                </srccite>
+                <srcscale>5000</srcscale>
+                <typesrc>CD-ROM</typesrc>
+                <srccitea>Ridotrds</srccitea>
+                <srccontr>Photographs were used for base of map.</srccontr>
+            </srcinfo>
+            <procstep>
+                <procdesc>7-15-02 - removed and added arcs from town of Glocester, Exeter, and Tiverton based on glrds02a edit updates from glrds02a.shp 2-13-02. 8-00-02 - removed and added arcs from town of Glocester, Exeter, and Tiverton based on rds6_30_02 edit updates from rds6_30_02.shp. 5-27-03 - Updated E911 local roads database with latest Roads layer delivered 4_13_03 by MicroData. 5-27-03 - Updated South Kingstown using town of South Kingstown roads layer provided by South Kingstown GIS department. Updated State, Town, and Private roads. South Kingstown had no attribute updates as of this writing, (8-8-03). Attribute additions will be entered as received. 5-20-08 - Addition of Federal Military Roads in North Smithfield and East Greenwich Class = 92. 5-27-08 - Removed HISS Routes 491910 and 491120 involving removal of old exit 3 east bound connecting new exit 2 on Iway east. 5-27-08 - Removal of old Gano St. exit 3 centerline 5-27-08 - Realigned India St 5-27-08 - Removed Friendship St on ramp connecting to I-195 East 5-27-08 - Removed Hiis-id #497810 Friendship St on ramp connecting to I-195 East 5-29-08 - North Exit 20 (the old I-195 East exit was closed permanantly. Hiis-ID 491210 was removed along with Exit 20. The Exit linework remains under new CLASS Attribute 96 for 'Discontinued Road' 9-01-08 - Completed all local road updates from E911 Roads Layer delivered 7-01-08. This delivery completes the 39 cities and towns. 1-10-09 - Rte 403 realignment completed 6-01-09 - Additional Classifications added to JURIS and CLASS. 6-19-09 - Represents latest I-195 and Iway updates to this date. Reminder that CLASS = 83 represents 'Proposed' future roadwork and CLASS = 96 represents 'Discontinued Road' relating to these projects 3-01-10 - I-195 realignment representation complete.</procdesc>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>RIDOT (Rhode Island Department of Transportation) MIS Section</cntorg>
+                            <cntper>Stephen Kut</cntper>
+                        </cntorgp>
+                        <cntpos>Database Administrator</cntpos>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>Two Capitol Hill</address>
+                            <address>MIS Section</address>
+                            <city>Providence</city>
+                            <state>Rhode Island</state>
+                            <postal>02903</postal>
+                            <country>US</country>
+                        </cntaddr>
+                        <cntvoice>401-222-6935 x.4485</cntvoice>
+                        <cntfax>401-222-4403</cntfax>
+                        <cntemail>stephen.kut@dot.ri.gov</cntemail>
+                        <cntinst>email preferred</cntinst>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+            <procstep>
+                <procdesc>Data submitted to RIGIS by RI Department of Transportation. Minor metadata formatting and updates completed prior to redistribution via RIGIS.</procdesc>
+                <procdate>20160310</procdate>
+                <proccont>
+                    <cntinfo>
+                        <cntorgp>
+                            <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                            <cntper>Erica Tefft</cntper>
+                        </cntorgp>
+                        <cntaddr>
+                            <addrtype>mailing and physical</addrtype>
+                            <address>1 Greenhouse Road</address>
+                            <city>Kingston</city>
+                            <state>RI</state>
+                            <postal>02881</postal>
+                        </cntaddr>
+                        <cntvoice>401-874-5054</cntvoice>
+                        <cntemail>erica@edc.uri.edu</cntemail>
+                        <cntinst>email preferred</cntinst>
+                    </cntinfo>
+                </proccont>
+            </procstep>
+        </lineage>
+    </dataqual>
+    <spdoinfo>
+        <direct>Vector</direct>
+        <ptvctinf>
+            <sdtsterm>
+                <sdtstype>String</sdtstype>
+                <ptvctcnt>71384</ptvctcnt>
+            </sdtsterm>
+        </ptvctinf>
+    </spdoinfo>
+    <eainfo>
+        <detailed>
+            <enttyp>
+                <enttypl>TRANS_Roads_RIDOT</enttypl>
+                <enttypd>Feature attribute table</enttypd>
+                <enttypds>Software defaults plus user defined items.</enttypds>
+            </enttyp>
+            <attr>
+                <attrlabl>RTWN</attrlabl>
+                <attrdef>Right town/village name from Emergency Service Zone (ESZ) data layer.</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>free text</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NHS</attrlabl>
+                <attrdef>National Highway System (NHS) Class</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>0</edomv>
+                                                						
+                        
+                        <edomvd>Other Roads (Not on NHS)</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Department of Transportation</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LTWN</attrlabl>
+                <attrdef>Left town/village name from Emergency Service Zone (ESZ) data layer.</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>free text</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>LANES</attrlabl>
+                <attrdef>NUMBER OF STATE HIGHWAY LANES (COMPLETED STATE HIGHWAYS ONLY)</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>1</edomv>
+                                                						
+                        
+                        <edomvd>ONE LANE</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Department of Transportation</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>NAME</attrlabl>
+                <attrdef>Name of road</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>free text</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Length</attrlabl>
+                <attrdef>Length of feature in internal units.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Positive real numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>ROADCLASS</attrlabl>
+                <attrdef>General road classification for symbolizing road base level of service</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>3</edomv>
+                                                						
+                        
+                        <edomvd>Arterial and Collectors</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Department of Transportation</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>F_SYSTEM</attrlabl>
+                <attrdef>FHWA Approved Functional Classification</attrdef>
+                <attrdefs>RIDOT</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>7</edomv>
+                                                						
+                        
+                        <edomvd>Local</edomvd>
+                                                						
+                        
+                        <edomvds>FHWA</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>DIVISION</attrlabl>
+                <attrdef>RI DEPT. OF TRANSPORTATION MAINTENANCE DIVISIONS</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>free text</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>MCODE</attrlabl>
+                <attrdef>MUNICIPAL TOWN CODE</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>36</edomv>
+                                                						
+                        
+                        <edomvd>Westerly</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Statewide Planning Program</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>CLASS</attrlabl>
+                <attrdef>(County Class) Ownership and Maintenance Jurisdiction</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>59</edomv>
+                                                						
+                        
+                        <edomvd>Interstate Hwy Other</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Department of Transportation</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>OBJECTID</attrlabl>
+                <attrdef>Internal feature number.</attrdef>
+                <attrdefs>Esri</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Sequential unique whole numbers that are automatically generated.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SHAPE</attrlabl>
+                <attrdef>Feature geometry.</attrdef>
+                <attrdefs>ESRI</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>Coordinates defining the features.</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>JURIS</attrlabl>
+                <attrdef>Code that designates whether a given road is maintained by the Rhode Island Department of Transportation, or otherwise.</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>6</edomv>
+                                                						
+                        
+                        <edomvd>FEDERAL</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Department of Transportation</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Urban_Code</attrlabl>
+                <attrdef>US Cencus Code for Urbanized areas</attrdef>
+                <attrdefs>US Census</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>09271</edomv>
+                                                						
+                        
+                        <edomvd>Boston, MA - NH - RI</edomvd>
+                                                						
+                        
+                        <edomvds>US Cencus</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SURFACE</attrlabl>
+                <attrdef>Description of the surface material and/or condition.</attrdef>
+                <attrdefs>RIGIS</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>5</edomv>
+                                                						
+                        
+                        <edomvd>UNIMPROVED/PRIMITIVE</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Department of Transportation</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>RTNO</attrlabl>
+                <attrdef>Primary route number. The RTNO route number corresponds to the official number on the RIDOT highway maps. Whole numbers are automatically generated.</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>free text</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>COUNTY</attrlabl>
+                <attrdef>Rhode Island county where road segment is located.</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>free text</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>SCENIC</attrlabl>
+                <attrdef>State Designated Scenic Highways</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <edom>
+                                                						
+                        
+                        <edomv>8</edomv>
+                                                						
+                        
+                        <edomvd>ROUTE 1 CHARLESTOWN</edomvd>
+                                                						
+                        
+                        <edomvds>Rhode Island Department of Transportation</edomvds>
+                                                					
+                    
+                    </edom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+            <attr>
+                <attrlabl>Shape_Leng</attrlabl>
+            </attr>
+            <attr>
+                <attrlabl>ROADTYPE</attrlabl>
+                <attrdef>Used for symbolizing route shields within a Geographic Information System.</attrdef>
+                <attrdefs>Rhode Island Department of Transportation</attrdefs>
+                <attrdomv>
+                                        					
+                    
+                    <udom>free text</udom>
+                                        				
+                
+                </attrdomv>
+            </attr>
+        </detailed>
+    </eainfo>
+    <distinfo>
+        <distrib>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>University of Rhode Island Environmental Data Center</cntorg>
+                    <cntper>Erica Tefft</cntper>
+                </cntorgp>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>1 Greenhouse Road</address>
+                    <city>Kingston</city>
+                    <state>RI</state>
+                    <postal>02881</postal>
+                </cntaddr>
+                <cntvoice>401-874-5054</cntvoice>
+                <cntemail>erica@edc.uri.edu</cntemail>
+                <cntinst>email preferred</cntinst>
+            </cntinfo>
+        </distrib>
+        <distliab>See access and use constraints information.</distliab>
+        <stdorder>
+            <digform>
+                <digtinfo>
+                    <formname>Esri shapefile</formname>
+                    <filedec>ZIP</filedec>
+                </digtinfo>
+                <digtopt>
+                    <onlinopt>
+                        <computer>
+                            <networka>
+                                <networkr>http://www.rigis.org</networkr>
+                            </networka>
+                        </computer>
+                    </onlinopt>
+                </digtopt>
+            </digform>
+            <fees>No fee for downloading directly from the RIGIS Data Distribution System located at http://www.edc.uri.edu/rigis.</fees>
+        </stdorder>
+    </distinfo>
+    <metainfo>
+        <metd>20161115</metd>
+        <metrd>20160310</metrd>
+        <metfrd>20160901</metfrd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>Rhode Island Department of Transportation, MIS Section</cntorg>
+                    <cntper>Stephen Kut</cntper>
+                </cntorgp>
+                <cntpos>Database Administrator</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>MIS Section</address>
+                    <address>Two Capitol Hill</address>
+                    <city>Providence</city>
+                    <state>Rhode Island</state>
+                    <postal>02903</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>401-222-6935 x.4485</cntvoice>
+                <cntfax>401-222-4403</cntfax>
+                <cntemail>stephen.kut@dot.ri.gov</cntemail>
+                <cntinst>email preferred</cntinst>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>

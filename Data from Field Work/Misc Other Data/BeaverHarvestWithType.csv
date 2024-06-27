@@ -1,0 +1,2265 @@
+Pelt tag #,Date of harvest,Sex,Weight (lbs),Location/waterbody,Town,Watershed,HarvestType
+159,12/15/1997,unk,43,Pawcatuck River,Westerly,Pawcatuck,Public
+160,12/14/1997,unk,26,Pawcatuck River,Westerly,Pawcatuck,Public
+161,12/16/1997,M,59,Wood River,Hopkinton,Pawcatuck,Public
+162,12/18/1997,M,39,Mount Tom Marsh,Exeter,Pawcatuck,Public
+163,12/18/1997,F,31,Mount Tom Marsh,Exeter,Pawcatuck,Public
+164,12/18/1997,M,49,Wood River,Hopkinton,Pawcatuck,Public
+165,12/18/1997,M,39,Wood River,Hopkinton,Pawcatuck,Public
+166,12/18/1997,F,32,Wood River,Hopkinton,Pawcatuck,Public
+167,12/18/1997,F,31,Wood River,Hopkinton,Pawcatuck,Public
+168,12/9/1997,unk,37,Hudson Pond,West Greenwich,Pawcatuck,Public
+169,12/9/1997,unk,39,Bradley Pond,West Greenwich,Pawcatuck,Public
+170,12/11/1997,unk,35,Bradley Pond,West Greenwich,Pawcatuck,Public
+171,12/14/1997,unk,35,Hudson Pond,West Greenwich,Pawcatuck,Public
+172,12/15/1997,unk,40,Hudson Pond,West Greenwich,Pawcatuck,Public
+173,12/26/1997,M,58,Newton Swamp,Westerly,Pawcatuck,Public
+174,12/30/1997,F,43,Newton Swamp,Westerly,Pawcatuck,Public
+175,12/28/1997,unk,41,Carbuncle Pond,Coventry,Quinebaug,Public
+176,12/28/1997,unk,40,Carbuncle Pond,Coventry,Quinebaug,Public
+177,12/28/1997,unk,28,Carbuncle Pond,Coventry,Quinebaug,Public
+178,1/7/1998,unk,17,Newton Swamp,Westerly,Pawcatuck,Public
+179,1/7/1998,unk,22,Newton Swamp,Westerly,Pawcatuck,Public
+180,1/24/1998,unk,22,Pawcatuck River,Westerly,Pawcatuck,Public
+181,1/25/1998,unk,36,Pawcatuck River,Westerly,Pawcatuck,Public
+182,1/26/1998,M,28,Moosup River,Coventry,Quinebaug,Public
+183,1/8/1998,M,34,Carbuncle Pond,Coventry,Quinebaug,Public
+184,1/7/1998,M,49,Moosup River,Coventry,Quinebaug,Public
+185,1/16/1998,M,33,Moosup River,Coventry,Quinebaug,Public
+186,1/16/1998,M,38,Moosup River,Coventry,Quinebaug,Public
+187,1/16/1998,unk,33,Roaring Brook,Coventry,Quinebaug,Public
+188,1/17/1998,M,41,Moosup River,Foster,Quinebaug,Public
+189,1/17/1998,F,36,Roaring Brook,Coventry,Quinebaug,Public
+190,1/26/1998,unk,36,Roaring Brook,Coventry,Quinebaug,Public
+191,1/26/1998,unk,35,Roaring Brook,Coventry,Quinebaug,Public
+192,1/17/1998,unk,16,Moosup River,Coventry,Quinebaug,Public
+193,1/17/1998,unk,15,Roaring Brook,Coventry,Quinebaug,Public
+194,1/17/1998,unk,12,Roaring Brook,Coventry,Quinebaug,Public
+195,1/30/1998,M,22,Canob Pond,Richmond,Pawcatuck,Public
+196,1/30/1998,F,22,Canob Pond,Richmond,Pawcatuck,Public
+197,1/30/1998,M,50,New London Turnpike,Richmond,Pawcatuck,Public
+198,1/30/1998,F,22,Breakheart Pond,West Greenwich,Pawcatuck,Public
+199,1/30/1998,M,26,New London Turnpike,Richmond,Pawcatuck,Public
+200,1/30/1998,M,40,New London Turnpike,Richmond,Pawcatuck,Public
+201,1/30/1998,unk,20,Canob Pond,Richmond,Pawcatuck,Public
+202,1/30/1998,M,16,Wood River,Hopkinton,Pawcatuck,Public
+203,1/30/1998,F,33,Breakheart Pond,West Greenwich,Pawcatuck,Public
+204,1/30/1998,M,18,Breakheart Pond,West Greenwich,Pawcatuck,Public
+205,1/30/1998,M,31,New London Turnpike,Richmond,Pawcatuck,Public
+206,1/30/1998,unk,14,Wood River,Hopkinton,Pawcatuck,Public
+207,1/30/1998,unk,12,Wood River,Hopkinton,Pawcatuck,Public
+208,1/30/1998,unk,13,Wood River,Hopkinton,Pawcatuck,Public
+209,1/30/1998,F,22,Wood River,Hopkinton,Pawcatuck,Public
+210,1/30/1998,M,18,Wood River,Hopkinton,Pawcatuck,Public
+211,1/30/1998,F,60,Canob Pond,Richmond,Pawcatuck,Public
+212,1/30/1998,M,59,New London Turnpike,Richmond,Pawcatuck,Public
+213,1/30/1998,F,22,New London Turnpike,Richmond,Pawcatuck,Public
+214,1/30/1998,M,47,Wood River,Hopkinton,Pawcatuck,Public
+215,1/30/1998,F,44,New London Turnpike,Richmond,Pawcatuck,Public
+216,1/30/1998,M,17,Wood River,Hopkinton,Pawcatuck,Public
+217,1/30/1998,M,14,Wood River,Hopkinton,Pawcatuck,Public
+295,12/6/1999,F,12,George Wash Mgt Area impoundment,Burrillville,Blackstone,Public
+296,12/6/1999,F,28,Durfee Hill Mgt Area impoundment,Glocester,Quinebaug,Public
+297,12/12/1999,F,28,Durfee Hill Mgt Area impoundment,Glocester,Quinebaug,Public
+298,12/12/1999,F,12,George Wash Mgt Area impoundment,Burrillville,Quinebaug,Public
+299,12/12/1999,M,17,Clear River at E. Wallum Lake Rd.,Burrillville,Blackstone,Public
+300,12/13/1999,F,31,"Nicholas Farm Mgt Area, Roaring Brook",Coventry,Quinebaug,Public
+301,12/13/1999,M,45,"Nicholas Farm Mgt Area, Roaring Brook",Coventry,Quinebaug,Public
+302,12/13/1999,M,41,"Arcadia Mgt Area, Browning Mill Pond",Exeter,Pawcatuck,Public
+303,12/13/1999,F,21,"Arcadia Mgt Area, Browning Mill Pond",Exeter,Pawcatuck,Public
+304,12/13/1999,M,40,"Arcadia Mgt Area, Browning Mill Pond",Exeter,Pawcatuck,Public
+305,12/13/1999,M,40,Clear River at E. Wallum Lake Rd.,Burrillville,Blackstone,Public
+306,12/14/1999,F,37,"Dolly Cole Brook, at Cranston F&G Club",Foster,Pawtuxet,Public
+307,12/14/1999,U,26,"Dolly Cole Brook, at Cranston F&G Club",Foster,Pawtuxet,Public
+308,12/7/1999,M,36,"Newton's Marsh, at Rt 91",Westerly,Pawcatuck,Public
+309,12/17/1999,M,40,"#5 Walker Road, trib of West Meadow Brook",Foster,Quinebaug,Public
+310,12/17/1999,F,35,"#5 Walker Road, trib of West Meadow Brook",Foster,Quinebaug,Public
+311,12/20/1999,U,17,"#5 Walker Road, trib of West Meadow Brook",Foster,Quinebaug,Public
+312,12/20/1999,M,55,Queens Fort Brook at Route 102,Exeter,Pawcatuck,Public
+313,12/20/1999,M,47,Queens Fort Brook at Route 102,Exeter,Pawcatuck,Public
+314,12/20/1999,F,35,Queens Fort Brook at Route 102,Exeter,Pawcatuck,Public
+315,12/20/1999,M,28,Beaver River at Dawley Road,Richmond,Pawcatuck,Public
+316,12/20/1999,M,45,Beaver River at Dawley Road,Richmond,Pawcatuck,Public
+317,12/21/1999,F,38,Queens Fort Brook at Route 102,Exeter,Pawcatuck,Public
+318,12/30/1999,M,36,Beaver River at Dawley Road,Richmond,Pawcatuck,Public
+319,12/30/1999,F,32,Beaver River at Dawley Road,Richmond,Pawcatuck,Public
+320,12/30/1999,M,46,Beaver River at Dawley Road,Richmond,Pawcatuck,Public
+321,12/31/1999,M,56,Hemlock Brook at Central Pike,Foster,Pawtuxet,Public
+322,12/31/1999,F,35,Hemlock Brook at Central Pike,Foster,Pawtuxet,Public
+323,12/31/1999,F,38,Hemlock Brook at Central Pike,Foster,Pawtuxet,Public
+324,12/31/1999,F,35,Hemlock Brook at Central Pike,Foster,Pawtuxet,Public
+325,1/10/2000,F,30,"Newton's Marsh, at Rt 91",Westerly,Pawcatuck,Public
+326,1/11/2000,F,60,"Newton's Marsh, at Rt 91",Westerly,Pawcatuck,Public
+327,1/13/2000,F,22,"Newton's Marsh, at Rt 91",Westerly,Pawcatuck,Public
+328,1/14/2000,M,35,"New London Tpk, trib of Beaver River",Richmond,Pawcatuck,Public
+329,1/14/2000,F,38,"New London Tpk, trib of Beaver River",Richmond,Pawcatuck,Public
+330,1/28/2000,F,20,"Newton's Marsh, at Rt 91",Westerly,Pawcatuck,Public
+331,1/28/2000,M,34,"Newton's Marsh, at Rt 91",Westerly,Pawcatuck,Public
+332,1/28/2000,F,38,"Newton's Marsh, at Rt 91",Westerly,Pawcatuck,Public
+333,1/8/2000,F,46,Wood River,Hopkinton,Pawcatuck,Public
+334,1/4/2000,F,28,"Arcadia Mgt Area, Flat River",Exeter,Pawcatuck,Public
+335,1/4/2000,F,28,"Arcadia Mgt Area, Flat River",Exeter,Pawcatuck,Public
+336,1/3/2000,M,31,"Mount Tom Marsh, MTC",Exeter,Pawcatuck,Public
+337,1/14/2000,M,12,"Carolina Mgt Area, Kenyon Trail",Richmond,Pawcatuck,Public
+338,1/14/2000,M,12,"Carolina Mgt Area, Kenyon Trail",Richmond,Pawcatuck,Public
+339,1/3/2000,U,42,West Meadow Brook,Foster,Quinebaug,Public
+340,1/3/2000,U,36,West Meadow Brook,Foster,Quinebaug,Public
+341,1/15/2000,U,33,West Meadow Brook,Foster,Quinebaug,Public
+342,1/15/2000,U,40,Bucks Horn Brook at Cahoone Road,Coventry,Quinebaug,Public
+343,1/16/2000,U,43,West Meadow Brook,Foster,Quinebaug,Public
+344,1/23/2000,U,20,"Gold Mine Road, unnamed beaver pond",Foster,Quinebaug,Public
+345,1/23/2000,U,24,"Gold Mine Road, unnamed beaver pond",Foster,Quinebaug,Public
+346,2/5/2000,F,38,"Carolina Mgt Area, Pawcatuck River",Richmond,Pawcatuck,Public
+347,2/12/2000,F,36,"Carolina Mgt Area, Pawcatuck River",Richmond,Pawcatuck,Public
+348,2/17/2000,U,43,"Dolly Cole Brook, at Cranston F&G Club",Foster,Pawtuxet,Public
+349,2/17/2000,U,17,"Dolly Cole Brook, at Cranston F&G Club",Foster,Pawtuxet,Public
+350,2/18/2000,U,14,"Dolly Cole Brook, at Cranston F&G Club",Foster,Pawtuxet,Public
+351,2/18/2000,U,37,"Dolly Cole Brook, at Cranston F&G Club",Foster,Pawtuxet,Public
+352,2/20/2000,F,51,unnamed tributary of Carbuncle Pond,Coventry,Quinebaug,Public
+353,2/20/2000,M,24,unnamed tributary of Carbuncle Pond,Coventry,Quinebaug,Public
+354,12/22/1999,M,18,Betty Pond,Scituate,Pawtuxet,Public
+355,2/23/2000,F,36,Trout Brook,North Smithfield,Blackstone,Public
+356,2/24/2000,M,33,Trout Brook,North Smithfield,Blackstone,Public
+357,2/24/2000,M,37,Trout Brook,North Smithfield,Blackstone,Public
+358,12/29/1999,M,38,Ponagansett River at Fishing Area,Foster,Pawtuxet,Public
+359,1/1/2000,M,48,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+360,2/14/2000,F,10,Ponagansett River at Fishing Area,Foster,Pawtuxet,Public
+366,10/1/2000,M,46,Carbuncle Brook,Coventry,Quinebaug,Public
+367,10/1/2000,M,50,Carbuncle Brook,Coventry,Quinebaug,Public
+368,10/1/2000,F,30,Carbuncle Brook,Coventry,Quinebaug,Public
+369,10/10/2000,F,22,Carbuncle Brook,Coventry,Quinebaug,Public
+370,10/10/2000,M,12,Carbuncle Brook,Coventry,Quinebaug,Public
+371,11/20/2000,F,14,Newtons Marsh,Westerly,Pawcatuck,Public
+372,12/3/2000,M,35,Chipuxet Brook,Exeter,Pawcatuck,Public
+373,12/5/2000,F,28,Chipuxet Brook,Exeter,Pawcatuck,Public
+374,12/5/2000,F,55,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+375,12/5/2000,M,17,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+376,12/5/2000,F,28,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+377,12/5/2000,M,44,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+378,12/5/2000,F,14,Ponagansett River,Foster,Pawtuxet,Public
+379,12/5/2000,F,32,Ponagansett River,Foster,Pawtuxet,Public
+380,12/5/2000,M,15,Ponagansett River,Foster,Pawtuxet,Public
+381,12/1/2000,M,18,Big River,West Greenwich,Pawtuxet,Public
+382,12/1/2000,M,44,Big River,West Greenwich,Pawtuxet,Public
+383,12/1/2000,F,31,Browning Mill Pond,Exeter,Pawcatuck,Public
+384,12/1/2000,M,49,Big River,West Greenwich,Pawtuxet,Public
+385,12/1/2000,M,52,Big River,West Greenwich,Pawtuxet,Public
+386,12/1/2000,M,48,Beaver River at Dawley Park,Richmond,Pawcatuck,Public
+387,12/1/2000,M,38,Big River,West Greenwich,Pawtuxet,Public
+388,12/1/2000,M,34,Big River,West Greenwich,Pawtuxet,Public
+389,12/1/2000,F,14,Moosup River,Coventry,Quinebaug,Public
+390,12/1/2000,F,24,Browning Mill Pond,Exeter,Pawcatuck,Public
+391,12/1/2000,M,50,Crow Brook,Coventry,Quinebaug,Public
+392,12/1/2000,F,32,Pawtuxet River,Scituate,Pawtuxet,Public
+393,12/1/2000,M,55,Nooseneck River,West Greenwich,Pawtuxet,Public
+394,12/9/2000,M,44,West Meadow Brook,Foster,Quinebaug,Public
+395,12/11/2000,F,38,West Meadow Brook,Foster,Quinebaug,Public
+396,12/13/2000,M,23,West Meadow Brook,Foster,Quinebaug,Public
+397,12/16/2000,M,34,Tomaquag Brook,Westerly,Pawcatuck,Public
+398,12/17/2000,F,30,Tomaquag Brook,Westerly,Pawcatuck,Public
+399,12/17/2000,M,40,Pawcatuck River,Richmond,Pawcatuck,Public
+400,12/18/2000,F,45,Pawcatuck River,Richmond,Pawcatuck,Public
+401,12/19/2000,F,55,Chipuxet Brook,South Kingstown,Pawcatuck,Public
+402,12/17/2000,M,28,Chapman's Swamp,Westerly,Pawcatuck,Public
+403,12/17/2000,M,25,Chapman's Swamp,Westerly,Pawcatuck,Public
+404,12/24/2000,F,38,Chapman's Swamp,Westerly,Pawcatuck,Public
+405,1/3/2001,F,35,Barden Resevoir,Foster,Pawtuxet,Public
+406,1/1/2001,M,25,Barden Resevoir,Foster,Pawtuxet,Public
+407,1/2/2001,M,13,Barden Resevoir,Foster,Pawtuxet,Public
+408,1/1/2001,F,10,Barden Resevoir,Foster,Pawtuxet,Public
+409,12/24/2000,M,12,Chepachet River,Glocester,Blackstone,Public
+410,12/4/2000,M,34,Potterville Brook,Scituate,Pawtuxet,Public
+411,12/4/2000,M,46,Potterville Brook,Scituate,Pawtuxet,Public
+412,12/8/2000,M,28,unknown,West Greenwich,unknown,Public
+413,12/6/2000,F,30,unknown,West Greenwich,unknown,Public
+414,12/10/2000,M,50,unknown,West Greenwich,unknown,Public
+415,12/24/2000,M,37,unknown,West Greenwich,unknown,Public
+416,12/25/2000,F,30,unknown,West Greenwich,unknown,Public
+417,12/27/2000,M,49,unknown,West Greenwich,unknown,Public
+418,12/22/2000,M,37,West Meadow Brook,Foster,Quinebaug,Public
+419,12/30/2000,F,30,Kelley Brook,West Greenwich,Pawcatuck,Public
+420,12/30/2000,M,26,Kelley Brook,West Greenwich,Pawcatuck,Public
+421,1/1/2001,F,35,West Meadow Brook,Foster,Quinebaug,Public
+422,3/28/2001,M,33,Shady Oak Brook,Glocester,Quinebaug,Nuisance
+423,3/31/2001,F,13,Shady Oak Brook,Glocester,Quinebaug,Nuisance
+424,4/2/2001,M,25,Shady Oak Brook,Glocester,Quinebaug,Nuisance
+425,4/3/2001,M,35,Shady Oak Brook,Glocester,Quinebaug,Nuisance
+426,4/3/2001,F,31,Shady Oak Brook,Glocester,Quinebaug,Nuisance
+427,4/4/2001,M,28,Shady Oak Brook,Glocester,Quinebaug,Nuisance
+428,3/31/2001,M,48,Paine Brook,Foster,Pawtuxet,Nuisance
+429,3/31/2001,F,36,Paine Brook,Foster,Pawtuxet,Nuisance
+430,4/1/2001,F,34,Paine Brook,Foster,Pawtuxet,Nuisance
+431,4/1/2001,M,18,Paine Brook,Foster,Pawtuxet,Nuisance
+432,4/8/2001,M,41,Paine Brook,Foster,Pawtuxet,Nuisance
+433,4/8/2001,F,28,Paine Brook,Foster,Pawtuxet,Nuisance
+434,4/9/2001,M,30,Paine Brook,Foster,Pawtuxet,Nuisance
+435,4/9/2001,M,36,Paine Brook,Foster,Pawtuxet,Nuisance
+436,12/3/2001,unk,16,Chipuxet River at Wolf Rocks Rd.,Exeter,Pawcatuck,Public
+437,12/3/2001,unk,24,Chipuxet River at Wolf Rocks Rd.,Exeter,Pawcatuck,Public
+438,12/3/2001,M,42,Chipuxet River at Wolf Rocks Rd.,Exeter,Pawcatuck,Public
+439,12/3/2001,M,16,Tomaquag Brook (Morrone),Hopkinton,Pawcatuck,Public
+440,12/4/2001,F,37,Tomaquag Brook (Morrone),Hopkinton,Pawcatuck,Public
+441,12/5/2001,F,13,Chipuxet River at Wolf Rocks Rd.,Exeter,Pawcatuck,Public
+442,12/2/2001,M,33,Douglas Hook Rd. Pond,Glocester,Blackstone,Public
+443,12/3/2001,M,37,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+444,12/4/2001,F,16,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+445,12/4/2001,M,49,Scituate Resevoir (off Elmdale Rd.),Scituate,Pawtuxet,Public
+446,12/17/2001,F,15,Scituate Resevoir (off Elmdale Rd.),Scituate,Pawtuxet,Public
+447,12/10/2001,M,18,Scituate Resevoir (off Elmdale Rd.),Scituate,Pawtuxet,Public
+448,12/16/2001,F,14,Scituate Resevoir (off Elmdale Rd.),Scituate,Pawtuxet,Public
+449,12/16/2001,F,23,Chepachet River at Chepachet Fire Station,Glocester,Blackstone,Public
+450,12/18/2001,unk,unk,Chepachet River at Chepachet Fire Station,Glocester,Blackstone,Public
+451,12/13/2001,M,30,Kelley Brook,West Greenwich,Pawcatuck,Public
+452,12/14/2001,F,unk,Bear Brook,Coventry,Pawtuxet,Public
+453,12/14/2001,M,unk,Bear Brook,Coventry,Pawtuxet,Public
+454,12/19/2001,M,20,Kelley Brook,West Greenwich,Pawcatuck,Public
+455,12/19/2001,F,40,Buckshorn Brook,Coventry,Quinebaug,Public
+456,12/21/2001,M,42,Buckshorn Brook,Coventry,Quinebaug,Public
+457,12/15/2001,M,38,Wood River at Woodville,Richmond,Pawcatuck,Public
+458,12/26/2001,F,36,Douglas Hook Rd. Pond,Glocester,Blackstone,Public
+459,1/5/2002,M,35,Westconnaug Resevoir at Clayville Baptist Church,Foster,Pawtuxet,Public
+460,1/6/2002,F,26,Westconnaug Resevoir at Clayville Baptist Church,Foster,Pawtuxet,Public
+461,1/5/2002,M,27,Douglas Hook Rd. Pond,Glocester,Blackstone,Public
+462,1/5/2002,F,18,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+463,12/1/2001,F,35,Meadow Brook at Pine Hill Rd.,Richmond,Pawcatuck,Public
+464,12/1/2001,F,10,Meadow Brook at Pine Hill Rd.,Richmond,Pawcatuck,Public
+465,12/1/2001,M,10,Meadow Brook at Pine Hill Rd.,Richmond,Pawcatuck,Public
+466,12/8/2001,F,35,Woody Hill Brook at Mt. Tom Marsh,Exeter,Pawcatuck,Public
+467,12/8/2001,M,34,Woody Hill Brook at Mt. Tom Marsh,Exeter,Pawcatuck,Public
+468,12/14/2001,F,38,Tomaquag Brook (James Farm),Hopkinton,Pawcatuck,Public
+469,12/15/2001,M,40,Tomaquag Brook (James Farm),Hopkinton,Pawcatuck,Public
+470,12/15/2001,M,30,Tomaquag Brook (James Farm),Hopkinton,Pawcatuck,Public
+471,12/15/2001,M,40,Warwick Sportsmen's Club,Exeter,Pawcatuck,Public
+472,12/16/2001,M,20,Warwick Sportsmen's Club,Exeter,Pawcatuck,Public
+473,12/22/2001,F,19,Wood River (Arcadia MA),Exeter,Pawcatuck,Public
+474,12/22/2001,F,19,Wood River (Arcadia MA),Exeter,Pawcatuck,Public
+475,12/22/2001,M,24,Wood River (Arcadia MA),Exeter,Pawcatuck,Public
+476,12/23/2001,M,22,Wood River (Arcadia MA),Exeter,Pawcatuck,Public
+477,12/23/2001,F,19,Wood River (Arcadia MA),Exeter,Pawcatuck,Public
+478,12/23/2001,M,32,Wood River (Arcadia MA),Exeter,Pawcatuck,Public
+479,1/5/2002,M,34,Queen's River (Ericson),Exeter,Pawcatuck,Public
+480,1/12/2002,M,31,Woody Hill Brook (Schnell),Exeter,Pawcatuck,Public
+481,12/2/2001,M,50,Chapman's Pond,Westerly,Pawcatuck,Public
+482,12/2/2001,F,48,Chapman's Pond,Westerly,Pawcatuck,Public
+483,12/3/2001,F,35,Chapman's Pond,Westerly,Pawcatuck,Public
+484,12/3/2001,M,28,Chapman's Pond,Westerly,Pawcatuck,Public
+485,12/3/2001,F,30,Chapman's Pond,Westerly,Pawcatuck,Public
+486,12/3/2001,F,40,Chapman's Pond,Westerly,Pawcatuck,Public
+487,12/4/2001,M,28,Pound Rd Chapman's swamp N,Westerly,Pawcatuck,Public
+488,12/4/2001,F,31,Pound Rd Chapman's swamp N,Westerly,Pawcatuck,Public
+489,12/4/2001,M,28,Pound Rd Chapman's Swamp,Westerly,Pawcatuck,Public
+490,1/16/2002,F,48,Pound Rd Chapman's Swamp ,Westerly,Pawcatuck,Public
+491,1/15/2002,F,33,Pawcatuck River Rt 91,Richmond,Pawcatuck,Public
+492,1/15/2002,M,40,Pawcatuck River Rt 91,Richmond,Pawcatuck,Public
+493,12/31/2001,M,35,Crow Brook,Coventry,Quinebaug,Public
+494,1/1/2002,M,45,Swamp Meadow Brook ,Foster,Pawtuxet,Public
+495,1/2/2002,M,21,Swamp Meadow Brook ,Foster,Pawtuxet,Public
+496,1/6/2002,F,50,Carbuncle Brook,Coventry,Quinebaug,Public
+497,1/6/2002,M,47,Carbuncle Brook,Coventry,Quinebaug,Public
+498,1/7/2002,F,33,Swamp Meadow Brook ,Foster,Pawtuxet,Public
+499,1/20/2002,M,18,Nooseneck River,West Greenwich,Pawtuxet,Public
+500,1/21/2002,F,29,Moosup River,Coventry,Quinebaug,Public
+501,12/12/2001,M,30,Round Top Pond,Burrillville,Blackstone,Public
+502,12/12/2001,M,30,Round Top Pond,Burrillville,Blackstone,Public
+503,12/12/2001,M,48,Round Top Pond,Burrillville,Blackstone,Public
+504,12/12/2001,F,17,Round Top Pond,Burrillville,Blackstone,Public
+505,12/13/2001,F,15,Round Top Pond,Burrillville,Blackstone,Public
+506,12/13/2001,F,30,Round Top Pond,Burrillville,Blackstone,Public
+507,12/13/2001,F,15,Round Top Pond,Burrillville,Blackstone,Public
+508,12/13/2001,M,15,Peck Pond- Pulaski State Park,Burrillville,Quinebaug,Public
+509,12/13/2001,F,15,Peck Pond- Pulaski State Park,Burrillville,Quinebaug,Public
+510,12/14/2001,M,40,Richardson Marsh Geo. Wash M.A,Burrillville,Quinebaug,Public
+511,12/14/2001,F,48,Peck Pond- Pulaski State Park,Burrillville,Quinebaug,Public
+512,12/14/2001,F,15,Peck Pond- Pulaski State Park,Burrillville,Quinebaug,Public
+513,12/15/2001,M,25,Richardson Marsh Geo. Wash M.A,Burrillville,Quinebaug,Public
+514,12/17/2001,M,35,Peck Pond- Pulaski State Park,Burrillville,Quinebaug,Public
+515,12/28/2001,M,50,Harrisville River,Burrillville,Blackstone,Public
+516,12/29/2001,F,35,Harrisville River,Burrillville,Blackstone,Public
+517,12/29/2001,M,50,Clear River P.W.D,Burrillville,Blackstone,Public
+518,12/29/2001,F,48,Clear River P.W.D,Burrillville,Blackstone,Public
+519,12/30/2001,F,15,Harrisville River,Burrillville,Blackstone,Public
+520,12/30/2001,M,35,Clear River P.W.D,Burrillville,Blackstone,Public
+521,12/30/2001,F,33,Clear River P.W.D,Burrillville,Blackstone,Public
+522,12/31/2001,F,33,Harrisville River,Burrillville,Blackstone,Public
+523,12/31/2001,unk,15,Clear River P.W.D,Burrillville,Blackstone,Public
+524,12/31/2001,unk,18,Clear River P.W.D,Burrillville,Blackstone,Public
+525,1/1/2002,unk,15,Clear River P.W.D,Burrillville,Blackstone,Public
+526,1/2/2002,unk,15,Clear River P.W.D,Burrillville,Blackstone,Public
+527,1/3/2002,M,35,Clear River S.T.P.,Burrillville,Blackstone,Public
+528,1/4/2002,unk,15,Clear River S.T.P.,Burrillville,Blackstone,Public
+529,2/1/2002,M,10,Browning Mill Pond,Exeter,Pawcatuck,Public
+530,2/1/2002,F,42,Meadow Brook at Pine Hill Rd.,Richmond,Pawcatuck,Public
+531,2/1/2002,F,41,Wood River at Wyoming Pond,Hopkinton,Pawcatuck,Public
+532,2/1/2002,F,21,Wood River at Wyoming Pond,Hopkinton,Pawcatuck,Public
+533,12/2/2001,unk,25,Dolly Cole Br. At Barden Res.,Foster,Pawtuxet,Public
+534,12/20/2001,unk,30,Dolly Cole Br. At Barden Res.,Foster,Pawtuxet,Public
+535,3/1/2002,M,28,Potterville Brook (Centracchio),Scituate,Pawtuxet,Public
+536,3/1/2002,M,32,Potterville Brook (Centracchio),Scituate,Pawtuxet,Public
+537,3/2/2002,F,34,Potterville Brook (Centracchio),Scituate,Pawtuxet,Public
+538,12/1/2001,F,29,Pawtuxet River,Scituate,Pawtuxet,Public
+539,12/1/2001,F,47,Pawtuxet River,Scituate,Pawtuxet,Public
+540,12/1/2001,M,36,Pawtuxet River,Scituate,Pawtuxet,Public
+541,12/1/2001,M,25,Pawtuxet River,Scituate,Pawtuxet,Public
+542,12/1/2001,M,53,Great Swamp Impoundment,South Kingston,Pawcatuck,Public
+543,12/1/2001,M,29,Great Swamp Impoundment,South Kingston,Pawcatuck,Public
+544,1/1/2002,M,55,Chickasheen Br. (Liberty Ln),South Kingston,Pawcatuck,Public
+545,1/1/2002,F,40,Chickasheen Br. (Liberty Ln),South Kingston,Pawcatuck,Public
+546,1/1/2002,F,43,Chickasheen Br. (Liberty Ln),South Kingston,Pawcatuck,Public
+547,1/1/2002,M,26,Barbers Pond,South Kingston,Pawcatuck,Public
+548,1/1/2002,M,28,Barbers Pond,South Kingston,Pawcatuck,Public
+549,1/1/2002,F,47,Barbers Pond,South Kingston,Pawcatuck,Public
+550,1/1/2002,F,32,Barbers Pond,South Kingston,Pawcatuck,Public
+551,1/1/2002,M,30,Barbers Pond,South Kingston,Pawcatuck,Public
+552,1/1/2002,F,48,Breakheart Br. At Plain Mtg.House,West Greenwich,Pawcatuck,Public
+553,12/1/2001,M,27,Breakheart Br. At Plain Mtg.House,West Greenwich,Pawcatuck,Public
+554,12/1/2001,M,39,Breakheart Br. At Plain Mtg.House,West Greenwich,Pawcatuck,Public
+555,12/1/2001,F,49,Breakheart Br. At Plain Mtg.House,West Greenwich,Pawcatuck,Public
+556,12/1/2001,F,56,Breakheart Br. At Plain Mtg.House,West Greenwich,Pawcatuck,Public
+557,12/1/2001,M,38,Breakheart Br. At Plain Mtg.House,West Greenwich,Pawcatuck,Public
+558,12/1/2001,M,48,Muddy Brook,West Greenwich,Pawcatuck,Public
+559,12/1/2001,F,32,Muddy Brook,West Greenwich,Pawcatuck,Public
+560,12/1/2001,F,38,Muddy Brook,West Greenwich,Pawcatuck,Public
+561,12/1/2001,M,27,Muddy Brook,West Greenwich,Pawcatuck,Public
+562,12/1/2001,M,43,Muddy Brook,West Greenwich,Pawcatuck,Public
+563,2/1/2002,M,54,Gibson Hill Rd.,Coventry,Quinebaug,Public
+564,2/1/2002,M,47,Gibson Hill Rd.,Coventry,Quinebaug,Public
+565,2/1/2002,F,37,Gibson Hill Rd.,Coventry,Quinebaug,Public
+566,2/1/2002,F,40,Gibson Hill Rd.,Coventry,Quinebaug,Public
+567,2/1/2002,M,36,Gibson Hill Rd.,Coventry,Quinebaug,Public
+568,2/1/2002,F,35,Gibson Hill Rd.,Coventry,Quinebaug,Public
+569,2/1/2002,F,35,Hunts River,North Kingston,Hunt,Public
+570,2/1/2002,F,27,Hunts River,North Kingston,Hunt,Public
+571,2/1/2002,F,29,Hunts River,North Kingston,Hunt,Public
+572,2/1/2002,M,24,Hunts River,North Kingston,Hunt,Public
+573,3/1/2002,F,41,Roaring Brook at Rt 165,Exeter,Pawcatuck,Public
+574,3/1/2002,F,46,Roaring Brook at Rt 165,Exeter,Pawcatuck,Public
+575,3/1/2002,M,57,Roaring Brook at Rt 165,Exeter,Pawcatuck,Public
+576,3/1/2002,F,55,Tug Hollow Pond,Richmond,Pawcatuck,Public
+577,3/1/2002,M,26,Tug Hollow Pond,Richmond,Pawcatuck,Public
+578,3/1/2002,F,15,Tug Hollow Pond,Richmond,Pawcatuck,Public
+579,3/1/2002,F,28,Tug Hollow Pond,Richmond,Pawcatuck,Public
+580,3/1/2002,M,41,Tug Hollow Pond,Richmond,Pawcatuck,Public
+581,1/16/2002,M,20,Chickasheen Brook (Liberty Ln),South Kingston,Pawcatuck,Public
+582,1/21/2002,F,22,Chickasheen Brook (Liberty Ln),South Kingston,Pawcatuck,Public
+583,1/27/2002,M,50,"Pound Rd, Chapman's Swamp ",Westerly,Pawcatuck,Public
+584,10/7/2002,F,37,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+585,12/30/2002,F,37,Goldmine Brook,Foster,Quinebaug,Public
+586,12/30/2002,M,36,Goldmine Brook,Foster,Quinebaug,Public
+587,1/1/2003,M,36,West Meadow Brook,Foster,Quinebaug,Public
+588,1/3/2003,F,43,West Meadow Brook,Foster,Quinebaug,Public
+589,3/13/2003,F,38,Wood River,Hopkinton,Pawcatuck,Public
+590,12/2/2002,M,32,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+591,12/2/2002,F,29,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+592,12/8/2002,M,33,Willoughby,Foster,Pawtuxet,Public
+593,12/9/2002,M,30,Willoughby,Foster,Pawtuxet,Public
+594,12/22/2002,M,27,Knibb Rd. (Frye),Burrillville,Blackstone,Public
+595,1/5/2003,M,24,Route 101,Foster,Pawtuxet,Public
+596,1/5/2003,F,33,Route 101,Foster,Pawtuxet,Public
+597,1/9/2003,M,35,Old Plainfield Pike,Foster,Pawtuxet,Public
+598,1/10/2003,F,32,Old Plainfield Pike,Foster,Pawtuxet,Public
+599,3/13/2003,M,38,Yawgoo Pond,South Kingstown,Pawcatuck,Public
+600,11/11/2002,M,15,Chipuxet River at Wolf Rocks Rd.,Exeter,Pawcatuck,Public
+601,11/12/2002,F,13,Chipuxet River at Wolf Rocks Rd.,Exeter,Pawcatuck,Public
+602,11/16/2002,F,24,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+603,11/20/2002,F,14,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+604,11/20/2002,M,11,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+605,11/21/2002,F,14,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+606,11/24/2002,M,48,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+607,12/4/2002,F,40,Dolly Cole Brook,Foster,Pawtuxet,Public
+608,12/10/2002,M,32,Dolly Cole Brook,Foster,Pawtuxet,Public
+609,12/13/2002,F,25,Dolly Cole Brook,Foster,Pawtuxet,Public
+610,1/1/2005,M,30,Dolly Cole Brook,Foster,Pawtuxet,Public
+610,unknown,M,50,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+611,unknown,F,39,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+612,1/2/2005,M,48,Dolly Cole Brook,Foster,Pawtuxet,Public
+612,unknown,M,34,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+613,unknown,M,40,Pawcatuck River,Westerly,Pawcatuck,Public
+614,4/19/2003,unk,32,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+615,4/19/2003,unk,22,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+616,4/20/2003,unk,30,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+617,8/21/2003,M,22,wetland Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+618,11/21/2003,M,35,Morrone,Hopkinton,Pawcatuck,Public
+619,11/21/2003,F,25,Morrone,Hopkinton,Pawcatuck,Public
+620,11/16/2003,M,23,Queen's Fort Brook (Albert),Exeter,Pawcatuck,Public
+621,11/19/2003,unk,45,Carr River (Big River M.A.),West Greenwich,Pawtuxet,Public
+622,12/1/2003,F,15,Big River (Big River M.A.),West Greenwich,Pawtuxet,Public
+623,11/17/2003,M,35,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+624,11/17/2003,F,18,Clear River at Harrisville,Burrillville,Blackstone,Public
+625,11/18/2003,F,40,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+626,11/18/2003,M,50,Clear River at Harrisville,Burrillville,Blackstone,Public
+627,11/19/2003,unk,45,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+628,11/19/2003,unk,15,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+629,11/19/2003,unk,15,Clear River at Harrisville,Burrillville,Blackstone,Public
+630,11/19/2003,unk,15,Clear River at Harrisville,Burrillville,Blackstone,Public
+631,11/20/2003,unk,35,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+632,11/20/2003,unk,40,Richardson Marsh (Geo.Wash. M.A.),Burrillville,Blackstone,Public
+633,11/20/2003,unk,15,Richardson Marsh (Geo.Wash. M.A.),Burrillville,Blackstone,Public
+634,11/21/2003,unk,35,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+635,11/22/2003,unk,40,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+636,11/22/2003,unk,15,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+637,11/22/2003,unk,40,Richardson Marsh (Geo.Wash. M.A.),Burrillville,Blackstone,Public
+638,11/22/2003,unk,40,Richardson Marsh (Geo.Wash. M.A.),Burrillville,Blackstone,Public
+639,11/22/2003,unk,40,Richardson Marsh (Geo.Wash. M.A.),Burrillville,Blackstone,Public
+640,11/22/2003,unk,15,Clear River at Harrisville,Burrillville,Blackstone,Public
+641,11/24/2003,unk,40,Clear River at Harrisville,Burrillville,Blackstone,Public
+642,11/24/2003,unk,15,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+643,11/24/2003,unk,15,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+644,11/26/2003,unk,35,Richardson Marsh (Geo.Wash. M.A.),Burrillville,Blackstone,Public
+645,11/26/2003,unk,40,Round Top Pond (Round Top Fishing Area),Burrillville,Blackstone,Public
+646,11/26/2003,unk,15,Round Top Pond (Round Top Fishing Area),Burrillville,Blackstone,Public
+647,11/28/2003,unk,15,Round Top Pond (Round Top Fishing Area),Burrillville,Blackstone,Public
+648,12/2/2003,unk,15,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+649,12/2/2003,unk,15,Round Top Pond (Round Top Fishing Area),Burrillville,Blackstone,Public
+650,12/7/2003,unk,38,Flat River (Arcadia),Exeter,Pawcatuck,Public
+651,11/27/2003,unk,40,Trout Brook Pond,North Smithfield,Blackstone,Public
+652,11/19/2003,M,23,Queen's Fort Brook (Albert),Exeter,Pawcatuck,Public
+653,11/27/2003,F,10,Chipuxet River at D'Ambra gravel pit,Exeter,Pawcatuck,Public
+654,11/27/2003,F,10,Chipuxet River at D'Ambra gravel pit,Exeter,Pawcatuck,Public
+655,11/27/2003,F,45,Queen's Fort Brook (Albert),Exeter,Pawcatuck,Public
+656,11/29/2003,M,25,Queen's Fort Brook (Albert),Exeter,Pawcatuck,Public
+657,12/14/2003,M,40,Chipuxet River at D'Ambra gravel pit,Exeter,Pawcatuck,Public
+658,12/18/2003,F,37,Chipuxet River at D'Ambra gravel pit,Exeter,Pawcatuck,Public
+659,12/29/2003,F,47,Queen's Fort Brook (Albert),Exeter,Pawcatuck,Public
+660,1/4/2004,unk,u,Chipuxet River at Camp Conanicus,Exeter,Pawcatuck,Public
+661,12/24/2003,M,16,Big River (Big River Mgt. Area),West Greenwich,Pawtuxet,Public
+662,12/28/2003,F,26,Big River (Big River Mgt. Area),West Greenwich,Pawtuxet,Public
+663,12/28/2003,F,12,Big River (Big River Mgt. Area),West Greenwich,Pawtuxet,Public
+664,1/5/2004,M,31,Warwick Sportsmans Club,Exeter,Pawcatuck,Public
+665,1/6/2004,F,29,Warwick Sportsmans Club,Exeter,Pawcatuck,Public
+666,1/12/2004,M,47,Falls River (Arcadia Mgt. Area),Exeter,Pawcatuck,Public
+667,1/16/2004,F,29,Falls River (Arcadia Mgt. Area),Exeter,Pawcatuck,Public
+668,1/16/2004,M,46,Falls River (Arcadia Mgt. Area),Exeter,Pawcatuck,Public
+669,2/3/2004,unk,35,Will Ernie Pond (Wickaboxet Mgt. Area),West Greenwich,Pawcatuck,Public
+670,12/5/2003,F,27,Ponagansett River (Ponagansett Fishing Area),Foster,Pawtuxet,Public
+671,12/12/2003,M,32,Ponagansett River (Ponagansett Fishing Area),Foster,Pawtuxet,Public
+672,12/12/2003,M,25,Ponagansett River (Ponagansett Fishing Area),Foster,Pawtuxet,Public
+673,1/15/2004,M,31,Carbuncle Pond (Nicholas Farm M.A.),Coventry,Quinebaug,Public
+674,12/16/2003,M,45,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+675,12/17/2003,M,20,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+676,12/17/2003,unk,20,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+677,12/17/2003,unk,20,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+678,12/17/2003,unk,20,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+679,12/18/2003,unk,50,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+680,12/19/2003,unk,50,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+681,12/21/2003,unk,45,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+682,12/21/2003,unk,15,Roaring Brook (Nicholas Farm Mgt. Area),Coventry,Quinebaug,Public
+683,12/27/2003,F,40,unknown,Burrillville,Blackstone,Public
+684,12/28/2003,M,51,unknown,Burrillville,Blackstone,Public
+685,12/28/2003,M,51,unknown,Burrillville,Blackstone,Public
+686,1/2/2004,F,45,Black Hut Mgt. Area,Burrillville,Blackstone,Public
+687,1/2/2004,M,50,Black Hut Mgt. Area,Burrillville,Blackstone,Public
+688,11/23/2003,F,32,Nye Marsh,Coventry,Quinebaug,Public
+689,11/26/2003,F,37,Seth Brown Pond,West Greenwich,Quinebaug,Public
+690,12/1/2003,M,36,Nye Marsh,Coventry,Quinebaug,Public
+691,12/30/2003,M,30,Lewis Farm,Coventry,Quinebaug,Public
+692,12/30/2003,F,35,Lewis Farm,Coventry,Quinebaug,Public
+693,1/8/2004,F,38,Lewis Farm,Coventry,Quinebaug,Public
+694,2/23/2004,F,35,Briggs Pond,Coventry,Quinebaug,Public
+695,2/24/2004,M,28,Briggs Pond,Coventry,Quinebaug,Public
+696,12/27/2003,F,32,Falls River (Arcadia M.A.),Exeter,Pawcatuck,Public
+697,12/28/2003,M,40,Falls River (Arcadia M.A.),Exeter,Pawcatuck,Public
+698,12/30/2003,F,10,Falls River (Arcadia M.A.),Exeter,Pawcatuck,Public
+699,1/3/2004,M,36,Queen's River (Ericson),Exeter,Pawcatuck,Public
+700,1/5/2004,M,38,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+701,2/12/2004,M,35,Wood River,Hopkinton,Pawcatuck,Public
+702,2/20/2004,F,22,Wood River,Hopkinton,Pawcatuck,Public
+703,2/21/2004,F,20,Wood River,Hopkinton,Pawcatuck,Public
+704,2/22/2004,F,22,Wood River,Hopkinton,Pawcatuck,Public
+705,2/23/2004,M,20,Wood River,Hopkinton,Pawcatuck,Public
+706,2/24/2004,M,39,Wood River,Hopkinton,Pawcatuck,Public
+707,2/28/2004,F,41,Ashaway River (Flynn),Hopkinton,Pawcatuck,Public
+708,2/28/2004,M,18,Ashaway River (Flynn),Hopkinton,Pawcatuck,Public
+709,2/29/2004,M,18,Ashaway River (Flynn),Hopkinton,Pawcatuck,Public
+710,3/1/2004,F,18,Ashaway River (Flynn),Hopkinton,Pawcatuck,Public
+711,3/3/2004,F,43,Wood River,Hopkinton,Pawcatuck,Public
+712,1/4/2005,F,50,Wood River,Hopkinton,Pawcatuck,Public
+712,3/4/2004,M,18,Ashaway River (Flynn),Hopkinton,Pawcatuck,Public
+713,3/6/2004,F,15,Breakheart Pond (Arcadia M.A.),Exeter,Pawcatuck,Public
+714,1/17/2005,M,30,Wood River,Hopkinton,Pawcatuck,Public
+714,3/7/2004,F,26,Breakheart Pond (Arcadia M.A.),Exeter,Pawcatuck,Public
+715,1/5/2005,F,37,Wood River,Hopkinton,Pawcatuck,Public
+715,3/8/2004,F,44,Breakheart Pond (Arcadia M.A.),Exeter,Pawcatuck,Public
+716,3/3/2004,M,32,Pawcatuck River,Westerly,Pawcatuck,Public
+717,3/4/2004,F,15,Pawcatuck River,Westerly,Pawcatuck,Public
+718,3/6/2004,M,40,Wood River,Richmond,Pawcatuck,Public
+719,11/22/2003,M,28,Cross Street extension,Westerly,Pawcatuck,Public
+720,12/2/2003,F,40,Cross Street extension,Westerly,Pawcatuck,Public
+721,12/9/2003,M,50,Pound Road (Chapmans Swamp),Westerly,Pawcatuck,Public
+722,12/12/2003,F,39,Pound Road (Chapmans Swamp),Westerly,Pawcatuck,Public
+723,12/15/2003,M,32,Pawcatuck River at Canal Street,Westerly,Pawcatuck,Public
+724,11/23/2003,M,20,Clear River,Burrillville,Blackstone,Public
+725,11/27/2003,F,30,Clear River,Burrillville,Blackstone,Public
+726,11/29/2003,F,30,Clear River,Burrillville,Blackstone,Public
+727,12/1/2003,F,40,Clear River,Burrillville,Blackstone,Public
+728,12/1/2003,M,40,Clear River,Burrillville,Blackstone,Public
+729,12/28/2003,M,55,Clear River,Burrillville,Blackstone,Public
+730,1/5/2004,F,30,Clear River,Burrillville,Blackstone,Public
+731,12/29/2003,M,47,Big River (Big River M.A.),West Greenwich,Pawtuxet,Public
+732,1/13/2004,M,8,Falls River (Arcadia M.A.),Exeter,Pawcatuck,Public
+733,11/16/2003,F,32,Olney Keach Road pond,Burrillville,Blackstone,Public
+734,1/2/2005,M,46,Falls River (Arcadia),Exeter,Pawcatuck,Public
+734,12/10/2003,F,34,Scituate Resevoir (PWSB),Scituate,Pawtuxet,Public
+735,12/10/2003,M,48,Scituate Resevoir (PWSB),Scituate,Pawtuxet,Public
+736,12/12/2003,F,15,Scituate Resevoir (PWSB),Scituate,Pawtuxet,Public
+737,12/21/2003,F,35,Winsor Brook,Foster,Pawtuxet,Public
+738,12/21/2003,M,37,Winsor Brook,Foster,Pawtuxet,Public
+739,12/21/2003,M,12,Winsor Brook,Foster,Pawtuxet,Public
+740,12/21/2003,F,13,Winsor Brook,Foster,Pawtuxet,Public
+741,12/25/2003,M,45,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+742,12/25/2003,M,32,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+743,12/25/2003,M,46,Shingle Mill Pond,Glocester,Blackstone,Public
+744,12/26/2003,F,38,Shingle Mill Pond,Glocester,Blackstone,Public
+745,1/2/2004,M ,20,Shingle Mill Pond,Glocester,Blackstone,Public
+746,1/3/2004,M,21,Shingle Mill Pond,Glocester,Blackstone,Public
+747,1/3/2004,F,33,Shingle Mill Pond,Glocester,Blackstone,Public
+748,1/3/2004,M,29,Westconnaug Brook,Foster,Pawtuxet,Public
+749,1/4/2004,F,31,Scituate Resevoir (PWSB),Scituate,Pawtuxet,Public
+750,1/9/2004,M,43,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+751,1/9/2004,F,48,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+752,1/12/2004,M,36,Scituate Resevoir (PWSB),Scituate,Pawtuxet,Public
+753,3/1/2004,F,21,Shingle Mill Pond,Glocester,Blackstone,Public
+754,3/2/2004,M,22,Shingle Mill Pond,Glocester,Blackstone,Public
+755,3/6/2004,F,19,Wilbur Hollow Brook (PWSB),Scituate,Pawtuxet,Public
+756,3/7/2004,M,26,Wilbur Hollow Brook (PWSB),Scituate,Pawtuxet,Public
+757,3/14/2004,F,13,Wilbur Hollow Brook (PWSB),Scituate,Pawtuxet,Public
+758,12/9/2004,F,28,Wilbur Hollow Brook (PWSB),Scituate,Pawcatuck,Public
+758,1/10/2004,M,40,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+759,1/12/2004,F,35,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+760,12/9/2004,M,32,Wilbur Hollow Brook (PWSB),Scituate,Pawcatuck,Public
+760,1/15/2004,F,15,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+761,1/15/2005,F,12,Wilbur Hollow Brook (PWSB),Scituate,Pawcatuck,Public
+761,11/29/2003,M,55,Moosup River (Nicholas Farm M.A.),Coventry,Quinebaug,Public
+762,12/4/2003,F,30,Dolly Cole Pond (Cranston F&G),Foster,Pawtuxet,Public
+763,1/15/2005,M,10,Wilbur Hollow Brook (PWSB),Scituate,Pawcatuck,Public
+763,12/23/2003,F,41,Dolly Cole Brook,Scituate,Pawtuxet,Public
+764,12/25/2003,M,30,Dolly Cole Pond (Cranston F&G),Foster,Pawtuxet,Public
+765,11/8/2004,F,32,Ashaway River,Hopkinton,Pawcatuck,Public
+766,12/4/2004,F,42,Log House Brook,Hopkinton,Pawcatuck,Public
+767,12/4/2004,F,41,Wood River (Arcadia),Exeter,Pawcatuck,Public
+768,12/5/2004,F,19,Log House Brook,Hopkinton,Pawcatuck,Public
+769,12/6/2004,F,18,Log House Brook,Hopkinton,Pawcatuck,Public
+770,12/7/2004,M,18,Log House Brook,Hopkinton,Pawcatuck,Public
+771,12/8/2004,M,34,Log House Brook,Hopkinton,Pawcatuck,Public
+771,12/27/2004,unk,39,Woody Hill Brook (Arcadia),Exeter,Pawcatuck,Public
+772,12/2/2004,M,43,Chapman's Swamp (Pound Road),Westerly,Pawcatuck,Public
+773,12/6/2004,unk,29,Woody Hill Brook (Arcadia),Exeter,Pawcatuck,Public
+773,12/2/2004,F,39,Chapman's Swamp (Pound Road),Westerly,Pawcatuck,Public
+774,1/8/2005,M,27,Woody Hill Brook (Arcadia),Exeter,Pawcatuck,Public
+774,12/2/2004,F,31,Chapman's Swamp (Pound Road),Westerly,Pawcatuck,Public
+775,2/10/2005,F,27,Log House Pond,Hopkinton,Pawcatuck,Public
+775,12/5/2004,F,29,Chapman's Swamp (Pound Road),Westerly,Pawcatuck,Public
+776,12/11/2004,M,14,Log House Brook,Hopkinton,Pawcatuck,Public
+776,12/5/2004,M,33,Chapman's Swamp (Pound Road),Westerly,Pawcatuck,Public
+777,2/9/2005,M,31,Log House Pond,Hopkinton,Pawcatuck,Public
+777,12/8/2004,M,65,Newton's Marsh,Westerly,Pawcatuck,Public
+778,12/9/2004,F,54,Newton's Marsh,Westerly,Pawcatuck,Public
+779,12/9/2004,M,29,Newton's Marsh,Westerly,Pawcatuck,Public
+780,12/12/2004,M,30,Newton's Marsh,Westerly,Pawcatuck,Public
+781,12/14/2004,F,32,Newton's Marsh,Westerly,Pawcatuck,Public
+782,12/14/2004,M,35,Newton's Marsh,Westerly,Pawcatuck,Public
+783,12/15/2004,M,41,Newton's Marsh,Westerly,Pawcatuck,Public
+784,11/26/2004,F,45,West Meadow Brook,Foster,Quinebaug,Public
+785,11/26/2004,M,52,West Meadow Brook,Foster,Quinebaug,Public
+786,11/26/2004,M,40,Coney Brook,West Greenwich,Pawcatuck,Public
+787,11/29/2004,M,28,West Meadow Brook,Foster,Quinebaug,Public
+788,11/29/2004,M,26,West Meadow Brook,Foster,Quinebaug,Public
+789,12/13/2004,F,34,Buckshorn Brook,Coventry,Quinebaug,Public
+790,12/16/2004,F,37,Buckshorn Brook,Coventry,Quinebaug,Public
+791,1/15/2005,M,33,Coney Brook,West Greenwich,Pawcatuck,Public
+792,11/21/2004,M,25,Chipuxet River (W of Rt 2),Exeter,Pawcatuck,Public
+793,11/21/2004,M,25,Chipuxet River (W of Rt 2),Exeter,Pawcatuck,Public
+794,11/25/2004,M,44,Chipuxet River (The Resevoir),Exeter,Pawcatuck,Public
+795,11/29/2004,F,26,Chipuxet River (The Resevoir),Exeter,Pawcatuck,Public
+796,12/6/2004,M,26,Chipuxet River (Yawgoo Valley Road),Exeter,Pawcatuck,Public
+797,2/15/2005,F,38,Chipuxet River (Yawgoo Valley Road),Exeter,Pawcatuck,Public
+798,12/5/2004,M,25,Chipuxet River (The Resevoir),Exeter,Pawcatuck,Public
+799,12/15/2004,F,18,Chipuxet River (The Resevoir),Exeter,Pawcatuck,Public
+800,1/12/2005,M,30,White Horn Brook (URI),South Kingstown,Pawcatuck,Public
+801,2/15/2005,F,38,Chipuxet River (Yawgoo Valley Road),Exeter,Pawcatuck,Public
+802,11/2/2004,F,37,New London Turnpike,Richmond,Pawcatuck,Public
+803,11/2/2004,F,15,New London Turnpike,Richmond,Pawcatuck,Public
+804,11/3/2004,M,41,New London Turnpike,Richmond,Pawcatuck,Public
+805,11/3/2004,F,15,New London Turnpike,Richmond,Pawcatuck,Public
+806,11/3/2004,M,14,New London Turnpike,Richmond,Pawcatuck,Public
+807,11/15/2004,unk,7,Maple Root Pond,Coventry,Pawtuxet,Public
+808,12/4/2004,M,38,Big River,West Greenwich,Pawtuxet,Public
+809,1/2/2005,M,46,Falls River (Arcadia),Exeter,Pawcatuck,Public
+810,1/23/2004,M,34,Nooseneck River,West Greenwich,Pawtuxet,Public
+811,11/20/2004,M,38,Hannah Brook (Bucci),Glocester,Pawtuxet,Public
+812,11/20/2004,M,12,Hannah Brook (Bucci),Glocester,Pawtuxet,Public
+813,12/1/2004,M,54,Paine Brook,Foster,Pawtuxet,Public
+814,12/1/2004,F,42,Paine Brook,Foster,Pawtuxet,Public
+815,12/9/2004,F,28,Wilbur Hollow Brook (PWSB),Scituate,Pawtuxet,Public
+816,12/9/2004,M,32,Wilbur Hollow Brook (PWSB),Scituate,Pawtuxet,Public
+817,1/15/2005,F,12,Wilbur Hollow Brook (PWSB),Scituate,Pawtuxet,Public
+818,1/15/2005,M,10,Wilbur Hollow Brook (PWSB),Scituate,Pawtuxet,Public
+819,12/20/2004,F,32,"unnamed stream, Old Snake Hill Road",Glocester,Pawtuxet,Public
+820,12/25/2004,M,40,"unnamed stream, Old Snake Hill Road",Glocester,Pawtuxet,Public
+821,12/25/2004,M,15,"unnamed stream, Old Snake Hill Road",Glocester,Pawtuxet,Public
+822,1/10/2005,F,10,"unnamed stream, Old Snake Hill Road",Glocester,Pawtuxet,Public
+823,1/12/2005,F,8,"unnamed stream, Old Snake Hill Road",Glocester,Pawtuxet,Public
+824,12/8/2004,M,34,Log House Brook,Hopkinton,Pawcatuck,Public
+825,12/9/2004,M,36,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+826,12/11/2004,M,14,Log House Brook,Hopkinton,Pawcatuck,Public
+827,1/4/2005,F,50,Wood River,Hopkinton,Pawcatuck,Public
+828,1/5/2005,F,37,Wood River,Hopkinton,Pawcatuck,Public
+829,1/17/2005,M,30,Wood River,Hopkinton,Pawcatuck,Public
+830,2/9/2005,M,31,Log House Pond,Hopkinton,Pawcatuck,Public
+831,2/10/2005,F,27,Log House Pond,Hopkinton,Pawcatuck,Public
+832,2/18/2005,F,23,Romanoff's Pond,Richmond,Pawcatuck,Public
+833,2/24/2005,M,32,Chipuxet River,Exeter,Pawcatuck,Public
+834,2/26/2005,M,40,Chipuxet River,Exeter,Pawcatuck,Public
+835,2/27/2005,unk,20,Chipuxet River,Exeter,Pawcatuck,Public
+836,11/2/2004,M,18,Seldom Seen Farm pond,Glocester,Blackstone,Public
+837,11/3/2004,M,38,Seldom Seen Farm pond,Glocester,Blackstone,Public
+838,11/9/2004,F,36,Seldom Seen Farm pond,Glocester,Blackstone,Public
+839,12/11/2004,M,47,Mishnock River,Coventry,Pawtuxet,Public
+840,12/12/2004,M,32,Mishnock River,Coventry,Pawtuxet,Public
+841,12/25/2004,F,38,Roaring Brook,Coventry,Quinebaug,Public
+842,1/1/2005,F,32,Roaring Brook,Coventry,Quinebaug,Public
+843,1/1/2005,M,30,Dolly Cole Brook,Foster,Pawtuxet,Public
+844,1/2/2005,M,48,Dolly Cole Brook,Coventry,Pawtuxet,Public
+845,12/10/2004,M,32,Ponagansett River,Foster,Pawtuxet,Public
+846,12/16/2004,M,29,Ponagansett River,Foster,Pawtuxet,Public
+847,12/6/2004,unk,29,Woody Hill Brook (Arcadia),Exeter,Pawcatuck,Public
+848,12/26/2004,unk,13,Falls River (Arcadia),Exeter,Pawcatuck,Public
+849,1/8/2005,M,27,Woody Hill Brook (Arcadia),Exeter,Pawcatuck,Public
+850,3/1/2005,M,35,Chickasheen Brook (Cottrell),South Kingstown,Pawcatuck,Public
+851,3/1/2005,F,30,Chickasheen Brook (Cottrell),South Kingstown,Pawcatuck,Public
+852,12/3/2004,M,12,Barbers Pond,South Kingstown,Pawcatuck,Public
+853,11/10/2005,unk,53,Whaley Hollow,Coventry,Pawtuxet,Public
+854,12/28/2005,M,45,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+855,11/2/2005,M,28,Pasquiset Pond,Charlestown,Pawcatuck,Public
+856,11/27/2005,M,30,Pasquiset Pond,Charlestown,Pawcatuck,Public
+857,11/3/2005,F,34,White Brook (Carolina Hatchery,Richmond,Pawcatuck,Public
+858,11/29/2005,M,26,White Brook (Carolina Hatchery,Richmond,Pawcatuck,Public
+859,11/2/2005,F,35,Canochet Brook,Hopkinton,Pawcatuck,Public
+860,11/2/2005,F,31,Canochet Brook,Hopkinton,Pawcatuck,Public
+861,12/2/2005,M,41,White Brook (Carolina Hatchery,Richmond,Pawcatuck,Public
+862,12/30/2005,unk,13,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+863,1/3/2006,M,35,Barbers Pond,South Kingstown,Pawcatuck,Public
+864,1/3/2006,F,33,Barbers Pond,South Kingstown,Pawcatuck,Public
+865,1/28/2006,M,32,Parris Brook,Exeter,Pawcatuck,Public
+866,1/1/2006,M,44,unnamed brook Rt 117/102,Coventry,unknown,Public
+867,1/1/2006,M,30,unnamed brook Rt 117/102,Coventry,unknown,Public
+868,1/1/2006,F,30,unnamed brook Rt 117/102,Coventry,unknown,Public
+869,1/13/2006,M,40,Buckshorn Brook,Coventry,Quinebaug,Public
+870,1/23/2006,F,37,Moosup River,Coventry,Quinebaug,Public
+871,1/30/2006,F,36,West Meadow Brook,Foster,Quinebaug,Public
+872,11/2/2005,F,35,Beaver River,Richmond,Pawcatuck,Public
+873,11/2/2005,M,32,Beaver River,Richmond,Pawcatuck,Public
+874,11/4/2005,M,9,Whaley Hollow,Coventry,Pawtuxet,Public
+875,11/6/2005,F,39,Maple Root Pond,Coventry,Pawtuxet,Public
+876,12/24/2005,F,45,Roaring Brook,Exeter,Pawcatuck,Public
+877,12/24/2005,M,19,Roaring Brook,Exeter,Pawcatuck,Public
+878,1/29/2006,M,8,Warwick Sportsmans Club,Exeter,Pawcatuck,Public
+879,1/16/2006,M,19,Pasquiset Pond,Charlestown,Pawcatuck,Public
+880,1/16/2006,F,24,Pasquiset Pond,Charlestown,Pawcatuck,Public
+881,12/2/2005,F,26,Woody Hill Brook (Mt. Tom Club),Exeter,Pawcatuck,Public
+882,12/4/2005,F,18,Woody Hill Brook (Mt. Tom Club),Exeter,Pawcatuck,Public
+883,12/20/2005,M,29,Mile Brook (Crandall Field),Hopkinton,Pawcatuck,Public
+884,12/22/2005,F,33,Wood River,Hopkinton,Pawcatuck,Public
+885,12/22/2005,M,31,Queen's River,Exeter,Pawcatuck,Public
+886,12/26/2005,F,51,Mile Brook (Crandall Field),Hopkinton,Pawcatuck,Public
+887,12/31/2005,F,47,Ashaway River,Hopkinton,Pawcatuck,Public
+888,1/11/2006,M,20,Wood River,Hopkinton,Pawcatuck,Public
+889,1/13/2006,F,21,Wood River,Hopkinton,Pawcatuck,Public
+890,1/15/2006,M,20,Wood River,Hopkinton,Pawcatuck,Public
+891,1/20/2006,M,32,Moscow Pond,Hopkinton,Pawcatuck,Public
+892,1/21/2006,M,44,Breakheart Pond,West Greenwich,Pawcatuck,Public
+893,1/22/2006,F,17,Breakheart Pond,West Greenwich,Pawcatuck,Public
+894,1/26/2006,F,14,Woody Hill Brook (Mt. Tom Club),Exeter,Pawcatuck,Public
+895,1/28/2006,M,31,Woody Hill Brook (Mt. Tom Club),Exeter,Pawcatuck,Public
+896,1/29/2006,F,40,Woody Hill Brook (Mt. Tom Club),Exeter,Pawcatuck,Public
+897,2/4/2006,F,12,Mile Brook (Crandall Field),Hopkinton,Pawcatuck,Public
+898,2/7/2006,F,41,Locustville Pond,Hopkinton,Pawcatuck,Public
+899,2/11/2006,F,55,Locustville Pond,Hopkinton,Pawcatuck,Public
+900,1/5/2006,M,5,Ashaway River,Hopkinton,Pawcatuck,Public
+901,1/13/2006,M,36,Moosup River,Coventry,Quinebaug,Public
+902,11/12/2005,M,38,Gazza Brook,Glocester,Blackstone,Public
+903,11/13/2005,F,32,Gazza Brook,Glocester,Blackstone,Public
+904,11/13/2005,F,33,Seldom Seen Farm pond (Evans Road),Glocester,Blackstone,Public
+905,11/16/2005,F,12,Gazza Brook,Glocester,Blackstone,Public
+906,2/25/2006,unk,21,Route 14,Foster,Pawtuxet,Public
+907,1/1/2006,M,33,Hopkins Mill Pond,Foster,Pawtuxet,Public
+908,1/1/2006,F,12,Hopkins Mill Pond,Foster,Pawtuxet,Public
+909,1/1/2006,F,31,Hopkins Mill Pond,Foster,Pawtuxet,Public
+910,1/1/2006,M,35,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+911,1/1/2006,F,11,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+912,12/1/2005,M,35,Herring Brook (Black Hut),Burrillville,Blackstone,Public
+913,12/1/2005,F,32,Herring Brook (Black Hut),Burrillville,Blackstone,Public
+914,12/1/2005,M,32,Knibb Rd. (Frye),Burrillville,Blackstone,Public
+915,12/1/2005,F,34,Knibb Rd. (Frye),Burrillville,Blackstone,Public
+916,1/1/2006,M,38,Chepachet River,Glocester,Blackstone,Public
+917,1/1/2006,M,17,Chepachet River,Glocester,Blackstone,Public
+918,2/1/2006,M,28,Chestnut Hill Rd.,Glocester,Blackstone,Public
+919,2/1/2006,F,42,Chestnut Hill Rd.,Glocester,Blackstone,Public
+920,1/1/2006,M,29,Douglas Hook Rd. (Malbourn Pond),Glocester,Blackstone,Public
+921,1/1/2006,F,31,Douglas Hook Rd. (Malbourn Pond),Glocester,Blackstone,Public
+922,12/10/2005,M,30,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+923,12/10/2005,F,28,Shady Oak Brook (Bates),Glocester,Quinebaug,Public
+924,1/1/2006,F,35,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+925,1/10/2006,M,35,Ponaganset River (PWSB),Foster,Pawtuxet,Public
+926,1/10/2006,M,43,Ponaganset River (PWSB),Foster,Pawtuxet,Public
+927,1/10/2006,M,15,Ponaganset River (PWSB),Foster,Pawtuxet,Public
+928,1/10/2006,F,23,Ponaganset River (PWSB),Foster,Pawtuxet,Public
+929,12/10/2004,M,32,Ponagansett River,Foster,Pawtuxet,Public
+929,2/1/2006,M,36,Elmdale Rd. (PWSB),Scituate,Pawtuxet,Public
+930,12/16/2004,M,29,Ponagansett River,Foster,Pawtuxet,Public
+930,2/1/2006,M,10,Elmdale Rd. (PWSB),Scituate,Pawtuxet,Public
+931,2/1/2006,M,37,Old Plainfield Pike (PWSB),Scituate,Pawtuxet,Public
+932,12/7/2005,M,30,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+933,12/7/2005,M,45,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+934,12/16/2005,F,45,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+935,11/15/2005,M,35,Whaley Hollow,Coventry,Pawtuxet,Public
+936,12/2/2005,M,30,Roaring Brook,Exeter,Pawcatuck,Public
+937,12/2/2005,M,45,Nipmuc River,Burrillville,Blackstone,Public
+938,11/10/2005,F,32,Liberty Lane (Quigely),South Kingstown,Pawcatuck,Public
+939,11/10/2005,M,20,Liberty Lane (Quigely),South Kingstown,Pawcatuck,Public
+940,11/20/2005,F,20,Liberty Lane (Quigely),South Kingstown,Pawcatuck,Public
+941,11/20/2005,F,20,Liberty Lane (Quigely),South Kingstown,Pawcatuck,Public
+942,12/11/2005,M,35,Liberty Lane (Quigely),South Kingstown,Pawcatuck,Public
+943,10/17/2006,F,30,Diamond Bog,Richmond,Pawcatuck,Public
+944,10/18/2006,M,31,Diamond Bog,Richmond,Pawcatuck,Public
+945,11/2/2006,M,35,Barbers Pond,South Kingstown,Pawcatuck,Public
+946,11/2/2006,unk,11,Barbers Pond,South Kingstown,Pawcatuck,Public
+947,11/3/2006,unk,11,Barbers Pond,South Kingstown,Pawcatuck,Public
+948,11/3/2006,F,38,Barbers Pond,South Kingstown,Pawcatuck,Public
+949,11/10/2006,unk,11,Chipuxet River at Yawgoo Valley Rd.,Exeter,Pawcatuck,Public
+950,11/28/2006,M,29,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+951,11/28/2006,M,14,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+952,12/6/2006,F,30,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+953,1/3/2007,M,34,White Horn Brook (URI),South Kingstown,Pawcatuck,Public
+954,12/21/2006,M,15,Queens River (GSMA),South Kingstown,Pawcatuck,Public
+955,12/22/2006,F,48,Queens River (GSMA),South Kingstown,Pawcatuck,Public
+956,12/22/2006,M,28,Queens River (GSMA),South Kingstown,Pawcatuck,Public
+957,12/23/2006,M,27,Queens River (GSMA),South Kingstown,Pawcatuck,Public
+958,12/27/2006,F,32,Queens River (GSMA),South Kingstown,Pawcatuck,Public
+959,12/29/2006,F,33,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+960,12/29/2006,M,37,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+961,12/29/2006,F,16,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+962,1/5/2007,M,29,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+963,1/5/2006,F,37,White Horn Brook (URI),South Kingstown,Pawcatuck,Public
+964,11/19/2006,M,28,Kelley Brook,West Greenwich,Pawcatuck,Public
+965,11/26/2006,F,30,Log Bridge Rd. (Kozela) Pond,Coventry,Quinebaug,Public
+966,11/27/2006,unk,28,Hemlock Brook,Foster,Pawtuxet,Public
+967,11/27/2006,F,30,Log Bridge Rd. (Kozela) Pond,Coventry,Quinebaug,Public
+968,11/15/2004,unk,7,Maple Root Pond,Coventry,Pawtuxet,Public
+968,12/8/2006,F,53,Log Bridge Rd. (Kozela) Pond,Coventry,Quinebaug,Public
+969,12/17/2006,M,42,Log Bridge Rd. (Kozela) Pond,Coventry,Quinebaug,Public
+970,1/1/2007,M,32,Kelley Brook,West Greenwich,Pawcatuck,Public
+971,1/1/2007,M,40,Kelley Brook,West Greenwich,Pawcatuck,Public
+972,1/4/2007,M,38,Nye Marsh,Coventry,Quinebaug,Public
+973,1/8/2007,F,18,Kelley Brook,West Greenwich,Pawcatuck,Public
+974,12/25/2006,M,29,Pasquiset Pond,Charlestown,Pawcatuck,Public
+975,1/3/2007,M,28,"tributary of Chipuxet River, Slocum Road",North Kingstown,Pawcatuck,Public
+976,1/9/2007,unk,34,"tributary of Chipuxet River, Slocum Road",North Kingstown,Pawcatuck,Public
+977,1/11/2007,unk,53,"unnamed wetland, Rockville",Hopkinton,Pawcatuck,Public
+978,1/11/2007,F,16,"unnamed wetland, Rockville",Hopkinton,Pawcatuck,Public
+979,12/15/2006,M,13,Pasquiset Pond,Charlestown,Pawcatuck,Public
+980,12/15/2006,F,12,Pasquiset Pond,Charlestown,Pawcatuck,Public
+981,1/9/2007,unk,30,"tributary of Chipuxet River, Slocum Road",North Kingstown,Pawcatuck,Public
+982,12/2/2006,M,33,Seldom Seen Farm pond (Evans Road),Glocester,Blackstone,Public
+983,11/2/2006,M,36,New London Turnpike (Beaver River),Richmond,Pawcatuck,Public
+984,11/2/2006,F,39,New London Turnpike (Beaver River),Richmond,Pawcatuck,Public
+985,11/10/2006,M,33,Clark Pond,Foster,Quinebaug,Public
+986,11/10/2006,F,40,Clark Pond,Foster,Quinebaug,Public
+987,11/12/2006,F,41,Warwick Sportsmans Club pond,Exeter,Pawcatuck,Public
+988,12/4/2006,M ,39,Roaring Brook (Arcadia),Exeter,Pawcatuck,Public
+989,12/4/2006,F,43,Roaring Brook (Arcadia),Exeter,Pawcatuck,Public
+990,12/30/2006,M,35,Peck Pond (Pulaski),Glocester,Quinebaug,Public
+991,12/23/2006,F,46,Wood River (Arcadia),Exeter,Pawcatuck,Public
+992,1/11/2007,F,10,Breakheart Brook,West Greenwich,Pawcatuck,Public
+993,1/12/2007,M,30,Breakheart Brook,West Greenwich,Pawcatuck,Public
+994,1/13/2007,M,52,Breakheart Pond (Arcadia),Exeter,Pawcatuck,Public
+995,11/25/2006,M,52,The Resevoir (Chipuxet River),Exeter,Pawcatuck,Public
+996,11/26/2006,M,20,The Resevoir (Chipuxet River),Exeter,Pawcatuck,Public
+997,11/29/2006,F,40,Queens Fort Brook,Exeter,Pawcatuck,Public
+998,7/15/2006,unk,unk,Chepachet River,Burrillville,Blackstone,Public
+999,7/15/2006,unk,42,Chepachet River,Burrillville,Blackstone,Public
+1000,1/18/2007,unk,unk,Queens River  ,Exeter,Pawcatuck,Public
+1001,1/20/2007,unk,44,Queens River,Exeter,Pawcatuck,Public
+1002,1/20/2007,unk,46,Queens River,Exeter,Pawcatuck,Public
+1003,1/22/2007,unk,unk,Queens River,Exeter,Pawcatuck,Public
+1004,1/24/2007,unk,unk,Queens River,Exeter,Pawcatuck,Public
+1005,12/10/2006,unk,13,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+1006,12/11/2006,unk,17,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+1007,12/12/2006,unk,24,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+1008,12/13/2006,unk,32,Pawcatuck River (GSMA),South Kingstown,Pawcatuck,Public
+1009,1/6/2007,M,42,Cherry Valley Pond,Glocester,Blackstone,Public
+1010,1/6/2007,M,38,Cherry Valley Pond,Glocester,Blackstone,Public
+1011,1/8/2007,F,36,Cherry Valley Pond,Glocester,Blackstone,Public
+1012,1/12/2007,M,30,Cherry Valley Pond,Glocester,Blackstone,Public
+1013,1/12/2007,F,25,Cherry Valley Pond,Glocester,Blackstone,Public
+1014,1/15/2007,M,15,Cherry Valley Pond,Glocester,Blackstone,Public
+1015,12/23/2006,F,31,Carr River (BRMA),West Greenwich,Pawtuxet,Public
+1016,12/25/2006,F,14,Carr River (BRMA),West Greenwich,Pawtuxet,Public
+1017,12/27/2006,M,24,Capwell Mill Pond (BRMA),West Greenwich,Pawtuxet,Public
+1018,12/28/2006,M,41,Capwell Mill Pond (BRMA),West Greenwich,Pawtuxet,Public
+1019,1/2/2007,M,33,Carr River (BRMA),West Greenwich,Pawtuxet,Public
+1020,1/15/2007,unk,15,Chepachet River,Glocester,Blackstone,Public
+1021,1/15/2007,unk,15,Chepachet River,Glocester,Blackstone,Public
+1022,1/15/2007,unk,15,Chepachet River,Glocester,Blackstone,Public
+1023,1/16/2007,unk,15,Chepachet River,Glocester,Blackstone,Public
+1024,1/16/2007,M,55,Chepachet River,Glocester,Blackstone,Public
+1025,11/8/2006,M,20,Nooseneck River,West Greenwich,Pawtuxet,Public
+1026,2/10/2007,unk,40,Nooseneck River,West Greenwich,Pawtuxet,Public
+1027,1/7/2007,F,35,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1028,1/15/2007,F,30,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1029,1/19/2007,M,35,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1030,1/19/2007,M,22,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1031,1/29/2007,F,48,Big River (Big River M.A.),West Greenwich,Pawtuxet,Public
+1032,1/29/2007,M,20,Big River (Big River M.A.),West Greenwich,Pawtuxet,Public
+1033,11/2/2006,F,35,Canochet Pond,Hopkinton,Pawcatuck,Public
+1034,11/3/2006,M,37,Canochet Pond,Hopkinton,Pawcatuck,Public
+1035,11/7/2006,F,35,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1036,11/28/2006,M,29,Carolina Hatchery,Richmond,Pawcatuck,Public
+1037,11/30/2006,F,38,Roaring Brook (Arcadia),Exeter,Pawcatuck,Public
+1038,12/5/2006,M,44,Wood River  ,Hopkinton,Pawcatuck,Public
+1039,12/6/2006,F,38,Roaring Brook (Arcadia),Exeter,Pawcatuck,Public
+1040,12/6/2006,M,12,Wood River,Hopkinton,Pawcatuck,Public
+1041,12/7/2006,F,12,Wood River,Hopkinton,Pawcatuck,Public
+1042,1/4/2007,F,48,Breakheart Pond (Arcadia),West Greenwich,Pawcatuck,Public
+1043,1/5/2007,M,47,Wood River,Hopkinton,Pawcatuck,Public
+1044,1/5/2007,F ,42,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1045,1/9/2007,F ,20,Breakheart Pond (Arcadia),West Greenwich,Pawcatuck,Public
+1046,1/10/2007,M,26,Breakheart Pond (Arcadia),West Greenwich,Pawcatuck,Public
+1047,1/12/2007,F,21,Breakheart Pond (Arcadia),West Greenwich,Pawcatuck,Public
+1048,1/17/2007,F,35,Queens River,Richmond,Pawcatuck,Public
+1049,2/1/2007,M,19,Wood River,Hopkinton,Pawcatuck,Public
+1050,2/3/2007,M,22,Wood River,Hopkinton,Pawcatuck,Public
+1051,12/2/2006,M,42,Carbuncle Pond (NFMA),Coventry,Quinebaug,Public
+1052,12/8/2006,M,38,Moosup River (NFMA),Coventry,Quinebaug,Public
+1053,12/14/2006,M,36,Moosup River (NFMA),Coventry,Quinebaug,Public
+1054,12/28/2006,F,18,Carbuncle Pond (NFMA),Coventry,Quinebaug,Public
+1055,1/5/2007,M,46,Moosup River (NFMA),Coventry,Quinebaug,Public
+1056,1/8/2007,M,32,Moosup River (NFMA),Coventry,Quinebaug,Public
+1057,1/15/2007,F,35,Carbuncle Pond (NFMA),Coventry,Quinebaug,Public
+1058,1/28/2007,M,44,Round Top Pond (RTMA),Burrillville,Blackstone,Public
+1059,2/4/2007,M,36,Round Top Pond (RTMA),Burrillville,Blackstone,Public
+1060,2/10/2007,M,42,Round Top Pond (RTMA),Burrillville,Blackstone,Public
+1061,2/13/2007,F,33,Round Top Pond (RTMA),Burrillville,Blackstone,Public
+1062,12/11/2006,M,43,Pound Road (Chapmans Swamp),Westerly,Pawcatuck,Public
+1063,12/11/2006,M,40,Pound Road (Chapmans Swamp),Westerly,Pawcatuck,Public
+1064,12/17/2006,F,35,Pound Road (Chapmans Swamp),Westerly,Pawcatuck,Public
+1065,12/21/2006,M,41,West Meadow Brook,Foster,Quinebaug,Public
+1066,12/28/2006,F,38,Pound Road (Chapmans Swamp),Westerly,Pawcatuck,Public
+1067,10/3/2007,F,47,Poquaint Brook (BMA),Charlestown,Pawcatuck,Nuisance
+1068,10/3/2007,M,30,Poquaint Brook (BMA),Charlestown,Pawcatuck,Nuisance
+1069,10/4/2007,M,32,Poquaint Brook (BMA),Charlestown,Pawcatuck,Nuisance
+1070,10/4/2007,F,16,Poquaint Brook (BMA),Charlestown,Pawcatuck,Nuisance
+1071,10/23/2007,M,42,Poquaint Brook (BMA),Charlestown,Pawcatuck,Nuisance
+1072,11/5/2007,M,unk,Chipuxet River (D'Ambra),Exeter,Pawcatuck,Public
+1073,11/20/2007,unk,42,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+1074,11/20/2007,unk,32,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+1075,11/6/2007,M,16,Brushy Brook,Hopkinton,Pawcatuck,Public
+1076,11/2/2007,F,12,Canob Pond,Richmond,Pawcatuck,Public
+1077,11/2/2007,M,16,Brushy Brook,Hopkinton,Pawcatuck,Public
+1078,11/7/2007,F,11,Wood River,Hopkinton,Pawcatuck,Public
+1079,11/4/2007,F,44,Brushy Brook,Hopkinton,Pawcatuck,Public
+1080,11/4/2007,M,17,Brushy Brook,Hopkinton,Pawcatuck,Public
+1081,11/29/2007,F,40,West Meadow Brook,Foster,Quinebaug,Public
+1082,11/29/2007,M,42,West Meadow Brook,Foster,Quinebaug,Public
+1083,1/2/2008,M,39,Coney Brook,West Greenwich,Pawcatuck,Public
+1084,1/2/2008,M,28,Coney Brook,West Greenwich,Pawcatuck,Public
+1085,1/19/2008,M,39,"unnamed pond, William Nichols Rd.",West Greenwich,unknown,Public
+1086,1/19/2008,F,37,"unnamed pond, William Nichols Rd.",West Greenwich,unknown,Public
+1087,1/19/2008,F,26,"unnamed pond, William Nichols Rd.",West Greenwich,unknown,Public
+1088,11/19/2007,M,50,Barnes Road (Christavao),Burrillville,Blackstone,Public
+1089,11/25/2007,F,40,Barnes Road (Christavao),Burrillville,Blackstone,Public
+1090,1/14/2008,M,25,Chepachet River,Glocester,Blackstone,Public
+1091,11/15/2007,F,57,James Pond,Exeter,Pawcatuck,Public
+1092,11/15/2007,M,32,James Pond,Exeter,Pawcatuck,Public
+1093,11/15/2007,M,37,James Pond,Exeter,Pawcatuck,Public
+1094,12/15/2007,F,30,James Pond,Exeter,Pawcatuck,Public
+1095,12/20/2007,unk,10,James Pond,Exeter,Pawcatuck,Public
+1096,12/20/2007,unk,12,James Pond,Exeter,Pawcatuck,Public
+1097,1/2/2008,unk,52,Breakheart Pond (AMA),Exeter,Pawcatuck,Public
+1098,1/2/2008,unk,10,Breakheart Pond (AMA),Exeter,Pawcatuck,Public
+1099,12/21/2007,unk,25,Pawcatuck River,South Kingstown,Pawcatuck,Public
+1100,12/23/2007,unk,25,Pawcatuck River,South Kingstown,Pawcatuck,Public
+1101,1/7/2008,unk,25,Pawcatuck River,Charlestown,Pawcatuck,Public
+1102,11/5/2007,F,38,Brushy Brook,Hopkinton,Pawcatuck,Public
+1103,11/9/2007,M,11,Wood River,Hopkinton,Pawcatuck,Public
+1104,12/29/2007,M,17,Wood River,Hopkinton,Pawcatuck,Public
+1105,12/30/2007,M,18,Wood River,Hopkinton,Pawcatuck,Public
+1106,12/30/2007,F,15,Wood River,Hopkinton,Pawcatuck,Public
+1107,12/31/2007,F,16,Wood River,Hopkinton,Pawcatuck,Public
+1108,1/1/2008,F,16,Wood River,Hopkinton,Pawcatuck,Public
+1109,1/2/2008,M,15,Wood River,Hopkinton,Pawcatuck,Public
+1110,2/6/2008,F,12,Breakheart Pond (AMA),Exeter,Pawcatuck,Public
+1111,2/26/2008,F,34,Barbers Pond,South Kingstown,Pawcatuck,Public
+1112,2/27/2008,M,32,Barbers Pond,South Kingstown,Pawcatuck,Public
+1113,1/26/2008,M,42,"unnamed pond, Slocum Road",North Kingstown,unknown,Public
+1114,1/26/2008,M,21,"unnamed pond, Slocum Road",North Kingstown,unknown,Public
+1115,1/27/2008,F,32,"unnamed pond, Slocum Road",North Kingstown,unknown,Public
+1116,2/26/2008,F,29,"unnamed pond, Slocum Road",North Kingstown,unknown,Public
+1117,2/27/2008,M,32,"unnamed pond, Slocum Road",North Kingstown,unknown,Public
+1118,12/15/2007,unk,15,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1119,12/17/2007,unk,17,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1120,1/12/2008,M,52,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1121,2/10/2008,F,35,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1123,1/15/2008,M,45,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1124,2/6/2008,F,30,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1125,2/11/2008,F,35,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1126,3/19/2008,unk,30,Diamond Bog (CMA),Richmond,Pawcatuck,Nuisance
+1127,3/21/2008,unk,34,Diamond Bog (CMA),Richmond,Pawcatuck,Nuisance
+1128,3/27/2008,unk,15,Great Swamp impoundment,South Kingstown,Pawcatuck,Nuisance
+1129,4/15/2008,M,32,Underwood Pond (GWMA),Burrillville,Blackstone,Nuisance
+1130,4/15/2008,F,35,Underwood Pond (GWMA),Burrillville,Blackstone,Nuisance
+1131,10/2/2008,F,31,Browning Mill Pond/Arcadia Hatchery,Exeter,Pawcatuck,Nuisance
+1132,12/12/2008,F,39,Wood River,Hopkinton,Pawcatuck,Public
+1133,12/17/2008,M,19,Wood River,Hopkinton,Pawcatuck,Public
+1134,1/6/2009,F,14,Dolly Pond,Exeter,Pawcatuck,Public
+1135,12/17/2008,F,18,Wood River,Hopkinton,Pawcatuck,Public
+1136,1/5/2009,F,30,Dolly Pond,Exeter,Pawcatuck,Public
+1137,12/7/2008,M,14,Wood River,Hopkinton,Pawcatuck,Public
+1138,12/12/2008,F,18,Wood River,Hopkinton,Pawcatuck,Public
+1139,1/4/2009,M,26,Dolly Pond,Exeter,Pawcatuck,Public
+1140,12/28/2008,M,20,Wood River,Hopkinton,Pawcatuck,Public
+1141,12/28/2008,F,22,Wood River,Hopkinton,Pawcatuck,Public
+1142,12/30/2008,F,23,Wood River,Hopkinton,Pawcatuck,Public
+1143,1/3/2009,F,9,Canochet Brook,Hopkinton,Pawcatuck,Public
+1144,11/11/2008,M,44,Buckshorn Brook,Coventry,Quinebaug,Public
+1145,11/16/2008,M,26,West Meadow Brook,Foster,Quinebaug,Public
+1146,11/16/2008,M,42,Buckshorn Brook,Coventry,Quinebaug,Public
+1147,11/30/2008,F,21,Pierce Brook,Coventry,Pawtuxet,Public
+1148,12/18/2008,F,20,Pierce Brook,Coventry,Pawtuxet,Public
+1149,11/9/2008,F,45,private pond,Coventry,unknown,Public
+1150,11/12/2008,F,30,private pond,Coventry,unknown,Public
+1151,1/15/2009,F,47,Malbourn Pond,Glocester,Blackstone,Public
+1152,1/15/2009,M,40,Malbourn Pond,Glocester,Blackstone,Public
+1153,1/22/2009,M,13,Malbourn Pond,Glocester,Blackstone,Public
+1154,1/29/2009,F,11,Malbourn Pond,Glocester,Blackstone,Public
+1155,2/20/2009,M,10,unnamed wetland-Paris Olney Hopkins Rd. (Paine Brook),Foster,Pawtuxet,Public
+1156,2/20/2009,M,10,unnamed wetland-Paris Olney Hopkins Rd. (Paine Brook),Foster,Pawtuxet,Public
+1157,2/28/2009,F,11,unnamed wetland-Paris Olney Hopkins Rd. (Paine Brook),Foster,Pawtuxet,Public
+1158,11/4/2008,F,20,Richardson Marsh (GWMA),Burrillville,Blackstone,Public
+1159,11/4/2008,F,20,Richardson Marsh (GWMA),Burrillville,Blackstone,Public
+1160,11/5/2008,M,10,Richardson Marsh (GWMA),Burrillville,Blackstone,Public
+1161,11/6/2008,F,45,Richardson Marsh (GWMA),Burrillville,Blackstone,Public
+1162,11/9/2008,M,30,Route 101,Foster,Pawtuxet,Public
+1163,11/10/2008,M,35,Richardson Marsh (GWMA),Burrillville,Blackstone,Public
+1164,11/21/2008,M,15,Chepachet River,Glocester,Blackstone,Public
+1165,11/24/2008,F,25,Chepachet River,Glocester,Blackstone,Public
+1166,12/4/2008,F,15,Chepachet River,Glocester,Blackstone,Public
+1167,12/10/2008,M,25,Chepachet River,Glocester,Blackstone,Public
+1168,12/12/2008,M,30,Putnam Pike,Glocester,unknown,Public
+1169,12/27/2008,M,15,Barnes Road (Christavao),Burrillville,Blackstone,Public
+1170,12/30/2008,F,20,Barnes Road (Christavao),Burrillville,Blackstone,Public
+1171,1/10/2009,M,30,Ponaganset River,Foster,Pawtuxet,Public
+1172,1/15/2009,F,20,Ponaganset River,Foster,Pawtuxet,Public
+1173,2/16/2009,F,13,Dolly Pond,Exeter,Pawcatuck,Public
+1174,2/16/2009,M,13,Dolly Pond,Exeter,Pawcatuck,Public
+1175,2/16/2009,F,44,Dolly Pond,Exeter,Pawcatuck,Public
+1176,2/16/2009,F,43,Dolly Pond,Exeter,Pawcatuck,Public
+1177,2/17/2009,M,22,Dolly Pond,Exeter,Pawcatuck,Public
+1178,2/20/2009,F,23,Dolly Pond,Exeter,Pawcatuck,Public
+1179,2/23/2009,M,40,Dolly Pond,Exeter,Pawcatuck,Public
+1180,2/23/2009,F,24,Dolly Pond,Exeter,Pawcatuck,Public
+1181,11/10/2008,M,35,James Pond,Exeter,Pawcatuck,Public
+1182,11/20/2008,F,15,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1183,11/20/2008,M,16,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1184,11/22/2008,F,15,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1185,12/3/2008,M,40,Breakheart Brook,West Greenwich,Pawcatuck,Public
+1186,12/4/2008,M,38,Flat River (AMA),Exeter,Pawcatuck,Public
+1187,2/23/2009,M,23,Dolly Pond,Exeter,Pawcatuck,Public
+1188,12/5/2008,F,32,Chipuxet River,Exeter,Pawcatuck,Public
+1189,12/5/2008,F,19,Chipuxet River,Exeter,Pawcatuck,Public
+1190,11/21/2008,M,52,Tippecansett Pond,West Greenwich,Pawtuxet,Public
+1191,12/2/2008,unk,23,Buckshorn Brook,Coventry,Quinebaug,Public
+1192,3/11/2009,M,19,Great Swamp impoundment,South Kingstown,Pawcatuck,Nuisance
+1193,12/7/2008,M,20,Woonasquatucket River,North Smithfield,Woonasquatucket,Public
+1194,12/1/2008,M,43,Chapmans Swamp (Pound Rd.),Westerly,Pawcatuck,Public
+1195,3/17/2009,M,16,Great Swamp impoundment,South Kingstown,Pawcatuck,Nuisance
+1196,12/11/2008,M,43,Branch River,Burrillville,Blackstone,Public
+1197,12/14/2008,M,23,Bowdish Reservoir,Glocester,Quinebaug,Public
+1198,12/15/2008,F,21,Bowdish Reservoir,Glocester,Quinebaug,Public
+1199,12/31/2008,F,39,Tucker Brook,Burrillville,,Public
+1200,2/9/2009,M,28,Branch River,Burrillville,Blackstone,Public
+1201,4/10/2009,F,31,Great Swamp impoundment,South Kingstown,Pawcatuck,Nuisance
+1202,11/30/2008,M,20,Chipuxet River,Exeter,Pawcatuck,Public
+1203,12/3/2008,F,30,Chipuxet River,Exeter,Pawcatuck,Public
+1204,7/9/2009,unk,unk,off Burdickville Rd. (AMTRAK),Charlestown,Pawcatuck,Nuisance
+1205,7/14/2009,unk,unk,off Burdickville Rd. (AMTRAK),Charlestown,Pawcatuck,Nuisance
+1206,7/28/2009,unk,unk,Newton's Marsh,Westerly,Pawcatuck,Nuisance
+1207,7/30/2009,unk,unk,Newton's Marsh,Westerly,Pawcatuck,Nuisance
+1208,9/22/2009,unk,unk,Newtons Marsh,Westerly,Pawcatuck,Nuisance
+1209,9/29/2009,unk,unk,Newtons Marsh,Westerly,Pawcatuck,Nuisance
+1210,10/1/2009,unk,unk,Newtons Marsh,Westerly,Pawcatuck,Nuisance
+1211,11/4/2009,F,44,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+1212,11/8/2009,F,42,Mt. Tom Club marsh,Exeter,Pawcatuck,Public
+1213,11/8/2009,M,42,Mt. Tom Club marsh,Exeter,Pawcatuck,Public
+1214,11/9/2009,M,20,Mt. Tom Club marsh,Exeter,Pawcatuck,Public
+1215,12/3/2009,F,38,Meadow Brook,Richmond,Pawcatuck,Public
+1216,12/3/2009,F,45,Barbers Pond,South Kingstown,Pawcatuck,Public
+1217,12/8/2009,M,16,Barbers Pond,South Kingstown,Pawcatuck,Public
+1218,12/9/2009,F,18,Barbers Pond,South Kingstown,Pawcatuck,Public
+1219,12/11/2009,F,18,Barbers Pond,South Kingstown,Pawcatuck,Public
+1220,2/8/2010,M,14,Dolly Pond,Exeter,Pawcatuck,Public
+1221,1/10/2010,M,41,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+1222,2/15/2010,F,38,Dolly Pond,Exeter,Pawcatuck,Public
+1223,2/16/2010,M,26,Dolly Pond,Exeter,Pawcatuck,Public
+1224,12/14/2009,M,34,unknown,West Greenwich,unknown,Public
+1225,12/14/2009,F,28,unknown,West Greenwich,unknown,Public
+1226,11/13/2009,M,37,Buckshorn Brook,Coventry,Quinebaug,Public
+1227,11/15/2009,F,39,Buckshorn Brook,Coventry,Quinebaug,Public
+1228,2/22/2010,F,15,Breakheart Pond,West Greenwich,Pawcatuck,Public
+1229,2/23/2010,F,15,Breakheart Pond,West Greenwich,Pawcatuck,Public
+1230,2/24/2010,M,15,Breakheart Pond,West Greenwich,Pawcatuck,Public
+1231,2/1/2010,M,32,Woonasquatucket River,Smithfield,Woonasquatucket,Public
+1232,12/3/2004,M,12,Barbers Pond,South Kingstown,Pawcatuck,Public
+1232,3/8/2010,M,38,Great Swamp impoundment,South Kingstown,Pawcatuck,Nuisance
+1233,1/17/2010,F,50,Chipuxet River,Exeter,Pawcatuck,Public
+1234,12/2/2009,M,49,Carr River,West Greenwich,Pawtuxet,Public
+1235,12/2/2009,F,28,Carr River,West Greenwich,Pawtuxet,Public
+1236,12/3/2009,M,17,Carr River,West Greenwich,Pawtuxet,Public
+1237,11/22/2009,F,35,Ponagansett River,Foster,Pawtuxet,Public
+1238,11/22/2009,M,32,Ponagansett River,Foster,Pawtuxet,Public
+1239,11/29/2009,M,36,Cherry Valley Pond,Glocester,Blackstone,Public
+1240,11/29/2009,M,52,Cherry Valley Pond,Glocester,Blackstone,Public
+1241,11/29/2009,M,35,Ponagansett River,Foster,Pawtuxet,Public
+1242,12/6/2009,F,18,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+1243,12/13/2009,M,37,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1244,12/20/2009,F,32,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1245,12/27/2009,M,42,Brandy Brook (Durfee Hill MA),Glocester,Quinebaug,Public
+1246,1/17/2010,F,19,Brandy Brook (Durfee Hill MA),Glocester,Quinebaug,Public
+1247,11/16/2010,unk,unk,Homestead Gardens,North Smithfield,Blackstone,Public
+1248,11/16/2010,unk,unk,Homestead Gardens,North Smithfield,Blackstone,Public
+1249,11/16/2010,unk,unk,Homestead Gardens,North Smithfield,Blackstone,Public
+1250,11/16/2010,unk,unk,Homestead Gardens,North Smithfield,Blackstone,Public
+1251,11/16/2010,unk,unk,Homestead Gardens,North Smithfield,Blackstone,Public
+1252,11/17/2010,unk,unk,Homestead Gardens,North Smithfield,Blackstone,Public
+1253,12/3/2010,M,28,Meadow Brook (Carolina),Richmond,Pawcatuck,Public
+1254,12/5/2010,M,24,White Brook (Carolina),Richmond,Pawcatuck,Public
+1255,12/5/2010,M,54,Canochet Brook,Hopkinton,Pawcatuck,Public
+1256,11/4/2010,F,41,Canochet Brook,Hopkinton,Pawcatuck,Public
+1257,2/18/2011,F,40,Moscow Pond,Hopkinton,Pawcatuck,Public
+1258,12/4/2010,F,16,White Brook (Carolina),Richmond,Pawcatuck,Public
+1259,11/6/2010,F,45,Barbers Pond,South Kingstown,Pawcatuck,Public
+1260,11/9/2010,M,38,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1261,12/5/2010,F,26,White Brook (Carolina),Richmond,Pawcatuck,Public
+1262,12/9/2004,M,36,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1262,12/4/2010,M,18,White Brook (Carolina),Richmond,Pawcatuck,Public
+1263,11/5/2010,F,30,Barbers Pond,South Kingstown,Pawcatuck,Public
+1264,11/20/2010,M,unk,Beaver River,Richmond,Pawcatuck,Public
+1265,11/20/2010,F,unk,Beaver River,Richmond,Pawcatuck,Public
+1266,3/1/2005,M,35,Chickasheen Brook (Cottrell),South Kingstown,Pawcatuck,Public
+1266,12/4/2010,unk,unk,Nooseneck River,West Greenwich,Pawtuxet,Public
+1267,3/1/2005,F,30,Chickasheen Brook (Cottrell),South Kingstown,Pawcatuck,Public
+1267,11/10/2010,unk,46,Moosup Valley Road ,Foster,Quinebaug,Public
+1268,11/10/2010,unk,38,Buckshorn Brook,Coventry,Quinebaug,Public
+1269,11/14/2010,unk,38,Buckshorn Brook,Coventry,Quinebaug,Public
+1270,11/20/2010,unk,32,Buckshorn Brook,Coventry,Quinebaug,Public
+1271,11/21/2010,unk,45,Buckshorn Brook,Coventry,Quinebaug,Public
+1272,11/29/2010,unk,26,Buckshorn Brook,Coventry,Quinebaug,Public
+1273,12/15/2010,M,31,Wood River (Arcadia),Exeter,Pawcatuck,Public
+1274,12/16/2010,F,30,Wood River (Arcadia),Exeter,Pawcatuck,Public
+1275,5/10/2010,unk,unk,Sindelar (Jackson Schoolhouse Road),Burrillville,Blackstone,Nuisance
+1276,1/10/2011,F,54,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1277,2/20/2011,M,19,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1278,2/20/2011,M,20,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1279,2/21/2011,M,21,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1280,2/21/2011,M,21,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1281,2/21/2011,M,22,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1282,12/5/2010,M,35,Pawcatuck River,South Kingstown,Pawcatuck,Public
+1283,12/12/2010,M,35,Pawcatuck River,South Kingstown,Pawcatuck,Public
+1284,11/5/2010,F,30,Hannah Brook,Glocester,Pawtuxet,Public
+1285,11/20/2004,M,38,Hannah Brook (Bucci),Glocester,Pawtuxet,Public
+1285,11/9/2010,unk,10,Cherry Valley Pond,Glocester,Blackstone,Public
+1286,11/20/2004,M,12,Hannah Brook (Bucci),Glocester,Pawtuxet,Public
+1286,11/25/2010,unk,25,Route 102,Burrillville,unknown,Public
+1287,12/5/2010,unk,25,Route 44,Glocester,unknown,Public
+1288,12/21/2010,M,50,unknown,West Greenwich,unknown,Public
+1289,2/27/2005,unk,20,Chipuxet River,Exeter,Pawcatuck,Nuisance
+1289,12/20/2010,F,41,unknown,West Greenwich,unknown,Public
+1290,12/23/2010,M,50,Pawtuxet River,Scituate,Pawtuxet,Public
+1291,12/23/2010,M,49,Pawtuxet River,Scituate,Pawtuxet,Public
+1292,12/23/2010,F,43,Pawtuxet River,Scituate,Pawtuxet,Public
+1293,12/2/2010,M,50,unknown,Coventry,unknown,Public
+1294,10/1/2010,M,38,Frenchtown Brook,East Greenwich,Hunt,Nuisance
+1295,10/1/2010,F,43,Frenchtown Brook,East Greenwich,Hunt,Nuisance
+1296,12/5/2010,M,15,Arcadia Mgt. Area,Richmond,Pawcatuck,Public
+1297,11/18/2010,M,15,Moscow Pond,Hopkinton,Pawcatuck,Public
+1298,11/27/2010,M,36,Wood River  ,Richmond,Pawcatuck,Public
+1299,11/18/2010,M,45,Burnt Swamp Brook,Cumberland,Blackstone,Public
+1300,3/11/2011,F,43,Round Top Brook,Burrillville,Blackstone,Public
+1301,3/13/2011,M,12,Round Top Brook,Burrillville,Blackstone,Public
+1302,3/13/2011,F,38,Round Top Brook,Burrillville,Blackstone,Public
+1303,1/3/2011,M,40,Pasquisett Brook,Charlestown,Pawcatuck,Public
+1304,1/3/2011,F,18,Pasquisett Brook,Charlestown,Pawcatuck,Public
+1305,1/6/2011,M,35,Pasquisett Brook,Charlestown,Pawcatuck,Public
+1306,1/7/2011,M,35,Pasquisett Brook,Charlestown,Pawcatuck,Public
+1307,1/7/2011,M,50,Pasquisett Brook,Charlestown,Pawcatuck,Public
+1308,2/28/2011,F,16,Moscow Pond,Hopkinton,Pawcatuck,Public
+1309,3/4/2011,F,46,Meadow Brook  ,Richmond,Pawcatuck,Public
+1310,3/6/2011,F,20,Meadow Brook,Richmond,Pawcatuck,Public
+1311,3/6/2011,F,20,Brushy Brook,Hopkinton,Pawcatuck,Public
+1312,3/7/2011,M,40,Meadow Brook,Richmond,Pawcatuck,Public
+1313,3/8/2011,M,20,Meadow Brook,Richmond,Pawcatuck,Public
+1314,3/8/2011,M,20,Meadow Brook,Richmond,Pawcatuck,Public
+1315,3/8/2011,M,20,Meadow Brook,Richmond,Pawcatuck,Public
+1316,3/29/2011,F,40,Wood River,Hopkinton,Pawcatuck,Public
+1317,12/10/2010,M,35,Cherry Valley Pond,Glocester,Blackstone,Public
+1318,12/10/2010,F,42,Cherry Valley Pond,Glocester,Blackstone,Public
+1319,12/10/2010,M,21,Cherry Valley Pond,Glocester,Blackstone,Public
+1320,12/10/2010,M,19,Cherry Valley Pond,Glocester,Blackstone,Public
+1321,12/13/2010,M,15,Bowdish Reservoir,Glocester,Quinebaug,Public
+1322,12/27/2010,F,21,Bowdish Reservoir,Glocester,Quinebaug,Public
+1323,1/6/2011,F,50,Bowdish Reservoir,Glocester,Quinebaug,Public
+1324,1/11/2011,M,51,Bowdish Reservoir,Glocester,Quinebaug,Public
+1325,3/28/2011,M,30,Wood River,Richmond,Pawcatuck,Nuisance
+1326,4/20/2011,M,34,Diamond Bog,Richmond,Pawcatuck,Nuisance
+1327,4/20/2011,F,32,Diamond Bog,Richmond,Pawcatuck,Nuisance
+1328,5/11/2011,F,48,Long Pond,Hopkinton,Pawcatuck,Nuisance
+1329,5/11/2011,M,38,Long Pond,Hopkinton,Pawcatuck,Nuisance
+1330,2/24/2005,M,32,Chipuxet River,Exeter,Pawcatuck,Nuisance
+1331,11/1/2011,M,40,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1332,2/26/2005,M,40,Chipuxet River,Exeter,Pawcatuck,Nuisance
+1332,11/4/2011,M,42,Woody Hill Brook,Exeter,Pawcatuck,Public
+1333,11/4/2011,F,40,Carolina Hatchery,Richmond,Pawcatuck,Public
+1334,11/10/2011,F,42,Moscow Pond,Hopkinton,Pawcatuck,Public
+1335,12/5/2011,M,30,Bradford,Hopkinton,Pawcatuck,Public
+1336,12/6/2011,F,30,Bradford,Hopkinton,Pawcatuck,Public
+1337,12/12/2011,F,34,Tripps Corner Road,Exeter,Pawcatuck,Public
+1338,12/16/2011,M,33,Canonchet Brook,Hopkinton,Pawcatuck,Public
+1339,1/1/2012,M,12,Buckeye Brook,Charlestown,Pawcatuck,Public
+1340,1/1/2012,F,13,Buckeye Brook,Charlestown,Pawcatuck,Public
+1341,1/2/2012,F,35,Buckeye Brook,Charlestown,Pawcatuck,Public
+1342,1/3/2012,M,35,Buckeye Brook,Charlestown,Pawcatuck,Public
+1343,1/10/2012,F,20,Wood River,Hopkinton,Pawcatuck,Public
+1344,1/18/2012,F,16,Falls River,Exeter,Pawcatuck,Public
+1345,2/25/2012,F,22,Wood River,Hopkinton,Pawcatuck,Public
+1346,2/27/2012,M,42,Woody Hill,Westerly,Pawcatuck,Public
+1347,3/1/2012,F,44,Hope Valley (unknown location,Hopkinton,Pawcatuck,Public
+1348,11/2/2011,F,22,Carolina Hatchery,Richmond,Pawcatuck,Public
+1349,11/3/2011,M,19,Carolina Hatchery,Richmond,Pawcatuck,Public
+1350,11/13/2011,unk,28,Buckshorn Brook,Coventry,Quinebaug,Public
+1351,11/27/2011,unk,45,Buckshorn Brook,Coventry,Quinebaug,Public
+1352,11/29/2011,unk,36,Mooseup River,Foster,Quinebaug,Public
+1353,11/29/2011,unk,32,West Meadow Brook,Foster,Quinebaug,Public
+1354,12/4/2011,unk,42,West Meadow Brook,Foster,Quinebaug,Public
+1355,12/4/2011,unk,32,West Meadow Brook,Foster,Quinebaug,Public
+1356,12/11/2011,unk,37,Mooseup River,Foster,Quinebaug,Public
+1357,12/11/2011,unk,41,Mooseup River,Foster,Quinebaug,Public
+1358,12/14/2011,unk,32,Mooseup River,Foster,Quinebaug,Public
+1359,1/8/2012,unk,38,Tucker Hollow Road (Dolly Cole Brook),Foster,Pawtuxet,Public
+1360,1/9/2012,unk,36,Tucker Hollow Road (Dolly Cole Brook),Foster,Pawtuxet,Public
+1361,12/16/2011,F,39,Wood River,Exeter,Pawcatuck,Public
+1362,12/21/2011,M,26,Wood River,Exeter,Pawcatuck,Public
+1363,12/23/2011,F,34,Pawcatuck River,Richmond,Pawcatuck,Public
+1364,12/27/2011,M,22,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+1365,2/10/2012,M,35,Silver Lake (aka Sucker Pond),Burrillville,Blackstone,Public
+1366,2/11/2012,F,33,Silver Lake (aka Sucker Pond),Burrillville,Blackstone,Public
+1367,3/2/2012,F,41,61 Joslin Road,Burrillville,Blackstone,Public
+1368,1/17/2012,F,43,Pawcatuck River,Richmond,Pawcatuck,Public
+1369,2/3/2012,M,42,Pawcatuck River,Richmond,Pawcatuck,Public
+1370,2/21/2012,F,20,Wood River,Richmond,Pawcatuck,Public
+1371,3/4/2012,M,42,Wood River,Richmond,Pawcatuck,Public
+1372,12/29/2011,F,29,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1373,12/29/2011,M,48,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1374,12/29/2011,M,38,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Public
+1375,11/18/2011,?,22,Putnam Pike/ Rt 44,Glocester,unknown,Public
+1376,12/5/2011,?,7,Chopmist Hill rd/ Rt 102,Glocester,Pawcatuck,Public
+1377,12/16/2011,M,48,Peck Pond,Burrillville,Quinebaug,Public
+1378,12/17/2011,M,34,Big Round Top Pond,Burrillville,Blackstone,Public
+1379,12/17/2011,M,33,Peck Pond,Burrillville,Quinebaug,Public
+1380,12/17/2011,F,34,Peck Pond,Burrillville,Quinebaug,Public
+1381,12/18/2011,F,60,Peck Pond,Burrillville,Quinebaug,Public
+1382,12/18/2011,M,34,Peck Pond,Burrillville,Quinebaug,Public
+1383,2/24/2012,M,40,Big Round Top Pond,Burrillville,Blackstone,Public
+1384,11/11/2011,M,15,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1385,11/11/2011,M,35,Rounds Lane (PWSB),Foster,Pawtuxet,Public
+1386,11/11/2011,F,28,Rounds Lane (PWSB),Foster,Pawtuxet,Public
+1387,11/11/2011,F,22,Rounds Lane (PWSB),Foster,Pawtuxet,Public
+1388,12/11/2011,M,25,Rounds Lane (PWSB),Foster,Pawtuxet,Public
+1389,12/11/2011,F,42,Rounds Lane (PWSB),Foster,Pawtuxet,Public
+1390,12/11/2011,M,18,Rounds Lane (PWSB),Foster,Pawtuxet,Public
+1391,12/11/2011,M,20,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1392,12/19/2011,M,30,unknown location,Scituate,unknown,Public
+1393,2/3/2012,M,50,unknown location,West Greenwich,unknown,Public
+1394,2/3/2012,M,50,unknown location,West Greenwich,unknown,Public
+1395,2/3/2012,F,35,unknown location,West Greenwich,unknown,Public
+1396,2/3/2012,F,35,unknown location,West Greenwich,unknown,Public
+1397,2/3/2012,K,15,unknown location,West Greenwich,unknown,Public
+1398,2/3/2012,K,15,unknown location,West Greenwich,unknown,Public
+1399,2/4/2012,M,45,Big River,West Greenwich,Pawtuxet,Public
+1400,2/4/2012,M,44,Big River,West Greenwich,Pawtuxet,Public
+1401,2/16/2012,K,15,unknown location,West Greenwich,unknown,Public
+1402,2/16/2012,K,15,unknown location,West Greenwich,unknown,Public
+1403,2/16/2012,K,15,unknown location,West Greenwich,unknown,Public
+1404,2/16/2012,M,50,unknown location,West Greenwich,unknown,Public
+1405,2/16/2012,F,38,unknown location,West Greenwich,unknown,Public
+1406,2/16/2012,M,42,unknown location,West Greenwich,unknown,Public
+1407,2/17/2012,F,40,unknown location,Exeter,unknown,Public
+1408,2/17/2012,M,45,unknown location,Exeter,unknown,Public
+1409,2/17/2012,M,48,unknown location,Exeter,unknown,Public
+1410,3/12/2012,M,40,unknown location,Coventry,unknown,Public
+1411,3/12/2012,F,15,unknown location,Coventry,unknown,Public
+1412,11/2/2011,M,35,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1413,12/4/2004,M,38,Big River,West Greenwich,Pawtuxet,Public
+1413,,unk,,unknown,unknown,unknown,Public
+1414,11/3/2011,F,46,Woody Hill Brook,Exeter,Pawcatuck,Public
+1415,11/3/2011,F,34,Steadmans Pond,Hopkinton,Pawcatuck,Public
+1416,2/22/2011,F,30,Greene,Coventry,Quinebaug,Public
+1417,11/2/2011,M,41,Near Sodco (Chipuxet River),North Kingstown,Pawcatuck,Public
+1418,11/4/2011,F,49,Near Sodco (Chipuxet River),North Kingstown,Pawcatuck,Public
+1419,11/10/2011,M,30,Millbrook Pond,Exeter,Pawcatuck,Public
+1420,11/10/2011,F,30,Millbrook Pond,Exeter,Pawcatuck,Public
+1421,11/12/2011,?,Kit,Millbrook Pond,Exeter,Pawcatuck,Public
+1422,12/3/2011,M,30,New London Turnpike (Carr River),West Greenwich,Pawtuxet,Public
+1423,12/4/2011,F,30,New London Turnpike (Carr River),West Greenwich,Pawtuxet,Public
+1424,1/23/2004,M,34,Nooseneck River,West Greenwich,Pawtuxet,Public
+1424,12/4/2011,?,Kit,New London Turnpike (Carr River),West Greenwich,Pawtuxet,Public
+1427,11/29/2012,unk,13,Chipuxet River,South Kingstown,Pawcatuck,Public
+1428,11/2/2012,F,25,Wood River,Hopkinton,Pawcatuck,Public
+1429,11/2/2012,M,10,Wood River,Hopkinton,Pawcatuck,Public
+1430,11/2/2012,F,36,Canochet Brook,Hopkinton,Pawcatuck,Public
+1431,11/2/2012,F,30,Canochet Brook,Hopkinton,Pawcatuck,Public
+1432,11/2/2012,F,36,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1433,11/3/2012,F,46,Canochet Brook,Hopkinton,Pawcatuck,Public
+1434,11/3/2012,F,36,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1435,11/4/2012,F,40,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1436,11/4/2012,M,24,Mount Tom Marsh (Woody Hill Brook),Exeter,Pawcatuck,Public
+1437,11/4/2012,F,45,Wood River,Hopkinton,Pawcatuck,Public
+1438,11/5/2012,F,48,Wood River,Hopkinton,Pawcatuck,Public
+1439,11/6/2012,M,15,Wood River,Hopkinton,Pawcatuck,Public
+1440,11/6/2012,F,13,Wood River,Hopkinton,Pawcatuck,Public
+1441,11/26/2012,F,38,White Brook,Richmond,Pawcatuck,Public
+1442,12/1/2012,F,44,Woody Hill Marsh,Westerly,Pawcatuck,Public
+1443,12/1/2012,M,14,Woody Hill Marsh,Westerly,Pawcatuck,Public
+1444,12/1/2012,M,16,Wood River,Hopkinton,Pawcatuck,Public
+1445,12/4/2012,F,10,Wood River,Hopkinton,Pawcatuck,Public
+1446,12/22/2012,F,34,White Brook,Richmond,Pawcatuck,Public
+1447,3/5/2013,F,44,Wood River,Hopkinton,Pawcatuck,Public
+1448,12/2/2012,F,25,Canochet Brook,Hopkinton,Pawcatuck,Public
+1449,12/6/2012,F,44,Wood River,Hopkinton,Pawcatuck,Public
+1450,12/14/2012,M,30,Wood River,Richmond,Pawcatuck,Public
+1451,12/16/2012,F,36,Canochet Brook,Hopkinton,Pawcatuck,Public
+1452,12/20/2012,M,24,Wood River,Exeter,Pawcatuck,Public
+1453,12/24/2012,F,38,White Brook,Richmond,Pawcatuck,Public
+1454,11/2/2012,F,42,Slocum Reservoir,Exeter,Pawcatuck,Public
+1455,11/2/2012,F,48,Slocum Reservoir,Exeter,Pawcatuck,Public
+1456,11/3/2012,F,14,Slocum Reservoir,Exeter,Pawcatuck,Public
+1457,11/22/2012,F,38,Wood River,Richmond,Pawcatuck,Public
+1458,12/4/2012,F,28,Pawcatuck River,Richmond,Pawcatuck,Public
+1459,12/6/2012,F,13,Pawcatuck River,Richmond,Pawcatuck,Public
+1460,11/6/2012,unk,35,West Meadow Brook,Foster,Quinebaug,Public
+1461,11/11/2012,unk,40,Moosup River,Foster,Quinebaug,Public
+1462,11/13/2012,unk,26,Moosup River,Foster,Quinebaug,Public
+1463,11/23/2012,unk,32,Moosup River,Foster,Quinebaug,Public
+1464,11/23/2012,unk,28,West Meadow Brook,Foster,Quinebaug,Public
+1465,11/30/2012,unk,42,West Meadow Brook,Foster,Quinebaug,Public
+1466,12/14/2012,unk,30,West Meadow Brook,Foster,Quinebaug,Public
+1467,11/3/2012,F,45,Hudson Pond,West Greenwich,Pawcatuck,Public
+1468,11/3/2012,M,30,Hudson Pond,West Greenwich,Pawcatuck,Public
+1469,11/3/2012,M,30,Hudson Pond,West Greenwich,Pawcatuck,Public
+1470,11/4/2012,M,30,Hudson Pond,West Greenwich,Pawcatuck,Public
+1471,12/12/2012,M,32,Bowdish Reservoir,Glocester,Quinebaug,Public
+1472,12/14/2012,M,42,Wilbur Pond,Glocester,Quinebaug,Public
+1473,12/20/2012,F,21,Wilbur Pond,Glocester,Quinebaug,Public
+1474,12/20/2012,M,21,Wilbur Pond,Glocester,Quinebaug,Public
+1475,12/23/2012,M,14,Wilbur Pond,Glocester,Quinebaug,Public
+1476,1/15/2013,F,33,Wilbur Pond,Glocester,Quinebaug,Public
+1477,12/24/2012,M,48,Slatersville Reservoir,Burrillville,Blackstone,Public
+1478,1/14/2013,M,43,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1479,1/15/2013,F,25,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1480,1/18/2013,M,25,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1481,1/5/2013,M,42,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+1482,3/8/2013,M,47,Pawtuxet River,Scituate,Pawtuxet,Public
+1483,1/4/2013,F,33,unnamed wetland,Burrillville,unknown,Public
+1484,1/5/2013,M,25,unnamed wetland,Burrillville,unknown,Public
+1485,1/9/2013,M,32,unnamed wetland,Burrillville,unknown,Public
+1486,2/3/2013,F,38,unknown location,Coventry,unknown,Public
+1487,2/3/2013,M,20,unknown location,Coventry,unknown,Public
+1488,2/4/2013,F,19,unknown location,Coventry,unknown,Public
+1489,2/4/2013,M,20,unknown location,Coventry,unknown,Public
+1490,2/5/2013,F,18,unknown location,Coventry,unknown,Public
+1491,2/5/2013,M,21,unknown location,Coventry,unknown,Public
+1492,2/6/2013,M,20,unknown location,Coventry,unknown,Public
+1493,1/19/2013,unk,19,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1494,1/21/2013,M,19,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1495,1/26/2013,M,34,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1496,2/6/2013,F,33,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+1497,12/9/2012,unk,52,Carr River,West Greenwich,Pawtuxet,Public
+1498,12/10/2012,unk,36,Queen's River,Exeter,Pawcatuck,Public
+1499,12/10/2012,unk,40,Carr River,West Greenwich,Pawtuxet,Public
+1500,12/14/2012,F,38,Queen's River,Exeter,Pawcatuck,Public
+1501,12/16/2012,F,36,Capwell Mill Pond,West Greenwich,Pawtuxet,Public
+1502,12/19/2012,F,38,Nooseneck River,West Greenwich,Pawtuxet,Public
+1503,12/21/2012,M,42,Nooseneck River,West Greenwich,Pawtuxet,Public
+1504,12/24/2012,M,48,Carbuncle Pond,Coventry,Quinebaug,Public
+1505,12/31/2012,M,36,Roaring Brook,Exeter,Pawcatuck,Public
+1506,1/3/2013,unk,18,Roaring Brook,Exeter,Pawcatuck,Public
+1507,1/6/2013,unk,30,Roaring Brook,Exeter,Pawcatuck,Public
+1508,1/26/2013,unk,36,Carr River,West Greenwich,Pawtuxet,Public
+1509,11/14/2012,M,25,Scituate Reservoir,Scituate,Pawtuxet,Public
+1510,1/10/2013,F,28,Round Top Pond,Burrillville,Blackstone,Public
+1511,1/10/2013,M,18,Round Top Pond,Burrillville,Blackstone,Public
+1512,1/14/2013,M,18,Round Top Pond,Burrillville,Blackstone,Public
+1513,1/14/2013,M,31,Clear River,Burrillville,Blackstone,Public
+1514,1/15/2013,M,30,Clear River,Burrillville,Blackstone,Public
+1515,1/16/2013,M,38,Round Top Pond,Burrillville,Blackstone,Public
+1516,1/27/2013,F,30,Shippee Sawmill Pond,Foster,Pawtuxet,Public
+1517,3/4/2013,F,25,Wood River,Hopkinton,Pawcatuck,Public
+1518,3/4/2013,unk,u,Wood River,Hopkinton,Pawcatuck,Public
+1519,12/10/2012,unk,35,unknown location,Exeter,unknown,Public
+1520,12/11/2012,unk,30,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1521,12/11/2012,unk,35,Pasquiset Pond,Charlestown,Pawcatuck,Public
+1529,11/17/2013,M,10,Blackstone River,Lincoln,Blackstone,Public
+1530,11/19/2013,F,15,Blackstone River,Lincoln,Blackstone,Public
+1531,12/3/2013,F,55,unnamed pond,Smithfield,unknown,Public
+1532,12/6/2013,M,30,unnamed pond,Smithfield,unknown,Public
+1533,12/6/2013,M,45,unnamed pond,Smithfield,unknown,Public
+1534,12/6/2013,F,40,unnamed pond,Smithfield,unknown,Public
+1535,12/8/2013,M,20,unnamed pond,Smithfield,unknown,Public
+1536,12/8/2013,F,15,unnamed pond,Smithfield,unknown,Public
+1537,12/8/2013,F,20,unnamed pond,Smithfield,unknown,Public
+1538,11/3/2013,F,39,Wood River,Hopkinton,Pawcatuck,Public
+1539,11/3/2013,F,39,White Brook,Richmond,Pawcatuck,Public
+1540,11/3/2013,M,9,unknown location,Exeter,unknown,Public
+1541,11/3/2013,F,10,unknown location,Exeter,unknown,Public
+1542,11/4/2013,F,41,unknown location,Exeter,unknown,Public
+1543,11/4/2013,F,9,unknown location,Exeter,unknown,Public
+1544,11/4/2013,M,28,White Brook,Richmond,Pawcatuck,Public
+1545,11/5/2013,F,29,Wood River,Hopkinton,Pawcatuck,Public
+1546,11/5/2013,F,7,Wood River,Hopkinton,Pawcatuck,Public
+1547,11/6/2013,F,41,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+1548,11/7/2013,F,43,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+1549,11/8/2013,M,14,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+1550,11/8/2013,F,27,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+1551,12/2/2013,F,36,Falls River,Exeter,Pawcatuck,Public
+1552,12/2/2013,M,40,Falls River,Exeter,Pawcatuck,Public
+1553,12/7/2013,F,34,Wood River,Hopkinton,Pawcatuck,Public
+1554,12/7/2013,F,27,Wood River,Hopkinton,Pawcatuck,Public
+1555,12/11/2013,M,31,Falls River,Exeter,Pawcatuck,Public
+1556,12/14/2013,F,20,Locustville Pond,Hopkinton,Pawcatuck,Public
+1557,12/23/2013,F,21,Locustville Pond,Hopkinton,Pawcatuck,Public
+1558,12/23/2013,F,21,Locustville Pond,Hopkinton,Pawcatuck,Public
+1559,1/9/2014,F,12,Chipuxet River,Exeter,Pawcatuck,Public
+1560,1/17/2014,M,37,unknown location,Charlestown,unknown,Public
+1561,11/3/2013,F,27,The Resevoir (Chipuxet River),Exeter,Pawcatuck,Public
+1562,11/4/2013,F,26,The Resevoir (Chipuxet River),Exeter,Pawcatuck,Public
+1563,11/3/2013,F,43,Liberty Brook,South Kingstown,Pawcatuck,Public
+1564,11/19/2013,F,41,Pawcatuck River,Richmond,Pawcatuck,Public
+1565,11/19/2013,F,40,Moscow Pond,Hopkinton,Pawcatuck,Public
+1566,12/25/2004,F,38,Roaring Brook,Coventry,Quinebaug,Public
+1566,11/11/2013,unk,30,West Meadow Brook,Foster,Quinebaug,Public
+1567,1/1/2005,F,32,Roaring Brook,Coventry,Quinebaug,Public
+1567,11/12/2013,unk,30,West Meadow Brook,Foster,Quinebaug,Public
+1568,12/5/2013,unk,34,Buckshorn Brook,Coventry,Quinebaug,Public
+1569,12/6/2013,unk,30,Quidneck Brook,Coventry,Pawtuxet,Public
+1570,12/8/2013,unk,24,Quidneck Brook,Coventry,Pawtuxet,Public
+1571,12/30/2013,unk,43,West Meadow Brook,Foster,Quinebaug,Public
+1572,12/30/2013,unk,29,West Meadow Brook,Foster,Quinebaug,Public
+1573,1/18/2014,unk,38,Quidneck Brook,Coventry,Pawtuxet,Public
+1574,1/19/2014,unk,26,Quidneck Brook,Coventry,Pawtuxet,Public
+1575,12/4/2013,unk,30,Moosup River,Coventry,Quinebaug,Public
+1576,12/5/2013,M,44,Moosup River,Coventry,Quinebaug,Public
+1577,12/5/2013,unk,18,Moosup River,Coventry,Quinebaug,Public
+1578,12/2/2013,M,12,Chipuxet River,South Kingstown,Pawcatuck,Public
+1579,12/2/2013,M,50,Chipuxet River,South Kingstown,Pawcatuck,Public
+1580,12/2/2013,F,45,Chipuxet River,South Kingstown,Pawcatuck,Public
+1581,12/3/2013,M,35,Chipuxet River,South Kingstown,Pawcatuck,Public
+1582,12/3/2013,F,30,Chipuxet River,South Kingstown,Pawcatuck,Public
+1583,12/7/2013,M,30,Greenhouse Brook,Coventry,Quinebaug,Public
+1584,11/2/2013,unk,u,unknown location,unknown,unknown,Public
+1585,12/2/2013,unk,u,unknown location,unknown,unknown,Public
+1586,12/2/2013,unk,u,unknown location,unknown,unknown,Public
+1587,11/19/2013,M,44,Camp KerAnna,Cumbeland,Blackstone,Public
+1588,12/2/2013,F,44,Round Top Pond,Burrillville,Blackstone,Public
+1589,12/3/2013,F,54,Round Top Pond,Burrillville,Blackstone,Public
+1590,12/3/2013,F,39,Clear River,Burrillville,Blackstone,Public
+1591,12/4/2013,M,28,Clear River,Burrillville,Blackstone,Public
+1592,12/4/2013,M,18,Round Top Pond,Burrillville,Blackstone,Public
+1593,12/31/2013,F,33,Round Top Pond,Burrillville,Blackstone,Public
+1594,2/2/2014,F,33,Herring Brook,Burrillville,Blackstone,Public
+1595,2/3/2014,M,31,Herring Brook,Burrillville,Blackstone,Public
+1596,2/27/2014,F,50,Abbott Run Brook,Cumbeland,Blackstone,Public
+1597,2/27/2014,M,46,Abbott Run Brook,Cumbeland,Blackstone,Public
+1598,11/15/2013,M,35,Scituate Reservoir,Scituate,Pawtuxet,Public
+1599,11/15/2013,F,42,Scituate Reservoir,Scituate,Pawtuxet,Public
+1600,12/2/2013,M,64,Scituate Reservoir,Scituate,Pawtuxet,Public
+1601,12/2/2013,M,51,Scituate Reservoir,Scituate,Pawtuxet,Public
+1602,12/18/2013,F,48,Scituate Reservoir,Scituate,Pawtuxet,Public
+1603,12/22/2013,F,38,Scituate Reservoir,Scituate,Pawtuxet,Public
+1604,12/24/2013,F,40,Scituate Reservoir,Scituate,Pawtuxet,Public
+1605,3/1/2014,unk,u,unknown location,unknown,unknown,Public
+1606,12/25/2013,unk,36,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+1607,11/23/2013,M,35,Bowdish Reservoir,Glocester,Quinebaug,Public
+1608,11/23/2013,M,33,Pulaski Pond (Peck Pond?),Burrillville,Quinebaug,Public
+1609,11/24/2013,F,33,Bowdish Reservoir,Glocester,Quinebaug,Public
+1610,2/24/2014,M,43,Clear River,Burrillville,Blackstone,Public
+1611,11/24/2013,unk,35,Cherry Valley Pond,Glocester,Blackstone,Public
+1612,11/24/2013,unk,25,Cherry Valley Pond,Glocester,Blackstone,Public
+1613,11/24/2013,unk,25,Cherry Valley Pond,Glocester,Blackstone,Public
+1614,11/24/2013,unk,15,Cherry Valley Pond,Glocester,Blackstone,Public
+1615,11/26/2013,M,35,Cherry Valley Pond,Glocester,Blackstone,Public
+1616,11/29/2013,unk,40,Cherry Valley Pond,Glocester,Blackstone,Public
+1617,12/2/2013,unk,48,Dexter Saunders Road (Hannah Brook),Glocester,Pawtuxet,Public
+1618,12/2/2013,unk,30,Cherry Valley Pond,Glocester,Blackstone,Public
+1619,12/2/2013,unk,15,Cherry Valley Pond,Glocester,Blackstone,Public
+1620,12/2/2013,F,35,Dexter Saunders Road (Hannah Brook),Glocester,Pawtuxet,Public
+1621,12/3/2013,unk,30,Cherry Valley Pond,Glocester,Blackstone,Public
+1622,2/26/2014,unk,15,Lake Aldersgate,Glocester,Pawtuxet,Public
+1623,2/28/2014,unk,35,Lake Aldersgate,Glocester,Pawtuxet,Public
+1624,3/1/2014,unk,30,Lake Aldersgate,Glocester,Pawtuxet,Public
+1625,3/1/2014,unk,25,Route 44 (roadkill),Glocester,unknown,Public
+1626,3/1/2014,unk,,unknown location,Glocester,unknown,Public
+1627,3/12/2014,unk,17,Dolly Pond,Exeter,Pawcatuck,Public
+1628,12/2/2013,M,38,Falls River,Exeter,Pawcatuck,Public
+1629,12/2/2013,F,31,Falls River,Exeter,Pawcatuck,Public
+1630,12/4/2013,unk,10,Falls River,Exeter,Pawcatuck,Public
+1631,12/4/2013,unk,10,Falls River,Exeter,Pawcatuck,Public
+1632,12/21/2013,F,43,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+1634,3/10/2014,F,50,Pawcatuck River,Hopkinton,Pawcatuck,Public
+1635,3/10/2014,F,27,Pawcatuck River,Hopkinton,Pawcatuck,Public
+1636,3/11/2014,M,27,Pawcatuck River,Hopkinton,Pawcatuck,Public
+1637,12/20/2013,M,58,unknown location,Coventry,unknown,Public
+1640,11/2/2014,F,39,Moscow Pond,Hopkinton,Pawcatuck,Public
+1641,11/3/2014,F,40,Moscow Pond,Hopkinton,Pawcatuck,Public
+1642,11/5/2014,F,42,Dolly Pond,Exeter,Pawcatuck,Public
+1643,11/6/2014,F,15,Dolly Pond,Exeter,Pawcatuck,Public
+1644,11/7/2014,F,11,Dolly Pond,Exeter,Pawcatuck,Public
+1645,11/7/2014,F,19,Locustville Pond,Hopkinton,Pawcatuck,Public
+1646,12/3/2014,M,21,Locustville Pond,Hopkinton,Pawcatuck,Public
+1647,12/5/2014,F,20,Locustville Pond,Hopkinton,Pawcatuck,Public
+1648,12/20/2014,F,49,Beaver River,Richmond,Pawcatuck,Public
+1649,12/21/2014,M,50,Beaver River,Richmond,Pawcatuck,Public
+1650,12/25/2014,F,14,Beaver River,Richmond,Pawcatuck,Public
+1651,12/5/2014,M,39,Wood River,Richmond,Pawcatuck,Public
+1652,12/15/2014,M,24,Tillinghast Pond,West Greenwich,Pawtuxet,Public
+1653,12/28/2014,M,30,Nooseneck River,West Greenwich,Pawtuxet,Public
+1654,12/2/2014,M,35,Buckeye Brook,Charlestown,Pawcatuck,Public
+1655,12/3/2014,F,30,Buckeye Brook,Charlestown,Pawcatuck,Public
+1656,12/3/2014,M,40,Buckeye Brook,Charlestown,Pawcatuck,Public
+1657,12/6/2014,F,35,Buckeye Brook,Charlestown,Quinebaug,Public
+1658,12/9/2014,M,30,Chipuxet River,South Kingstown,Pawcatuck,Public
+1659,12/9/2014,M,25,Chipuxet River,South Kingstown,Pawcatuck,Public
+1660,12/9/2014,F,30,Chipuxet River,South Kingstown,Pawcatuck,Public
+1661,12/18/2014,M,50,Buck Hill impoundment,Burrillville,Blackstone,Public
+1662,11/10/2014,F,40,Ponagansett River,Foster,Pawtuxet,Public
+1663,11/25/2014,F,44,Ponagansett River,Foster,Pawtuxet,Public
+1664,11/23/2014,M,20,Pawtuxet River,Scituate,Pawtuxet,Public
+1665,11/9/2014,F,33,Pawtuxet River,Scituate,Pawtuxet,Public
+1666,11/10/2014,F,12,Pawtuxet River,Scituate,Pawtuxet,Public
+1667,12/6/2014,F,35,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+1668,12/4/2014,M,40,Shippee Pond,Foster,Pawtuxet,Public
+1669,11/19/2014,M,30,unknown,Glocester,unknown,Public
+1670,11/20/2014,F,25,unknown,Glocester,unknown,Public
+1671,11/4/2014,F,8,Moscow Pond,Hopkinton,Pawcatuck,Public
+1672,12/26/2014,M,44,Pawcatuck River,Richmond,Pawcatuck,Public
+1673,12/2/2014,F,42,West Meadow Brook,Foster,Quinebaug,Public
+1674,12/2/2014,M,15,West Meadow Brook,Foster,Quinebaug,Public
+1675,12/3/2014,M,38,West Meadow Brook,Foster,Quinebaug,Public
+1676,12/5/2014,F,25,West Meadow Brook,Foster,Quinebaug,Public
+1677,12/7/2014,M,13,West Meadow Brook,Foster,Quinebaug,Public
+1678,12/12/2014,F,15,West Meadow Brook,Foster,Quinebaug,Public
+1679,12/13/2014,F,17,West Meadow Brook,Foster,Quinebaug,Public
+1680,12/18/2014,F,23,West Meadow Brook,Foster,Quinebaug,Public
+1681,12/22/2014,F,20,West Meadow Brook,Foster,Quinebaug,Public
+1682,12/31/2014,M,48,West Meadow Brook,Foster,Quinebaug,Public
+1683,1/2/2015,M,14,West Meadow Brook,Foster,Quinebaug,Public
+1684,1/4/2015,F,52,West Meadow Brook,Foster,Quinebaug,Public
+1685,11/17/2014,M,25,Betty Pond,Scituate,Pawtuxet,Public
+1686,11/18/2014,F,41,Betty Pond,Scituate,Pawtuxet,Public
+1687,11/18/2014,F,22,Betty Pond,Scituate,Pawtuxet,Public
+1688,12/5/2014,M,32,Peeptoad Pond,Scituate,Pawtuxet,Public
+1689,12/5/2014,F,36,Peeptoad Pond,Scituate,Pawtuxet,Public
+1690,12/15/2014,M,34,Malbourn Pond,Glocester,Blackstone,Public
+1691,12/17/2014,M,32,Malbourn Pond,Glocester,Blackstone,Public
+1692,12/22/2014,F,57,Malbourn Pond,Glocester,Blackstone,Public
+1693,12/5/2014,F,29,Chipuxet River,South Kingstown,Pawcatuck,Public
+1694,12/5/2014,F,28,Chipuxet River,South Kingstown,Pawcatuck,Public
+1695,12/28/2014,unk,25,Wakefield Pond,Burrillville,Quinebaug,Public
+1696,1/19/2015,M,11,Wakefield Pond,Burrillville,Quinebaug,Public
+1697,11/24/2014,M,45,Peck Pond,Burrillville,Quinebaug,Public
+1698,11/24/2014,M,26,Peck Pond,Burrillville,Quinebaug,Public
+1699,12/1/2014,M,26,Peck Pond,Burrillville,Quinebaug,Public
+1700,12/1/2014,F,30,Peck Pond,Burrillville,Quinebaug,Public
+1701,12/15/2014,F,54,Spring Grove Pond,Glocester,Blackstone,Public
+1702,12/21/2014,F,29,Big Round Top Pond,Burrillville,Blackstone,Public
+1703,12/21/2014,F,32,Big Round Top Pond,Burrillville,Blackstone,Public
+1704,1/26/2015,F,40,Big Round Top Pond,Burrillville,Blackstone,Public
+1705,1/26/2015,M,23,Clear River,Burrillville,Blackstone,Public
+1706,11/18/2014,unk,25,Sandy Brook Road,Glocester,Pawtuxet,Public
+1707,11/18/2014,unk,17,Sandy Brook Road,Glocester,Pawtuxet,Public
+1708,11/25/2014,M,45,Sandy Brook Road,Glocester,Pawtuxet,Public
+1709,11/26/2014,F,51,Sandy Brook Road,Glocester,Pawtuxet,Public
+1710,11/29/2014,M,46,Winsor Brook,Foster,Pawtuxet,Public
+1711,11/30/2014,F,34,Winsor Brook,Foster,Pawtuxet,Public
+1712,11/2/2004,M,18,Seldom Seen Farm pond (Evans Road),Glocester,Blackstone,Public
+1712,11/30/2014,F,32,Ponagansett River,Foster,Pawtuxet,Public
+1713,11/3/2004,M,38,Seldom Seen Farm pond (Evans Road),Glocester,Blackstone,Public
+1713,12/4/2014,F,48,Echo Lake (Pascoag Reservoir?),Glocester,Blackstone,Public
+1714,11/9/2004,F,36,Seldom Seen Farm pond (Evans Road),Glocester,Blackstone,Public
+1714,12/4/2014,M,50,Echo Lake (Pascoag Reservoir?),Glocester,Blackstone,Public
+1715,12/15/2014,unk,40,Ponagansett River,Foster,Pawtuxet,Public
+1716,12/15/2014,unk,50,Spring Grove Pond,Glocester,Blackstone,Public
+1717,12/28/2014,M,48,Tucker Hollow Road (Dolly Cole Brook),Foster,Pawtuxet,Public
+1718,12/29/2014,F,39,Tucker Hollow Road (Dolly Cole Brook),Foster,Pawtuxet,Public
+1719,1/5/2015,M,38,Chepachet River,Glocester,Blackstone,Public
+1720,1/7/2015,unk,32,Chepachet River,Glocester,Blackstone,Public
+1721,11/15/2014,unk,32,Fisherville Brook,Exeter,Pawcatuck,Public
+1722,11/15/2014,unk,10,Fisherville Brook,Exeter,Pawcatuck,Public
+1723,11/16/2014,unk,10,Fisherville Brook,Exeter,Pawcatuck,Public
+1724,11/20/2014,unk,10,Fisherville Brook,Exeter,Pawcatuck,Public
+1725,12/8/2014,unk,20,Fisherville Brook,Exeter,Pawcatuck,Public
+1726,11/6/2015,unk,39,Roaring Brook,Coventry,Quinebaug,Public
+1727,12/30/2015,unk,45,Roaring Brook,Coventry,Quinebaug,Public
+1728,11/18/2015,F,30,unnamed pond,Hopkinton,unknown,Public
+1729,,unk,u,unknown,unknown,unknown,Public
+1730,12/6/2015,F,41,Hopkinton City (Parmenter Brook),Hopkinton,Pawcatuck,Public
+1731,11/6/2015,F,32,Hopkins Pond,Exeter,Pawcatuck,Public
+1732,11/17/2015,M,15,Hopkins Pond,Exeter,Pawcatuck,Public
+1733,12/7/2015,M,30,Hopkinton City (Parmenter Brook),Hopkinton,Pawcatuck,Public
+1734,12/18/2015,F,36,Hopkins Pond,Exeter,Pawcatuck,Public
+1735,12/15/2015,F,21,Locustville Pond,Hopkinton,Pawcatuck,Public
+1736,12/18/2015,M,22,Locustville Pond,Hopkinton,Pawcatuck,Public
+1737,2/2/2016,M,36,Hopkins Pond,Exeter,Pawcatuck,Public
+1738,12/14/2015,F,34,Hopkins Pond,Exeter,Pawcatuck,Public
+1741,11/20/2015,F,48,Peeptoad Brook,Scituate,Pawtuxet,Public
+1742,11/21/2016,M,22,Peeptoad Brook,Scituate,Pawtuxet,Public
+1743,12/13/2015,F,57,Tarbox Pond,West Greenwich,Pawtuxet,Public
+1744,12/13/2015,M,54,Tarbox Pond,West Greenwich,Pawtuxet,Public
+1745,2/2/2016,unk,u,Clear River,Burrillville,Blackstone,Public
+1746,1/14/2016,M,25,Roaring Brook,Coventry,Quinebaug,Public
+1747,1/14/2016,F,10,Roaring Brook,Coventry,Quinebaug,Public
+1748,1/12/2005,F,25,White Horn Brook (URI),South Kingstown,Pawcatuck,Public
+1748,11/2/2015,M,30,unnamed pond,South Kingstown,unknown,Public
+1749,12/3/2015,M,42,Chipuxet River,South Kingstown,Pawcatuck,Public
+1750,12/4/2015,M,29,Chipuxet River,South Kingstown,Pawcatuck,Public
+1751,12/4/2015,F,23,Chipuxet River,South Kingstown,Pawcatuck,Public
+1752,1/12/2005,M,30,White Horn Brook (URI),South Kingstown,Pawcatuck,Public
+1752,12/25/2015,M,52,Congdon River,West Greenwich,Pawcatuck,Public
+1753,1/7/2016,M,45,Roaring Brook,Exeter,Pawcatuck,Public
+1754,2/26/2016,M,20,Wood River,Hopkinton,Pawcatuck,Public
+1755,11/13/2015,M,44,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1756,11/14/2015,M,12,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1757,11/23/2015,F,37,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1758,1/30/2016,F,35,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1759,11/15/2015,M,40,Moshassuck River,Lincoln,Moshassuck,Public
+1760,11/15/2015,F,25,Moshassuck River,Lincoln,Moshassuck,Public
+1761,11/22/2015,F,18,Moshassuck River,Lincoln,Moshassuck,Public
+1762,11/22/2015,F,22,Moshassuck River,Lincoln,Moshassuck,Public
+1763,11/22/2015,M,23,Moshassuck River,Lincoln,Moshassuck,Public
+1764,1/3/2016,F,33,Waterman Pond,Coventry,Quinebaug,Public
+1765,1/3/2016,F,43,Waterman Pond,Coventry,Quinebaug,Public
+1766,2/21/2016,M,44,Round Top Pond,Burrillville,Blackstone,Public
+1767,12/15/2015,F,42,Ponagansett River,Foster,Pawtuxet,Public
+1768,12/16/2015,M,27,Ponagansett River,Foster,Pawtuxet,Public
+1769,12/30/2015,M,43,Lake Bel Air ,North Smithfield,Blackstone,Public
+1770,1/15/2016,M,52,Hartford Pike,Scituate,Pawtuxet,Public
+1771,3/8/2016,M,33,Lake Bel Air ,North Smithfield,Blackstone,Public
+1772,3/9/2016,F,37,Lake Bel Air ,North Smithfield,Blackstone,Public
+1773,11/20/2015,M,48,unnamed pond,Coventry,unknown,Public
+1774,11/20/2015,M,46,unnamed pond,Coventry,unknown,Public
+1775,11/21/2015,F,42,unnamed pond,Coventry,unknown,Public
+1776,11/22/2015,F,35,unnamed pond,Coventry,unknown,Public
+1777,11/23/2015,M,27,unnamed pond,Coventry,unknown,Public
+1778,11/24/2015,M,u,unnamed pond,Coventry,unknown,Public
+1779,11/25/2015,F,u,unnamed pond,Coventry,unknown,Public
+1780,11/2/2015,F,10,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1781,11/3/2015,F,49,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1782,11/4/2015,F,10,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1783,12/17/2015,M,34,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1784,12/18/2015,F,27,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1785,12/23/2015,M,40,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1786,12/24/2015,F,10,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1787,1/4/2016,F,40,unnamed pond,Glocester,unknown,Public
+1788,1/4/2016,F,12,unnamed pond,Glocester,unknown,Public
+1789,1/8/2016,F,49,unnamed pond,Glocester,unknown,Public
+1790,1/8/2016,F,14,unnamed pond,Glocester,unknown,Public
+1791,1/10/2016,M,14,unnamed pond,Glocester,unknown,Public
+1792,1/11/2016,F,13,unnamed pond,Glocester,unknown,Public
+1793,12/25/2004,M,40,"unnamed stream, Old Snake Hill Road",Glocester,Blackstone,Public
+1793,11/13/2015,F,35,Betty Pond,Scituate,Pawtuxet,Public
+1794,12/20/2004,F,32,"unnamed stream, Old Snake Hill Road",Glocester,Blackstone,Public
+1794,11/14/2015,M,42,Betty Pond,Scituate,Pawtuxet,Public
+1795,1/10/2005,F,10,"unnamed stream, Old Snake Hill Road",Glocester,Blackstone,Public
+1795,11/20/2015,M,74,Kent Brook,Scituate,Pawtuxet,Public
+1796,12/25/2004,M,15,"unnamed stream, Old Snake Hill Road",Glocester,Blackstone,Public
+1796,11/30/2015,F,32,Kent Brook,Scituate,Pawtuxet,Public
+1797,1/12/2005,F,8,"unnamed stream, Old Snake Hill Road",Glocester,Blackstone,Public
+1797,12/2/2015,F,18,Kent Brook,Scituate,Pawtuxet,Public
+1798,12/2/2015,M,22,Kent Brook,Scituate,Pawtuxet,Public
+1799,12/4/2015,M,18,Kent Brook,Scituate,Pawtuxet,Public
+1800,12/5/2015,M,20,Kent Brook,Scituate,Pawtuxet,Public
+1801,12/10/2015,F,24,Kent Brook,Scituate,Pawtuxet,Public
+1802,1/1/2016,F,40,Westconnaug Brook,Scituate,Pawtuxet,Public
+1803,1/5/2016,M,28,Westconnaug Brook,Scituate,Pawtuxet,Public
+1804,1/7/2016,M,24,Westconnaug Brook,Scituate,Pawtuxet,Public
+1805,12/7/2015,unk,35,Punchbowl Trail,Richmond,Pawcatuck,Public
+1806,12/7/2015,unk,20,Chipuxet River,North Kingstown,Pawcatuck,Public
+1807,12/10/2015,unk,20,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1808,12/10/2015,unk,20,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1809,12/17/2015,unk,50,Cross Mills Pond,Charlestown,R. I. Sound,Public
+1810,12/20/2015,unk,45,Cross Mills Pond,Charlestown,R. I. Sound,Public
+1811,12/21/2015,unk,40,Cross Mills Pond,Charlestown,R. I. Sound,Public
+1812,12/25/2015,unk,35,Cross Mills Pond,Charlestown,R. I. Sound,Public
+1813,12/25/2015,unk,30,Punchbowl Trail,Richmond,Pawcatuck,Public
+1814,12/25/2015,unk,20,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1815,12/27/2015,unk,18,Cross Mills Pond,Charlestown,R. I. Sound,Public
+1816,2/15/2016,unk,25,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1817,2/16/2016,unk,40,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1818,2/25/2016,unk,30,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1819,3/10/2016,unk,50,Chipuxet River,North Kingstown,Pawcatuck,Public
+1820,3/12/2016,unk,30,Chipuxet River,North Kingstown,Pawcatuck,Public
+1821,3/13/2016,unk,40,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1822,3/19/2016,unk,40,Pasquisset Pond,Charlestown,Pawcatuck,Public
+1823,3/8/2016,F,35,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+1824,12/3/2015,F,37,Wood River,Richmond,Pawcatuck,Public
+1825,2/25/2016,F,43,Woody Hill Brook,Exeter,Pawcatuck,Public
+1826,2/26/2016,M,34,Woody Hill Brook,Exeter,Pawcatuck,Public
+1827,3/3/2016,F,24,Woody Hill Brook,Exeter,Pawcatuck,Public
+1828,12/17/2015,M,42,West Meadow Brook,Foster,Quinebaug,Public
+1829,12/18/2015,M,32,West Meadow Brook,Foster,Quinebaug,Public
+1830,12/19/2015,F,34,West Meadow Brook,Foster,Quinebaug,Public
+1831,3/13/2015,unk,17,West Meadow Brook,Foster,Quinebaug,
+1833,3/8/2016,unk,30,Pratt Pond,North Smithfield,Blackstone,Public
+1834,3/9/2016,unk,15,Pratt Pond,North Smithfield,Blackstone,Public
+1835,3/9/2016,unk,12,Pratt Pond,North Smithfield,Blackstone,Public
+1836,3/10/2016,unk,25,Pratt Pond,North Smithfield,Blackstone,Public
+1837,3/11/2016,M,55,Pratt Pond,North Smithfield,Blackstone,Public
+1838,3/12/2016,F,65,Pratt Pond,North Smithfield,Blackstone,Public
+1839,3/12/2016,unk,27,Pratt Pond,North Smithfield,Blackstone,Public
+1840,1/10/2016,M,47,unnamed pond,North Smithfield,unknown,Public
+1841,2/26/2016,M,39,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1842,2/27/2016,F,32,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1843,2/27/2016,F,34,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1844,2/28/2016,M,60,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1845,3/1/2016,F,31,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1846,3/1/2016,F,42,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1847,3/3/2016,F,46,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1848,3/4/2016,M,61,Mountaindale Reservoir,Smithfield,Woonasquatucket,Public
+1849,3/12/2016,unk,u,Knibb Rd. (Frye),Burrillville,Blackstone,Public
+1850,4/2/2016,M,30,Crookfall Brook,Lincoln,Blackstone,Nuisance
+1851,12/14/2014,M,34,Ponagansett River,Foster,Pawtuxet,Public
+1852,12/14/2014,F,38,Ponagansett River,Foster,Pawtuxet,Public
+1853,12/14/2014,M,35,Ponagansett River,Foster,Pawtuxet,Public
+1854,12/15/2014,F,34,Ponagansett River,Foster,Pawtuxet,Public
+1855,12/15/2014,F,34,Ponagansett River,Foster,Pawtuxet,Public
+1856,12/4/2015,M,30,Carr River,West Greenwich,Pawtuxet,Public
+1857,12/5/2015,M,44,Rathbon Pond,West Greenwich,Pawtuxet,Public
+1858,12/5/2015,unk,34,Capwell Mill Pond,West Greenwich,Pawtuxet,Public
+1859,12/5/2015,M,18,Carr River,West Greenwich,Pawtuxet,Public
+1860,12/5/2015,unk,30,Carr River,West Greenwich,Pawtuxet,Public
+1861,12/5/2015,unk,32,Capwell Mill Pond,West Greenwich,Pawtuxet,Public
+1862,12/5/2015,F,47,Rathbon Pond,West Greenwich,Pawtuxet,Public
+1863,11/4/2016,M,56,Sylvia's Brook,Cumberland,Blackstone,Public
+1864,11/4/2016,F,25,Sylvia's Brook,Cumberland,Blackstone,Public
+1865,11/5/2016,M,34,Sylvia's Brook,Cumberland,Blackstone,Public
+1866,11/5/2016,M,28,Sylvia's Brook,Cumberland,Blackstone,Public
+1867,11/7/2016,M,30,Sylvia's Brook,Cumberland,Blackstone,Public
+1868,11/7/2016,F,50,Sylvia's Brook,Cumberland,Blackstone,Public
+1869,11/9/2016,F,2,Sylvia's Brook,Cumberland,Blackstone,Public
+1870,11/11/2016,M,20,Sylvia's Brook,Cumberland,Blackstone,Public
+1871,11/12/2016,F,17,Sylvia's Brook,Cumberland,Blackstone,Public
+1872,11/13/2016,M,17,Sylvia's Brook,Cumberland,Blackstone,Public
+1873,11/3/2016,F,55,Ponagansett River,Foster,Pawtuxet,Public
+1874,11/3/2016,F,42,Ponagansett River,Foster,Pawtuxet,Public
+1875,11/3/2016,M,34,Ponagansett River,Foster,Pawtuxet,Public
+1876,11/4/2016,M,44,Moosup River,Foster,Quinebaug,Public
+1877,11/6/2016,F,31,Moosup River,Foster,Quinebaug,Public
+1878,11/25/2016,M,43,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1879,11/25/2016,F,40,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+1880,11/26/2016,M,21,Bowdish Reservoir,Glocester,Quinebaug,Public
+1881,11/26/2016,M,31,Carbuncle Brook,Coventry,Quinebaug,Public
+1882,11/27/2016,M,26,Carbuncle Brook,Coventry,Quinebaug,Public
+1883,11/28/2016,F,29,Carbuncle Brook,Coventry,Quinebaug,Public
+1884,11/3/2016,F,13,unknown,Exeter,unknown,Public
+1885,11/4/2016,M,16,unknown,Exeter,unknown,Public
+1886,11/4/2016,M,14,unknown,Exeter,unknown,Public
+1887,11/24/2016,F,15,Brushy Brook,Hopkinton,Pawcatuck,Public
+1888,12/11/2016,F,38,White Brook,Richmond,Pawcatuck,Public
+1889,12/20/2016,F,13,White Brook,Richmond,Pawcatuck,Public
+1890,11/9/2016,F,32,Chipuxet River,Exeter,Pawcatuck,Public
+1891,12/29/2016,F,12,Beaver River,Richmond,Pawcatuck,Public
+1892,12/29/2016,F,13,Beaver River,Richmond,Pawcatuck,Public
+1893,12/30/2016,F,41,Beaver River,Richmond,Pawcatuck,Public
+1894,12/31/2016,F,33,Beaver River,Richmond,Pawcatuck,Public
+1895,12/31/2016,F,15,Beaver River,Richmond,Pawcatuck,Public
+1896,1/2/2017,F,15,Beaver River,Richmond,Pawcatuck,Public
+1897,1/3/2017,M,17,Beaver River,Richmond,Pawcatuck,Public
+1898,1/6/2017,F,35,Dolly Cole Brook,Foster,Pawtuxet,Public
+1899,1/11/2017,F,35,Dolly Cole Brook,Foster,Pawtuxet,Public
+1900,1/19/2017,M,16,Dolly Cole Brook,Foster,Pawtuxet,Public
+1901,1/19/2017,M,43,Dolly Cole Brook,Foster,Pawtuxet,Public
+1902,1/20/2017,F,16,Dolly Cole Brook,Foster,Pawtuxet,Public
+1903,1/20/2017,F,44,Dolly Cole Brook,Foster,Pawtuxet,Public
+1904,1/25/2017,M,42,Dolly Cole Brook,Foster,Pawtuxet,Public
+1905,1/25/2017,M,13,Dolly Cole Brook,Foster,Pawtuxet,Public
+1906,1/26/2017,M,32,Dolly Cole Brook,Foster,Pawtuxet,Public
+1907,1/24/2017,F,44,Beaver River,Richmond,Pawcatuck,Public
+1908,1/22/2017,F,38,Newton's Marsh,Westerly,Pawcatuck,Public
+1909,1/25/2017,F,27,Beaver River,Richmond,Pawcatuck,Public
+1910,1/26/2017,M,15,Beaver River,Richmond,Pawcatuck,Public
+1911,1/27/2017,M,40,Beaver River,Richmond,Pawcatuck,Public
+1912,1/28/2017,F,14,Wood River,Richmond,Pawcatuck,Public
+1913,11/20/2016,F,49,unknown,Coventry,unknown,Public
+1914,11/21/2016,M,46,unknown,Coventry,unknown,Public
+1915,12/3/2016,M,47,Carr River,West Greenwich,Pawtuxet,Public
+1916,12/4/2016,F,12,Tarbox Pond,West Greenwich,Pawtuxet,Public
+1917,12/4/2016,M,41,Tarbox Pond,West Greenwich,Pawtuxet,Public
+1918,12/4/2016,F,39,Rathbon Pond,West Greenwich,Pawtuxet,Public
+1919,12/17/2016,F,10,Roaring Brook,Coventry,Quinebaug,Public
+1920,12/18/2016,M,10,Roaring Brook,Coventry,Quinebaug,Public
+1921,12/24/2016,M,51,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1922,1/2/2017,M,17,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1923,1/13/2017,F,45,Cross Mills Pond,Charlestown,R. I. Sound,Public
+1924,1/25/2017,M,30,Cross Mills Pond,Charlestown,R. I. Sound,Public
+1925,11/19/2016,M,36,Cherry Brook,North Smithfield,Blackstone,Public
+1926,11/20/2016,M,14,Cherry Brook,North Smithfield,Blackstone,Public
+1927,11/21/2016,F,49,Cherry Brook,North Smithfield,Blackstone,Public
+1928,11/22/2016,F,36,Cherry Brook,North Smithfield,Blackstone,Public
+1929,11/23/2016,F,14,Cherry Brook,North Smithfield,Blackstone,Public
+1930,11/28/2016,M,53,Cherry Brook,North Smithfield,Blackstone,Public
+1931,11/28/2016,M,14,Cherry Brook,North Smithfield,Blackstone,Public
+1932,11/30/2016,F,12,Cherry Brook,North Smithfield,Blackstone,Public
+1933,12/1/2016,M,11,Cherry Brook,North Smithfield,Blackstone,Public
+1934,12/8/2016,M,20,Primrose Pond,North Smithfield,Woonasquatucket,Public
+1935,12/8/2016,F,21,Primrose Pond,North Smithfield,Woonasquatucket,Public
+1936,12/9/2016,F,41,Primrose Pond,North Smithfield,Woonasquatucket,Public
+1937,12/13/2016,F,17,Primrose Pond,North Smithfield,Woonasquatucket,Public
+1938,12/31/2016,M,47,Branch River,North Smithfield,Blackstone,Public
+1939,12/31/2016,F,38,Branch River,North Smithfield,Blackstone,Public
+1940,1/4/2017,F,40,Branch River,North Smithfield,Blackstone,Public
+1941,1/5/2017,M,37,Branch River,North Smithfield,Blackstone,Public
+1942,1/29/2017,F,50,Branch River,North Smithfield,Blackstone,Public
+1943,1/20/2017,M,36,Shippee Brook,Foster,Pawtuxet,Public
+1944,1/20/2017,M,17,Shippee Brook,Foster,Pawtuxet,Public
+1945,1/21/2017,F,35,Ponagansett River,Foster,Pawtuxet,Public
+1946,1/22/2017,M,30,Ponagansett River,Foster,Pawtuxet,Public
+1947,1/22/2017,F,34,Shippee Brook,Foster,Pawtuxet,Public
+1948,1/13/2017,M,39,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1949,1/15/2017,M,17,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1950,1/17/2017,F,17,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1951,2/26/2017,M,16,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1952,2/28/2017,M,15,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1953,2/28/2017,M,17,Arcadia Managemetn Area,Exeter,Pawcatuck,Public
+1954,11/8/2016,M,15,Ross Pond,Burrillville,Blackstone,Public
+1955,11/8/2016,M,35,Ross Pond,Burrillville,Blackstone,Public
+1956,11/10/2016,F,42,Ross Pond,Burrillville,Blackstone,Public
+1957,11/18/2016,M,37,Butterfly Pond,Lincoln,Moshassuck,Public
+1958,11/19/2016,F,39,Butterfly Pond,Lincoln,Moshassuck,Public
+1959,11/19/2016,M,45,Paine Brook,Foster,Pawtuxet,Public
+1960,11/19/2016,F,47,Paine Brook,Foster,Pawtuxet,Public
+1961,11/20/2016,M,15,Paine Brook,Foster,Pawtuxet,Public
+1962,11/20/2016,M,18,Paine Brook,Foster,Pawtuxet,Public
+1963,11/21/2016,F,16,Paine Brook,Foster,Pawtuxet,Public
+1964,12/8/2016,F,63,Frosty Hollow,Scituate,Pawtuxet,Public
+1965,12/8/2016,M,28,Frosty Hollow,Scituate,Pawtuxet,Public
+1966,12/10/2016,M,27,Frosty Hollow,Scituate,Pawtuxet,Public
+1967,12/10/2016,F,16,Frosty Hollow,Scituate,Pawtuxet,Public
+1968,12/11/2016,F,17,Frosty Hollow,Scituate,Pawtuxet,Public
+1969,12/13/2016,M,19,Frosty Hollow,Scituate,Pawtuxet,Public
+1970,12/14/2016,F,21,Frosty Hollow,Scituate,Pawtuxet,Public
+1971,1/15/2017,F,20,Westconnaug Reservoir,Foster,Pawtuxet,Public
+1972,1/16/2017,M,38,Westconnaug Reservoir,Foster,Pawtuxet,Public
+1973,1/16/2017,F,35,Westconnaug Reservoir,Foster,Pawtuxet,Public
+1974,11/22/2016,M,62,Pawtuxet River,Scituate,Pawtuxet,Public
+1975,11/22/2016,M,45,Pawtuxet River,Scituate,Pawtuxet,Public
+1976,11/24/2016,F,38,Pawtuxet River,Scituate,Pawtuxet,Public
+1977,11/25/2016,M,20,Pawtuxet River,Scituate,Pawtuxet,Public
+1978,11/10/2016,F,44,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1979,11/14/2016,F,12,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1980,12/1/2016,F,34,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1981,12/2/2016,M,20,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1982,12/27/2016,M,31,Slatersville Reservoir,North Smithfield,Blackstone,Public
+1983,12/6/2016,M,46,Moosup River,Foster,Quinebaug,Public
+1984,12/6/2016,M,40,Big River,Coventry,Pawtuxet,Public
+1985,1/5/2017,F,40,Big River,West Greenwich,Pawtuxet,Public
+1986,1/25/2017,M,52,Moosup River,Foster,Quinebaug,Public
+1987,2/2/2017,F,35,Roaring Brook,Coventry,Quinebaug,Public
+1988,2/15/2017,F,26,Breakheart Pond,Exeter,Pawcatuck,Public
+1989,12/3/2017,M,42,Arcadia Management Area,Exeter,Pawcatuck,Public
+1990,12/3/2017,F,43,Arcadia Management Area,Exeter,Pawcatuck,Public
+1991,11/2/2017,F,16,unknown,Exeter,unknown,Public
+1992,11/2/2017,F,18,unknown,Exeter,unknown,Public
+1993,11/2/2017,M,27,Liberty Lane,South Kingstown,Pawcatuck,Public
+1994,11/3/2017,M,17,unknown,Exeter,unknown,Public
+1995,11/5/2017,F,51,Dawley Park Road,Richmond,Pawcatuck,Public
+1996,11/3/2017,M,41,unknown,North Smithfield,unknown,Public
+1997,11/7/2017,F,44,unknown,North Smithfield,unknown,Public
+1998,11/9/2017,M,47,Woonasquatucket Reservoir,Smithfield,Woonasquatucket,Public
+1999,11/29/2017,M,42,Lake Bel Air,North Smithfield,Blackstone,Public
+2000,11/29/2017,F,44,Lake Bel Air,North Smithfield,Blackstone,Public
+2001,11/3/2017,M,32,Moosup River,Foster,Quinebaug,Public
+2002,11/4/2017,F,24,Moosup River,Foster,Quinebaug,Public
+2003,11/5/2017,M,37,Moosup River,Foster,Quinebaug,Public
+2004,12/6/2017,F,54,Moosup River,Foster,Quinebaug,Public
+2005,12/6/2017,F,14,Moosup River,Foster,Quinebaug,Public
+2006,12/7/2017,F,14,Moosup River,Foster,Quinebaug,Public
+2007,12/7/2017,M,14,Moosup River,Foster,Quinebaug,Public
+2008,12/13/2017,F,39,Cherry Valley Pond,Glocester,Blackstone,Public
+2009,12/13/2017,unk,10,Cherry Valley Pond,Glocester,Blackstone,Public
+2010,12/16/2017,unk,10,Cherry Valley Pond,Glocester,Blackstone,Public
+2011,12/16/2017,M,47,Cherry Valley Pond,Glocester,Blackstone,Public
+2012,2/16/2018,F,15,Worden's Pond,South Kingstown,Pawcatuck,Public
+2013,2/22/2018,F,36,Chase Hill Road,Hopkinton,Pawcatuck,Public
+2014,2/26/2018,F,40,Duck Pond Trail,Westerly,Pawcatuck,Public
+2015,2/27/2018,M,33,Diamond Bog,Richmond,Pawcatuck,Public
+2016,11/2/2017,M,33,unknown,Hopkinton,unknown,Public
+2017,12/1/2017,M,16,Moscow Pond,Hopkinton,Pawcatuck,Public
+2018,12/2/2017,F,22,Locustville Pond,Hopkinton,Pawcatuck,Public
+2019,12/3/2017,F,22,Locustville Pond,Hopkinton,Pawcatuck,Public
+2020,12/3/2017,F,33,Locustville Pond,Hopkinton,Pawcatuck,Public
+2021,12/4/2017,F,33,Locustville Pond,Hopkinton,Pawcatuck,Public
+2022,12/5/2018,F,42,Locustville Pond,Hopkinton,Pawcatuck,Public
+2023,3/2/2018,F,35,unknown,Exeter,unknown,Public
+2024,2/28/2018,F,17,unknown,Exeter,unknown,Public
+2025,2/26/2018,F,38,unknown,Exeter,unknown,Public
+2026,11/3/2017,F,36,unknown,Exeter,unknown,Public
+2027,2/27/2018,F,13,unknown,Exeter,unknown,Public
+2028,2/22/2018,F,28,Moosup River,Foster,Quinebaug,Public
+2029,2/22/2018,F,16,Moosup River,Foster,Quinebaug,Public
+2030,2/24/2018,M,42,Moosup River,Foster,Quinebaug,Public
+2031,2/25/2018,M,42,Bowdish Reservoir,Glocester,Quinebaug,Public
+2032,2/25/2018,F,39,Dolly Cole Brook,Foster,Pawtuxet,Public
+2033,2/26/2018,M,42,Dolly Cole Brook,Foster,Pawtuxet,Public
+2034,2/27/2018,F,36,Bowdish Reservoir,Glocester,Quinebaug,Public
+2035,2/27/2018,M,29,Moosup River,Foster,Quinebaug,Public
+2036,2/27/2018,M,19,Dolly Cole Brook,Foster,Pawtuxet,Public
+2037,2/28/2018,M,20,Moosup River,Foster,Quinebaug,Public
+2038,3/1/2018,F,16,Dolly Cole Brook,Foster,Pawtuxet,Public
+2039,3/1/2018,M,32,Dolly Cole Brook,Foster,Pawtuxet,Public
+2040,3/2/2018,F,12,Dolly Cole Brook,Foster,Pawtuxet,Public
+2041,3/1/2018,unk,35,Chipuxet River,North Kingstown,Pawcatuck,Public
+2042,3/2/2018,unk,35,Chipuxet River,North Kingstown,Pawcatuck,Public
+2043,3/4/2018,unk,45,Chipuxet River,North Kingstown,Pawcatuck,Public
+2044,3/4/2018,unk,40,Chipuxet River,North Kingstown,Pawcatuck,Public
+2045,3/7/2018,unk,45,Chipuxet River,North Kingstown,Pawcatuck,Public
+2046,3/11/2018,unk,30,Chipuxet River,North Kingstown,Pawcatuck,Public
+2047,3/12/2018,unk,25,Chipuxet River,North Kingstown,Pawcatuck,Public
+2048,11/15/2017,F,38,Boone Lake,Exeter,Pawcatuck,Public
+2049,11/16/2017,M,41,Boone Lake,Exeter,Pawcatuck,Public
+2050,11/17/2017,M,28,Boone Lake,Exeter,Pawcatuck,Public
+2051,11/17/2017,unk,15,Boone Lake,Exeter,Pawcatuck,Public
+2052,11/18/2017,unk,15,Boone Lake,Exeter,Pawcatuck,Public
+2053,11/18/2017,unk,15,Boone Lake,Exeter,Pawcatuck,Public
+2054,11/19/2017,unk,15,Boone Lake,Exeter,Pawcatuck,Public
+2055,11/19/2017,unk,15,Boone Lake,Exeter,Pawcatuck,Public
+2056,2/6/2018,M,40,Lake Aldersgate,Glocester,Pawtuxet,Public
+2057,2/10/2018,F,43,Lake Aldersgate,Glocester,Pawtuxet,Public
+2058,2/17/2018,M,36,Shippee Brook,Foster,Pawtuxet,Public
+2059,2/17/2018,F,31,Shippee Brook,Foster,Pawtuxet,Public
+2060,2/17/2018,F,26,Pine Orchard Road (Shingle Mill Pond),Glocester,Blackstone,Public
+2061,2/18/2018,M ,34,Ponagansett River,Foster,Pawtuxet,Public
+2062,2/20/2018,F,39,Dolly Cole Brook,Foster,Pawtuxet,Public
+2063,2/21/2018,F,37,Ponagansett River,Foster,Pawtuxet,Public
+2064,2/22/2018,M ,36,Ponagansett River,Foster,Pawtuxet,Public
+2065,2/22/2018,F,24,Ponagansett River,Foster,Pawtuxet,Public
+2066,2/23/2018,M,42,Peck Pond,Glocester,Quinebaug,Public
+2067,3/1/2018,M,37,Route 101,Foster,Pawtuxet,Public
+2068,3/1/2018,F,22,Moscow Pond,Hopkinton,Pawcatuck,Public
+2069,11/10/2017,M,28,unknown,Foster,unknown,Public
+2070,11/11/2017,F,32,Old Plainfield Pike,Foster,Pawtuxet,Public
+2071,11/12/2017,M,35,Wallum Lake,Burrillville,Blackstone,Public
+2072,11/13/2017,F,33,Wallum Lake,Burrillville,Blackstone,Public
+2073,12/1/2004,M,54,Paine Brook,Foster,Pawtuxet,Public
+2073,12/10/2017,F,15,Ponagansett Reservoir,Glocester,Pawtuxet,Public
+2074,12/1/2004,F,42,Paine Brook,Foster,Pawtuxet,Public
+2074,12/15/2017,F,22,Ponagansett Reservoir,Glocester,Pawtuxet,Public
+2075,3/5/2018,M,u,Peck Pond,Glocester,Quinebaug,Public
+2076,2/10/2018,M,17,Shippee Brook,Foster,Pawtuxet,Public
+2077,2/10/2018,M,19,Shippee Brook,Foster,Pawtuxet,Public
+2078,11/16/2017,F,46,Burnt Swamp Brook,Cumberland,Blackstone,Public
+2079,11/19/2017,M,48,Burnt Swamp Brook,Cumberland,Blackstone,Public
+2080,11/20/2017,F,15,Burnt Swamp Brook,Cumberland,Blackstone,Public
+2081,11/21/2017,M,16,Burnt Swamp Brook,Cumberland,Blackstone,Public
+2082,12/6/2017,F,38,Tarkiln Brook (Evans Road),Glocester,Blackstone,Public
+2083,12/7/2017,M,48,Tarkiln Brook (Evans Road),Glocester,Blackstone,Public
+2084,2/23/2018,F,14,Peck Pond,Glocester,Quinebaug,Public
+2085,2/23/2018,F,38,Peck Pond,Glocester,Quinebaug,Public
+2086,2/27/2018,F,15,Round Top Brook,Burrillville,Blackstone,Public
+2087,2/27/2018,M,30,Round Top Brook,Burrillville,Blackstone,Public
+2088,1/3/2018,M,36,Breakheart Pond,Exeter,Pawcatuck,Public
+2089,1/5/2018,F,41,Tarbox Pond,West Greenwich,Pawtuxet,Public
+2090,2/18/2005,F,23,Romanoff's Pond,Richmond,Pawcatuck,Public
+2090,1/5/2018,M,36,Roaring Brook,Richmond,Pawcatuck,Public
+2091,1/7/2018,M,16,Breakheart Pond,Exeter,Pawcatuck,Public
+2092,1/8/2018,M,8,Tarbox Pond,West Greenwich,Pawtuxet,Public
+2093,1/9/2018,M,16,Breakheart Pond,Exeter,Pawcatuck,Public
+2094,1/13/2018,M,20,Breakheart Pond,Exeter,Pawcatuck,Public
+2095,1/25/2018,F,32,Tillinghast Pond,West Greenwich,Pawtuxet,Public
+2096,1/25/2018,F,14,Tillinghast Pond,West Greenwich,Pawtuxet,Public
+2097,1/25/2018,M,12,Tillinghast Pond,West Greenwich,Pawtuxet,Public
+2098,1/29/2018,F,10,Tillinghast Pond,West Greenwich,Pawtuxet,Public
+2099,3/14/2018,F,48,Long Brook,Cumberland,Blackstone,Public
+2100,1/23/2018,F,35,Blackstone River,North Smithfield,Blackstone,Public
+2101,2/5/2018,F,40,Blackstone River,North Smithfield,Blackstone,Public
+2102,12/18/2017,M,35,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2103,12/18/2017,F,35,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2104,2/20/2018,F,40,Grist Mill Pond,Richmond,Pawcatuck,Public
+2105,2/21/2018,F,35,Grist Mill Pond,Richmond,Pawcatuck,Public
+2106,4/10/2018,F,45,Long Brook,Cumberland,Blackstone,Public
+2107,4/10/2018,F,18,Long Brook,Cumberland,Blackstone,Public
+2108,5/7/2018,M,39,Burnt Swamp Brook,Cumberland,Blackstone,Public
+2109,12/4/2018,M,44,Woody Hill Mgt. Area impoundment,Westerly,Pawcatuck,Public
+2110,11/5/2018,F,57,unknown location,Smithfield,unknown,Public
+2111,11/7/2018,M,60,unknown location,Smithfield,unknown,Public
+2112,11/18/2018,M,30,Lake Bel Air,North Smithfield,Blackstone,Public
+2113,11/23/2018,M,28,Lake Bel Air,North Smithfield,Blackstone,Public
+2114,11/2/2018,F,37,Wood River,Hopkinton,Pawcatuck,Public
+2115,11/5/2018,F,40,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2116,11/11/2018,M,15,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2117,11/12/2018,F,43,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2118,11/13/2018,F,15,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2119,11/17/2018,F,15,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2120,12/31/2018,M,17,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2121,12/8/2018,M,48,Crow Brook,Coventry,Quinebaug,Public
+2122,12/8/2018,F,34,Crow Brook,Coventry,Quinebaug,Public
+2123,12/24/2018,M,15,Carr River (New London Tpk),West Greenwich,Pawtuxet,Public
+2124,12/24/2018,F,14,Carr River (New London Tpk),West Greenwich,Pawtuxet,Public
+2125,12/24/2018,M,15,Carr River (New London Tpk),West Greenwich,Pawtuxet,Public
+2126,12/25/2018,unk,16,Carr River (New London Tpk),West Greenwich,Pawtuxet,Public
+2127,12/7/2018,M,42,Moosup River,Foster,Quinebaug,Public
+2128,12/7/2018,F,33,Moosup River,Foster,Quinebaug,Public
+2129,12/12/2018,F,17,unknown location,West Greenwich,unknown,Public
+2130,12/12/2018,F,14,unknown location,West Greenwich,unknown,Public
+2131,12/12/2018,M,33,Moosup River,Foster,Quinebaug,Public
+2132,12/15/2018,F,46,unknown location,West Greenwich,unknown,Public
+2133,12/15/2018,F,34,Dolly Cole Brook,Foster,Pawtuxet,Public
+2134,12/17/2018,M,43,unknown location,West Greenwich,unknown,Public
+2135,12/11/2018,M,30,Round Top Pond,Burrillville,Blackstone,Public
+2136,1/10/2019,F,50,Meadowbrook Pond,Richmond,Pawcatuck,Public
+2137,1/11/2019,M,42,Meadowbrook Pond,Richmond,Pawcatuck,Public
+2138,1/12/2019,F,23,Meadowbrook Pond,Richmond,Pawcatuck,Public
+2139,1/18/2019,F,39,Pawcatuck River,Richmond,Pawcatuck,Public
+2140,1/22/2019,unk,32,Pawcatuck River,Richmond,Pawcatuck,Public
+2141,2/4/2019,unk,22,Pawcatuck River,Richmond,Pawcatuck,Public
+2142,12/4/2018,unk,55,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+2143,12/4/2018,unk,33,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+2144,12/9/2018,unk,50,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+2145,1/13/2019,M,32,Mowry Meadow (Killingly M.A.),Glocester,Quinebaug,Public
+2146,11/2/2018,F,33,unknown location,Richmond,unknown,Public
+2147,11/3/2018,F,28,unknown location,Richmond,unknown,Public
+2148,3/3/2019,F,35,unknown location,Richmond,unknown,Public
+2149,11/2/2018,F,35,Canochet Brook,Hopkinton,Pawcatuck,Public
+2150,11/2/2018,F,45,Canochet Brook,Hopkinton,Pawcatuck,Public
+2151,11/3/2018,F,29,Canochet Brook,Hopkinton,Pawcatuck,Public
+2152,12/1/2018,F,15,Locustville Pond,Hopkinton,Pawcatuck,Public
+2153,12/2/2018,F,19,Moscow Pond,Hopkinton,Pawcatuck,Public
+2154,2/9/2019,M,42,Wood River,Hopkinton,Pawcatuck,Public
+2155,,unk,u,unknown location,unknown,unknown,Public
+2156,2/9/2019,M,42,Wood River,Hopkinton,Pawcatuck,Public
+2157,12/22/2018,M,20,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2158,12/28/2018,F,36,Cherry Valley Pond,Glocester,Blackstone,Public
+2159,12/29/2018,M,30,Cherry Valley Pond,Glocester,Blackstone,Public
+2160,1/9/2019,M,22,Cherry Valley Pond,Glocester,Blackstone,Public
+2161,11/4/2018,M,27,Sindelar (Jackson Schoolhouse Road),Burrillville,Blackstone,Public
+2162,11/4/2018,F,34,Sindelar (Jackson Schoolhouse Road),Burrillville,Blackstone,Public
+2163,11/5/2018,M,52,Absalona Hill Road,Glocester,Blackstone,Public
+2164,11/7/2018,F,47,Absalona Hill Road,Glocester,Blackstone,Public
+2165,11/9/2018,F,36,Absalona Hill Road,Glocester,Blackstone,Public
+2166,11/9/2018,F,35,Absalona Hill Road,Glocester,Blackstone,Public
+2167,11/10/2018,M,15,Absalona Hill Road,Glocester,Blackstone,Public
+2168,11/11/2018,M,18,Absalona Hill Road,Glocester,Blackstone,Public
+2169,11/11/2018,F,16,Absalona Hill Road,Glocester,Blackstone,Public
+2170,11/15/2018,F,22,Absalona Hill Road,Glocester,Blackstone,Public
+2171,11/17/2018,M,35,Absalona Hill Road,Glocester,Blackstone,Public
+2172,11/21/2018,F,42,Stone Dam Pond,Glocester,Blackstone,Public
+2173,11/23/2018,M,38,Stone Dam Pond,Glocester,Blackstone,Public
+2174,12/1/2018,M,48,South Killingly Road (Clark Pond),Foster,Quinebaug,Public
+2175,12/3/2018,F,42,South Killingly Road (Clark Pond),Foster,Quinebaug,Public
+2176,12/4/2018,F,36,South Killingly Road (Clark Pond),Foster,Quinebaug,Public
+2177,12/5/2018,M,39,South Killingly Road (Clark Pond),Foster,Quinebaug,Public
+2178,12/5/2018,M,18,South Killingly Road (Clark Pond),Foster,Quinebaug,Public
+2179,12/10/2018,F,17,South Killingly Road (Clark Pond),Foster,Quinebaug,Public
+2180,12/15/2018,M,17,South Killingly Road (Clark Pond),Foster,Quinebaug,Public
+2181,12/12/2018,F,56,Nipmuc Road,Scituate,Pawtuxet,Public
+2182,12/12/2018,M,48,Nipmuc Road,Scituate,Pawtuxet,Public
+2183,12/13/2018,M,42,Nipmuc Road,Scituate,Pawtuxet,Public
+2184,12/13/2018,M,28,Nipmuc Road,Scituate,Pawtuxet,Public
+2185,12/15/2018,F,26,Nipmuc Road,Scituate,Pawtuxet,Public
+2186,12/17/2018,M,28,Nipmuc Road,Scituate,Pawtuxet,Public
+2187,12/18/2018,F,16,Nipmuc Road,Scituate,Pawtuxet,Public
+2188,12/24/2018,M,15,Nipmuc Road,Scituate,Pawtuxet,Public
+2189,12/27/2018,F,16,Nipmuc Road,Scituate,Pawtuxet,Public
+2190,1/2/2019,F,18,Nipmuc Road,Scituate,Pawtuxet,Public
+2191,1/5/2019,M,14,Nipmuc Road,Scituate,Pawtuxet,Public
+2192,1/7/2019,M,28,Barden Reservoir,Foster,Pawtuxet,Public
+2193,1/9/2019,F,41,Barden Reservoir,Foster,Pawtuxet,Public
+2194,1/9/2019,M,32,Barden Reservoir,Foster,Pawtuxet,Public
+2195,1/10/2019,M,27,Barden Reservoir,Foster,Pawtuxet,Public
+2196,1/10/2019,F,18,Barden Reservoir,Foster,Pawtuxet,Public
+2197,1/15/2019,M,17,Barden Reservoir,Foster,Pawtuxet,Public
+2198,1/15/2019,M,17,Barden Reservoir,Foster,Pawtuxet,Public
+2199,12/8/2018,M,34,Burlingame Reservoir (Durfee Hill MA),Glocester,Blackstone,Public
+2200,2/11/2019,M,43,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+2201,2/11/2019,F,36,Killingly Pond,Glocester,Quinebaug,Public
+2202,2/22/2019,M,23,Wickaboxet Mgt. Area,West Greenwich,Pawcatuck,Public
+2203,2/23/2019,F,29,Wickaboxet Mgt. Area,West Greenwich,Pawcatuck,Public
+2204,12/1/2018,M,20,Maple Root Pond,Coventry,Pawtuxet,Public
+2205,12/11/2018,M,42,Crow Brook,Coventry,Quinebaug,Public
+2206,2/1/2019,F,19,Moscow Pond,Hopkinton,Pawcatuck,Public
+2207,12/11/2004,M,47,Mishnock River,Coventry,Pawtuxet,Public
+2207,11/9/2018,M,48,Highland Office Park pond,Woonsocket,Blackstone,Public
+2208,12/12/2004,M,32,Mishnock River,Coventry,Pawtuxet,Public
+2208,11/9/2018,F,47,Highland Office Park pond,Woonsocket,Blackstone,Public
+2209,11/10/2018,F,23,Highland Office Park pond,Woonsocket,Blackstone,Public
+2210,11/10/2018,F,23,Highland Office Park pond,Woonsocket,Blackstone,Public
+2211,11/10/2018,M,23,Highland Office Park pond,Woonsocket,Blackstone,Public
+2212,12/3/2018,F,35,Seldom Seen Farm pond (Evans Road),Glocester,Blackstone,Public
+2213,12/4/2018,M,39,Seldom Seen Farm pond (Evans Road),Glocester,Blackstone,Public
+2214,2/27/2019,F,24,Round Top Pond,Burrillville,Blackstone,Public
+2215,2/28/2019,F,24,Round Top Pond,Burrillville,Blackstone,Public
+2216,6/10/2019,unk,unk,Diamond Bog,Richmond,Pawcatuck,Public
+2217,11/30/2019,F,50,Blackstone River,Lincoln,Blackstone,Public
+2218,12/1/2019,M,55,Blackstone River,Lincoln,Blackstone,Public
+2219,11/7/2019,F,27,Moosup Valley Road,Foster,Quinebaug,Public
+2220,11/11/2019,M,37,"Moosup River, Foster C.C.",Foster,Quinebaug,Public
+2221,11/12/2019,F,48,"Moosup River, Foster C.C.",Foster,Quinebaug,Public
+2222,11/12/2019,M,30,Centracchio,Scituate,Pawtuxet,Public
+2223,11/18/2019,F,12,"Moosup River, Foster C.C.",Foster,Quinebaug,Public
+2224,11/20/2019,F,13,"Moosup River, Foster C.C.",Foster,Quinebaug,Public
+2225,11/29/2019,M,13,Salisbury Road,Foster,Pawtuxet,Public
+2226,12/4/2019,M,15,Wood River (Arcadia),Exeter,Pawcatuck,Public
+2227,11/2/2019,M,32,Ashaway RV Park (Route 216),Hopkinon,Pawcatuck,Public
+2228,11/3/2019,F,34,Ashaway RV Park (Route 216),Hopkinon,Pawcatuck,Public
+2229,11/8/2019,F,25,Tomaquag Brook,Hopkinon,Pawcatuck,Public
+2230,11/20/2019,M,10,Tomaquag Brook,Hopkinon,Pawcatuck,Public
+2231,1/4/2020,unk,38,Tomaquag Brook,Hopkinon,Pawcatuck,Public
+2232,1/5/2020,unk,37,Wood River ,Hopkinon,Pawcatuck,Public
+2233,1/14/2020,unk,50,Wood River,Hopkinon,Pawcatuck,Public
+2234,1/14/2020,unk,12,Tomaquag Brook,Hopkinon,Pawcatuck,Public
+2235,11/2/2019,F,36,Pawcatuck River,Charlestown,Pawcatuck,Public
+2236,11/2/2019,F,44,Pawcatuck River,Charlestown,Pawcatuck,Public
+2237,11/2/2019,F,35,Moscow Brook,Hopkinon,Pawcatuck,Public
+2238,11/11/2019,F,31,Woody Hill Brook,Exeter,Pawcatuck,Public
+2239,11/11/2019,M,34,Woody Hill Brook,Exeter,Pawcatuck,Public
+2240,1/6/2020,F,47,Metcalf Estate,Exeter,Pawcatuck,Public
+2241,12/7/2019,F,15,Moscow Brook,Hopkinon,Pawcatuck,Public
+2242,12/18/2019,F,15,Moscow Brook,Hopkinon,Pawcatuck,Public
+2243,2/6/2020,F,18,Moscow Brook,Hopkinon,Pawcatuck,Public
+2244,2/6/2020,F,29,White Brook,Richmond,Pawcatuck,Public
+2245,2/10/2020,F,30,Woody Hill Brook,Exeter,Pawcatuck,Public
+2246,2/10/2020,M,28,Woody Hill Brook,Exeter,Pawcatuck,Public
+2247,11/16/2019,M,50,Parmenter Brook,Hopkinon,Pawcatuck,Public
+2248,11/17/2019,F,43,Parmenter Brook,Hopkinon,Pawcatuck,Public
+2249,11/17/2019,F,24,Parmenter Brook,Hopkinon,Pawcatuck,Public
+2250,11/2/2019,M,40,Spring Lake,Burrillville,Blackstone,Public
+2251,11/2/2019,M,10,Spring Lake,Burrillville,Blackstone,Public
+2252,11/3/2019,F,17,Spring Lake,Burrillville,Blackstone,Public
+2253,11/5/2019,F,47,Spring Lake,Burrillville,Blackstone,Public
+2254,11/5/2019,M,15,Spring Lake,Burrillville,Blackstone,Public
+2255,1/29/2020,M,12,Beaver River,Richmond,Pawcatuck,Public
+2256,1/29/2020,F,13,Beaver River,Richmond,Pawcatuck,Public
+2257,2/3/2020,F,13,Beaver River,Richmond,Pawcatuck,Public
+2258,2/15/2020,M,28,Wood River,Hopkinon,Pawcatuck,Public
+2259,3/4/2020,F,30,Moonshine Swamp,Richmond,Pawcatuck,Public
+2260,11/2/2004,F,37,New London Turnpike (Beaver River),Richmond,Pawcatuck,Public
+2260,3/4/2020,M,33,Moonshine Swamp,Richmond,Pawcatuck,Public
+2261,11/2/2004,F,15,New London Turnpike (Beaver River),Richmond,Pawcatuck,Public
+2261,2/29/2020,M,50,Meadow Brook,Richmond,Pawcatuck,Public
+2262,11/3/2004,F,15,New London Turnpike (Beaver River),Richmond,Pawcatuck,Public
+2262,12/2/2019,unk,u,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+2263,11/3/2004,M,41,New London Turnpike (Beaver River),Richmond,Pawcatuck,Public
+2263,12/3/2019,unk,u,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+2264,11/3/2004,M,14,New London Turnpike (Beaver River),Richmond,Pawcatuck,Public
+2264,12/4/2019,unk,u,Killingly Management Area,Glocester,Quinebaug,Public
+2265,12/23/2019,unk,u,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+2266,12/2/2019,unk,u,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+2267,12/28/2019,unk,35,Killingly Management Area,Glocester,Quinebaug,Public
+2268,12/30/2019,unk,20,Killingly Management Area,Glocester,Quinebaug,Public
+2269,1/1/2020,unk,20,Killingly Management Area,Glocester,Quinebaug,Public
+2270,1/5/2020,unk,45,Durfee Hill marsh (Durfee Hill M.A.),Glocester,Quinebaug,Public
+2271,1/26/2020,M,45,Killingly Management Area,Glocester,Quinebaug,Public
+2272,1/27/2020,F,38,Explorer Drive,North Kingstown,Pawcatuck,Public
+2273,1/29/2020,M,34,Explorer Drive,North Kingstown,Pawcatuck,Public
+2274,1/31/2020,M,36,Explorer Drive,North Kingstown,Pawcatuck,Public
+2275,2/7/2020,F,32,Explorer Drive,North Kingstown,Pawcatuck,Public
+2276,11/4/2019,F,41,4001 Diamond Hill Road,Cumberland,Blackstone,Public
+2277,1/25/2020,M,40,Hallville Pond,Exeter,Pawcatuck,Public
+2278,1/28/2020,M,25,Hallville Pond,Exeter,Pawcatuck,Public
+2279,1/30/2020,F,30,Hallville Pond,Exeter,Pawcatuck,Public
+2280,1/31/2020,F,40,Chpuxet River,Exeter,Pawcatuck,Public
+2281,2/1/2020,M,30,Chpuxet River,Exeter,Pawcatuck,Public
+2282,2/4/2020,M,30,Locke Brook,Exeter,Pawcatuck,Public
+2283,2/4/2020,F,30,Locke Brook,Exeter,Pawcatuck,Public
+2284,3/12/2020,unk,32,Canob Pond,Richmond,Pawcatuck,Public
+2285,2/17/2020,M,40,Stillwater Reservoir,Smithfield,Woonasquatucket,Public
+2286,3/11/2020,F,29,Woody Hill Brook,Exeter,Pawcatuck,Public
+2287,12/24/2019,M,44,Wakefield Pond,Burrillville,Quinebaug,Public
+2288,1/2/2020,M,34,Buck Hill impoundment,Burrillville,Blackstone,Public
+2289,1/7/2020,M,26,Buck Hill impoundment,Burrillville,Blackstone,Public
+2290,2/4/2020,F,34,Buck Hill impoundment,Burrillville,Blackstone,Public
+2291,2/8/2020,F,29,Buck Hill impoundment,Burrillville,Blackstone,Public
+2292,2/18/2020,F,44,Winsor Brook,Foster,Pawtuxet,Public
+2293,2/19/2020,M,35,Winsor Brook,Foster,Pawtuxet,Public
+2294,3/4/2020,M,18,Dolly Cole Brook,Foster,Pawtuxet,Public
+2295,3/4/2020,F,16,Dolly Cole Brook,Foster,Pawtuxet,Public
+2296,3/10/2020,M,33,Dolly Cole Brook,Foster,Pawtuxet,Public
+2297,2/12/2020,F,41,Foster Country Club (Moosup River),Foster,Quinebaug,Public
+2298,2/14/2020,M,28,Foster Country Club (Moosup River),Foster,Quinebaug,Public
+2299,2/27/2020,F,15,Foster Country Club (Moosup River),Foster,Quinebaug,Public
+2300,3/12/2020,F,25,Moosup Valley Road,Foster,Quinebaug,Public
+2301,3/13/2020,M,45,Moosup Valley Road,Foster,Quinebaug,Public
+2302,3/13/2020,F,17,Moosup Valley Road,Foster,Quinebaug,Public
+2303,3/14/2020,F,21,Moosup Valley Road,Foster,Quinebaug,Public
+2304,3/14/2020,F,24,Moosup Valley Road,Foster,Quinebaug,Public
+2305,3/14/2020,M,27,Moosup Valley Road,Foster,Quinebaug,Public
+2306,11/15/2019,M,42,Elmdale Road,Glocester,Pawtuxet,Public
+2307,11/18/2019,F,46,Elmdale Road,Glocester,Pawtuxet,Public
+2308,11/20/2019,F,21,Log Road (Latham Brook),Smithfield,Woonasquatucket,Public
+2309,11/21/2019,F,39,Log Road (Latham Brook),Smithfield,Woonasquatucket,Public
+2310,11/21/2019,F,42,Old Smithfield Road,North Smithfield,Blackstone,Public
+2311,11/25/2019,M,21,Log Road (Latham Brook),Smithfield,Woonasquatucket,Public
+2312,12/16/2019,M,40,Old Smithfield Road,North Smithfield,Blackstone,Public
+2313,11/26/2019,F,20,Log Road (Latham Brook),Smithfield,Woonasquatucket,Public
+2314,1/13/2020,M,23,Log Road (Latham Brook),Smithfield,Woonasquatucket,Public
+2315,3/14/2020,M,25,Log Road (Latham Brook),Smithfield,Woonasquatucket,Public
+2316,3/14/2020,F,53,Sisson Pond,Coventry,Quinebaug,Public
+2317,4/15/2020,F,49,"Rankin Path, Nipsachuck Swamp",North Smithfield,Woonasquatucket,Nuisance
+2318,4/15/2020,F,19,"Rankin Path, Nipsachuck Swamp",North Smithfield,Woonasquatucket,Nuisance
+2319,4/30/2020,F,38,Evans Road,Glocester,Blackstone,Nuisance
+2320,4/30/2020,M,31,Evans Road,Glocester,Blackstone,Nuisance
+2321,5/1/2020,M,30,Log Road (Latham Brook),Smithfield,Woonasquatucket,Nuisance
+2322,11/29/2019,M,39,Stump Pond (aka Coventry Center Pond),Coventry,Pawtuxet,Public
+2323,11/30/2019,M,17,Whaley Brook,Coventry,Pawtuxet,Public
+2324,12/1/2019,M,15,Whaley Brook,Coventry,Pawtuxet,Public
+2325,1/5/2020,M,44,Whaley Brook,Coventry,Pawtuxet,Public
+2326,1/5/2020,F,36,Whaley Brook,Coventry,Pawtuxet,Public
+2327,1/5/2020,M,15,Whaley Brook,Coventry,Pawtuxet,Public
+2328,11/2/2020,F,42,Great Grass Pond,Coventry,Quinebaug,Public
+2329,11/3/2020,F,54,Great Grass Pond,Coventry,Quinebaug,Public
+2330,11/3/2020,F,25,Great Grass Pond,Coventry,Quinebaug,Public
+2331,11/4/2020,F,14,Great Grass Pond,Coventry,Quinebaug,Public
+2332,11/4/2020,F,13,Great Grass Pond,Coventry,Quinebaug,Public
+2333,11/5/2020,M,43,Great Grass Pond,Coventry,Quinebaug,Public
+2334,11/5/2020,F,29,Roaring Brook,Coventry,Quinebaug,Public
+2335,11/7/2020,F,14,Great Grass Pond,Coventry,Quinebaug,Public
+2336,11/7/2020,M,48,Great Grass Pond,Coventry,Quinebaug,Public
+2337,11/7/2020,M,41,Great Grass Pond,Coventry,Quinebaug,Public
+2338,11/8/2020,M,30,Great Grass Pond,Coventry,Quinebaug,Public
+2339,11/9/2020,M,30,Great Grass Pond,Coventry,Quinebaug,Public
+2340,11/9/2020,F,33,Great Grass Pond,Coventry,Quinebaug,Public
+2341,11/14/2020,F,33,Great Grass Pond,Coventry,Quinebaug,Public
+2342,11/14/2020,M,47,Roaring Brook,Coventry,Quinebaug,Public
+2343,11/15/2020,F,45,Roaring Brook,Coventry,Quinebaug,Public
+2344,11/17/2020,F,26,Roaring Brook,Coventry,Quinebaug,Public
+2345,11/18/2020,M,14,Great Grass Pond,Coventry,Quinebaug,Public
+2346,11/18/2020,F,15,Great Grass Pond,Coventry,Quinebaug,Public
+2347,11/18/2020,F,38,Roaring Brook,Coventry,Quinebaug,Public
+2348,11/5/2020,F,34,Spencer Pond (Moosup Valley Road),Foster,Quinebaug,Public
+2349,11/7/2020,F,39,Old Plainfield Pike,Scituate,Pawtuxet,Public
+2350,11/19/2020,F,53,Moosup Valley Road,Foster,Quinebaug,Public
+2351,11/19/2020,M,31,Moosup Valley Road,Foster,Quinebaug,Public
+2352,11/19/2020,F,35,Moosup Valley Road,Foster,Quinebaug,Public
+2353,12/13/2020,M,38,Moosup Valley Road,Foster,Quinebaug,Public
+2354,11/24/2020,F,18,unknown,South Kingstown,unknown,Public
+2355,11/26/2020,M,43,unknown,South Kingstown,unknown,Public
+2356,12/2/2020,F,30,Chipuxet River,South Kingstown,Pawcatuck,Public
+2357,12/2/2020,M,33,Chipuxet River,South Kingstown,Pawcatuck,Public
+2358,12/2/2020,M,36,Chipuxet River,South Kingstown,Pawcatuck,Public
+2359,12/2/2020,F,23,Chipuxet River,South Kingstown,Pawcatuck,Public
+2360,12/2/2020,F,38,Chipuxet River,South Kingstown,Pawcatuck,Public
+2361,12/2/2020,unk,13,Chipuxet River,South Kingstown,Pawcatuck,Public
+2362,12/2/2020,unk,13,Chipuxet River,South Kingstown,Pawcatuck,Public
+2363,12/3/2020,M,32,Chipuxet River,South Kingstown,Pawcatuck,Public
+2364,12/3/2020,F,38,Chipuxet River,South Kingstown,Pawcatuck,Public
+2365,12/3/2020,F,25,Chipuxet River,South Kingstown,Pawcatuck,Public
+2366,12/3/2020,unk,11,Chipuxet River,South Kingstown,Pawcatuck,Public
+2367,12/3/2020,F,30,Chipuxet River,South Kingstown,Pawcatuck,Public
+2368,12/4/2020,M,39,Chipuxet River,South Kingstown,Pawcatuck,Public
+2369,12/4/2020,M,42,Chipuxet River,South Kingstown,Pawcatuck,Public
+2370,12/4/2020,F,25,Chipuxet River,South Kingstown,Pawcatuck,Public
+2371,12/4/2020,M,25,Chipuxet River,South Kingstown,Pawcatuck,Public
+2372,12/4/2020,M,38,Chipuxet River,South Kingstown,Pawcatuck,Public
+2373,12/4/2020,F,33,Chipuxet River,South Kingstown,Pawcatuck,Public
+2374,12/7/2020,M,44,Chipuxet River,South Kingstown,Pawcatuck,Public
+2375,12/7/2020,F,43,Chipuxet River,South Kingstown,Pawcatuck,Public
+2376,12/7/2020,M,12,Chipuxet River,South Kingstown,Pawcatuck,Public
+2377,12/22/2020,F,26,unknown,Hopkinton,unknown,Public
+2378,12/31/2020,F ,40,Browning Mill Pond,Exeter,Pawcatuck,Public
+2379,11/2/2020,F,14,unknown,Charlestown,unknown,Public
+2380,11/8/2020,F,40,unknown,Charlestown,unknown,Public
+2381,11/13/2020,F,32,unknown,Charlestown,unknown,Public
+2382,1/9/2021,F,34,Chipuxet River,Exeter,Pawcatuck,Public
+2383,1/13/2021,M,30,Chipuxet River,Exeter,Pawcatuck,Public
+2384,11/18/2020,F,38,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2385,11/19/2020,M,32,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2386,11/24/2020,F,36,Ashaway RV Park (Route 216),Hopkinton,Pawcatuck,Public
+2387,1/3/2021,F,43,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+2388,1/6/2021,F,15,Tomaquag Brook,Hopkinton,Pawcatuck,Public
+2389,12/13/2020,M,48,Halls Pond,Coventry,Pawtuxet,Public
+2390,12/13/2020,unk,15,Halls Pond,Coventry,Pawtuxet,Public
+2391,12/14/2020,F,41,Halls Pond,Coventry,Pawtuxet,Public
+2392,12/14/2020,unk,17,Halls Pond,Coventry,Pawtuxet,Public
+2393,1/16/2021,F,43,West Meadow Brook,Foster,Quinebaug,Public
+2394,1/19/2021,unk,20,West Meadow Brook,Foster,Quinebaug,Public
+2395,1/19/2021,M,39,West Meadow Brook,Foster,Quinebaug,Public
+2396,12/2/2020,M,44,Ponagansett River Corridor,Foster,Pawtuxet,Public
+2397,12/4/2020,F,33,Ponagansett River Corridor,Foster,Pawtuxet,Public
+2398,12/6/2020,M,47,Ponagansett River Corridor,Foster,Pawtuxet,Public
+2399,12/7/2020,M,30,Ponagansett River Corridor,Foster,Pawtuxet,Public
+2400,12/8/2020,M,33,Ponagansett River Corridor,Foster,Pawtuxet,Public
+2401,1/9/2021,M,33,Carbuncle Pond,Coventry,Quinebaug,Public
+2402,1/9/2021,M,50,Carbuncle Pond,Coventry,Quinebaug,Public
+2403,2/26/2021,F,38,Ponagansett River Corridor,Foster,Pawtuxet,Public
+2404,1/8/2021,F,16,Browning Mill Pond,Richmond,Pawcatuck,Public
+2405,1/9/2021,F,36,Browning Mill Pond,Richmond,Pawcatuck,Public
+2406,1/14/2021,F,18,Browning Mill Pond,Richmond,Pawcatuck,Public
+2407,1/15/2021,F,18,Browning Mill Pond,Richmond,Pawcatuck,Public
+2408,12/3/2020,F,47,Lower Slack Reservoir,Smithfield,Woonasquatucket,Public
+2409,3/12/2021,M,34,Cherry Valley Pond,Glocester,Blackstone,Public
+2410,1/14/2021,M,40,Roaring Brook,Exeter,Pawcatuck,Public
+2411,12/19/2020,F,35,Camp Ker-anna,Cumberland,Blackstone,Public
+2412,1/14/2021,F,21,Camp Shepard,Smithfield,Woonasquatucket,Public
+2413,1/15/2021,M,48,Camp Shepard,Smithfield,Woonasquatucket,Public
+2414,1/15/2021,M,25,Camp Ker-anna,Cumberland,Blackstone,Public
+2415,1/21/2021,M,35,Camp Shepard,Smithfield,Woonasquatucket,Public
+2416,3/12/2021,M,51,Camp Shepard,Smithfield,Woonasquatucket,Public
+2417,3/12/2021,M,37,Camp Shepard,Smithfield,Woonasquatucket,Public
+2418,3/14/2021,M,18,Camp Shepard,Smithfield,Woonasquatucket,Public
+2419,11/18/2020,M,52,unknown,North Smithfield,unknown,Public
+2420,11/19/2020,M,30,unknown,North Smithfield,unknown,Public
+2421,11/19/2020,F,u,unknown,North Smithfield,unknown,Public
+2422,11/19/2020,F,u,unknown,North Smithfield,unknown,Public
+2423,3/6/2021,M,39,Town Farm Pond,Coventry,Pawtuxet,Public
+2424,3/10/2021,F,22,Town Farm Pond,Coventry,Pawtuxet,Public
+2425,12/11/2020,M,48,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2426,12/15/2020,F,31,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2427,12/31/2020,M,16,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2428,1/1/2021,F,53,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2429,1/1/2021,F,15,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2430,1/1/2021,F,42,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2431,1/1/2021,M,14,Great Swamp impoundment,South Kingstown,Pawcatuck,Public
+2432,1/10/2021,M,38,Poquaint Brook,Charlestown,Pawtuxet,Public
+2433,1/11/2021,F,18,Blue Pond,Hopkinton,Pawcatuck,Public
+2434,1/16/2021,F,21,Poquaint Brook,Charlestown,Pawcatuck,Public
+2435,2/27/2021,F,41,Poquaint Brook,Charlestown,Pawcatuck,Public
+2436,2/27/2021,M,22,Canochet Brook,Hopkinton,Pawcatuck,Public
+2437,2/28/2021,M,44,Meadow Brook,Richmond,Pawcatuck,Public
+2438,11/10/2020,F,15,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2439,11/10/2020,F,15,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2440,11/21/2020,M,25,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2441,11/21/2020,F,30,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2442,11/25/2020,M,30,Maple Lake,Charlestown,Pawcatuck,Public
+2443,12/1/2020,M,30,Maple Lake,Charlestown,Pawcatuck,Public
+2444,12/3/2020,F,20,Maple Lake,Charlestown,Pawcatuck,Public
+2445,11/4/2020,unk,20,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2446,11/5/2020,unk,33,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2447,11/5/2020,unk,30,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2448,11/17/2020,unk,40,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2449,11/18/2020,unk,25,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2450,3/23/2021,M,44,Cranston F&G Club (Dolly Cole Brook),Foster,Pawtuxet,Nuisance
+2451,3/24/2021,M,30,Cranston F&G Club (Dolly Cole Brook),Foster,Pawtuxet,Nuisance
+2452,3/29/2021,M,35,Cranston F&G Club (Dolly Cole Brook),Foster,Pawtuxet,Nuisance
+2453,3/29/2021,F,18,Cranston F&G Club (Dolly Cole Brook),Foster,Pawtuxet,Nuisance
+2454,4/1/2021,F,50,Cranston F&G Club (Dolly Cole Brook),Foster,Pawtuxet,Nuisance
+2455,4/1/2021,M,17,Cranston F&G Club (Dolly Cole Brook),Foster,Pawtuxet,Nuisance
+2456,3/30/2021,M,35,Newton's Marsh (AMTRAK),Westerly,Pawcatuck,Nuisance
+2457,3/30/2021,F,35,Newton's Marsh (AMTRAK),Westerly,Pawcatuck,Nuisance
+2458,3/31/2021,M,35,Newton's Marsh (AMTRAK),Westerly,Pawcatuck,Nuisance
+2459,4/1/2021,F,35,Newton's Marsh (AMTRAK),Westerly,Pawcatuck,Nuisance
+2460,4/13/2021,M,55,Sebille Pond,Smithfield,Woonasquatucket,Nuisance
+2461,12/10/2020,F,21,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2462,12/5/2020,M,19,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2463,11/15/2020,M,30,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2464,11/15/2020,M,10,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2465,11/15/2020,F,15,Pasquiset Pond,Charlestown,Pawcatuck,Public
+2466,12/4/2020,M,38,Saw Mill Pond,Charlestown,Pawcatuck,Public
+2467,12/13/2020,unk,25,Saw Mill Pond,Charlestown,Pawcatuck,Public
+2468,4/19/2021,F,56,Meadowbrook Drive (Reaper Brook),Johnston,Woonasquatucket,Nuisance
+2469,12/26/2004,unk,13,Falls River (Arcadia),Exeter,Pawcatuck,Public

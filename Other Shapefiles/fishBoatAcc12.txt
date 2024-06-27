@@ -1,0 +1,310 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Rhode Island Department of Environmental Management, Division of Planning and Development
+      Publication_Date: 20120823
+      Title: Fishing and Boating Access; fishBoatAcc12
+      Edition: 2012
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Providence, Rhode Island
+        Publisher: Rhode Island Department of Environmental Management
+      Other_Citation_Details:
+        Suggested bibliographic reference:
+        RIGIS, 2012.  Fishing and Boating Access; fishBoatAcc12.  Rhode Island Geographic Information System (RIGIS) Data Distribution System, URL: http://www.rigis.org, Environmental Data Center, University of Rhode Island, Kingston, Rhode Island (last date accessed: 2 October 2014).
+      Online_Linkage: http://www.rigis.org
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Rhode Island Geographic Information System (RIGIS)
+          Publication_Date: 1993
+          Title: Rhode Island Geographic Information System (RIGIS) Data Distribution System
+          Online_Linkage: http://www.rigis.org
+  Description:
+    Abstract: Public fishing or boating access areas owned or maintained by the Rhode Island Department of Environmental Management. Includes boat ramps, small craft launch areas, and shore fishing access areas on Rhode Island fresh and salt water bodies
+    Purpose: Cartographic production, facilities management
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20120823
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -71.844327
+      East_Bounding_Coordinate: -71.130957
+      North_Bounding_Coordinate: 42.013156
+      South_Bounding_Coordinate: 41.147993
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Categories
+      Theme_Keyword: inlandWaters
+      Theme_Keyword: oceans
+      Theme_Keyword: planningCadastre
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: ramp
+      Theme_Keyword: boat launch
+      Theme_Keyword: kayaking
+      Theme_Keyword: boating
+      Theme_Keyword: recreation
+      Theme_Keyword: shoreline access
+      Theme_Keyword: fishing
+      Theme_Keyword: boatramp
+      Theme_Keyword: canoeing
+      Theme_Keyword: outdoor recreation
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Rhode Island
+      Place_Keyword: waterways
+      Place_Keyword: Narragansett Bay
+      Place_Keyword: Lakes
+      Place_Keyword: Rivers
+      Place_Keyword: New England
+  Access_Constraints: None.
+  Use_Constraints:
+    This dataset is provided 'as is.’  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+    Please acknowledge both RIGIS and the primary producer(s) of this dataset in any derived products.  Versions of the RIGIS logo suitable for both printed and web-based products are available at http://www.rigis.org/logos.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Rhode Island Department of Environmental Management
+        Contact_Person: Paul Jordan
+      Contact_Position: Supervising GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 235 Promenade Street
+        City: Providence
+        State_or_Province: Rhode Island
+        Postal_Code: 02908
+        Country: USA
+      Contact_Voice_Telephone: 401-222-2776 x4315
+      Contact_Facsimile_Telephone: 401-222-2069
+      Contact_Electronic_Mail_Address: paul.jordan@dem.ri.gov
+      Hours_of_Service: 8:30am to 4:00pm
+      Contact_Instructions: e-mail is preferred
+  Native_Data_Set_Environment: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; ESRI ArcGIS 10.0.4.4000
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: none
+  Logical_Consistency_Report: none
+  Completeness_Report: none
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: none
+  Lineage:
+    Process_Step:
+      Process_Description: In 2001, RIDEM Division of Fish & Wildlife staff visited sites to assess overall conditions and suitability of each site for a particular use. A site sketch was made, driving directions from the nearest main road were written and digital photographs were taken. From the field collected information, locations were heads-up digitized in ArcView 3.2 using 1997 1:5000 black and white ortho-photography as a reference. Digitized locations and information were checked by senior staff for accuracy and completeness.
+      Process_Date: 2001
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Department of Environmental Management
+            Contact_Person: Paul Jordan
+          Contact_Position: Supervising GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 235 Promenade Street
+            City: Providence
+            State_or_Province: Rhode Island
+            Postal_Code: 02908
+            Country: USA
+          Contact_Voice_Telephone: 401-222-2776 x4315
+          Contact_Facsimile_Telephone: 401-222-2069
+          Contact_Electronic_Mail_Address: paul.jordan@dem.ri.gov
+          Hours_of_Service: 8:30am to 4:00pm
+          Contact_Instructions: e-mail is preferred
+    Process_Step:
+      Process_Description: Dataset since maintained by RIDEM Division of Planning and Development.  Location and attribute information updated using internal records and aerial photograph interpretation.
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Rhode Island Department of Environmental Management
+            Contact_Person: Paul Jordan
+          Contact_Position: Supervising GIS Specialist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 235 Promenade Street
+            City: Providence
+            State_or_Province: Rhode Island
+            Postal_Code: 02908
+            Country: USA
+          Contact_Voice_Telephone: 401-222-2776 x4315
+          Contact_Facsimile_Telephone: 401-222-2069
+          Contact_Electronic_Mail_Address: paul.jordan@dem.ri.gov
+          Hours_of_Service: 8:30am to 4:00pm
+          Contact_Instructions: e-mail is preferred
+    Process_Step:
+      Process_Description: Data contributed to RIGIS by the Rhode Island Department of Environmental Management.  Metadata were reviewed, minor corrections made to formatting and content, RIGIS distribution information added.
+      Process_Date: 20120828
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: University of Rhode Island Environmental Data Center
+            Contact_Person: Greg Bonynge
+          Contact_Address:
+            Address_Type: mailing and physical
+            Address: 1 Greenhouse Road
+            City: Kingston
+            State_or_Province: RI
+            Postal_Code: 02881
+          Contact_Voice_Telephone: 401-874-2180
+          Contact_Electronic_Mail_Address: greg@edc.uri.edu
+          Contact_Instructions: email preferred
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: Entity point
+      Point_and_Vector_Object_Count: 207
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 3800
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.999994
+            Longitude_of_Central_Meridian: -71.500000
+            Latitude_of_Projection_Origin: 41.083333
+            False_Easting: 328083.333333
+            False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.000000
+          Ordinate_Resolution: 0.000000
+        Planar_Distance_Units: survey feet
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: fishBoatAcc12
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: Esri
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: ID
+      Attribute_Definition: Unique site identifier
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: NAME
+      Attribute_Definition: Site name
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: RMP_CNS
+      Attribute_Definition: Ramp construction type and material where applicable
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: RMP_CND
+      Attribute_Definition: General condition of ramp where applicable
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: PARK
+      Attribute_Definition: notes on parking lot condition and size
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: RSTRCTN
+      Attribute_Definition: general comments about site access or usage restrictions and other notes of interest
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: UNI
+      Attribute_Definition: Indicates if site includes universal design principles for access by disabled persons
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: TYPE
+      Attribute_Definition: Indicates if site represents a boat ramp, smallcraft launch or shorefishing access
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: Wat_Ttp
+      Attribute_Definition: Indicates if fresh or salt water is present at site.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+    Attribute:
+      Attribute_Label: Lat
+      Attribute_Definition: Latitude of site
+    Attribute:
+      Attribute_Label: Lon
+      Attribute_Definition: Longitude of site
+    Attribute:
+      Attribute_Label: Ownership
+      Attribute_Definition: Indicates if site is owned by the State of Rhode Island or a municipality.
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: free text
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: University of Rhode Island Environmental Data Center
+        Contact_Person: Erica Tefft
+      Contact_Address:
+        Address_Type: mailing and physical
+        Address: 1 Greenhouse Road
+        City: Kingston
+        State_or_Province: RI
+        Postal_Code: 02881
+      Contact_Voice_Telephone: 401-874-5054
+      Contact_Electronic_Mail_Address: erica@edc.uri.edu
+      Contact_Instructions: email preferred
+  Distribution_Liability: This dataset is provided 'as is.'  The producer(s) of this dataset, contributors to this dataset, the Rhode Island Geographic Information System (RIGIS) consortium, the State of Rhode Island, and the University of Rhode Island do not make any warranties of any kind for this dataset, and are not liable for any loss or damage however and whenever caused by any use of this dataset.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Esri shapefile
+        File_Decompression_Technique: ZIP
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www.rigis.org
+    Fees: No fee for downloading directly from the RIGIS Data Distribution System located at http://www.rigis.org.
+Metadata_Reference_Information:
+  Metadata_Date: 20120823
+  Metadata_Review_Date: 20120828
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Rhode Island Department of Environmental Management
+        Contact_Person: Paul Jordan
+      Contact_Position: Supervising GIS Specialist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 235 Promenade Street
+        City: Providence
+        State_or_Province: Rhode Island
+        Postal_Code: 02908
+        Country: USA
+      Contact_Voice_Telephone: 401-222-2776 x4315
+      Contact_Facsimile_Telephone: 401-222-2069
+      Contact_Electronic_Mail_Address: paul.jordan@dem.ri.gov
+      Hours_of_Service: 8:30am to 4:00pm
+      Contact_Instructions: e-mail is preferred
+  Metadata_Standard_Name: FGDC Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

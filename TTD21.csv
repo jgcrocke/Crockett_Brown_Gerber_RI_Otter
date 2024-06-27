@@ -1,0 +1,490 @@
+"","Watershed","Site.ID","Observer","Spp","Day","SurveyTime","TTD"
+"1","Block Island Sound",34,"John Crockett","otter",97,35,21
+"2","Block Island Sound",34,"John Crockett","other",97,35,30
+"3","Block Island Sound",34,"Amy Mayer","0",97,43,NA
+"4","Block Island Sound",46,"John Crockett","0",97,17,NA
+"5","Block Island Sound",46,"Amy Mayer","0",97,17,NA
+"6","Block Island Sound",55,"John Crockett","other",97,13,4
+"7","Block Island Sound",55,"John Crockett","otter",97,13,6
+"8","Block Island Sound",55,"Amy Mayer","0",97,14,NA
+"9","Block Island Sound",61,"John Crockett","otter",93,56,6
+"10","Block Island Sound",61,"Kylie Rezendes","otter",93,61,11
+"11","Block Island Sound",65,"John Crockett","other",93,29,14
+"12","Block Island Sound",65,"Kylie Rezendes","0",93,49,NA
+"13","Block Island Sound",115,"John Crockett","other",97,34,16
+"14","Block Island Sound",115,"Amy Mayer","0",97,36,NA
+"15","Block Island Sound",203,"John Crockett","0",97,33,NA
+"16","Block Island Sound",203,"Amy Mayer","otter",97,33,13
+"17","Block Island Sound",236,"John Crockett","other",97,53,5
+"18","Block Island Sound",236,"Amy Mayer","0",97,38,NA
+"19","Block Island Sound",272,"Richard Mercer","0",85,54,NA
+"20","Block Island Sound",272,"Amy Mayer","0",85,60,NA
+"21","Block Island Sound",291,"Richard Mercer","0",85,20,NA
+"22","Block Island Sound",291,"Amy Mayer","0",85,20,NA
+"23","Block Island Sound",353,"John Crockett","muskrat",87,39,31
+"24","Block Island Sound",353,"John Crockett","0",76,21,NA
+"25","Block Island Sound",353,"Amy Mayer","0",76,21,NA
+"26","Block Island Sound",353,"Amy Mayer","muskrat",87,43,8
+"27","Block Island Sound",353,"Amy Mayer","otter",87,43,29
+"28","Block Island Sound",353,"Amy Mayer","other",87,43,40
+"29","Block Island Sound",358,"John Crockett","0",87,41,NA
+"30","Block Island Sound",358,"Amy Mayer","muskrat",87,43,9
+"31","Block Island Sound",498,"Richard Mercer","0",78,21,NA
+"32","Block Island Sound",498,"Amy Mayer","0",78,25,NA
+"33","Block Island Sound",652,"Richard Mercer","0",78,49,NA
+"34","Block Island Sound",652,"Amy Mayer","0",78,50,NA
+"35","Block Island Sound",792,"John Crockett","0",1,68,NA
+"36","Block Island Sound",792,"Emerson Paton","0",1,75,NA
+"37","Block Island Sound",799,"John Crockett","0",1,26,NA
+"38","Block Island Sound",799,"Emerson Paton","0",1,28,NA
+"39","Block Island Sound",852,"John Crockett","muskrat",92,34,20
+"40","Block Island Sound",852,"Emma Paton","muskrat",92,34,8
+"41","Block Island Sound",852,"Emma Paton","other",92,34,16
+"42","Block Island Sound",859,"John Crockett","otter",92,41,29
+"43","Block Island Sound",859,"Emma Paton","0",92,44,NA
+"44","Block Island Sound",889,"Richard Mercer","0",78,49,NA
+"45","Block Island Sound",889,"Amy Mayer","0",78,50,NA
+"46","Block Island Sound",905,"John Crockett","other",92,62,4
+"47","Block Island Sound",905,"John Crockett","otter",92,62,17
+"48","Block Island Sound",905,"John Crockett","muskrat",92,62,22
+"49","Block Island Sound",905,"Emma Paton","muskrat",92,64,34
+"50","Block Island Sound",914,"John Crockett","0",92,11,NA
+"51","Block Island Sound",914,"Emma Paton","0",92,12,NA
+"52","Block Island Sound",1229,"Richard Mercer","0",78,21,NA
+"53","Block Island Sound",1229,"Amy Mayer","0",78,22,NA
+"54","Pawcatuck",9,"John Crockett","muskrat",85,61,17
+"55","Pawcatuck",9,"John Crockett","otter",85,61,28
+"56","Pawcatuck",9,"Emma Paton","muskrat",85,69,18
+"57","Pawcatuck",42,"John Crockett","otter",91,29,11
+"58","Pawcatuck",42,"John Crockett","muskrat",91,29,24
+"59","Pawcatuck",42,"Kylie Rezendes","0",91,32,NA
+"60","Pawcatuck",43,"John Crockett","0",91,25,NA
+"61","Pawcatuck",43,"Kylie Rezendes","muskrat",91,25,17
+"62","Pawcatuck",45,"John Crockett","otter",91,25,25
+"63","Pawcatuck",45,"Kylie Rezendes","other",91,27,8
+"64","Pawcatuck",183,"Kylie Rezendes","beaver",29,61,5
+"65","Pawcatuck",183,"Kylie Rezendes","other",29,61,22
+"66","Pawcatuck",183,"John Crockett","beaver",29,60,3
+"67","Pawcatuck",183,"John Crockett","other",29,60,6
+"68","Pawcatuck",183,"John Crockett","muskrat",29,60,55
+"69","Pawcatuck",195,"John Crockett","otter",36,62,2
+"70","Pawcatuck",195,"John Crockett","beaver",36,62,9
+"71","Pawcatuck",195,"John Crockett","other",36,62,17
+"72","Pawcatuck",195,"Kylie Rezendes","beaver",36,57,6
+"73","Pawcatuck",195,"Kylie Rezendes","otter",36,57,20
+"74","Pawcatuck",195,"Kylie Rezendes","other",36,57,54
+"75","Pawcatuck",256,"John Crockett","muskrat",100,98,1
+"76","Pawcatuck",256,"John Crockett","beaver",100,98,4
+"77","Pawcatuck",256,"John Crockett","otter",100,98,35
+"78","Pawcatuck",256,"Kylie Rezendes","beaver",100,100,8
+"79","Pawcatuck",256,"Kylie Rezendes","muskrat",100,100,13
+"80","Pawcatuck",320,"Amy Mayer","beaver",69,66,5
+"81","Pawcatuck",320,"Amy Mayer","other",69,66,8
+"82","Pawcatuck",320,"Amy Mayer","otter",69,66,21
+"83","Pawcatuck",320,"Amy Mayer","muskrat",69,66,40
+"84","Pawcatuck",320,"John Crockett","beaver",69,66,1
+"85","Pawcatuck",320,"John Crockett","muskrat",69,66,17
+"86","Pawcatuck",320,"John Crockett","other",69,66,31
+"87","Pawcatuck",320,"John Crockett","otter",69,66,53
+"88","Pawcatuck",321,"John Crockett","other",78,73,31
+"89","Pawcatuck",321,"Emma Paton","0",78,53,NA
+"90","Pawcatuck",361,"John Crockett","other",64,57,17
+"91","Pawcatuck",361,"Richard Mercer","beaver",64,58,4
+"92","Pawcatuck",361,"Richard Mercer","muskrat",64,58,39
+"93","Pawcatuck",384,"Emma Paton","beaver",62,49,5
+"94","Pawcatuck",384,"Amy Mayer","beaver",62,50,6
+"95","Pawcatuck",594,"Kylie Rezendes","other",105,70,54
+"96","Pawcatuck",594,"John Crockett","0",105,54,NA
+"97","Pawcatuck",727,"John Crockett","0",35,46,NA
+"98","Pawcatuck",727,"Kylie Rezendes","other",35,46,23
+"99","Pawcatuck",728,"Kylie Rezendes","other",35,40,21
+"100","Pawcatuck",728,"John Crockett","muskrat",35,40,37
+"101","Pawcatuck",748,"John Crockett","muskrat",35,44,18
+"102","Pawcatuck",748,"John Crockett","beaver",35,44,22
+"103","Pawcatuck",748,"Kylie Rezendes","beaver",35,44,6
+"104","Pawcatuck",748,"Kylie Rezendes","other",35,44,37
+"105","Pawcatuck",748,"Kylie Rezendes","muskrat",35,44,39
+"106","Pawcatuck",897,"John Crockett","0",43,NA,NA
+"107","Pawcatuck",897,"Amy Mayer","beaver",43,47,3
+"108","Pawcatuck",897,"Amy Mayer","muskrat",43,47,15
+"109","Pawcatuck",1079,"Amy Mayer","other",42,47,28
+"110","Pawcatuck",1079,"Amy Mayer","beaver",42,47,44
+"111","Pawcatuck",1079,"John Crockett","beaver",42,48,13
+"112","Pawcatuck",1113,"John Crockett","beaver",42,53,8
+"113","Pawcatuck",1113,"John Crockett","other",42,53,15
+"114","Pawcatuck",1113,"Amy Mayer","other",42,50,23
+"115","Pawcatuck",1144,"John Crockett","other",78,33,18
+"116","Pawcatuck",1144,"Emma Paton","0",78,33,NA
+"117","Pawcatuck",1236,"John Crockett","beaver",50,21,2
+"118","Pawcatuck",1236,"John Crockett","muskrat",50,21,8
+"119","Pawcatuck",1236,"Amy Mayer","muskrat",50,20,6
+"120","Pawcatuck",1236,"Amy Mayer","beaver",50,20,16
+"121","Pawcatuck",1248,"Emma Paton","beaver",62,60,9
+"122","Pawcatuck",1248,"Emma Paton","otter",62,60,27
+"123","Pawcatuck",1248,"Amy Mayer","beaver",62,60,9
+"124","Pawcatuck",1248,"Amy Mayer","muskrat",62,60,16
+"125","Pawcatuck",1248,"Amy Mayer","otter",62,60,53
+"126","Pawcatuck",1517,"Kylie Rezendes","beaver",56,20,2
+"127","Pawcatuck",1517,"Kylie Rezendes","muskrat",56,20,20
+"128","Pawcatuck",1517,"John Crockett","beaver",56,22,0
+"129","Pawcatuck",1519,"Kylie Rezendes","other",56,43,-14
+"130","Pawcatuck",1519,"Kylie Rezendes","beaver",56,43,21
+"131","Pawcatuck",1519,"John Crockett","beaver",56,40,5
+"132","Pawcatuck",1519,"John Crockett","muskrat",56,40,27
+"133","Pawcatuck",1548,"Kylie Rezendes","beaver",105,94,22
+"134","Pawcatuck",1548,"John Crockett","beaver",105,87,4
+"135","Pawcatuck",1548,"John Crockett","muskrat",105,87,55
+"136","Pawcatuck",1652,"Emma Paton","beaver",62,43,9
+"137","Pawcatuck",1652,"Amy Mayer","muskrat",62,41,8
+"138","Pawcatuck",1664,"John Crockett","beaver",50,59,1
+"139","Pawcatuck",1664,"John Crockett","muskrat",50,59,17
+"140","Pawcatuck",1664,"Amy Mayer","beaver",50,68,23
+"141","Pawcatuck",1664,"Amy Mayer","muskrat",50,68,68
+"142","Pawcatuck",1721,"John Crockett","muskrat",91,43,10
+"143","Pawcatuck",1721,"John Crockett","other",91,43,42
+"144","Pawcatuck",1721,"Kylie Rezendes","muskrat",91,34,8
+"145","Pawcatuck",1800,"John Crockett","beaver",49,83,28
+"146","Pawcatuck",1800,"John Crockett","other",49,83,38
+"147","Pawcatuck",1800,"Kylie Rezendes","beaver",49,84,5
+"148","Pawcatuck",1800,"Kylie Rezendes","muskrat",49,84,14
+"149","Pawcatuck",1800,"Kylie Rezendes","other",49,84,19
+"150","Pawcatuck",1945,"John Crockett","beaver",43,39,0
+"151","Pawcatuck",1945,"John Crockett","other",43,39,3
+"152","Pawcatuck",1945,"Amy Mayer","beaver",43,47,4
+"153","Pawcatuck",1945,"Amy Mayer","muskrat",43,47,35
+"154","Pawcatuck",2000,"John Crockett","beaver",64,53,1
+"155","Pawcatuck",2000,"Richard Mercer","beaver",64,52,9
+"156","Pawcatuck",2051,"John Crockett","beaver",52,60,1
+"157","Pawcatuck",2051,"Kylie Rezendes","beaver",52,65,2
+"158","Pawcatuck",2123,"Kylie Rezendes","muskrat",98,80,56
+"159","Pawcatuck",2123,"John Crockett","0",98,71,NA
+"160","Pawcatuck",2169,"Kylie Rezendes","beaver",98,94,NA
+"161","Pawcatuck",2169,"John Crockett","beaver",98,80,14
+"162","Pawcatuck",2197,"John Crockett","beaver",0,66,12
+"163","Pawcatuck",2197,"John Crockett","muskrat",0,66,17
+"164","Pawcatuck",2197,"John Crockett","beaver",28,40,7
+"165","Pawcatuck",2197,"John Crockett","muskrat",28,40,15
+"166","Pawcatuck",2197,"Kylie Rezendes","beaver",28,40,-2
+"167","Pawcatuck",2197,"Kylie Rezendes","other",28,40,30
+"168","Pawcatuck",2197,"Kylie Rezendes","muskrat",28,40,37
+"169","Pawcatuck",2512,"John Crockett","0",52,32,NA
+"170","Pawcatuck",2512,"Kylie Rezendes","beaver",52,39,10
+"171","Pawcatuck",3144,"John Crockett","0",78,35,NA
+"172","Pawcatuck",3144,"Emma Paton","0",78,34,NA
+"173","Pawcatuck",3124,"John Crockett","beaver",125,61,6
+"174","Pawcatuck",3124,"John Crockett","muskrat",125,61,10
+"175","Pawcatuck",3124,"Charlie Brown","beaver",125,75,0
+"176","Pawcatuck",3124,"Charlie Brown","muskrat",125,75,14
+"177","Pawcatuck",3124,"Charlie Brown","otter",125,75,75
+"178","Pawcatuck",3622,"John Crockett","beaver",70,114,0
+"179","Pawcatuck",3622,"John Crockett","muskrat",70,114,39
+"180","Pawcatuck",3622,"John Crockett","otter",70,114,92
+"181","Pawcatuck",3622,"Kylie Rezendes","beaver",70,133,2
+"182","Pawcatuck",3622,"Kylie Rezendes","other",70,133,7
+"183","Pawcatuck",3622,"Kylie Rezendes","otter",70,133,14
+"184","Pawcatuck",3622,"Kylie Rezendes","muskrat",70,133,73
+"185","Pawcatuck",3681,"Amy Mayer","0",64,106,NA
+"186","Pawcatuck",3681,"Emma Paton","0",64,44,NA
+"187","Pawcatuck",3798,"Amy Mayer","other",64,49,28
+"188","Pawcatuck",3798,"Emma Paton","0",64,52,NA
+"189","Pawcatuck",4046,"Emerson Paton","beaver",86,103,1
+"190","Pawcatuck",4046,"John Crockett","beaver",86,94,0
+"191","Pawcatuck",4099,"Kylie Rezendes","0",59,NA,NA
+"192","Pawcatuck",4335,"Kylie Rezendes","beaver",84,110,6
+"193","Pawcatuck",4335,"Kylie Rezendes","muskrat",84,110,15
+"194","Pawcatuck",4335,"Kylie Rezendes","other",84,110,46
+"195","Pawcatuck",4335,"John Crockett","muskrat",84,103,8
+"196","Pawcatuck",4335,"John Crockett","beaver",84,103,25
+"197","Pawcatuck",4335,"John Crockett","otter",84,103,38
+"198","Pawcatuck",4337,"Kylie Rezendes","beaver",84,32,6
+"199","Pawcatuck",4337,"John Crockett","beaver",84,29,0
+"200","Pawcatuck",4337,"John Crockett","other",84,29,6
+"201","Pawcatuck",4337,"John Crockett","muskrat",84,29,11
+"202","Pawcatuck",4556,"Amy Mayer","0",57,65,NA
+"203","Pawcatuck",4556,"John Crockett","other",57,60,45
+"204","Quinebaug",1807,"Emma Paton","other",64,57,27
+"205","Quinebaug",1807,"Amy Mayer","0",64,60,NA
+"206","Quinebaug",5568,"Amy Mayer","0",92,36,NA
+"207","Quinebaug",5568,"Richard Mercer","0",92,34,NA
+"208","Quinebaug",5589,"John Crockett","beaver",99,73,29
+"209","Quinebaug",5589,"John Crockett","muskrat",99,73,60
+"210","Quinebaug",5589,"Richard Mercer","beaver",99,78,1
+"211","Quinebaug",5595,"Emerson Paton","beaver",79,75,7
+"212","Quinebaug",5595,"Emerson Paton","otter",79,75,64
+"213","Quinebaug",5595,"John Crockett","beaver",79,76,4
+"214","Quinebaug",5595,"John Crockett","muskrat",79,76,46
+"215","Quinebaug",5595,"John Crockett","other",79,76,51
+"216","Quinebaug",5632,"John Crockett","otter",99,61,3
+"217","Quinebaug",5632,"John Crockett","beaver",99,61,5
+"218","Quinebaug",5632,"Richard Mercer","beaver",99,63,18
+"219","Quinebaug",5712,"Amy Mayer","otter",92,45,8
+"220","Quinebaug",5712,"Richard Mercer","0",92,52,NA
+"221","Quinebaug",5756,"Emerson Paton","beaver",72,39,1
+"222","Quinebaug",5756,"Emerson Paton","muskrat",72,39,7
+"223","Quinebaug",5756,"John Crockett","muskrat",72,39,3
+"224","Quinebaug",5756,"John Crockett","beaver",72,39,5
+"225","Quinebaug",5761,"Emerson Paton","beaver",58,74,3
+"226","Quinebaug",5761,"Emerson Paton","muskrat",58,74,9
+"227","Quinebaug",5761,"Emerson Paton","other",58,74,18
+"228","Quinebaug",5761,"John Crockett","beaver",58,74,2
+"229","Quinebaug",5761,"John Crockett","muskrat",58,74,12
+"230","Quinebaug",5771,"Emerson Paton","beaver",72,39,2
+"231","Quinebaug",5771,"Emerson Paton","muskrat",72,39,4
+"232","Quinebaug",5771,"John Crockett","beaver",72,46,7
+"233","Quinebaug",5771,"John Crockett","muskrat",72,46,13
+"234","Quinebaug",6050,"Amy Mayer","0",92,34,NA
+"235","Quinebaug",6050,"Richard Mercer","other",92,42,36
+"236","Quinebaug",6221,"John Crockett","other",38,109,13
+"237","Quinebaug",6221,"John Crockett","beaver",38,109,16
+"238","Quinebaug",6221,"Emerson Paton","beaver",38,101,0
+"239","Quinebaug",6221,"Emerson Paton","other",38,101,23
+"240","Quinebaug",6221,"Emerson Paton","muskrat",38,101,50
+"241","Quinebaug",6221,"Emerson Paton","otter",38,101,88
+"242","Quinebaug",6440,"John Crockett","0",99,41,NA
+"243","Quinebaug",6440,"Richard Mercer","0",99,42,NA
+"244","Quinebaug",6698,"Amy Mayer","0",99,21,NA
+"245","Quinebaug",6698,"Emma Paton","0",99,19,NA
+"246","Quinebaug",6824,"John Crockett","beaver",38,20,2
+"247","Quinebaug",6824,"Emerson Paton","beaver",38,28,7
+"248","Quinebaug",6831,"Emerson Paton","beaver",80,74,1
+"249","Quinebaug",6831,"Emerson Paton","otter",80,74,49
+"250","Quinebaug",6831,"Emerson Paton","other",80,74,63
+"251","Quinebaug",6831,"John Crockett","beaver",80,72,1
+"252","Quinebaug",6831,"John Crockett","otter",80,72,31
+"253","Quinebaug",6831,"John Crockett","other",80,72,60
+"254","Quinebaug",9630,"Richard Mercer","beaver",71,81,8
+"255","Quinebaug",9630,"John Crockett","beaver",71,60,6
+"256","Quinebaug",9630,"John Crockett","other",71,60,11
+"257","Quinebaug",9630,"John Crockett","otter",71,60,14
+"258","Quinebaug",9630,"John Crockett","muskrat",71,60,38
+"259","Quinebaug",9697,"Amy Mayer","0",99,28,NA
+"260","Quinebaug",9697,"Emma Paton","0",99,27,NA
+"261","Quinebaug",9698,"Amy Mayer","beaver",99,68,17
+"262","Quinebaug",9698,"Amy Mayer","muskrat",99,68,23
+"263","Quinebaug",9698,"Amy Mayer","otter",99,68,30
+"264","Quinebaug",9698,"Emma Paton","otter",99,67,13
+"265","Quinebaug",9698,"Emma Paton","beaver",99,67,22
+"266","Quinebaug",9698,"Emma Paton","muskrat",99,67,26
+"267","Quinebaug",10122,"Emma Paton","beaver",71,53,4
+"268","Quinebaug",10122,"Amy Mayer","beaver",71,50,2
+"269","Quinebaug",10157,"Richard Mercer","beaver",71,23,15
+"270","Quinebaug",10157,"John Crockett","other",71,24,19
+"271","Quinebaug",10392,"Emma Paton","beaver",71,54,10
+"272","Quinebaug",10392,"Emma Paton","otter",71,54,34
+"273","Quinebaug",10392,"Amy Mayer","beaver",71,55,6
+"274","Quinebaug",10392,"Amy Mayer","otter",71,55,37
+"275","Quinebaug",10392,"Amy Mayer","muskrat",71,55,50
+"276","Quinebaug",10398,"Amy Mayer","muskrat",99,44,15
+"277","Quinebaug",10398,"Amy Mayer","otter",99,44,38
+"278","Quinebaug",10398,"Amy Mayer","beaver",99,44,41
+"279","Quinebaug",10398,"Emma Paton","0",99,40,NA
+"280","Block Island Sound",34,"Kylie Rezendes","0",205,32,NA
+"281","Block Island Sound",34,"John Crockett","otter",205,32,20
+"282","Block Island Sound",61,"Amy Mayer","0",246,30,NA
+"283","Block Island Sound",61,"John Crockett","0",246,34,NA
+"284","Block Island Sound",65,"Amy Mayer","0",246,20,NA
+"285","Block Island Sound",65,"John Crockett","0",246,20,NA
+"286","Block Island Sound",203,"Kylie Rezendes","0",205,36,NA
+"287","Block Island Sound",203,"John Crockett","other",205,36,15
+"288","Block Island Sound",236,"Kylie Rezendes","other",205,41,43
+"289","Block Island Sound",236,"John Crockett","otter",205,49,15
+"290","Block Island Sound",236,"John Crockett","other",205,49,37
+"291","Block Island Sound",272,"Kylie Rezendes","0",191,45,NA
+"292","Block Island Sound",272,"John Crockett","other",191,43,16
+"293","Block Island Sound",353,"Amy Mayer","muskrat",171,64,2
+"294","Block Island Sound",353,"John Crockett","0",171,38,NA
+"295","Block Island Sound",358,"Amy Mayer","other",171,42,23
+"296","Block Island Sound",358,"John Crockett","other",171,60,3
+"297","Block Island Sound",358,"John Crockett","muskrat",171,60,36
+"298","Block Island Sound",498,"Kylie Rezendes","other",184,36,18
+"299","Block Island Sound",498,"John Crockett","other",184,38,5
+"300","Block Island Sound",498,"John Crockett","otter",184,38,10
+"301","Block Island Sound",652,"Kylie Rezendes","0",184,38,NA
+"302","Block Island Sound",652,"John Crockett","0",184,37,NA
+"303","Block Island Sound",792,"John Crockett","otter",248,69,5
+"304","Block Island Sound",792,"Kylie Rezendes","0",248,70,NA
+"305","Block Island Sound",799,"John Crockett","0",248,37,NA
+"306","Block Island Sound",799,"Kylie Rezendes","0",248,37,NA
+"307","Block Island Sound",889,"Kylie Rezendes","muskrat",184,36,12
+"308","Block Island Sound",889,"John Crockett","0",184,30,NA
+"309","Block Island Sound",905,"Kylie Rezendes","0",184,41,NA
+"310","Block Island Sound",905,"John Crockett","0",184,50,NA
+"311","Pawcatuck",9,"Amy Mayer","muskrat",195,57,20
+"312","Pawcatuck",9,"John Crockett","otter",195,60,32
+"313","Pawcatuck",42,"John Crockett","0",213,24,NA
+"314","Pawcatuck",42,"Amy Mayer","0",213,26,NA
+"315","Pawcatuck",43,"John Crockett","other",213,16,10
+"316","Pawcatuck",43,"Amy Mayer","0",213,17,NA
+"317","Pawcatuck",45,"John Crockett","0",213,19,NA
+"318","Pawcatuck",45,"Amy Mayer","0",213,20,NA
+"319","Pawcatuck",183,"Amy Mayer","beaver",197,64,12
+"320","Pawcatuck",183,"John Crockett","muskrat",197,55,17
+"321","Pawcatuck",183,"John Crockett","beaver",197,55,27
+"322","Pawcatuck",195,"Amy Mayer","muskrat",197,65,7
+"323","Pawcatuck",195,"Amy Mayer","beaver",197,65,51
+"324","Pawcatuck",195,"John Crockett","beaver",197,50,11
+"325","Pawcatuck",195,"John Crockett","other",197,50,23
+"326","Pawcatuck",256,"Amy Mayer","beaver",174,54,2
+"327","Pawcatuck",256,"Amy Mayer","muskrat",174,54,5
+"328","Pawcatuck",256,"John Crockett","other",174,61,2
+"329","Pawcatuck",256,"John Crockett","muskrat",174,61,24
+"330","Pawcatuck",256,"John Crockett","beaver",174,61,25
+"331","Pawcatuck",320,"Amy Mayer","beaver",174,59,20
+"332","Pawcatuck",320,"Amy Mayer","other",174,59,12
+"333","Pawcatuck",320,"Amy Mayer","muskrat",174,59,22
+"334","Pawcatuck",320,"John Crockett","otter",174,58,4
+"335","Pawcatuck",320,"John Crockett","muskrat",174,58,42
+"336","Pawcatuck",320,"John Crockett","beaver",174,58,49
+"337","Pawcatuck",384,"Amy Mayer","beaver",227,53,8
+"338","Pawcatuck",384,"John Crockett","beaver",227,59,9
+"339","Pawcatuck",384,"John Crockett","other",227,59,25
+"340","Pawcatuck",748,"John Crockett","beaver",181,77,9
+"341","Pawcatuck",748,"John Crockett","other",181,77,17
+"342","Pawcatuck",748,"Amy Mayer","beaver",181,75,9
+"343","Pawcatuck",748,"Amy Mayer","other",181,75,16
+"344","Pawcatuck",1079,"Amy Mayer","otter",227,55,19
+"345","Pawcatuck",1079,"Amy Mayer","beaver",227,55,36
+"346","Pawcatuck",1079,"John Crockett","other",227,56,22
+"347","Pawcatuck",1079,"John Crockett","beaver",227,56,27
+"348","Pawcatuck",1113,"Amy Mayer","other",227,49,3
+"349","Pawcatuck",1113,"John Crockett","muskrat",227,48,11
+"350","Pawcatuck",1113,"John Crockett","other",227,48,47
+"351","Pawcatuck",1236,"Kylie Rezendes","beaver",196,25,1
+"352","Pawcatuck",1236,"Kylie Rezendes","muskrat",196,25,4
+"353","Pawcatuck",1236,"John Crockett","beaver",196,24,17
+"354","Pawcatuck",1248,"Amy Mayer","beaver",227,19,10
+"355","Pawcatuck",1248,"John Crockett","beaver",227,15,5
+"356","Pawcatuck",1250,"Kylie Rezendes","beaver",196,36,7
+"357","Pawcatuck",1250,"Kylie Rezendes","other",196,36,9
+"358","Pawcatuck",1250,"Kylie Rezendes","otter",196,36,25
+"359","Pawcatuck",1250,"John Crockett","beaver",196,37,23
+"360","Pawcatuck",1517,"John Crockett","beaver",185,17,0
+"361","Pawcatuck",1517,"John Crockett","other",185,17,9
+"362","Pawcatuck",1517,"John Crockett","muskrat",185,17,14
+"363","Pawcatuck",1517,"Amy Mayer","otter",185,18,0
+"364","Pawcatuck",1517,"Amy Mayer","beaver",185,18,7
+"365","Pawcatuck",1519,"John Crockett","other",185,69,4
+"366","Pawcatuck",1519,"John Crockett","beaver",185,69,6
+"367","Pawcatuck",1519,"John Crockett","otter",185,69,15
+"368","Pawcatuck",1519,"John Crockett","muskrat",185,69,54
+"369","Pawcatuck",1519,"Amy Mayer","muskrat",185,73,28
+"370","Pawcatuck",1519,"Amy Mayer","other",185,73,59
+"371","Pawcatuck",1519,"Amy Mayer","beaver",185,73,67
+"372","Pawcatuck",1548,"Amy Mayer","0",195,41,NA
+"373","Pawcatuck",1548,"John Crockett","0",195,42,NA
+"374","Pawcatuck",1652,"Amy Mayer","beaver",227,37,15
+"375","Pawcatuck",1652,"John Crockett","beaver",227,33,4
+"376","Pawcatuck",1664,"Kylie Rezendes","beaver",196,30,5
+"377","Pawcatuck",1664,"Kylie Rezendes","muskrat",196,30,21
+"378","Pawcatuck",1664,"John Crockett","other",196,38,5
+"379","Pawcatuck",1664,"John Crockett","beaver",196,38,19
+"380","Pawcatuck",1721,"John Crockett","0",213,27,NA
+"381","Pawcatuck",1721,"Amy Mayer","0",213,25,NA
+"382","Pawcatuck",1800,"John Crockett","beaver",211,30,3
+"383","Pawcatuck",1800,"John Crockett","muskrat",211,30,9
+"384","Pawcatuck",1800,"Amy Mayer","beaver",211,92,2
+"385","Pawcatuck",1800,"Amy Mayer","muskrat",211,92,67
+"386","Pawcatuck",1800,"Amy Mayer","other",211,92,90
+"387","Pawcatuck",1945,"Kylie Rezendes","muskrat",196,64,NA
+"388","Pawcatuck",1945,"Kylie Rezendes","otter",196,64,6
+"389","Pawcatuck",1945,"Kylie Rezendes","beaver",196,64,12
+"390","Pawcatuck",1945,"John Crockett","muskrat",196,59,2
+"391","Pawcatuck",1945,"John Crockett","other",196,59,15
+"392","Pawcatuck",1945,"John Crockett","beaver",196,59,34
+"393","Pawcatuck",1945,"John Crockett","otter",196,59,59
+"394","Pawcatuck",2000,"Kylie Rezendes","beaver",182,82,3
+"395","Pawcatuck",2000,"Kylie Rezendes","muskrat",182,82,25
+"396","Pawcatuck",2000,"Kylie Rezendes","otter",182,82,48
+"397","Pawcatuck",2000,"John Crockett","other",182,82,10
+"398","Pawcatuck",2000,"John Crockett","beaver",182,82,26
+"399","Pawcatuck",2000,"John Crockett","otter",182,82,76
+"400","Pawcatuck",2051,"Kylie Rezendes","beaver",182,109,3
+"401","Pawcatuck",2051,"Kylie Rezendes","muskrat",182,109,17
+"402","Pawcatuck",2051,"Kylie Rezendes","otter",182,109,63
+"403","Pawcatuck",2051,"John Crockett","beaver",182,106,5
+"404","Pawcatuck",2051,"John Crockett","muskrat",182,106,6
+"405","Pawcatuck",2051,"John Crockett","otter",182,106,13
+"406","Pawcatuck",2169,"John Crockett","beaver",209,78,5
+"407","Pawcatuck",2169,"Amy Mayer","beaver",209,82,3
+"408","Pawcatuck",2197,"John Crockett","beaver",211,18,1
+"409","Pawcatuck",2197,"John Crockett","muskrat",211,18,3
+"410","Pawcatuck",2197,"Amy Mayer","beaver",211,23,NA
+"411","Pawcatuck",2512,"Kylie Rezendes","muskrat",182,64,24
+"412","Pawcatuck",2512,"Kylie Rezendes","otter",182,64,33
+"413","Pawcatuck",2512,"John Crockett","other",182,52,19
+"414","Pawcatuck",2512,"John Crockett","muskrat",182,52,38
+"415","Pawcatuck",2512,"John Crockett","otter",182,52,52
+"416","Pawcatuck",3124,"Amy Mayer","muskrat",224,69,1
+"417","Pawcatuck",3124,"Amy Mayer","beaver",224,69,7
+"418","Pawcatuck",3124,"Amy Mayer","other",224,69,24
+"419","Pawcatuck",3124,"John Crockett","beaver",224,60,3
+"420","Pawcatuck",3124,"John Crockett","muskrat",224,60,9
+"421","Pawcatuck",3622,"John Crockett","beaver",185,114,1
+"422","Pawcatuck",3622,"John Crockett","muskrat",185,114,41
+"423","Pawcatuck",3622,"Amy Mayer","beaver",185,113,6
+"424","Pawcatuck",3622,"Amy Mayer","other",185,113,79
+"425","Pawcatuck",4046,"Amy Mayer","beaver",188,90,38
+"426","Pawcatuck",4046,"John Crockett","beaver",188,91,58
+"427","Pawcatuck",4046,"John Crockett","otter",188,91,89
+"428","Pawcatuck",4335,"Amy Mayer","muskrat",223,78,37
+"429","Pawcatuck",4335,"Amy Mayer","beaver",223,78,48
+"430","Pawcatuck",4335,"Amy Mayer","other",223,78,54
+"431","Pawcatuck",4335,"John Crockett","beaver",223,84,19
+"432","Pawcatuck",4335,"John Crockett","muskrat",223,84,28
+"433","Pawcatuck",4335,"John Crockett","otter",223,84,53
+"434","Pawcatuck",4337,"Amy Mayer","beaver",223,24,2
+"435","Pawcatuck",4337,"Amy Mayer","other",223,24,12
+"436","Pawcatuck",4337,"John Crockett","other",223,26,2
+"437","Pawcatuck",4337,"John Crockett","beaver",223,26,20
+"438","Quinebaug",5589,"Amy Mayer","beaver",190,78,29
+"439","Quinebaug",5589,"Amy Mayer","muskrat",190,78,36
+"440","Quinebaug",5589,"Amy Mayer","otter",190,78,49
+"441","Quinebaug",5589,"John Crockett","other",190,81,9
+"442","Quinebaug",5589,"John Crockett","muskrat",190,81,19
+"443","Quinebaug",5589,"John Crockett","beaver",190,81,20
+"444","Quinebaug",5589,"John Crockett","otter",190,81,47
+"445","Quinebaug",5632,"Amy Mayer","beaver",190,53,13
+"446","Quinebaug",5632,"John Crockett","other",190,54,4
+"447","Quinebaug",5632,"John Crockett","beaver",190,54,13
+"448","Quinebaug",5632,"John Crockett","otter",190,54,18
+"449","Quinebaug",5756,"Amy Mayer","beaver",226,38,1
+"450","Quinebaug",5756,"John Crockett","muskrat",226,34,4
+"451","Quinebaug",5756,"John Crockett","beaver",226,34,7
+"452","Quinebaug",5756,"John Crockett","other",226,34,11
+"453","Quinebaug",5761,"John Crockett","beaver",212,50,8
+"454","Quinebaug",5761,"John Crockett","muskrat",212,50,11
+"455","Quinebaug",5761,"Kylie Rezendes","beaver",212,54,5
+"456","Quinebaug",5761,"Kylie Rezendes","other",212,54,21
+"457","Quinebaug",5771,"Amy Mayer","beaver",226,53,5
+"458","Quinebaug",5771,"John Crockett","beaver",226,52,9
+"459","Quinebaug",5771,"John Crockett","other",226,52,17
+"460","Quinebaug",6221,"John Crockett","beaver",212,63,33
+"461","Quinebaug",6221,"Kylie Rezendes","beaver",212,63,12
+"462","Quinebaug",6221,"Kylie Rezendes","muskrat",212,63,39
+"463","Quinebaug",6824,"John Crockett","beaver",212,66,13
+"464","Quinebaug",6824,"Kylie Rezendes","beaver",212,69,20
+"465","Quinebaug",6831,"Amy Mayer","beaver",190,75,7
+"466","Quinebaug",6831,"Amy Mayer","other",190,75,37
+"467","Quinebaug",6831,"Amy Mayer","otter",190,75,40
+"468","Quinebaug",9630,"Kylie Rezendes","beaver",175,91,3
+"469","Quinebaug",9630,"John Crockett","beaver",175,100,2
+"470","Quinebaug",9630,"John Crockett","otter",175,100,60
+"471","Quinebaug",9630,"Kylie Rezendes","otter",175,91,35
+"472","Quinebaug",9698,"Kylie Rezendes","beaver",189,27,12
+"473","Quinebaug",9698,"Kylie Rezendes","muskrat",189,27,14
+"474","Quinebaug",9698,"John Crockett","beaver",189,26,12
+"475","Quinebaug",9698,"John Crockett","muskrat",189,26,14
+"476","Quinebaug",10122,"Kylie Rezendes","muskrat",175,59,8
+"477","Quinebaug",10122,"Kylie Rezendes","beaver",175,59,16
+"478","Quinebaug",10122,"John Crockett","beaver",175,54,11
+"479","Quinebaug",10122,"John Crockett","otter",175,54,42
+"480","Quinebaug",10392,"Kylie Rezendes","beaver",189,86,7
+"481","Quinebaug",10392,"Kylie Rezendes","muskrat",189,86,12
+"482","Quinebaug",10392,"Kylie Rezendes","otter",189,86,37
+"483","Quinebaug",10392,"John Crockett","beaver",189,84,2
+"484","Quinebaug",10392,"John Crockett","other",189,84,17
+"485","Quinebaug",10392,"John Crockett","otter",189,84,37
+"486","Quinebaug",10392,"John Crockett","muskrat",189,84,67
+"487","Quinebaug",6831,"John Crockett","beaver",190,82,4
+"488","Quinebaug",6831,"John Crockett","otter",190,82,39
+"489","Quinebaug",6831,"John Crockett","other",190,82,57

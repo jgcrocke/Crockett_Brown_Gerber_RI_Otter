@@ -1,0 +1,448 @@
+"","Watershed","Site.ID","Observer","Spp","Day","TTD","YMax"
+"1","Pawtuxet",6,"John Crockett","beaver",12,5,40
+"2","Pawtuxet",6,"Justin Moore","beaver",12,2,37
+"3","Pawtuxet",6,"Justin Moore","muskrat?",12,4,37
+"4","Pawtuxet",6,"Jess Burr","muskrat",180,15,46
+"5","Pawtuxet",6,"Jess Burr","beaver",180,16,46
+"6","Pawtuxet",6,"John Crockett","muskrat",180,2,37
+"7","Pawtuxet",6,"John Crockett","beaver",180,14,37
+"8","Pawtuxet",9,"Justin Moore","beaver",55,2,41
+"9","Pawtuxet",9,"Justin Moore","muskrat",55,8,41
+"10","Pawtuxet",9,"Justin Moore","muskrat?",55,32,41
+"11","Pawtuxet",9,"Justin Moore","otter",55,34,41
+"12","Pawtuxet",9,"John Crockett","beaver",55,1,44
+"13","Pawtuxet",9,"John Crockett","muskrat",55,4,44
+"14","Pawtuxet",9,"John Crockett","otter",55,12,44
+"15","Pawtuxet",9,"Jess Burr","beaver",180,4,17
+"16","Pawtuxet",9,"Jess Burr","muskrat",180,11,17
+"17","Pawtuxet",9,"John Crockett","beaver",180,3,18
+"18","Pawtuxet",9,"John Crockett","muskrat",180,7,18
+"19","Pawtuxet",10,"Justin Moore","beaver",55,2,58
+"20","Pawtuxet",10,"John Crockett","beaver",55,1,55
+"21","Pawtuxet",10,"Jess Burr","beaver",180,2,33
+"22","Pawtuxet",10,"Jess Burr","muskrat",180,12,33
+"23","Pawtuxet",10,"John Crockett","muskrat",180,1,24
+"24","Pawtuxet",10,"John Crockett","beaver",180,2,24
+"25","Pawtuxet",15,"Justin Moore",NA,32,NA,22
+"26","Pawtuxet",15,"John Crockett","beaver",32,1,20
+"27","Pawtuxet",15,"John Crockett",NA,192,NA,7
+"28","Pawtuxet",15,"Jess Burr","beaver",192,3,4
+"29","Pawtuxet",17,"Justin Moore","beaver",10,7,67
+"30","Pawtuxet",17,"Justin Moore","muskrat?",10,31,67
+"31","Pawtuxet",17,"Justin Moore","otter?",10,45,67
+"32","Pawtuxet",17,"John Crockett","?",10,12,72
+"33","Pawtuxet",17,"John Crockett","beaver",10,14,72
+"34","Pawtuxet",17,"John Crockett","otter",10,42,72
+"35","Pawtuxet",17,"Jess Burr","muskrat",175,23,55
+"36","Pawtuxet",17,"Jess Burr","beaver",175,31,55
+"37","Pawtuxet",17,"Jess Burr","otter",175,34,55
+"38","Pawtuxet",17,"John Crockett","muskrat?",175,8,51
+"39","Pawtuxet",17,"John Crockett","muskrat",175,35,51
+"40","Pawtuxet",18,"Justin Moore","?",19,6,34
+"41","Pawtuxet",18,"John Crockett",NA,19,NA,31
+"42","Pawtuxet",19,"Justin Moore",NA,19,NA,29
+"43","Pawtuxet",19,"John Crockett",NA,19,NA,26
+"44","Pawtuxet",20,"Justin Moore","beaver",10,2,17
+"45","Pawtuxet",20,"Justin Moore","otter",10,6,17
+"46","Pawtuxet",20,"John Crockett","beaver",10,2,15
+"47","Pawtuxet",20,"Jess Burr","beaver",175,6,15
+"48","Pawtuxet",20,"John Crockett","beaver",175,1,15
+"49","Pawtuxet",20,"John Crockett","otter",175,13,15
+"50","Pawtuxet",22,"Justin Moore",NA,66,NA,21
+"51","Pawtuxet",22,"John Crockett",NA,66,NA,14
+"52","Pawtuxet",22,"John Crockett","muskrat?",192,7,14
+"53","Pawtuxet",22,"Jess Burr",NA,192,NA,14
+"54","Pawtuxet",28,"Justin Moore","beaver",104,18,20
+"55","Pawtuxet",28,"John Crockett","otter",104,6,24
+"56","Pawtuxet",28,"John Crockett","beaver",220,2,18
+"57","Pawtuxet",28,"Jess Burr","muskrat? maybe bird",220,5,15
+"58","Pawtuxet",28,"Jess Burr","muskrat? maybe racoon",220,9,15
+"59","Pawtuxet",29,"Justin Moore","muskrat",104,1,22
+"60","Pawtuxet",29,"Justin Moore","otter",104,3,22
+"61","Pawtuxet",29,"John Crockett","muskrat?",104,10,20
+"62","Pawtuxet",29,"John Crockett","beaver",104,11,20
+"63","Pawtuxet",29,"John Crockett","otter",104,17,20
+"64","Pawtuxet",29,"John Crockett",NA,220,NA,18
+"65","Pawtuxet",29,"Jess Burr",NA,220,NA,21
+"66","Pawtuxet",33,"Justin Moore","beaver",111,3,36
+"67","Pawtuxet",33,"Justin Moore","otter",111,5,36
+"68","Pawtuxet",33,"John Crockett","beaver",111,1,36
+"69","Pawtuxet",33,"John Crockett","otter",111,24,36
+"70","Pawtuxet",33,"John Crockett","beaver",222,9,26
+"71","Pawtuxet",33,"Jess Burr","beaver",222,5,23
+"72","Pawtuxet",33,"Jess Burr","muskrat",222,10,23
+"73","Pawtuxet",34,"Justin Moore","beaver",111,3,28
+"74","Pawtuxet",34,"John Crockett","muskrat",111,1,21
+"75","Pawtuxet",34,"John Crockett","beaver",111,2,21
+"76","Pawtuxet",34,"John Crockett","beaver",222,8,19
+"77","Pawtuxet",34,"Jess Burr","beaver",222,3,21
+"78","Pawtuxet",70,"John Crockett","beaver",110,3,51
+"79","Pawtuxet",70,"John Crockett","muskrat",110,21,51
+"80","Pawtuxet",70,"Justin Moore","muskrat",110,4,49
+"81","Pawtuxet",70,"Justin Moore","beaver",110,6,49
+"82","Pawtuxet",70,"John Crockett","beaver",221,9,38
+"83","Pawtuxet",70,"John Crockett","muskrat",221,34,38
+"84","Pawtuxet",70,"Jess Burr","beaver",221,2,43
+"85","Pawtuxet",70,"Jess Burr","muskrat?",221,10,43
+"86","Pawtuxet",73,"Justin Moore",NA,41,NA,14
+"87","Pawtuxet",73,"John Crockett",NA,41,NA,14
+"88","Pawtuxet",75,"John Crockett",NA,110,NA,13
+"89","Pawtuxet",75,"Justin Moore",NA,110,NA,12
+"90","Pawtuxet",75,"John Crockett","otter, maybe racoon",221,9,15
+"91","Pawtuxet",75,"Jess Burr","muskrat? maybe duck",221,14,17
+"92","Pawtuxet",77,"Justin Moore","beaver",25,5,36
+"93","Pawtuxet",77,"John Crockett","beaver?",25,19,23
+"94","Pawtuxet",82,"Justin Moore",NA,25,NA,18
+"95","Pawtuxet",82,"John Crockett",NA,25,NA,23
+"96","Pawtuxet",82,"Jess Burr","muskrat?",195,28,29
+"97","Pawtuxet",82,"John Crockett",NA,195,NA,28
+"98","Pawtuxet",84,"Justin Moore","beaver",25,34,45
+"99","Pawtuxet",84,"John Crockett",NA,25,NA,34
+"100","Pawtuxet",84,"Jess Burr","muskrat",195,8,20
+"101","Pawtuxet",84,"John Crockett",NA,195,NA,17
+"102","Pawtuxet",89,"Justin Moore",NA,66,NA,15
+"103","Pawtuxet",89,"John Crockett","otter",66,6,14
+"104","Pawtuxet",89,"John Crockett",NA,192,NA,24
+"105","Pawtuxet",89,"Jess Burr",NA,192,NA,24
+"106","Pawtuxet",90,"Justin Moore","muskrat",60,0,22
+"107","Pawtuxet",90,"Justin Moore","beaver?",60,17,22
+"108","Pawtuxet",90,"John Crockett","muskrat",60,3,22
+"109","Pawtuxet",90,"John Crockett","muskrat",189,11,18
+"110","Pawtuxet",90,"Jess Burr",NA,189,NA,19
+"111","Pawtuxet",91,"Justin Moore","muskrat",87,3,25
+"112","Pawtuxet",91,"Justin Moore","beaver",87,12,25
+"113","Pawtuxet",91,"John Crockett","beaver",87,9,25
+"114","Pawtuxet",91,"John Crockett","otter",87,21,25
+"115","Pawtuxet",91,"Jess Burr","otter",185,8,22
+"116","Pawtuxet",91,"Jess Burr","beaver",185,18,22
+"117","Pawtuxet",91,"John Crockett","beaver",185,2,21
+"118","Pawtuxet",92,"Justin Moore","beaver",104,27,29
+"119","Pawtuxet",92,"John Crockett","beaver",104,16,28
+"120","Pawtuxet",92,"John Crockett",NA,220,NA,16
+"121","Pawtuxet",92,"Jess Burr",NA,220,NA,15
+"122","Pawtuxet",93,"Justin Moore","muskrat",104,5,14
+"123","Pawtuxet",93,"John Crockett","muskrat?",104,5,16
+"124","Pawtuxet",93,"John Crockett","muskrat?",220,6,14
+"125","Pawtuxet",93,"Jess Burr","muskrat? maybe bird",220,4,11
+"126","Pawtuxet",94,"Justin Moore",NA,104,NA,14
+"127","Pawtuxet",94,"John Crockett","otter",104,12,17
+"128","Pawtuxet",94,"John Crockett",NA,220,NA,17
+"129","Pawtuxet",94,"Jess Burr",NA,220,NA,17
+"130","Pawtuxet",95,"Justin Moore","beaver",104,14,21
+"131","Pawtuxet",95,"Justin Moore","muskrat",104,15,21
+"132","Pawtuxet",95,"John Crockett",NA,104,NA,22
+"133","Pawtuxet",95,"John Crockett",NA,220,NA,17
+"134","Pawtuxet",95,"Jess Burr",NA,220,NA,15
+"135","Pawtuxet",99,"Justin Moore","beaver",27,3,18
+"136","Pawtuxet",99,"Justin Moore","muskrat",27,7,18
+"137","Pawtuxet",99,"John Crockett","muskrat",27,12,25
+"138","Pawtuxet",99,"John Crockett","beaver",27,16,25
+"139","Pawtuxet",99,"John Crockett","muskrat",189,8,29
+"140","Pawtuxet",99,"John Crockett","beaver",189,25,29
+"141","Pawtuxet",99,"Jess Burr","muskrat",189,3,26
+"142","Pawtuxet",100,"Justin Moore","muskrat",34,4,NA
+"143","Pawtuxet",100,"Justin Moore","beaver",34,9,NA
+"144","Pawtuxet",100,"Justin Moore","otter",34,15,NA
+"145","Pawtuxet",100,"John Crockett","beaver",34,4,29
+"146","Pawtuxet",100,"John Crockett","muskrat?",34,7,29
+"147","Pawtuxet",100,"John Crockett","otter",34,16,29
+"148","Pawtuxet",100,"John Crockett","muskrat",34,28,29
+"149","Pawtuxet",100,"Jess Burr","otter",186,4,20
+"150","Pawtuxet",100,"Jess Burr","beaver",186,15,20
+"151","Pawtuxet",100,"John Crockett","beaver",186,4,23
+"152","Pawtuxet",100,"John Crockett","muskrat?",186,9,23
+"153","Pawtuxet",100,"John Crockett","?",186,12,23
+"154","Pawtuxet",100,"John Crockett","muskrat",186,20,23
+"155","Narragansett Bay",103,"Justin Moore",NA,40,NA,9
+"156","Narragansett Bay",103,"John Crockett",NA,40,NA,8
+"157","Narragansett Bay",107,"Justin Moore",NA,13,NA,19
+"158","Narragansett Bay",107,"John Crockett",NA,13,NA,18
+"159","Narragansett Bay",107,"Jess Burr",NA,172,NA,13
+"160","Narragansett Bay",107,"John Crockett",NA,172,NA,15
+"161","Narragansett Bay",108,"Justin Moore","muskrat",33,3,21
+"162","Narragansett Bay",108,"John Crockett","?",33,3,30
+"163","Narragansett Bay",111,"Justin Moore",NA,35,NA,14
+"164","Narragansett Bay",111,"John Crockett",NA,35,NA,13
+"165","Narragansett Bay",114,"Justin Moore",NA,40,NA,17
+"166","Narragansett Bay",114,"John Crockett","raccoon",40,2,19
+"167","Narragansett Bay",115,"Justin Moore",NA,13,NA,31
+"168","Narragansett Bay",115,"John Crockett",NA,13,NA,31
+"169","Narragansett Bay",115,"Jess Burr","otter",172,23,30
+"170","Narragansett Bay",115,"John Crockett",NA,172,NA,22
+"171","Narragansett Bay",116,"Justin Moore","muskrat?",26,10,45
+"172","Narragansett Bay",116,"Justin Moore","muskrat",26,21,45
+"173","Narragansett Bay",116,"John Crockett","?",26,5,35
+"174","Narragansett Bay",116,"John Crockett","otter",26,16,35
+"175","Narragansett Bay",116,"John Crockett","muskrat",26,21,35
+"176","Narragansett Bay",116,"Jess Burr","muskrat",173,2,54
+"177","Narragansett Bay",116,"John Crockett","muskrat",173,11,54
+"178","Narragansett Bay",120,"John Crockett","?",6,0,61
+"179","Narragansett Bay",120,"John Crockett","muskrat",6,55,61
+"180","Narragansett Bay",120,"Justin Moore","muskrat?",6,14,58
+"181","Narragansett Bay",120,"Jess Burr","muskrat",173,2,27
+"182","Narragansett Bay",120,"John Crockett","muskrat",173,1,22
+"183","Narragansett Bay",121,"Justin Moore","otter",5,16,59
+"184","Narragansett Bay",121,"John Crockett","otter",5,11,60
+"185","Narragansett Bay",121,"John Crockett","beaver",5,50,60
+"186","Narragansett Bay",121,"John Crockett","muskrat?",5,51,60
+"187","Narragansett Bay",121,"Jess Burr","muskrat",173,5,26
+"188","Narragansett Bay",121,"John Crockett","muskrat",173,6,24
+"189","Narragansett Bay",122,"John Crockett",NA,6,NA,37
+"190","Narragansett Bay",122,"Justin Moore",NA,6,NA,40
+"191","Narragansett Bay",123,"John Crockett","otter",14,34,42
+"192","Narragansett Bay",123,"Justin Moore","muskrat?",14,21,46
+"193","Narragansett Bay",123,"Justin Moore","beaver",14,37,46
+"194","Narragansett Bay",123,"John Crockett","muskrat?",187,21,44
+"195","Narragansett Bay",123,"Jess Burr","muskrat",187,26,43
+"196","Narragansett Bay",125,"John Crockett","raccoon",14,16,22
+"197","Narragansett Bay",125,"Justin Moore","muskrat",14,9,23
+"198","Narragansett Bay",127,"John Crockett",NA,6,NA,15
+"199","Narragansett Bay",127,"Justin Moore",NA,6,NA,15
+"200","Narragansett Bay",129,"Justin Moore",NA,47,NA,23
+"201","Narragansett Bay",129,"John Crockett","beaver",47,15,23
+"202","Narragansett Bay",134,"Justin Moore",NA,94,NA,7
+"203","Narragansett Bay",134,"John Crockett",NA,94,NA,7
+"204","Narragansett Bay",148,"Justin Moore",NA,10,NA,10
+"205","Narragansett Bay",148,"John Crockett",NA,10,NA,11
+"206","Narragansett Bay",149,"Justin Moore",NA,10,NA,15
+"207","Narragansett Bay",149,"John Crockett",NA,10,NA,11
+"208","Narragansett Bay",151,"Justin Moore",NA,10,NA,25
+"209","Narragansett Bay",151,"John Crockett",NA,10,NA,25
+"210","Narragansett Bay",153,"Justin Moore",NA,24,NA,45
+"211","Narragansett Bay",153,"John Crockett",NA,24,NA,34
+"212","Narragansett Bay",162,"Justin Moore","beaver",10,8,48
+"213","Narragansett Bay",162,"Justin Moore","otter",10,25,48
+"214","Narragansett Bay",162,"John Crockett","beaver",10,4,48
+"215","Narragansett Bay",162,"John Crockett","otter",10,11,48
+"216","Narragansett Bay",162,"John Crockett",NA,175,NA,51
+"217","Narragansett Bay",162,"Jess Burr","beaver",175,4,49
+"218","Narragansett Bay",162,"Jess Burr","otter",175,44,49
+"219","Narragansett Bay",167,"John Crockett",NA,45,NA,44
+"220","Narragansett Bay",167,"Justin Moore",NA,45,NA,40
+"221","Narragansett Bay",167,"John Crockett",NA,174,NA,34
+"222","Narragansett Bay",167,"Jess Burr","muskrat",174,17,34
+"223","Narragansett Bay",167,"Jess Burr","beaver",174,20,34
+"224","Narragansett Bay",168,"Justin Moore",NA,30,NA,43
+"225","Narragansett Bay",168,"John Crockett",NA,31,NA,18
+"226","Narragansett Bay",175,"Justin Moore",NA,11,NA,19
+"227","Narragansett Bay",175,"John Crockett",NA,11,NA,18
+"228","Narragansett Bay",176,"Justin Moore",NA,24,NA,20
+"229","Narragansett Bay",176,"John Crockett","otter",24,28,16
+"230","Narragansett Bay",176,"Jess Burr",NA,179,NA,6
+"231","Narragansett Bay",176,"John Crockett","muskrat",179,10,11
+"232","Narragansett Bay",187,"Justin Moore",NA,95,NA,9
+"233","Narragansett Bay",187,"John Crockett",NA,95,NA,9
+"234","Narragansett Bay",189,"Justin Moore",NA,82,NA,22
+"235","Narragansett Bay",189,"John Crockett","muskrat?",82,5,21
+"236","Narragansett Bay",199,"Justin Moore",NA,20,NA,38
+"237","Narragansett Bay",199,"John Crockett",NA,20,NA,35
+"238","Narragansett Bay",199,"John Crockett",NA,217,NA,23
+"239","Narragansett Bay",199,"Jess Burr",NA,217,NA,23
+"240","Narragansett Bay",200,"Justin Moore",NA,20,NA,21
+"241","Narragansett Bay",200,"John Crockett",NA,20,NA,20
+"242","Narragansett Bay",200,"John Crockett",NA,217,NA,16
+"243","Narragansett Bay",200,"Jess Burr",NA,217,NA,17
+"244","Pawtuxet",202,"Justin Moore","beaver",46,10,24
+"245","Pawtuxet",202,"John Crockett","beaver",46,13,29
+"246","Pawtuxet",202,"Jess Burr","beaver",178,16,36
+"247","Pawtuxet",202,"John Crockett","beaver",178,10,36
+"248","Pawtuxet",203,"Justin Moore","beaver",46,18,19
+"249","Pawtuxet",203,"John Crockett","beaver",46,14,17
+"250","Pawtuxet",203,"Jess Burr",NA,178,NA,18
+"251","Pawtuxet",203,"John Crockett",NA,178,NA,6
+"252","Pawtuxet",205,"Justin Moore",NA,62,NA,36
+"253","Pawtuxet",205,"John Crockett","beaver",62,20,34
+"254","Pawtuxet",205,"John Crockett","otter",222,1,22
+"255","Pawtuxet",205,"Jess Burr","otter",222,1,22
+"256","Pawtuxet",206,"Justin Moore",NA,62,NA,24
+"257","Pawtuxet",206,"John Crockett","beaver",62,1,44
+"258","Pawtuxet",206,"Jess Burr","beaver",180,2,31
+"259","Pawtuxet",206,"Jess Burr","muskrat",180,22,31
+"260","Pawtuxet",206,"John Crockett","beaver",180,2,31
+"261","Pawtuxet",206,"John Crockett","muskrat",180,13,31
+"262","Pawtuxet",206,"John Crockett","otter",180,17,31
+"263","Pawtuxet",207,"Justin Moore",NA,62,NA,21
+"264","Pawtuxet",207,"John Crockett","beaver",62,5,21
+"265","Pawtuxet",207,"Jess Burr","beaver",185,10,37
+"266","Pawtuxet",207,"John Crockett","beaver",185,5,38
+"267","Pawtuxet",207,"John Crockett","otter",185,8,38
+"268","Pawtuxet",207,"John Crockett","?",185,15,38
+"269","Pawtuxet",208,"Justin Moore","beaver",81,16,57
+"270","Pawtuxet",208,"Justin Moore","muskrat?",81,35,57
+"271","Pawtuxet",208,"John Crockett","beaver",81,10,60
+"272","Pawtuxet",208,"John Crockett","otter",81,20,60
+"273","Pawtuxet",208,"John Crockett","muskrat",81,38,60
+"274","Pawtuxet",208,"Jess Burr","beaver",194,21,41
+"275","Pawtuxet",208,"Jess Burr","?",194,32,41
+"276","Pawtuxet",208,"John Crockett","beaver",194,19,40
+"277","Pawtuxet",208,"John Crockett","beaver?",194,29,40
+"278","Pawtuxet",208,"John Crockett","otter",194,51,40
+"279","Pawtuxet",209,"Justin Moore","beaver",38,NA,24
+"280","Pawtuxet",209,"John Crockett",NA,38,NA,26
+"281","Pawtuxet",209,"Jess Burr","otter",194,12,20
+"282","Pawtuxet",209,"John Crockett","otter",194,11,19
+"283","Pawtuxet",210,"Justin Moore",NA,38,NA,33
+"284","Pawtuxet",210,"John Crockett","?",38,17,32
+"285","Pawtuxet",210,"Jess Burr",NA,194,NA,9
+"286","Pawtuxet",210,"John Crockett","no habitat",194,NA,29
+"287","Pawtuxet",212,"Justin Moore","beaver",53,7,43
+"288","Pawtuxet",212,"John Crockett","beaver",53,6,80
+"289","Pawtuxet",212,"John Crockett","muskrat?",53,53,80
+"290","Pawtuxet",212,"Jess Burr","?",178,7,45
+"291","Pawtuxet",212,"Jess Burr","beaver",178,16,45
+"292","Pawtuxet",212,"Jess Burr","otter",178,29,45
+"293","Pawtuxet",212,"Jess Burr","otter?",178,37,45
+"294","Pawtuxet",212,"John Crockett","beaver",178,16,44
+"295","Pawtuxet",212,"John Crockett","otter",178,29,44
+"296","Pawtuxet",215,"Justin Moore","beaver",53,2,43
+"297","Pawtuxet",215,"Justin Moore","otter",53,19,43
+"298","Pawtuxet",215,"John Crockett","beaver",53,2,42
+"299","Pawtuxet",215,"John Crockett","otter",53,4,42
+"300","Pawtuxet",215,"Jess Burr","beaver",175,3,50
+"301","Pawtuxet",215,"Jess Burr","muskrat",175,36,50
+"302","Pawtuxet",215,"John Crockett","muskrat",175,6,47
+"303","Pawtuxet",215,"John Crockett","beaver",175,14,47
+"304","Pawtuxet",217,"Justin Moore","beaver",46,9,16
+"305","Pawtuxet",217,"John Crockett","?",46,14,19
+"306","Pawtuxet",217,"John Crockett","beaver",46,16,19
+"307","Pawtuxet",217,"Jess Burr","beaver",178,17,32
+"308","Pawtuxet",217,"John Crockett","beaver",178,18,31
+"309","Pawtuxet",224,"Justin Moore","beaver",39,7,41
+"310","Pawtuxet",224,"Justin Moore","?",39,13,41
+"311","Pawtuxet",224,"John Crockett","beaver",39,3,37
+"312","Pawtuxet",224,"John Crockett","muskrat?",39,16,37
+"313","Pawtuxet",224,"John Crockett","otter",181,5,19
+"314","Pawtuxet",224,"John Crockett","muskrat",181,9,19
+"315","Pawtuxet",224,"Jess Burr","muskrat",181,-4,14
+"316","Pawtuxet",224,"Jess Burr","beaver",181,-3,14
+"317","Pawtuxet",224,"Jess Burr","otter",181,2,14
+"318","Pawtuxet",226,"Justin Moore",NA,38,NA,9
+"319","Pawtuxet",226,"John Crockett",NA,38,NA,9
+"320","Pawtuxet",226,"Jess Burr",NA,194,NA,14
+"321","Pawtuxet",226,"John Crockett",NA,194,NA,13
+"322","Pawtuxet",227,"John Crockett","muskrat?",83,4,30
+"323","Pawtuxet",227,"John Crockett","otter",83,20,30
+"324","Pawtuxet",227,"Justin Moore","otter",83,5,34
+"325","Pawtuxet",227,"Justin Moore","muskrat?",83,21,34
+"326","Pawtuxet",228,"Justin Moore","muskrat",87,6,9
+"327","Pawtuxet",228,"John Crockett","beaver",87,3,9
+"328","Pawtuxet",228,"John Crockett","muskrat?",87,5,9
+"329","Pawtuxet",228,"Jess Burr","beaver",185,3,8
+"330","Pawtuxet",228,"John Crockett","beaver",185,8,13
+"331","Pawtuxet",229,"Justin Moore","beaver",39,5,51
+"332","Pawtuxet",229,"Justin Moore","otter",39,21,51
+"333","Pawtuxet",229,"Justin Moore","muskrat",39,48,51
+"334","Pawtuxet",229,"John Crockett","?",39,2,49
+"335","Pawtuxet",229,"John Crockett","otter",39,5,49
+"336","Pawtuxet",229,"John Crockett","beaver",39,6,49
+"337","Pawtuxet",229,"John Crockett","beaver",181,17,68
+"338","Pawtuxet",229,"Jess Burr","muskrat",181,7,71
+"339","Pawtuxet",229,"Jess Burr","beaver",181,19,71
+"340","Pawtuxet",231,"Justin Moore","beaver",39,4,15
+"341","Pawtuxet",231,"Justin Moore","muskrat?",39,10,15
+"342","Pawtuxet",231,"John Crockett","beaver",39,14,25
+"343","Pawtuxet",231,"John Crockett","?",39,18,25
+"344","Pawtuxet",231,"John Crockett","muskrat",181,2,16
+"345","Pawtuxet",231,"Jess Burr","muskrat",181,3,16
+"346","Pawtuxet",231,"Jess Burr","beaver",181,12,16
+"347","Pawtuxet",232,"Justin Moore",NA,63,NA,26
+"348","Pawtuxet",232,"John Crockett",NA,63,NA,15
+"349","Pawtuxet",232,"John Crockett",NA,228,NA,12
+"350","Pawtuxet",232,"Jess Burr","beaver",228,13,14
+"351","Pawtuxet",233,"Justin Moore",NA,63,NA,22
+"352","Pawtuxet",233,"John Crockett",NA,63,NA,24
+"353","Pawtuxet",233,"John Crockett",NA,228,NA,17
+"354","Pawtuxet",233,"Jess Burr",NA,228,NA,12
+"355","Pawtuxet",237,"Justin Moore",NA,41,NA,24
+"356","Pawtuxet",237,"John Crockett",NA,41,NA,36
+"357","Pawtuxet",246,"Justin Moore",NA,41,NA,22
+"358","Pawtuxet",246,"John Crockett",NA,41,NA,18
+"359","Pawtuxet",246,"Jess Burr","muskrat",195,5,11
+"360","Pawtuxet",246,"John Crockett","muskrat?",195,3,8
+"361","Pawtuxet",246,"John Crockett","muskrat",195,5,8
+"362","Pawtuxet",249,"Justin Moore","beaver",60,4,26
+"363","Pawtuxet",249,"John Crockett","beaver",60,4,20
+"364","Pawtuxet",249,"John Crockett","muskrat",189,9,25
+"365","Pawtuxet",249,"Jess Burr","muskrat",189,7,24
+"366","Pawtuxet",250,"Justin Moore","beaver",41,5,25
+"367","Pawtuxet",250,"John Crockett","beaver",41,9,25
+"368","Pawtuxet",250,"John Crockett",NA,196,NA,30
+"369","Pawtuxet",250,"Jess Burr","muskrat?",196,11,33
+"370","Narragansett Bay",256,"Justin Moore",NA,59,NA,19
+"371","Narragansett Bay",256,"John Crockett",NA,59,NA,12
+"372","Narragansett Bay",257,"Justin Moore",NA,59,NA,19
+"373","Narragansett Bay",257,"John Crockett",NA,59,NA,20
+"374","Narragansett Bay",257,"Jess Burr",NA,172,NA,10
+"375","Narragansett Bay",257,"John Crockett",NA,172,NA,13
+"376","Narragansett Bay",258,"Justin Moore",NA,59,NA,23
+"377","Narragansett Bay",258,"John Crockett","otter",59,20,26
+"378","Narragansett Bay",258,"Jess Burr",NA,172,NA,22
+"379","Narragansett Bay",258,"John Crockett","?",172,15,20
+"380","Narragansett Bay",260,"Justin Moore",NA,94,NA,11
+"381","Narragansett Bay",260,"John Crockett","raccoon",94,13,23
+"382","Narragansett Bay",260,"John Crockett",NA,182,NA,15
+"383","Narragansett Bay",260,"Jess Burr","otter",182,2,13
+"384","Narragansett Bay",270,"Justin Moore",NA,94,NA,23
+"385","Narragansett Bay",270,"John Crockett",NA,94,NA,22
+"386","Narragansett Bay",270,"John Crockett","otter?",182,8,30
+"387","Narragansett Bay",270,"Jess Burr","otter",182,18,33
+"388","Narragansett Bay",294,"John Crockett","muskrat",69,5,52
+"389","Narragansett Bay",294,"Justin Moore",NA,69,NA,50
+"390","Narragansett Bay",294,"John Crockett","muskrat?",174,5,59
+"391","Narragansett Bay",294,"John Crockett","muskrat",174,10,59
+"392","Narragansett Bay",294,"Jess Burr","?",174,2,62
+"393","Narragansett Bay",294,"Jess Burr","muskrat",174,16,62
+"394","Narragansett Bay",295,"Justin Moore","muskrat",95,7,16
+"395","Narragansett Bay",295,"John Crockett","muskrat",95,5,17
+"396","Narragansett Bay",295,"Jess Burr","muskrat",179,14,20
+"397","Narragansett Bay",295,"John Crockett","muskrat",179,7,20
+"398","Narragansett Bay",295,"John Crockett","otter",179,18,20
+"399","Narragansett Bay",296,"Justin Moore","muskrat",95,5,8
+"400","Narragansett Bay",296,"John Crockett","muskrat",95,1,7
+"401","Narragansett Bay",296,"Jess Burr","muskrat",179,13,19
+"402","Narragansett Bay",296,"John Crockett","muskrat",179,4,19
+"403","Narragansett Bay",297,"Justin Moore","beaver?",67,23,34
+"404","Narragansett Bay",297,"John Crockett","muskrat",67,6,29
+"405","Narragansett Bay",297,"John Crockett","otter",67,17,29
+"406","Narragansett Bay",297,"Jess Burr",NA,179,NA,22
+"407","Narragansett Bay",297,"John Crockett",NA,179,NA,23
+"408","Pawtuxet",301,"John Crockett",NA,88,NA,29
+"409","Pawtuxet",301,"Justin Moore",NA,88,NA,30
+"410","Pawtuxet",302,"John Crockett","beaver",88,0,51
+"411","Pawtuxet",302,"John Crockett","otter",88,10,51
+"412","Pawtuxet",302,"John Crockett","muskrat",88,36,51
+"413","Pawtuxet",302,"Justin Moore","beaver",88,1,44
+"414","Pawtuxet",302,"Justin Moore","muskrat",88,41,44
+"415","Pawtuxet",302,"John Crockett","beaver",181,1,50
+"416","Pawtuxet",302,"John Crockett","otter",181,12,50
+"417","Pawtuxet",302,"John Crockett","muskrat",181,27,50
+"418","Pawtuxet",302,"Jess Burr","beaver",181,3,61
+"419","Pawtuxet",302,"Jess Burr","otter",181,8,61
+"420","Pawtuxet",302,"Jess Burr","muskrat",181,32,61
+"421","Narragansett Bay",303,"Justin Moore",NA,89,NA,26
+"422","Narragansett Bay",303,"John Crockett",NA,89,NA,28
+"423","Narragansett Bay",303,"John Crockett",NA,188,NA,29
+"424","Narragansett Bay",303,"Jess Burr",NA,188,NA,29
+"425","Narragansett Bay",304,"Justin Moore",NA,89,NA,18
+"426","Narragansett Bay",304,"John Crockett",NA,89,NA,18
+"427","Narragansett Bay",304,"John Crockett",NA,188,NA,15
+"428","Narragansett Bay",304,"Jess Burr",NA,188,NA,15
+"429","Pawtuxet",305,"Justin Moore","muskrat",90,1,34
+"430","Pawtuxet",305,"Justin Moore","otter",90,3,34
+"431","Pawtuxet",305,"Justin Moore","beaver",90,14,34
+"432","Pawtuxet",305,"John Crockett","beaver",90,2,31
+"433","Pawtuxet",305,"John Crockett","muskrat",90,4,31
+"434","Pawtuxet",305,"John Crockett","otter",90,8,31
+"435","Pawtuxet",305,"John Crockett","otter?",186,1,24
+"436","Pawtuxet",305,"John Crockett","muskrat",186,9,24
+"437","Pawtuxet",305,"John Crockett","beaver",186,18,24
+"438","Pawtuxet",305,"Jess Burr","muskrat",186,4,25
+"439","Pawtuxet",305,"Jess Burr","beaver",186,10,25
+"440","Pawtuxet",305,"Jess Burr","otter",186,18,25
+"441","Pawtuxet",306,"Justin Moore","beaver",90,4,19
+"442","Pawtuxet",306,"Justin Moore","muskrat",90,9,19
+"443","Pawtuxet",306,"John Crockett","muskrat",90,-3,21
+"444","Pawtuxet",306,"John Crockett","beaver",90,5,21
+"445","Pawtuxet",306,"John Crockett","muskrat",186,6,24
+"446","Pawtuxet",306,"Jess Burr","muskrat",186,2,22
+"447","Pawtuxet",306,"Jess Burr","beaver",186,22,22

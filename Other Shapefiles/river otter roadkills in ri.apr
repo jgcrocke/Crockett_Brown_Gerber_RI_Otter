@@ -1,0 +1,13542 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Project"
+	Roots:	2
+	Version:	32
+)
+
+(Project.2
+	Name:	"river otter roadkills in ri.apr"
+	CreationDate:	"Monday, February 12, 2007 11:00:06 AM"
+	GUIName:	"Project"
+	Win:	3
+	CSMgr:	4
+	DocExts:	5
+	VisGUIWidth:	70
+	Doc:	6
+	Doc:	172
+	Doc:	335
+	Doc:	1407
+	Doc:	1517
+	Doc:	64
+	Doc:	1687
+	Doc:	413
+	ActiveDoc:	64
+	Buttons:	1706
+	Buttons:	1707
+	Buttons:	1708
+	Scripts:	1709
+	Prefs:	1710
+	WorkDir:	2544
+	WinX:	-4
+	WinY:	-3
+	WinW:	1032
+	WinH:	745
+	SerialNumber:	"760431100207"
+	SelColor:	2545
+	GUINames:	2546
+	GUINames:	2547
+	GUINames:	2548
+	GUINames:	2549
+	GUINames:	2550
+	GUINames:	2551
+	GUINames:	2552
+	TocWidthScale:	1.00000000000000
+)
+
+(DocWin.3
+	Owner:	2
+	Open:	1
+	X:	5
+	Y:	5
+	W:	238
+	H:	317
+)
+
+(CSMgr.4
+)
+
+(DocAct.5
+	Doc:	2
+)
+
+(Table.6
+	Name:	"Attributes of Otter latrines in ri.shp"
+	CreationDate:	"Friday, February 19, 2010 12:58:00 PM"
+	GUIName:	"Table"
+	Win:	7
+	CSMgr:	8
+	DocExts:	334
+	VTab:	14
+)
+
+(DocWin.7
+	Owner:	6
+	X:	20
+	Y:	20
+	W:	365
+	H:	248
+)
+
+(CSMgr.8
+	Client:	9
+)
+
+(CSClient.9
+	Client:	10
+	ReqName:	"RespondTable"
+)
+
+(FTheme.10
+	Name:	"Otter latrines in ri.shp"
+	Source:	11
+	Flags:	0x04
+	Legend:	32
+	Threshold:	63
+	View:	64
+	GSet:	332
+	LegEditScript:	"View.EditLegend"
+	TxPos:	333
+	LabelField:	17
+	Table:	6
+	SnapTolCursor:	1
+)
+
+(ShpSrc.11
+	Name:	12
+	FTab:	14
+)
+
+(SrcName.12
+	FileName:	13
+	Name:	"otter latrines in ri.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.13
+	Path:	"c:/cgis/otter latrines in ri.shp"
+)
+
+(FTab.14
+	Name:	"otter latrines in ri.dbf"
+	BTab:	15
+	Fields:	30
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	Fields:	19
+	Fields:	20
+	Fields:	21
+	Fields:	22
+	Fields:	23
+	Fields:	24
+	Fields:	25
+	Fields:	26
+	Fields:	27
+	Fields:	28
+	SelBits:	31
+	FSrc:	11
+)
+
+(dBASE.15
+	Name:	"otter latrines in ri.dbf"
+	Fields:	16
+	Fields:	17
+	Fields:	18
+	Fields:	19
+	Fields:	20
+	Fields:	21
+	Fields:	22
+	Fields:	23
+	Fields:	24
+	Fields:	25
+	Fields:	26
+	Fields:	27
+	Fields:	28
+	FileName:	29
+)
+
+(Field.16
+	Name:	"Id"
+	Btab:	15
+	Alias:	"Id"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.17
+	Name:	"Waterbody"
+	Btab:	15
+	Alias:	"Waterbody"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.18
+	Name:	"Usgs_quad"
+	Btab:	15
+	Alias:	"Usgs_quad"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.19
+	Name:	"Town"
+	Btab:	15
+	Alias:	"Town"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.20
+	Name:	"Watershed"
+	Btab:	15
+	Alias:	"Watershed"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.21
+	Name:	"Date_first"
+	Btab:	15
+	Alias:	"Date_first"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.22
+	Name:	"Surveyor_s"
+	Btab:	15
+	Alias:	"Surveyor_s"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.23
+	Name:	"Last_surve"
+	Btab:	15
+	Alias:	"Last_surve"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.24
+	Name:	"Notes"
+	Btab:	15
+	Alias:	"Notes"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.25
+	Name:	"Results_la"
+	Btab:	15
+	Alias:	"Results_la"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.26
+	Name:	"Wgs84_east"
+	Btab:	15
+	Alias:	"Wgs84_east"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.27
+	Name:	"Wgs84_n"
+	Btab:	15
+	Alias:	"Wgs84_n"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	125
+)
+
+(Field.28
+	Name:	"Past_surve"
+	Btab:	15
+	Alias:	"Past_surve"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(FN.29
+	Path:	"c:/cgis/otter latrines in ri.dbf"
+)
+
+(Field.30
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.31
+	NumBits:	432
+
+)
+
+(Legend.32
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	33
+	Class:	52
+	StdDevs:	1.00000000000000
+	NullSym:	53
+	NullValues:	61
+	StatValues:	62
+	Precision:	-3
+)
+
+(SymList.33
+	Child:	34
+)
+
+(CMkSym.34
+	Color:	35
+	Symbols:	36
+	BgColor:	51
+	Size:	10.00000000000000
+)
+
+(TClr.35
+	Red:	0x4d67
+	Green:	0xa86f
+	Blue:	0xbf3d
+)
+
+(SymList.36
+	Child:	37
+	Child:	44
+)
+
+(BMkSym.37
+	Color:	38
+	BgColor:	39
+	Font:	40
+	Size:	10.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.38
+	Red:	0x4d67
+	Green:	0xa86f
+	Blue:	0xbf3d
+)
+
+(TClr.39
+	Name:	"Transparent"
+)
+
+(NFont.40
+	Family:	41
+	Name:	42
+	Style:	43
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.41
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.42
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.43
+	S:	"Normal"
+)
+
+(BMkSym.44
+	Color:	45
+	ColorLock:	1
+	BgColor:	46
+	Font:	47
+	Size:	10.00000000000000
+	Pattern:	83
+	Angle:	360.00000000000000
+)
+
+(TClr.45
+)
+
+(TClr.46
+	Name:	"Transparent"
+)
+
+(NFont.47
+	Family:	48
+	Name:	49
+	Style:	50
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.48
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.49
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.50
+	S:	"Normal"
+)
+
+(TClr.51
+	Name:	"Transparent"
+)
+
+(LClass.52
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.53
+	Color:	54
+	BgColor:	55
+	Font:	56
+	Size:	8.00000000000000
+	Pattern:	42
+)
+
+(TClr.54
+	Name:	"Transparent"
+)
+
+(TClr.55
+	Name:	"Transparent"
+)
+
+(NFont.56
+	Family:	57
+	Name:	58
+	Style:	59
+	CommonFamily:	60
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.57
+	S:	"Arial"
+)
+
+(AVStr.58
+	S:	"Arial"
+)
+
+(AVStr.59
+	S:	"Normal"
+)
+
+(AVStr.60
+	S:	"Helvetica"
+)
+
+(NameDict.61
+)
+
+(NameDict.62
+)
+
+(Thresh.63
+)
+
+(View.64
+	Name:	"river otter roadkills in RI 1999 - "
+	Creator:	"cbrown"
+	CreationDate:	"Monday, February 12, 2007 11:31:55 AM"
+	GUIName:	"View"
+	Win:	65
+	CSMgr:	66
+	DocExts:	68
+	DocExts:	116
+	Graphics:	117
+	Theme:	124
+	Theme:	10
+	Theme:	177
+	Theme:	235
+	Theme:	270
+	Theme:	302
+	LastScale:	481947.37556662079000
+	Dpy:	118
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.65
+	Owner:	64
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1034
+	H:	641
+)
+
+(CSMgr.66
+	Client:	67
+	Client:	69
+)
+
+(CSClient.67
+	Client:	68
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.68
+	Doc:	64
+)
+
+(CSClient.69
+	Client:	70
+	ReqName:	"ViewChangedCB"
+)
+
+(GView.70
+	Name:	"ViewFrame1"
+	Bounds:	71
+	Sym:	72
+	UserBounds:	76
+	Refresh:	2
+	Quality:	1
+	View:	64
+	LiveLink:	1
+	MapDpy:	77
+	CSMgr:	82
+)
+
+(RectD.71
+	Left:	746.54196428571413
+	Top:	754.67142857142858
+	Right:	754.07339285714272
+	Bottom:	745.25714285714287
+)
+
+(BShSym.72
+	Color:	73
+	OutlineColor:	74
+	BgColor:	75
+	Style:	0x01
+)
+
+(TClr.73
+)
+
+(TClr.74
+)
+
+(TClr.75
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.76
+	Left:	746.54196428571413
+	Top:	754.67142857142858
+	Right:	754.07339285714272
+	Bottom:	745.25714285714287
+)
+
+(MapDpy.77
+	Left:	218131.68773437501000
+	Bottom:	79945.73941318095600
+	Top:	337695.54644279426000
+	Right:	466474.85914062499000
+	Scale:	78
+	FrameLeft:	746.54196428571413
+	FrameBottom:	745.25714285714287
+	FrameTop:	754.67142857142858
+	FrameRight:	754.07339285714272
+	PageDpy:	79
+	MouseLoc:	81
+)
+
+(Numb.78
+	N:	0.00003032669885
+)
+
+(PageDpy.79
+	Top:	1500.00000000000000
+	Right:	1500.00000000000000
+	ReportUnits:	1
+	Units:	1
+	Scale:	80
+	Type:	1
+	ZoomLeft:	745.32500000000005
+	ZoomRight:	754.67499999999995
+	ZoomTop:	756.04999999999995
+	ZoomBottom:	743.95000000000005
+	PageLeft:	745.75000000000000
+	PageRight:	754.25000000000000
+	PageTop:	755.50000000000000
+	PageBottom:	744.50000000000000
+	GridSpacingX:	0.25000000196750
+	GridSpacingY:	0.25000000196750
+	MarginLeft:	0.07000000000000
+	MarginRight:	0.46000000000000
+	MarginTop:	0.25000000000000
+	MarginBottom:	0.25000000000000
+	UsePrtMargins:	1
+	UsePrtPageSize:	1
+	Options:	55
+)
+
+(Numb.80
+	N:	50.90909090909129
+)
+
+(PointD.81
+)
+
+(CSMgr.82
+	Client:	83
+	Client:	99
+)
+
+(CSClient.83
+	Client:	84
+	ReqName:	"GViewChangedCB"
+)
+
+(GSBar.84
+	Name:	"ScaleBarFrame2"
+	Bounds:	85
+	Sym:	86
+	GView:	70
+	Style:	3
+	Units:	4
+	Interval:	5.00000000000000
+	Intervals:	2
+	TextRatio:	1.50000000000000
+	TextSym:	90
+	PreserveInterval:	1
+)
+
+(RectD.85
+	Left:	747.41696428571436
+	Top:	745.64907407407406
+	Right:	749.68029731638910
+	Bottom:	745.32500000000005
+)
+
+(BShSym.86
+	Color:	87
+	Outline:	1
+	OutlineColor:	88
+	BgColor:	89
+)
+
+(TClr.87
+)
+
+(TClr.88
+)
+
+(TClr.89
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TxSym.90
+	Color:	91
+	Font:	92
+	BgColor:	97
+	OlColor:	98
+	Size:	14.00000000000000
+)
+
+(TClr.91
+)
+
+(NFont.92
+	Family:	93
+	Name:	94
+	Style:	95
+	CommonFamily:	96
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.93
+	S:	"Arial"
+)
+
+(AVStr.94
+	S:	"Arial"
+)
+
+(AVStr.95
+	S:	"Normal"
+)
+
+(AVStr.96
+	S:	"Helvetica"
+)
+
+(TClr.97
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.98
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(CSClient.99
+	Client:	100
+	ReqName:	"RespondViewFrameChanged"
+)
+
+(GLegend.100
+	Name:	"LegendFrame4"
+	Bounds:	101
+	Sym:	102
+	UserBounds:	106
+	Refresh:	2
+	Quality:	1
+	GView:	70
+	TextSym:	107
+)
+
+(RectD.101
+	Left:	749.69553571428582
+	Top:	746.46729936395616
+	Right:	753.35443335335788
+	Bottom:	746.13420557479333
+)
+
+(BShSym.102
+	Color:	103
+	OutlineColor:	104
+	BgColor:	105
+	Style:	0x01
+)
+
+(TClr.103
+)
+
+(TClr.104
+)
+
+(TClr.105
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.106
+	Left:	749.69553571428582
+	Top:	746.68303638707437
+	Right:	753.32128263652112
+	Bottom:	746.13420557479333
+)
+
+(TxSym.107
+	Color:	108
+	Font:	109
+	BgColor:	114
+	OlColor:	115
+	Size:	11.88275281971983
+)
+
+(TClr.108
+)
+
+(NFont.109
+	Family:	110
+	Name:	111
+	Style:	112
+	CommonFamily:	113
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.110
+	S:	"Arial"
+)
+
+(AVStr.111
+	S:	"Arial"
+)
+
+(AVStr.112
+	S:	"Normal"
+)
+
+(AVStr.113
+	S:	"Helvetica"
+)
+
+(TClr.114
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.115
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(DocAct.116
+	Doc:	64
+)
+
+(GList.117
+	Dpy:	118
+	FormatNumb:	123
+)
+
+(MapDpy.118
+	Left:	212635.96500608444000
+	Bottom:	81221.72855689191800
+	Top:	336419.55729908333000
+	Right:	434990.94274493295000
+	ReportUnits:	4
+	Units:	2
+	Scale:	119
+	FrameTop:	6.35416666666667
+	FrameRight:	9.05208333333333
+	PageDpy:	120
+	FitToPage:	1
+	MouseLoc:	122
+)
+
+(Numb.119
+	N:	0.00002489898405
+)
+
+(PageDpy.120
+	Top:	6.35416666666667
+	Right:	9.05208333333333
+	ReportUnits:	1
+	Units:	1
+	Scale:	121
+	ZoomRight:	9.05208333333333
+	ZoomTop:	6.35416666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.121
+	N:	96.00000000000000
+)
+
+(PointD.122
+	x:	143292.36682263069000
+	y:	287053.41993583977000
+)
+
+(Numb.123
+)
+
+(FTheme.124
+	Name:	"Approximate location of river otter roadkills  (n=96)"
+	Source:	125
+	Flags:	0x07
+	Legend:	139
+	Threshold:	169
+	View:	64
+	GSet:	170
+	LegEditScript:	"View.EditLegend"
+	TxPos:	171
+	Table:	172
+	SnapTolCursor:	1
+)
+
+(ShpSrc.125
+	Name:	126
+	FTab:	128
+)
+
+(SrcName.126
+	FileName:	127
+	Name:	"river otter roadkills in ri.shp"
+	SubName:	"Point"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.127
+	Path:	"c:/cgis/river otter roadkills in ri.shp"
+)
+
+(FTab.128
+	Name:	"river otter roadkills in ri.dbf"
+	BTab:	129
+	Fields:	137
+	Fields:	130
+	Fields:	131
+	Fields:	132
+	Fields:	133
+	Fields:	134
+	Fields:	135
+	SelBits:	138
+	FSrc:	125
+)
+
+(dBASE.129
+	Name:	"river otter roadkills in ri.dbf"
+	Fields:	130
+	Fields:	131
+	Fields:	132
+	Fields:	133
+	Fields:	134
+	Fields:	135
+	FileName:	136
+)
+
+(Field.130
+	Name:	"ID"
+	Btab:	129
+	Alias:	"ID"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.131
+	Name:	"Date"
+	Btab:	129
+	Alias:	"Date"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	101
+)
+
+(Field.132
+	Name:	"Town"
+	Btab:	129
+	Alias:	"Town"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.133
+	Name:	"Location"
+	Btab:	129
+	Alias:	"Location"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.134
+	Name:	"Notes"
+	Btab:	129
+	Alias:	"Notes"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.135
+	Name:	"sex"
+	Btab:	129
+	Alias:	"sex"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	71
+)
+
+(FN.136
+	Path:	"c:/cgis/river otter roadkills in ri.dbf"
+)
+
+(Field.137
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	17
+	Order:	-1
+	Pixels:	41
+)
+
+(Bitmap.138
+	NumBits:	96
+	Bits:	00000000 00000000 00000000 
+)
+
+(Legend.139
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	140
+	Class:	159
+	StdDevs:	1.00000000000000
+	NullSym:	160
+	NullValues:	167
+	StatValues:	168
+	Precision:	-3
+)
+
+(SymList.140
+	Child:	141
+)
+
+(CMkSym.141
+	Color:	142
+	Symbols:	143
+	BgColor:	158
+	Size:	12.00000000000000
+)
+
+(TClr.142
+	Red:	0xe231
+	Green:	0x87a
+	Blue:	0xcbd7
+)
+
+(SymList.143
+	Child:	144
+	Child:	151
+)
+
+(BMkSym.144
+	Color:	145
+	BgColor:	146
+	Font:	147
+	Size:	12.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.145
+	Red:	0xe231
+	Green:	0x87a
+	Blue:	0xcbd7
+)
+
+(TClr.146
+	Name:	"Transparent"
+)
+
+(NFont.147
+	Family:	148
+	Name:	149
+	Style:	150
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.148
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.149
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.150
+	S:	"Normal"
+)
+
+(BMkSym.151
+	Color:	152
+	ColorLock:	1
+	BgColor:	153
+	Font:	154
+	Size:	12.00000000000000
+	Pattern:	89
+	Angle:	360.00000000000000
+)
+
+(TClr.152
+)
+
+(TClr.153
+	Name:	"Transparent"
+)
+
+(NFont.154
+	Family:	155
+	Name:	156
+	Style:	157
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.155
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.156
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.157
+	S:	"Normal"
+)
+
+(TClr.158
+	Name:	"Transparent"
+)
+
+(LClass.159
+	IsText:	1
+	Precision:	-3
+)
+
+(BMkSym.160
+	Color:	161
+	BgColor:	162
+	Font:	163
+	Size:	8.00000000000000
+	Pattern:	35
+	Angle:	360.00000000000000
+)
+
+(TClr.161
+	Name:	"Transparent"
+)
+
+(TClr.162
+	Name:	"Transparent"
+)
+
+(NFont.163
+	Family:	164
+	Name:	165
+	Style:	166
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.164
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.165
+	S:	"ESRI Geometric Symbols"
+)
+
+(AVStr.166
+	S:	"Normal"
+)
+
+(NameDict.167
+)
+
+(NameDict.168
+)
+
+(Thresh.169
+)
+
+(GSet.170
+)
+
+(TxPosPt.171
+	HAlign:	4
+	VAlign:	3
+)
+
+(Table.172
+	Name:	"Attributes of River otter roadkills in ri.shp"
+	CreationDate:	"Monday, February 12, 2007 11:38:22 AM"
+	GUIName:	"Table"
+	Win:	173
+	CSMgr:	174
+	DocExts:	176
+	VTab:	128
+)
+
+(DocWin.173
+	Owner:	172
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1034
+	H:	641
+)
+
+(CSMgr.174
+	Client:	175
+)
+
+(CSClient.175
+	Client:	124
+	ReqName:	"RespondTable"
+)
+
+(DocAct.176
+	Doc:	172
+)
+
+(FTheme.177
+	Name:	"Town lines"
+	Source:	178
+	Flags:	0x06
+	Legend:	202
+	Threshold:	216
+	View:	64
+	GSet:	217
+	LegEditScript:	"View.EditLegend"
+	TxPos:	218
+	LabelField:	187
+	AttrRules:	219
+	AttrRules:	220
+	AttrRules:	221
+	AttrRules:	222
+	AttrRules:	223
+	AttrRules:	224
+	AttrRules:	225
+	AttrRules:	226
+	AttrRules:	227
+	AttrRules:	228
+	AttrRules:	229
+	AttrRules:	230
+	AttrRules:	231
+	AttrRules:	232
+	AttrRules:	233
+	AttrRules:	234
+	SnapTolCursor:	1
+)
+
+(ShpSrc.178
+	Name:	179
+	FTab:	181
+)
+
+(SrcName.179
+	FileName:	180
+	Name:	"town lines.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.180
+	Path:	"c:/cgis/town lines.shp"
+)
+
+(FTab.181
+	Name:	"town lines.dbf"
+	BTab:	182
+	Fields:	200
+	Fields:	183
+	Fields:	184
+	Fields:	185
+	Fields:	186
+	Fields:	187
+	Fields:	188
+	Fields:	189
+	Fields:	190
+	Fields:	191
+	Fields:	192
+	Fields:	193
+	Fields:	194
+	Fields:	195
+	Fields:	196
+	Fields:	197
+	Fields:	198
+	SelBits:	201
+	FSrc:	178
+)
+
+(dBASE.182
+	Name:	"town lines.dbf"
+	Fields:	183
+	Fields:	184
+	Fields:	185
+	Fields:	186
+	Fields:	187
+	Fields:	188
+	Fields:	189
+	Fields:	190
+	Fields:	191
+	Fields:	192
+	Fields:	193
+	Fields:	194
+	Fields:	195
+	Fields:	196
+	Fields:	197
+	Fields:	198
+	FileName:	199
+)
+
+(Field.183
+	Name:	"Area"
+	Btab:	182
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.184
+	Name:	"Perimeter"
+	Btab:	182
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.185
+	Name:	"Town_polys"
+	Btab:	182
+	Alias:	"Town_polys"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.186
+	Name:	"Town_polys"
+	Btab:	182
+	Alias:	"Town_polys"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.187
+	Name:	"Name"
+	Btab:	182
+	Alias:	"Name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.188
+	Name:	"Mcd"
+	Btab:	182
+	Alias:	"Mcd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.189
+	Name:	"Cfips"
+	Btab:	182
+	Alias:	"Cfips"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.190
+	Name:	"County"
+	Btab:	182
+	Alias:	"County"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.191
+	Name:	"Osp"
+	Btab:	182
+	Alias:	"Osp"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.192
+	Name:	"Cfips_mcd"
+	Btab:	182
+	Alias:	"Cfips_mcd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.193
+	Name:	"Z005"
+	Btab:	182
+	Alias:	"Z005"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.194
+	Name:	"Z006"
+	Btab:	182
+	Alias:	"Z006"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.195
+	Name:	"Z007"
+	Btab:	182
+	Alias:	"Z007"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.196
+	Name:	"Z009"
+	Btab:	182
+	Alias:	"Z009"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.197
+	Name:	"Z_year_mea"
+	Btab:	182
+	Alias:	"Z_year_mea"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.198
+	Name:	"Zyr_mean"
+	Btab:	182
+	Alias:	"Zyr_mean"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.199
+	Path:	"c:/cgis/town lines.dbf"
+)
+
+(Field.200
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.201
+	NumBits:	311
+
+)
+
+(Legend.202
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	203
+	Class:	209
+	StdDevs:	1.00000000000000
+	NullSym:	210
+	NullValues:	214
+	StatValues:	215
+	Precision:	-3
+)
+
+(SymList.203
+	Child:	204
+)
+
+(BShSym.204
+	Color:	205
+	Outline:	1
+	OutlineColor:	206
+	OutlineWidth:	0.10000000000000
+	BgColor:	207
+	Style:	0x01
+	Stipple:	208
+)
+
+(TClr.205
+	Red:	0x8f72
+	Green:	0x2b49
+	Blue:	0xa1af
+)
+
+(TClr.206
+)
+
+(TClr.207
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(Stipple.208
+	Columns:	8
+	Rows:	8
+	Bits:	00000000 00000000 
+)
+
+(LClass.209
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.210
+	Color:	211
+	Outline:	1
+	OutlineColor:	212
+	OutlineWidth:	0.10000000000000
+	BgColor:	213
+)
+
+(TClr.211
+	Name:	"Transparent"
+)
+
+(TClr.212
+	Name:	"Transparent"
+)
+
+(TClr.213
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.214
+)
+
+(NameDict.215
+)
+
+(Thresh.216
+)
+
+(GSet.217
+)
+
+(TxPosPly.218
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.219
+	FTab:	181
+	Field:	183
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.220
+	FTab:	181
+	Field:	184
+	UnionRule:	6
+	SplitRule:	4
+)
+
+(AttrSingle.221
+	FTab:	181
+	Field:	185
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.222
+	FTab:	181
+	Field:	186
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.223
+	FTab:	181
+	Field:	187
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.224
+	FTab:	181
+	Field:	188
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.225
+	FTab:	181
+	Field:	189
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.226
+	FTab:	181
+	Field:	190
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.227
+	FTab:	181
+	Field:	191
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.228
+	FTab:	181
+	Field:	192
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.229
+	FTab:	181
+	Field:	193
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.230
+	FTab:	181
+	Field:	194
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.231
+	FTab:	181
+	Field:	195
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.232
+	FTab:	181
+	Field:	196
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.233
+	FTab:	181
+	Field:	197
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.234
+	FTab:	181
+	Field:	198
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.235
+	Name:	"Allroads"
+	Source:	236
+	Flags:	0x04
+	Legend:	258
+	Threshold:	267
+	View:	64
+	GSet:	268
+	LegEditScript:	"View.EditLegend"
+	TxPos:	269
+	SnapTolCursor:	1
+)
+
+(CovSrc.236
+	Name:	237
+	FClass:	239
+	FTab:	240
+)
+
+(SrcName.237
+	FileName:	238
+	Name:	"allroads"
+	SubName:	"arc"
+	OwnerClass:	"CovSrc"
+)
+
+(FN.238
+	Path:	"c:/ridem_gis/n83spf/transportation/allroads"
+)
+
+(FClass.239
+	Type:	2
+	Feature:	"arc"
+)
+
+(FTab.240
+	Name:	"allroads.aat"
+	BTab:	241
+	Fields:	256
+	Fields:	242
+	Fields:	243
+	Fields:	244
+	Fields:	245
+	Fields:	246
+	Fields:	247
+	Fields:	248
+	Fields:	249
+	Fields:	250
+	Fields:	251
+	Fields:	252
+	Fields:	253
+	Fields:	254
+	SelBits:	257
+	FSrc:	236
+)
+
+(INFO.241
+	Name:	"allroads.aat"
+	Fields:	242
+	Fields:	243
+	Fields:	244
+	Fields:	245
+	Fields:	246
+	Fields:	247
+	Fields:	248
+	Fields:	249
+	Fields:	250
+	Fields:	251
+	Fields:	252
+	Fields:	253
+	Fields:	254
+	FileName:	255
+)
+
+(Field.242
+	Name:	"Fnode#"
+	Btab:	241
+	Alias:	"Fnode#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.243
+	Name:	"Tnode#"
+	Btab:	241
+	Alias:	"Tnode#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.244
+	Name:	"Lpoly#"
+	Btab:	241
+	Alias:	"Lpoly#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.245
+	Name:	"Rpoly#"
+	Btab:	241
+	Alias:	"Rpoly#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.246
+	Name:	"Length"
+	Btab:	241
+	Alias:	"Length"
+	Visible:	1
+	Type:	6
+	Order:	-1
+)
+
+(Field.247
+	Name:	"Allroads#"
+	Btab:	241
+	Alias:	"Allroads#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.248
+	Name:	"Allroads-id"
+	Btab:	241
+	Alias:	"Allroads-id"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.249
+	Name:	"Road-class"
+	Btab:	241
+	Alias:	"Road-class"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.250
+	Name:	"Cnty-class"
+	Btab:	241
+	Alias:	"Cnty-class"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.251
+	Name:	"Func-class"
+	Btab:	241
+	Alias:	"Func-class"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.252
+	Name:	"Quad"
+	Btab:	241
+	Alias:	"Quad"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.253
+	Name:	"Pnhs-class"
+	Btab:	241
+	Alias:	"Pnhs-class"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.254
+	Name:	"Survey_route"
+	Btab:	241
+	Alias:	"Survey_route"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.255
+	Path:	"c:/ridem_gis/n83spf/transportation/info/allroads.aat"
+)
+
+(Field.256
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.257
+	NumBits:	65810
+
+)
+
+(Legend.258
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	259
+	Class:	262
+	StdDevs:	1.00000000000000
+	NullSym:	263
+	NullValues:	265
+	StatValues:	266
+	Precision:	-3
+)
+
+(SymList.259
+	Child:	260
+)
+
+(BLnSym.260
+	Color:	261
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.261
+	Red:	0x1191
+	Green:	0xd41e
+	Blue:	0x8747
+)
+
+(LClass.262
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.263
+	Color:	264
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.264
+	Name:	"Transparent"
+)
+
+(NameDict.265
+)
+
+(NameDict.266
+)
+
+(Thresh.267
+)
+
+(GSet.268
+)
+
+(TxPosArc.269
+	HAlign:	3
+	VAlign:	1
+)
+
+(FTheme.270
+	Name:	"Hydropolys"
+	Source:	271
+	Flags:	0x04
+	Legend:	286
+	Threshold:	299
+	View:	64
+	GSet:	300
+	LegEditScript:	"View.EditLegend"
+	TxPos:	301
+	LabelField:	282
+	SnapTolCursor:	1
+)
+
+(CovSrc.271
+	Name:	272
+	FClass:	274
+	FTab:	275
+)
+
+(SrcName.272
+	FileName:	273
+	Name:	"hydropolys"
+	SubName:	"polygon"
+	OwnerClass:	"CovSrc"
+)
+
+(FN.273
+	Path:	"c:/ridem_gis/n83spf/hydrography/hydropolys"
+)
+
+(FClass.274
+	Type:	3
+	Feature:	"polygon"
+)
+
+(FTab.275
+	Name:	"hydropolys.pat"
+	BTab:	276
+	Fields:	284
+	Fields:	277
+	Fields:	278
+	Fields:	279
+	Fields:	280
+	Fields:	281
+	Fields:	282
+	SelBits:	285
+	FSrc:	271
+)
+
+(INFO.276
+	Name:	"hydropolys.pat"
+	Skip:	1
+	Fields:	277
+	Fields:	278
+	Fields:	279
+	Fields:	280
+	Fields:	281
+	Fields:	282
+	FileName:	283
+)
+
+(Field.277
+	Name:	"Area"
+	Btab:	276
+	Alias:	"Area"
+	Visible:	1
+	Type:	6
+	Order:	-1
+)
+
+(Field.278
+	Name:	"Perimeter"
+	Btab:	276
+	Alias:	"Perimeter"
+	Visible:	1
+	Type:	6
+	Order:	-1
+)
+
+(Field.279
+	Name:	"Hydropolys#"
+	Btab:	276
+	Alias:	"Hydropolys#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.280
+	Name:	"Hydropolys-id"
+	Btab:	276
+	Alias:	"Hydropolys-id"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.281
+	Name:	"Island"
+	Btab:	276
+	Alias:	"Island"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.282
+	Name:	"Name"
+	Btab:	276
+	Alias:	"Name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.283
+	Path:	"c:/ridem_gis/n83spf/hydrography/info/hydropolys.pat"
+)
+
+(Field.284
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.285
+	NumBits:	4196
+
+)
+
+(Legend.286
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	287
+	Class:	292
+	StdDevs:	1.00000000000000
+	NullSym:	293
+	NullValues:	297
+	StatValues:	298
+	Precision:	-3
+)
+
+(SymList.287
+	Child:	288
+)
+
+(BShSym.288
+	Color:	289
+	Outline:	1
+	OutlineColor:	290
+	OutlineWidth:	0.10000000000000
+	BgColor:	291
+)
+
+(TClr.289
+	Red:	0x4d18
+	Green:	0xc0a2
+	Blue:	0xdcd3
+)
+
+(TClr.290
+)
+
+(TClr.291
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.292
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.293
+	Color:	294
+	Outline:	1
+	OutlineColor:	295
+	OutlineWidth:	0.10000000000000
+	BgColor:	296
+)
+
+(TClr.294
+	Name:	"Transparent"
+)
+
+(TClr.295
+	Name:	"Transparent"
+)
+
+(TClr.296
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.297
+)
+
+(NameDict.298
+)
+
+(Thresh.299
+)
+
+(GSet.300
+)
+
+(TxPosPly.301
+	HAlign:	3
+	VAlign:	3
+)
+
+(FTheme.302
+	Name:	"Hydro-lines"
+	Source:	303
+	Flags:	0x04
+	Legend:	320
+	Threshold:	329
+	View:	64
+	GSet:	330
+	LegEditScript:	"View.EditLegend"
+	TxPos:	331
+	LabelField:	316
+	SnapTolCursor:	1
+)
+
+(CovSrc.303
+	Name:	304
+	FClass:	306
+	FTab:	307
+)
+
+(SrcName.304
+	FileName:	305
+	Name:	"hydro-lines"
+	SubName:	"arc"
+	OwnerClass:	"CovSrc"
+)
+
+(FN.305
+	Path:	"c:/ridem_gis/n83spf/hydrography/hydro-lines"
+)
+
+(FClass.306
+	Type:	2
+	Feature:	"arc"
+)
+
+(FTab.307
+	Name:	"hydro-lines.aat"
+	BTab:	308
+	Fields:	318
+	Fields:	309
+	Fields:	310
+	Fields:	311
+	Fields:	312
+	Fields:	313
+	Fields:	314
+	Fields:	315
+	Fields:	316
+	SelBits:	319
+	FSrc:	303
+)
+
+(INFO.308
+	Name:	"hydro-lines.aat"
+	Fields:	309
+	Fields:	310
+	Fields:	311
+	Fields:	312
+	Fields:	313
+	Fields:	314
+	Fields:	315
+	Fields:	316
+	FileName:	317
+)
+
+(Field.309
+	Name:	"Fnode#"
+	Btab:	308
+	Alias:	"Fnode#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.310
+	Name:	"Tnode#"
+	Btab:	308
+	Alias:	"Tnode#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.311
+	Name:	"Lpoly#"
+	Btab:	308
+	Alias:	"Lpoly#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.312
+	Name:	"Rpoly#"
+	Btab:	308
+	Alias:	"Rpoly#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.313
+	Name:	"Length"
+	Btab:	308
+	Alias:	"Length"
+	Visible:	1
+	Type:	6
+	Order:	-1
+)
+
+(Field.314
+	Name:	"Hydro-lines#"
+	Btab:	308
+	Alias:	"Hydro-lines#"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.315
+	Name:	"Hydro-lines-id"
+	Btab:	308
+	Alias:	"Hydro-lines-id"
+	Visible:	1
+	Type:	3
+	Order:	-1
+)
+
+(Field.316
+	Name:	"Name"
+	Btab:	308
+	Alias:	"Name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(FN.317
+	Path:	"c:/ridem_gis/n83spf/hydrography/info/hydro-lines.aat"
+)
+
+(Field.318
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	18
+	Order:	-1
+)
+
+(Bitmap.319
+	NumBits:	4470
+
+)
+
+(Legend.320
+	SymType:	0x01
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	321
+	Class:	324
+	StdDevs:	1.00000000000000
+	NullSym:	325
+	NullValues:	327
+	StatValues:	328
+	Precision:	-3
+)
+
+(SymList.321
+	Child:	322
+)
+
+(BLnSym.322
+	Color:	323
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.323
+	Red:	0x8c2
+	Green:	0x91c0
+	Blue:	0xbef6
+)
+
+(LClass.324
+	IsText:	1
+	Precision:	-3
+)
+
+(BLnSym.325
+	Color:	326
+	Width:	0.10000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.326
+	Name:	"Transparent"
+)
+
+(NameDict.327
+)
+
+(NameDict.328
+)
+
+(Thresh.329
+)
+
+(GSet.330
+)
+
+(TxPosArc.331
+	HAlign:	3
+	VAlign:	1
+)
+
+(GSet.332
+)
+
+(TxPosPt.333
+	HAlign:	4
+	VAlign:	3
+)
+
+(DocAct.334
+	Doc:	6
+)
+
+(Table.335
+	Name:	"Attributes of States that currently allow river otter harvest"
+	CreationDate:	"Monday, May 10, 2010 1:00:52 PM"
+	GUIName:	"Table"
+	Win:	336
+	CSMgr:	337
+	DocExts:	1516
+	VTab:	343
+)
+
+(DocWin.336
+	Owner:	335
+	X:	20
+	Y:	20
+	W:	365
+	H:	248
+)
+
+(CSMgr.337
+	Client:	338
+)
+
+(CSClient.338
+	Client:	339
+	ReqName:	"RespondTable"
+)
+
+(FTheme.339
+	Name:	"States that currently allow river otter harvest"
+	Source:	340
+	Flags:	0x04
+	Legend:	399
+	Threshold:	412
+	View:	413
+	GSet:	1463
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1464
+	LabelField:	346
+	Table:	335
+	AttrRules:	1465
+	AttrRules:	1466
+	AttrRules:	1467
+	AttrRules:	1468
+	AttrRules:	1469
+	AttrRules:	1470
+	AttrRules:	1471
+	AttrRules:	1472
+	AttrRules:	1473
+	AttrRules:	1474
+	AttrRules:	1475
+	AttrRules:	1476
+	AttrRules:	1477
+	AttrRules:	1478
+	AttrRules:	1479
+	AttrRules:	1480
+	AttrRules:	1481
+	AttrRules:	1482
+	AttrRules:	1483
+	AttrRules:	1484
+	AttrRules:	1485
+	AttrRules:	1486
+	AttrRules:	1487
+	AttrRules:	1488
+	AttrRules:	1489
+	AttrRules:	1490
+	AttrRules:	1491
+	AttrRules:	1492
+	AttrRules:	1493
+	AttrRules:	1494
+	AttrRules:	1495
+	AttrRules:	1496
+	AttrRules:	1497
+	AttrRules:	1498
+	AttrRules:	1499
+	AttrRules:	1500
+	AttrRules:	1501
+	AttrRules:	1502
+	AttrRules:	1503
+	AttrRules:	1504
+	AttrRules:	1505
+	AttrRules:	1506
+	AttrRules:	1507
+	AttrRules:	1508
+	AttrRules:	1509
+	AttrRules:	1510
+	AttrRules:	1511
+	AttrRules:	1512
+	AttrRules:	1513
+	AttrRules:	1514
+	AttrRules:	1515
+	SnapTolCursor:	1
+)
+
+(ShpSrc.340
+	Name:	341
+	FTab:	343
+)
+
+(SrcName.341
+	FileName:	342
+	Name:	"northeast states minur ri and wva.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.342
+	Path:	"c:/cgis/northeast states minur ri and wva.shp"
+)
+
+(FTab.343
+	Name:	"northeast states minur ri and wva.dbf"
+	BTab:	344
+	Fields:	397
+	Fields:	345
+	Fields:	346
+	Fields:	347
+	Fields:	348
+	Fields:	349
+	Fields:	350
+	Fields:	351
+	Fields:	352
+	Fields:	353
+	Fields:	354
+	Fields:	355
+	Fields:	356
+	Fields:	357
+	Fields:	358
+	Fields:	359
+	Fields:	360
+	Fields:	361
+	Fields:	362
+	Fields:	363
+	Fields:	364
+	Fields:	365
+	Fields:	366
+	Fields:	367
+	Fields:	368
+	Fields:	369
+	Fields:	370
+	Fields:	371
+	Fields:	372
+	Fields:	373
+	Fields:	374
+	Fields:	375
+	Fields:	376
+	Fields:	377
+	Fields:	378
+	Fields:	379
+	Fields:	380
+	Fields:	381
+	Fields:	382
+	Fields:	383
+	Fields:	384
+	Fields:	385
+	Fields:	386
+	Fields:	387
+	Fields:	388
+	Fields:	389
+	Fields:	390
+	Fields:	391
+	Fields:	392
+	Fields:	393
+	Fields:	394
+	Fields:	395
+	SelBits:	398
+	FSrc:	340
+)
+
+(dBASE.344
+	Name:	"northeast states minur ri and wva.dbf"
+	Fields:	345
+	Fields:	346
+	Fields:	347
+	Fields:	348
+	Fields:	349
+	Fields:	350
+	Fields:	351
+	Fields:	352
+	Fields:	353
+	Fields:	354
+	Fields:	355
+	Fields:	356
+	Fields:	357
+	Fields:	358
+	Fields:	359
+	Fields:	360
+	Fields:	361
+	Fields:	362
+	Fields:	363
+	Fields:	364
+	Fields:	365
+	Fields:	366
+	Fields:	367
+	Fields:	368
+	Fields:	369
+	Fields:	370
+	Fields:	371
+	Fields:	372
+	Fields:	373
+	Fields:	374
+	Fields:	375
+	Fields:	376
+	Fields:	377
+	Fields:	378
+	Fields:	379
+	Fields:	380
+	Fields:	381
+	Fields:	382
+	Fields:	383
+	Fields:	384
+	Fields:	385
+	Fields:	386
+	Fields:	387
+	Fields:	388
+	Fields:	389
+	Fields:	390
+	Fields:	391
+	Fields:	392
+	Fields:	393
+	Fields:	394
+	Fields:	395
+	FileName:	396
+)
+
+(Field.345
+	Name:	"Area"
+	Btab:	344
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(Field.346
+	Name:	"State_name"
+	Btab:	344
+	Alias:	"State_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.347
+	Name:	"State_fips"
+	Btab:	344
+	Alias:	"State_fips"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	52
+)
+
+(Field.348
+	Name:	"Sub_region"
+	Btab:	344
+	Alias:	"Sub_region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.349
+	Name:	"State_abbr"
+	Btab:	344
+	Alias:	"State_abbr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	57
+)
+
+(Field.350
+	Name:	"Pop1990"
+	Btab:	344
+	Alias:	"Pop1990"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.351
+	Name:	"Pop1999"
+	Btab:	344
+	Alias:	"Pop1999"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.352
+	Name:	"Pop90_sqmi"
+	Btab:	344
+	Alias:	"Pop90_sqmi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.353
+	Name:	"Households"
+	Btab:	344
+	Alias:	"Households"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.354
+	Name:	"Males"
+	Btab:	344
+	Alias:	"Males"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.355
+	Name:	"Females"
+	Btab:	344
+	Alias:	"Females"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.356
+	Name:	"White"
+	Btab:	344
+	Alias:	"White"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.357
+	Name:	"Black"
+	Btab:	344
+	Alias:	"Black"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.358
+	Name:	"Ameri_es"
+	Btab:	344
+	Alias:	"Ameri_es"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	48
+)
+
+(Field.359
+	Name:	"Asian_pi"
+	Btab:	344
+	Alias:	"Asian_pi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.360
+	Name:	"Other"
+	Btab:	344
+	Alias:	"Other"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.361
+	Name:	"Hispanic"
+	Btab:	344
+	Alias:	"Hispanic"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.362
+	Name:	"Age_under5"
+	Btab:	344
+	Alias:	"Age_under5"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.363
+	Name:	"Age_5_17"
+	Btab:	344
+	Alias:	"Age_5_17"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	54
+)
+
+(Field.364
+	Name:	"Age_18_29"
+	Btab:	344
+	Alias:	"Age_18_29"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.365
+	Name:	"Age_30_49"
+	Btab:	344
+	Alias:	"Age_30_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.366
+	Name:	"Age_50_64"
+	Btab:	344
+	Alias:	"Age_50_64"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.367
+	Name:	"Age_65_up"
+	Btab:	344
+	Alias:	"Age_65_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.368
+	Name:	"Nevermarry"
+	Btab:	344
+	Alias:	"Nevermarry"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.369
+	Name:	"Married"
+	Btab:	344
+	Alias:	"Married"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.370
+	Name:	"Separated"
+	Btab:	344
+	Alias:	"Separated"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	54
+)
+
+(Field.371
+	Name:	"Widowed"
+	Btab:	344
+	Alias:	"Widowed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.372
+	Name:	"Divorced"
+	Btab:	344
+	Alias:	"Divorced"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.373
+	Name:	"Hsehld_1_m"
+	Btab:	344
+	Alias:	"Hsehld_1_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	64
+)
+
+(Field.374
+	Name:	"Hsehld_1_f"
+	Btab:	344
+	Alias:	"Hsehld_1_f"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.375
+	Name:	"Marhh_chd"
+	Btab:	344
+	Alias:	"Marhh_chd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.376
+	Name:	"Marhh_no_c"
+	Btab:	344
+	Alias:	"Marhh_no_c"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.377
+	Name:	"Mhh_child"
+	Btab:	344
+	Alias:	"Mhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	54
+)
+
+(Field.378
+	Name:	"Fhh_child"
+	Btab:	344
+	Alias:	"Fhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	51
+)
+
+(Field.379
+	Name:	"Hse_units"
+	Btab:	344
+	Alias:	"Hse_units"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.380
+	Name:	"Vacant"
+	Btab:	344
+	Alias:	"Vacant"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	47
+)
+
+(Field.381
+	Name:	"Owner_occ"
+	Btab:	344
+	Alias:	"Owner_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.382
+	Name:	"Renter_occ"
+	Btab:	344
+	Alias:	"Renter_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.383
+	Name:	"Median_val"
+	Btab:	344
+	Alias:	"Median_val"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.384
+	Name:	"Medianrent"
+	Btab:	344
+	Alias:	"Medianrent"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	58
+)
+
+(Field.385
+	Name:	"Units_1det"
+	Btab:	344
+	Alias:	"Units_1det"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	56
+)
+
+(Field.386
+	Name:	"Units_1att"
+	Btab:	344
+	Alias:	"Units_1att"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.387
+	Name:	"Units2"
+	Btab:	344
+	Alias:	"Units2"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	47
+)
+
+(Field.388
+	Name:	"Units3_9"
+	Btab:	344
+	Alias:	"Units3_9"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.389
+	Name:	"Units10_49"
+	Btab:	344
+	Alias:	"Units10_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.390
+	Name:	"Units50_up"
+	Btab:	344
+	Alias:	"Units50_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.391
+	Name:	"Mobilehome"
+	Btab:	344
+	Alias:	"Mobilehome"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	62
+)
+
+(Field.392
+	Name:	"No_farms87"
+	Btab:	344
+	Alias:	"No_farms87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	62
+)
+
+(Field.393
+	Name:	"Avg_size87"
+	Btab:	344
+	Alias:	"Avg_size87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.394
+	Name:	"Crop_acr87"
+	Btab:	344
+	Alias:	"Crop_acr87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.395
+	Name:	"Avg_sale87"
+	Btab:	344
+	Alias:	"Avg_sale87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(FN.396
+	Path:	"c:/cgis/northeast states minur ri and wva.dbf"
+)
+
+(Field.397
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.398
+	NumBits:	11
+	NumBitsSet:	11
+	Bits:	000007ff 
+)
+
+(Legend.399
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	400
+	Class:	405
+	StdDevs:	1.00000000000000
+	NullSym:	406
+	NullValues:	410
+	StatValues:	411
+	Precision:	-3
+)
+
+(SymList.400
+	Child:	401
+)
+
+(BShSym.401
+	Color:	402
+	Outline:	1
+	OutlineColor:	403
+	OutlineWidth:	0.10000000000000
+	BgColor:	404
+)
+
+(TClr.402
+	Red:	0xa5a5
+	Green:	0xa5a5
+	Blue:	0xa5a5
+)
+
+(TClr.403
+)
+
+(TClr.404
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.405
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.406
+	Color:	407
+	Outline:	1
+	OutlineColor:	408
+	OutlineWidth:	0.10000000000000
+	BgColor:	409
+)
+
+(TClr.407
+	Name:	"Transparent"
+)
+
+(TClr.408
+	Name:	"Transparent"
+)
+
+(TClr.409
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.410
+)
+
+(NameDict.411
+)
+
+(Thresh.412
+)
+
+(View.413
+	Name:	"states that have otter trapping seasons"
+	CreationDate:	"Wednesday, December 24, 2008 10:02:31 AM"
+	GUIName:	"View"
+	Win:	414
+	CSMgr:	415
+	DocExts:	417
+	DocExts:	432
+	Graphics:	433
+	Theme:	440
+	Theme:	567
+	Theme:	694
+	Theme:	821
+	Theme:	948
+	Theme:	1331
+	Theme:	339
+	LastScale:	58.35003350461564
+	Dpy:	434
+	TOCWidth:	150
+	CoordPrecision:	2
+)
+
+(DocWin.414
+	Owner:	413
+	X:	284
+	Y:	33
+	W:	478
+	H:	281
+)
+
+(CSMgr.415
+	Client:	416
+	Client:	418
+)
+
+(CSClient.416
+	Client:	417
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.417
+	Doc:	413
+)
+
+(CSClient.418
+	Client:	419
+	ReqName:	"ViewChangedCB"
+)
+
+(GView.419
+	Name:	"ViewFrame2"
+	Bounds:	420
+	Sym:	421
+	Flags:	0x01
+	UserBounds:	425
+	Refresh:	2
+	Quality:	1
+	View:	413
+	LiveLink:	1
+	MapDpy:	426
+	CSMgr:	431
+)
+
+(RectD.420
+	Left:	745.25000000590251
+	Top:	753.50000006099253
+	Right:	754.75000008066752
+	Bottom:	747.25000001180501
+)
+
+(BShSym.421
+	Color:	422
+	OutlineColor:	423
+	BgColor:	424
+	Style:	0x01
+)
+
+(TClr.422
+)
+
+(TClr.423
+)
+
+(TClr.424
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.425
+	Left:	745.25000000590251
+	Top:	753.50000006099253
+	Right:	754.75000008066752
+	Bottom:	747.25000001180501
+)
+
+(MapDpy.426
+	Left:	-83.09130141204908
+	Bottom:	35.44034677289812
+	Top:	48.22974212067528
+	Right:	-67.07897843663208
+	Scale:	427
+	FrameLeft:	745.25000000590251
+	FrameBottom:	747.25000001180501
+	FrameTop:	753.50000006099253
+	FrameRight:	754.75000008066752
+	PageDpy:	428
+	MouseLoc:	430
+)
+
+(Numb.427
+	N:	0.48868612465513
+)
+
+(PageDpy.428
+	Left:	1.25000005312245
+	Bottom:	2.25000005115498
+	Top:	1502.25000005115500
+	Right:	1501.25000005312240
+	ReportUnits:	1
+	Units:	1
+	Scale:	429
+	Type:	1
+	ZoomLeft:	743.95000000000005
+	ZoomRight:	756.04999999999995
+	ZoomTop:	754.67499999999995
+	ZoomBottom:	745.32500000000005
+	PageLeft:	744.50000000000000
+	PageRight:	755.50000000000000
+	PageTop:	754.25000000000000
+	PageBottom:	745.75000000000000
+	GridSpacingX:	0.25000000196750
+	GridSpacingY:	0.25000000196750
+	MarginLeft:	0.07000000000000
+	MarginRight:	0.46000000000000
+	MarginTop:	0.25000000000000
+	MarginBottom:	0.25000000000000
+	UsePrtPageSize:	1
+	Options:	63
+)
+
+(Numb.429
+	N:	0.08264462809917
+)
+
+(PointD.430
+)
+
+(CSMgr.431
+)
+
+(DocAct.432
+	Doc:	413
+)
+
+(GList.433
+	Dpy:	434
+	FormatNumb:	439
+)
+
+(MapDpy.434
+	Left:	-83.01203248642820
+	Bottom:	38.52899217534471
+	Top:	45.14109671822869
+	Right:	-67.15824736225297
+	ReportUnits:	4
+	Units:	2
+	Scale:	435
+	FrameTop:	2.60416666666667
+	FrameRight:	3.26041666666667
+	PageDpy:	436
+	FitToPage:	1
+	MouseLoc:	438
+)
+
+(Numb.435
+	N:	0.20565540917386
+)
+
+(PageDpy.436
+	Top:	2.60416666666667
+	Right:	3.26041666666667
+	ReportUnits:	1
+	Units:	1
+	Scale:	437
+	ZoomRight:	3.26041666666667
+	ZoomTop:	2.60416666666667
+	GridSpacingX:	0.25000000000000
+	GridSpacingY:	0.25000000000000
+)
+
+(Numb.437
+	N:	0.30670926517572
+)
+
+(PointD.438
+	x:	-68.27111375186711
+	y:	47.39937639485741
+)
+
+(Numb.439
+)
+
+(FTheme.440
+	Name:	"Ne states that currently allow harvest of river otter.shp"
+	Source:	441
+	Flags:	0x07
+	Legend:	500
+	Threshold:	513
+	View:	413
+	GSet:	514
+	LegEditScript:	"View.EditLegend"
+	TxPos:	515
+	LabelField:	447
+	AttrRules:	516
+	AttrRules:	517
+	AttrRules:	518
+	AttrRules:	519
+	AttrRules:	520
+	AttrRules:	521
+	AttrRules:	522
+	AttrRules:	523
+	AttrRules:	524
+	AttrRules:	525
+	AttrRules:	526
+	AttrRules:	527
+	AttrRules:	528
+	AttrRules:	529
+	AttrRules:	530
+	AttrRules:	531
+	AttrRules:	532
+	AttrRules:	533
+	AttrRules:	534
+	AttrRules:	535
+	AttrRules:	536
+	AttrRules:	537
+	AttrRules:	538
+	AttrRules:	539
+	AttrRules:	540
+	AttrRules:	541
+	AttrRules:	542
+	AttrRules:	543
+	AttrRules:	544
+	AttrRules:	545
+	AttrRules:	546
+	AttrRules:	547
+	AttrRules:	548
+	AttrRules:	549
+	AttrRules:	550
+	AttrRules:	551
+	AttrRules:	552
+	AttrRules:	553
+	AttrRules:	554
+	AttrRules:	555
+	AttrRules:	556
+	AttrRules:	557
+	AttrRules:	558
+	AttrRules:	559
+	AttrRules:	560
+	AttrRules:	561
+	AttrRules:	562
+	AttrRules:	563
+	AttrRules:	564
+	AttrRules:	565
+	AttrRules:	566
+	SnapTolCursor:	1
+)
+
+(ShpSrc.441
+	Name:	442
+	FTab:	444
+)
+
+(SrcName.442
+	FileName:	443
+	Name:	"ne states that currently allow harvest of river otter.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.443
+	Path:	"c:/cgis/ne states that currently allow harvest of river otter.shp"
+)
+
+(FTab.444
+	Name:	"ne states that currently allow harvest of river otter.dbf"
+	BTab:	445
+	Fields:	498
+	Fields:	446
+	Fields:	447
+	Fields:	448
+	Fields:	449
+	Fields:	450
+	Fields:	451
+	Fields:	452
+	Fields:	453
+	Fields:	454
+	Fields:	455
+	Fields:	456
+	Fields:	457
+	Fields:	458
+	Fields:	459
+	Fields:	460
+	Fields:	461
+	Fields:	462
+	Fields:	463
+	Fields:	464
+	Fields:	465
+	Fields:	466
+	Fields:	467
+	Fields:	468
+	Fields:	469
+	Fields:	470
+	Fields:	471
+	Fields:	472
+	Fields:	473
+	Fields:	474
+	Fields:	475
+	Fields:	476
+	Fields:	477
+	Fields:	478
+	Fields:	479
+	Fields:	480
+	Fields:	481
+	Fields:	482
+	Fields:	483
+	Fields:	484
+	Fields:	485
+	Fields:	486
+	Fields:	487
+	Fields:	488
+	Fields:	489
+	Fields:	490
+	Fields:	491
+	Fields:	492
+	Fields:	493
+	Fields:	494
+	Fields:	495
+	Fields:	496
+	SelBits:	499
+	FSrc:	441
+)
+
+(dBASE.445
+	Name:	"ne states that currently allow harvest of river otter.dbf"
+	Fields:	446
+	Fields:	447
+	Fields:	448
+	Fields:	449
+	Fields:	450
+	Fields:	451
+	Fields:	452
+	Fields:	453
+	Fields:	454
+	Fields:	455
+	Fields:	456
+	Fields:	457
+	Fields:	458
+	Fields:	459
+	Fields:	460
+	Fields:	461
+	Fields:	462
+	Fields:	463
+	Fields:	464
+	Fields:	465
+	Fields:	466
+	Fields:	467
+	Fields:	468
+	Fields:	469
+	Fields:	470
+	Fields:	471
+	Fields:	472
+	Fields:	473
+	Fields:	474
+	Fields:	475
+	Fields:	476
+	Fields:	477
+	Fields:	478
+	Fields:	479
+	Fields:	480
+	Fields:	481
+	Fields:	482
+	Fields:	483
+	Fields:	484
+	Fields:	485
+	Fields:	486
+	Fields:	487
+	Fields:	488
+	Fields:	489
+	Fields:	490
+	Fields:	491
+	Fields:	492
+	Fields:	493
+	Fields:	494
+	Fields:	495
+	Fields:	496
+	FileName:	497
+)
+
+(Field.446
+	Name:	"Area"
+	Btab:	445
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.447
+	Name:	"State_name"
+	Btab:	445
+	Alias:	"State_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.448
+	Name:	"State_fips"
+	Btab:	445
+	Alias:	"State_fips"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.449
+	Name:	"Sub_region"
+	Btab:	445
+	Alias:	"Sub_region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.450
+	Name:	"State_abbr"
+	Btab:	445
+	Alias:	"State_abbr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.451
+	Name:	"Pop1990"
+	Btab:	445
+	Alias:	"Pop1990"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.452
+	Name:	"Pop1999"
+	Btab:	445
+	Alias:	"Pop1999"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.453
+	Name:	"Pop90_sqmi"
+	Btab:	445
+	Alias:	"Pop90_sqmi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.454
+	Name:	"Households"
+	Btab:	445
+	Alias:	"Households"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.455
+	Name:	"Males"
+	Btab:	445
+	Alias:	"Males"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.456
+	Name:	"Females"
+	Btab:	445
+	Alias:	"Females"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.457
+	Name:	"White"
+	Btab:	445
+	Alias:	"White"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.458
+	Name:	"Black"
+	Btab:	445
+	Alias:	"Black"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.459
+	Name:	"Ameri_es"
+	Btab:	445
+	Alias:	"Ameri_es"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.460
+	Name:	"Asian_pi"
+	Btab:	445
+	Alias:	"Asian_pi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.461
+	Name:	"Other"
+	Btab:	445
+	Alias:	"Other"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.462
+	Name:	"Hispanic"
+	Btab:	445
+	Alias:	"Hispanic"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.463
+	Name:	"Age_under5"
+	Btab:	445
+	Alias:	"Age_under5"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.464
+	Name:	"Age_5_17"
+	Btab:	445
+	Alias:	"Age_5_17"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.465
+	Name:	"Age_18_29"
+	Btab:	445
+	Alias:	"Age_18_29"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.466
+	Name:	"Age_30_49"
+	Btab:	445
+	Alias:	"Age_30_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.467
+	Name:	"Age_50_64"
+	Btab:	445
+	Alias:	"Age_50_64"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.468
+	Name:	"Age_65_up"
+	Btab:	445
+	Alias:	"Age_65_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.469
+	Name:	"Nevermarry"
+	Btab:	445
+	Alias:	"Nevermarry"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.470
+	Name:	"Married"
+	Btab:	445
+	Alias:	"Married"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.471
+	Name:	"Separated"
+	Btab:	445
+	Alias:	"Separated"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.472
+	Name:	"Widowed"
+	Btab:	445
+	Alias:	"Widowed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.473
+	Name:	"Divorced"
+	Btab:	445
+	Alias:	"Divorced"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.474
+	Name:	"Hsehld_1_m"
+	Btab:	445
+	Alias:	"Hsehld_1_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.475
+	Name:	"Hsehld_1_f"
+	Btab:	445
+	Alias:	"Hsehld_1_f"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.476
+	Name:	"Marhh_chd"
+	Btab:	445
+	Alias:	"Marhh_chd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.477
+	Name:	"Marhh_no_c"
+	Btab:	445
+	Alias:	"Marhh_no_c"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.478
+	Name:	"Mhh_child"
+	Btab:	445
+	Alias:	"Mhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.479
+	Name:	"Fhh_child"
+	Btab:	445
+	Alias:	"Fhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.480
+	Name:	"Hse_units"
+	Btab:	445
+	Alias:	"Hse_units"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.481
+	Name:	"Vacant"
+	Btab:	445
+	Alias:	"Vacant"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.482
+	Name:	"Owner_occ"
+	Btab:	445
+	Alias:	"Owner_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.483
+	Name:	"Renter_occ"
+	Btab:	445
+	Alias:	"Renter_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.484
+	Name:	"Median_val"
+	Btab:	445
+	Alias:	"Median_val"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.485
+	Name:	"Medianrent"
+	Btab:	445
+	Alias:	"Medianrent"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.486
+	Name:	"Units_1det"
+	Btab:	445
+	Alias:	"Units_1det"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.487
+	Name:	"Units_1att"
+	Btab:	445
+	Alias:	"Units_1att"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.488
+	Name:	"Units2"
+	Btab:	445
+	Alias:	"Units2"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.489
+	Name:	"Units3_9"
+	Btab:	445
+	Alias:	"Units3_9"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.490
+	Name:	"Units10_49"
+	Btab:	445
+	Alias:	"Units10_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.491
+	Name:	"Units50_up"
+	Btab:	445
+	Alias:	"Units50_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.492
+	Name:	"Mobilehome"
+	Btab:	445
+	Alias:	"Mobilehome"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.493
+	Name:	"No_farms87"
+	Btab:	445
+	Alias:	"No_farms87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.494
+	Name:	"Avg_size87"
+	Btab:	445
+	Alias:	"Avg_size87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.495
+	Name:	"Crop_acr87"
+	Btab:	445
+	Alias:	"Crop_acr87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.496
+	Name:	"Avg_sale87"
+	Btab:	445
+	Alias:	"Avg_sale87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.497
+	Path:	"c:/cgis/ne states that currently allow harvest of river otter.dbf"
+)
+
+(Field.498
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.499
+	NumBits:	12
+
+)
+
+(Legend.500
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	501
+	Class:	506
+	StdDevs:	1.00000000000000
+	NullSym:	507
+	NullValues:	511
+	StatValues:	512
+	Precision:	-3
+)
+
+(SymList.501
+	Child:	502
+)
+
+(BShSym.502
+	Color:	503
+	Outline:	1
+	OutlineColor:	504
+	OutlineWidth:	0.10000000000000
+	BgColor:	505
+)
+
+(TClr.503
+	Red:	0xa5a5
+	Green:	0xa5a5
+	Blue:	0xa5a5
+)
+
+(TClr.504
+)
+
+(TClr.505
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.506
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.507
+	Color:	508
+	Outline:	1
+	OutlineColor:	509
+	OutlineWidth:	0.10000000000000
+	BgColor:	510
+)
+
+(TClr.508
+	Name:	"Transparent"
+)
+
+(TClr.509
+	Name:	"Transparent"
+)
+
+(TClr.510
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.511
+)
+
+(NameDict.512
+)
+
+(Thresh.513
+)
+
+(GSet.514
+)
+
+(TxPosPly.515
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.516
+	FTab:	444
+	Field:	446
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.517
+	FTab:	444
+	Field:	447
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.518
+	FTab:	444
+	Field:	448
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.519
+	FTab:	444
+	Field:	449
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.520
+	FTab:	444
+	Field:	450
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.521
+	FTab:	444
+	Field:	451
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.522
+	FTab:	444
+	Field:	452
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.523
+	FTab:	444
+	Field:	453
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.524
+	FTab:	444
+	Field:	454
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.525
+	FTab:	444
+	Field:	455
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.526
+	FTab:	444
+	Field:	456
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.527
+	FTab:	444
+	Field:	457
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.528
+	FTab:	444
+	Field:	458
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.529
+	FTab:	444
+	Field:	459
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.530
+	FTab:	444
+	Field:	460
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.531
+	FTab:	444
+	Field:	461
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.532
+	FTab:	444
+	Field:	462
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.533
+	FTab:	444
+	Field:	463
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.534
+	FTab:	444
+	Field:	464
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.535
+	FTab:	444
+	Field:	465
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.536
+	FTab:	444
+	Field:	466
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.537
+	FTab:	444
+	Field:	467
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.538
+	FTab:	444
+	Field:	468
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.539
+	FTab:	444
+	Field:	469
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.540
+	FTab:	444
+	Field:	470
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.541
+	FTab:	444
+	Field:	471
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.542
+	FTab:	444
+	Field:	472
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.543
+	FTab:	444
+	Field:	473
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.544
+	FTab:	444
+	Field:	474
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.545
+	FTab:	444
+	Field:	475
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.546
+	FTab:	444
+	Field:	476
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.547
+	FTab:	444
+	Field:	477
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.548
+	FTab:	444
+	Field:	478
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.549
+	FTab:	444
+	Field:	479
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.550
+	FTab:	444
+	Field:	480
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.551
+	FTab:	444
+	Field:	481
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.552
+	FTab:	444
+	Field:	482
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.553
+	FTab:	444
+	Field:	483
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.554
+	FTab:	444
+	Field:	484
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.555
+	FTab:	444
+	Field:	485
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.556
+	FTab:	444
+	Field:	486
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.557
+	FTab:	444
+	Field:	487
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.558
+	FTab:	444
+	Field:	488
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.559
+	FTab:	444
+	Field:	489
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.560
+	FTab:	444
+	Field:	490
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.561
+	FTab:	444
+	Field:	491
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.562
+	FTab:	444
+	Field:	492
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.563
+	FTab:	444
+	Field:	493
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.564
+	FTab:	444
+	Field:	494
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.565
+	FTab:	444
+	Field:	495
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.566
+	FTab:	444
+	Field:	496
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.567
+	Name:	"States that prohibit luse of eghold traps.shp"
+	Source:	568
+	Flags:	0x06
+	Legend:	627
+	Threshold:	640
+	View:	413
+	GSet:	641
+	LegEditScript:	"View.EditLegend"
+	TxPos:	642
+	LabelField:	574
+	AttrRules:	643
+	AttrRules:	644
+	AttrRules:	645
+	AttrRules:	646
+	AttrRules:	647
+	AttrRules:	648
+	AttrRules:	649
+	AttrRules:	650
+	AttrRules:	651
+	AttrRules:	652
+	AttrRules:	653
+	AttrRules:	654
+	AttrRules:	655
+	AttrRules:	656
+	AttrRules:	657
+	AttrRules:	658
+	AttrRules:	659
+	AttrRules:	660
+	AttrRules:	661
+	AttrRules:	662
+	AttrRules:	663
+	AttrRules:	664
+	AttrRules:	665
+	AttrRules:	666
+	AttrRules:	667
+	AttrRules:	668
+	AttrRules:	669
+	AttrRules:	670
+	AttrRules:	671
+	AttrRules:	672
+	AttrRules:	673
+	AttrRules:	674
+	AttrRules:	675
+	AttrRules:	676
+	AttrRules:	677
+	AttrRules:	678
+	AttrRules:	679
+	AttrRules:	680
+	AttrRules:	681
+	AttrRules:	682
+	AttrRules:	683
+	AttrRules:	684
+	AttrRules:	685
+	AttrRules:	686
+	AttrRules:	687
+	AttrRules:	688
+	AttrRules:	689
+	AttrRules:	690
+	AttrRules:	691
+	AttrRules:	692
+	AttrRules:	693
+	SnapTolCursor:	1
+)
+
+(ShpSrc.568
+	Name:	569
+	FTab:	571
+)
+
+(SrcName.569
+	FileName:	570
+	Name:	"states that prohibit luse of eghold traps.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.570
+	Path:	"c:/cgis/states that prohibit luse of eghold traps.shp"
+)
+
+(FTab.571
+	Name:	"states that prohibit luse of eghold traps.dbf"
+	BTab:	572
+	Fields:	625
+	Fields:	573
+	Fields:	574
+	Fields:	575
+	Fields:	576
+	Fields:	577
+	Fields:	578
+	Fields:	579
+	Fields:	580
+	Fields:	581
+	Fields:	582
+	Fields:	583
+	Fields:	584
+	Fields:	585
+	Fields:	586
+	Fields:	587
+	Fields:	588
+	Fields:	589
+	Fields:	590
+	Fields:	591
+	Fields:	592
+	Fields:	593
+	Fields:	594
+	Fields:	595
+	Fields:	596
+	Fields:	597
+	Fields:	598
+	Fields:	599
+	Fields:	600
+	Fields:	601
+	Fields:	602
+	Fields:	603
+	Fields:	604
+	Fields:	605
+	Fields:	606
+	Fields:	607
+	Fields:	608
+	Fields:	609
+	Fields:	610
+	Fields:	611
+	Fields:	612
+	Fields:	613
+	Fields:	614
+	Fields:	615
+	Fields:	616
+	Fields:	617
+	Fields:	618
+	Fields:	619
+	Fields:	620
+	Fields:	621
+	Fields:	622
+	Fields:	623
+	SelBits:	626
+	FSrc:	568
+)
+
+(dBASE.572
+	Name:	"states that prohibit luse of eghold traps.dbf"
+	Fields:	573
+	Fields:	574
+	Fields:	575
+	Fields:	576
+	Fields:	577
+	Fields:	578
+	Fields:	579
+	Fields:	580
+	Fields:	581
+	Fields:	582
+	Fields:	583
+	Fields:	584
+	Fields:	585
+	Fields:	586
+	Fields:	587
+	Fields:	588
+	Fields:	589
+	Fields:	590
+	Fields:	591
+	Fields:	592
+	Fields:	593
+	Fields:	594
+	Fields:	595
+	Fields:	596
+	Fields:	597
+	Fields:	598
+	Fields:	599
+	Fields:	600
+	Fields:	601
+	Fields:	602
+	Fields:	603
+	Fields:	604
+	Fields:	605
+	Fields:	606
+	Fields:	607
+	Fields:	608
+	Fields:	609
+	Fields:	610
+	Fields:	611
+	Fields:	612
+	Fields:	613
+	Fields:	614
+	Fields:	615
+	Fields:	616
+	Fields:	617
+	Fields:	618
+	Fields:	619
+	Fields:	620
+	Fields:	621
+	Fields:	622
+	Fields:	623
+	FileName:	624
+)
+
+(Field.573
+	Name:	"Area"
+	Btab:	572
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.574
+	Name:	"State_name"
+	Btab:	572
+	Alias:	"State_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.575
+	Name:	"State_fips"
+	Btab:	572
+	Alias:	"State_fips"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.576
+	Name:	"Sub_region"
+	Btab:	572
+	Alias:	"Sub_region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.577
+	Name:	"State_abbr"
+	Btab:	572
+	Alias:	"State_abbr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.578
+	Name:	"Pop1990"
+	Btab:	572
+	Alias:	"Pop1990"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.579
+	Name:	"Pop1999"
+	Btab:	572
+	Alias:	"Pop1999"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.580
+	Name:	"Pop90_sqmi"
+	Btab:	572
+	Alias:	"Pop90_sqmi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.581
+	Name:	"Households"
+	Btab:	572
+	Alias:	"Households"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.582
+	Name:	"Males"
+	Btab:	572
+	Alias:	"Males"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.583
+	Name:	"Females"
+	Btab:	572
+	Alias:	"Females"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.584
+	Name:	"White"
+	Btab:	572
+	Alias:	"White"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.585
+	Name:	"Black"
+	Btab:	572
+	Alias:	"Black"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.586
+	Name:	"Ameri_es"
+	Btab:	572
+	Alias:	"Ameri_es"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.587
+	Name:	"Asian_pi"
+	Btab:	572
+	Alias:	"Asian_pi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.588
+	Name:	"Other"
+	Btab:	572
+	Alias:	"Other"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.589
+	Name:	"Hispanic"
+	Btab:	572
+	Alias:	"Hispanic"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.590
+	Name:	"Age_under5"
+	Btab:	572
+	Alias:	"Age_under5"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.591
+	Name:	"Age_5_17"
+	Btab:	572
+	Alias:	"Age_5_17"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.592
+	Name:	"Age_18_29"
+	Btab:	572
+	Alias:	"Age_18_29"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.593
+	Name:	"Age_30_49"
+	Btab:	572
+	Alias:	"Age_30_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.594
+	Name:	"Age_50_64"
+	Btab:	572
+	Alias:	"Age_50_64"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.595
+	Name:	"Age_65_up"
+	Btab:	572
+	Alias:	"Age_65_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.596
+	Name:	"Nevermarry"
+	Btab:	572
+	Alias:	"Nevermarry"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.597
+	Name:	"Married"
+	Btab:	572
+	Alias:	"Married"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.598
+	Name:	"Separated"
+	Btab:	572
+	Alias:	"Separated"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.599
+	Name:	"Widowed"
+	Btab:	572
+	Alias:	"Widowed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.600
+	Name:	"Divorced"
+	Btab:	572
+	Alias:	"Divorced"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.601
+	Name:	"Hsehld_1_m"
+	Btab:	572
+	Alias:	"Hsehld_1_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.602
+	Name:	"Hsehld_1_f"
+	Btab:	572
+	Alias:	"Hsehld_1_f"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.603
+	Name:	"Marhh_chd"
+	Btab:	572
+	Alias:	"Marhh_chd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.604
+	Name:	"Marhh_no_c"
+	Btab:	572
+	Alias:	"Marhh_no_c"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.605
+	Name:	"Mhh_child"
+	Btab:	572
+	Alias:	"Mhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.606
+	Name:	"Fhh_child"
+	Btab:	572
+	Alias:	"Fhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.607
+	Name:	"Hse_units"
+	Btab:	572
+	Alias:	"Hse_units"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.608
+	Name:	"Vacant"
+	Btab:	572
+	Alias:	"Vacant"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.609
+	Name:	"Owner_occ"
+	Btab:	572
+	Alias:	"Owner_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.610
+	Name:	"Renter_occ"
+	Btab:	572
+	Alias:	"Renter_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.611
+	Name:	"Median_val"
+	Btab:	572
+	Alias:	"Median_val"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.612
+	Name:	"Medianrent"
+	Btab:	572
+	Alias:	"Medianrent"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.613
+	Name:	"Units_1det"
+	Btab:	572
+	Alias:	"Units_1det"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.614
+	Name:	"Units_1att"
+	Btab:	572
+	Alias:	"Units_1att"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.615
+	Name:	"Units2"
+	Btab:	572
+	Alias:	"Units2"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.616
+	Name:	"Units3_9"
+	Btab:	572
+	Alias:	"Units3_9"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.617
+	Name:	"Units10_49"
+	Btab:	572
+	Alias:	"Units10_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.618
+	Name:	"Units50_up"
+	Btab:	572
+	Alias:	"Units50_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.619
+	Name:	"Mobilehome"
+	Btab:	572
+	Alias:	"Mobilehome"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.620
+	Name:	"No_farms87"
+	Btab:	572
+	Alias:	"No_farms87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.621
+	Name:	"Avg_size87"
+	Btab:	572
+	Alias:	"Avg_size87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.622
+	Name:	"Crop_acr87"
+	Btab:	572
+	Alias:	"Crop_acr87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.623
+	Name:	"Avg_sale87"
+	Btab:	572
+	Alias:	"Avg_sale87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.624
+	Path:	"c:/cgis/states that prohibit luse of eghold traps.dbf"
+)
+
+(Field.625
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.626
+	NumBits:	3
+
+)
+
+(Legend.627
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	628
+	Class:	633
+	StdDevs:	1.00000000000000
+	NullSym:	634
+	NullValues:	638
+	StatValues:	639
+	Precision:	-3
+)
+
+(SymList.628
+	Child:	629
+)
+
+(BShSym.629
+	Color:	630
+	Outline:	1
+	OutlineColor:	631
+	OutlineWidth:	0.10000000000000
+	BgColor:	632
+)
+
+(TClr.630
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.631
+)
+
+(TClr.632
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.633
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.634
+	Color:	635
+	Outline:	1
+	OutlineColor:	636
+	OutlineWidth:	0.10000000000000
+	BgColor:	637
+)
+
+(TClr.635
+	Name:	"Transparent"
+)
+
+(TClr.636
+	Name:	"Transparent"
+)
+
+(TClr.637
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.638
+)
+
+(NameDict.639
+)
+
+(Thresh.640
+)
+
+(GSet.641
+)
+
+(TxPosPly.642
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.643
+	FTab:	571
+	Field:	573
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.644
+	FTab:	571
+	Field:	574
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.645
+	FTab:	571
+	Field:	575
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.646
+	FTab:	571
+	Field:	576
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.647
+	FTab:	571
+	Field:	577
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.648
+	FTab:	571
+	Field:	578
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.649
+	FTab:	571
+	Field:	579
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.650
+	FTab:	571
+	Field:	580
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.651
+	FTab:	571
+	Field:	581
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.652
+	FTab:	571
+	Field:	582
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.653
+	FTab:	571
+	Field:	583
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.654
+	FTab:	571
+	Field:	584
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.655
+	FTab:	571
+	Field:	585
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.656
+	FTab:	571
+	Field:	586
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.657
+	FTab:	571
+	Field:	587
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.658
+	FTab:	571
+	Field:	588
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.659
+	FTab:	571
+	Field:	589
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.660
+	FTab:	571
+	Field:	590
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.661
+	FTab:	571
+	Field:	591
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.662
+	FTab:	571
+	Field:	592
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.663
+	FTab:	571
+	Field:	593
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.664
+	FTab:	571
+	Field:	594
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.665
+	FTab:	571
+	Field:	595
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.666
+	FTab:	571
+	Field:	596
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.667
+	FTab:	571
+	Field:	597
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.668
+	FTab:	571
+	Field:	598
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.669
+	FTab:	571
+	Field:	599
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.670
+	FTab:	571
+	Field:	600
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.671
+	FTab:	571
+	Field:	601
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.672
+	FTab:	571
+	Field:	602
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.673
+	FTab:	571
+	Field:	603
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.674
+	FTab:	571
+	Field:	604
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.675
+	FTab:	571
+	Field:	605
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.676
+	FTab:	571
+	Field:	606
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.677
+	FTab:	571
+	Field:	607
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.678
+	FTab:	571
+	Field:	608
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.679
+	FTab:	571
+	Field:	609
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.680
+	FTab:	571
+	Field:	610
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.681
+	FTab:	571
+	Field:	611
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.682
+	FTab:	571
+	Field:	612
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.683
+	FTab:	571
+	Field:	613
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.684
+	FTab:	571
+	Field:	614
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.685
+	FTab:	571
+	Field:	615
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.686
+	FTab:	571
+	Field:	616
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.687
+	FTab:	571
+	Field:	617
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.688
+	FTab:	571
+	Field:	618
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.689
+	FTab:	571
+	Field:	619
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.690
+	FTab:	571
+	Field:	620
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.691
+	FTab:	571
+	Field:	621
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.692
+	FTab:	571
+	Field:	622
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.693
+	FTab:	571
+	Field:	623
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.694
+	Name:	"States that prohibit use of footholds.shp"
+	Source:	695
+	Flags:	0x04
+	Legend:	754
+	Threshold:	767
+	View:	413
+	GSet:	768
+	LegEditScript:	"View.EditLegend"
+	TxPos:	769
+	LabelField:	701
+	AttrRules:	770
+	AttrRules:	771
+	AttrRules:	772
+	AttrRules:	773
+	AttrRules:	774
+	AttrRules:	775
+	AttrRules:	776
+	AttrRules:	777
+	AttrRules:	778
+	AttrRules:	779
+	AttrRules:	780
+	AttrRules:	781
+	AttrRules:	782
+	AttrRules:	783
+	AttrRules:	784
+	AttrRules:	785
+	AttrRules:	786
+	AttrRules:	787
+	AttrRules:	788
+	AttrRules:	789
+	AttrRules:	790
+	AttrRules:	791
+	AttrRules:	792
+	AttrRules:	793
+	AttrRules:	794
+	AttrRules:	795
+	AttrRules:	796
+	AttrRules:	797
+	AttrRules:	798
+	AttrRules:	799
+	AttrRules:	800
+	AttrRules:	801
+	AttrRules:	802
+	AttrRules:	803
+	AttrRules:	804
+	AttrRules:	805
+	AttrRules:	806
+	AttrRules:	807
+	AttrRules:	808
+	AttrRules:	809
+	AttrRules:	810
+	AttrRules:	811
+	AttrRules:	812
+	AttrRules:	813
+	AttrRules:	814
+	AttrRules:	815
+	AttrRules:	816
+	AttrRules:	817
+	AttrRules:	818
+	AttrRules:	819
+	AttrRules:	820
+	SnapTolCursor:	1
+)
+
+(ShpSrc.695
+	Name:	696
+	FTab:	698
+)
+
+(SrcName.696
+	FileName:	697
+	Name:	"states that prohibit use of footholds.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.697
+	Path:	"c:/cgis/states that prohibit use of footholds.shp"
+)
+
+(FTab.698
+	Name:	"states that prohibit use of footholds.dbf"
+	BTab:	699
+	Fields:	752
+	Fields:	700
+	Fields:	701
+	Fields:	702
+	Fields:	703
+	Fields:	704
+	Fields:	705
+	Fields:	706
+	Fields:	707
+	Fields:	708
+	Fields:	709
+	Fields:	710
+	Fields:	711
+	Fields:	712
+	Fields:	713
+	Fields:	714
+	Fields:	715
+	Fields:	716
+	Fields:	717
+	Fields:	718
+	Fields:	719
+	Fields:	720
+	Fields:	721
+	Fields:	722
+	Fields:	723
+	Fields:	724
+	Fields:	725
+	Fields:	726
+	Fields:	727
+	Fields:	728
+	Fields:	729
+	Fields:	730
+	Fields:	731
+	Fields:	732
+	Fields:	733
+	Fields:	734
+	Fields:	735
+	Fields:	736
+	Fields:	737
+	Fields:	738
+	Fields:	739
+	Fields:	740
+	Fields:	741
+	Fields:	742
+	Fields:	743
+	Fields:	744
+	Fields:	745
+	Fields:	746
+	Fields:	747
+	Fields:	748
+	Fields:	749
+	Fields:	750
+	SelBits:	753
+	FSrc:	695
+)
+
+(dBASE.699
+	Name:	"states that prohibit use of footholds.dbf"
+	Fields:	700
+	Fields:	701
+	Fields:	702
+	Fields:	703
+	Fields:	704
+	Fields:	705
+	Fields:	706
+	Fields:	707
+	Fields:	708
+	Fields:	709
+	Fields:	710
+	Fields:	711
+	Fields:	712
+	Fields:	713
+	Fields:	714
+	Fields:	715
+	Fields:	716
+	Fields:	717
+	Fields:	718
+	Fields:	719
+	Fields:	720
+	Fields:	721
+	Fields:	722
+	Fields:	723
+	Fields:	724
+	Fields:	725
+	Fields:	726
+	Fields:	727
+	Fields:	728
+	Fields:	729
+	Fields:	730
+	Fields:	731
+	Fields:	732
+	Fields:	733
+	Fields:	734
+	Fields:	735
+	Fields:	736
+	Fields:	737
+	Fields:	738
+	Fields:	739
+	Fields:	740
+	Fields:	741
+	Fields:	742
+	Fields:	743
+	Fields:	744
+	Fields:	745
+	Fields:	746
+	Fields:	747
+	Fields:	748
+	Fields:	749
+	Fields:	750
+	FileName:	751
+)
+
+(Field.700
+	Name:	"Area"
+	Btab:	699
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.701
+	Name:	"State_name"
+	Btab:	699
+	Alias:	"State_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.702
+	Name:	"State_fips"
+	Btab:	699
+	Alias:	"State_fips"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.703
+	Name:	"Sub_region"
+	Btab:	699
+	Alias:	"Sub_region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.704
+	Name:	"State_abbr"
+	Btab:	699
+	Alias:	"State_abbr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.705
+	Name:	"Pop1990"
+	Btab:	699
+	Alias:	"Pop1990"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.706
+	Name:	"Pop1999"
+	Btab:	699
+	Alias:	"Pop1999"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.707
+	Name:	"Pop90_sqmi"
+	Btab:	699
+	Alias:	"Pop90_sqmi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.708
+	Name:	"Households"
+	Btab:	699
+	Alias:	"Households"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.709
+	Name:	"Males"
+	Btab:	699
+	Alias:	"Males"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.710
+	Name:	"Females"
+	Btab:	699
+	Alias:	"Females"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.711
+	Name:	"White"
+	Btab:	699
+	Alias:	"White"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.712
+	Name:	"Black"
+	Btab:	699
+	Alias:	"Black"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.713
+	Name:	"Ameri_es"
+	Btab:	699
+	Alias:	"Ameri_es"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.714
+	Name:	"Asian_pi"
+	Btab:	699
+	Alias:	"Asian_pi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.715
+	Name:	"Other"
+	Btab:	699
+	Alias:	"Other"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.716
+	Name:	"Hispanic"
+	Btab:	699
+	Alias:	"Hispanic"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.717
+	Name:	"Age_under5"
+	Btab:	699
+	Alias:	"Age_under5"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.718
+	Name:	"Age_5_17"
+	Btab:	699
+	Alias:	"Age_5_17"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.719
+	Name:	"Age_18_29"
+	Btab:	699
+	Alias:	"Age_18_29"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.720
+	Name:	"Age_30_49"
+	Btab:	699
+	Alias:	"Age_30_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.721
+	Name:	"Age_50_64"
+	Btab:	699
+	Alias:	"Age_50_64"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.722
+	Name:	"Age_65_up"
+	Btab:	699
+	Alias:	"Age_65_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.723
+	Name:	"Nevermarry"
+	Btab:	699
+	Alias:	"Nevermarry"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.724
+	Name:	"Married"
+	Btab:	699
+	Alias:	"Married"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.725
+	Name:	"Separated"
+	Btab:	699
+	Alias:	"Separated"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.726
+	Name:	"Widowed"
+	Btab:	699
+	Alias:	"Widowed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.727
+	Name:	"Divorced"
+	Btab:	699
+	Alias:	"Divorced"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.728
+	Name:	"Hsehld_1_m"
+	Btab:	699
+	Alias:	"Hsehld_1_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.729
+	Name:	"Hsehld_1_f"
+	Btab:	699
+	Alias:	"Hsehld_1_f"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.730
+	Name:	"Marhh_chd"
+	Btab:	699
+	Alias:	"Marhh_chd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.731
+	Name:	"Marhh_no_c"
+	Btab:	699
+	Alias:	"Marhh_no_c"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.732
+	Name:	"Mhh_child"
+	Btab:	699
+	Alias:	"Mhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.733
+	Name:	"Fhh_child"
+	Btab:	699
+	Alias:	"Fhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.734
+	Name:	"Hse_units"
+	Btab:	699
+	Alias:	"Hse_units"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.735
+	Name:	"Vacant"
+	Btab:	699
+	Alias:	"Vacant"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.736
+	Name:	"Owner_occ"
+	Btab:	699
+	Alias:	"Owner_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.737
+	Name:	"Renter_occ"
+	Btab:	699
+	Alias:	"Renter_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.738
+	Name:	"Median_val"
+	Btab:	699
+	Alias:	"Median_val"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.739
+	Name:	"Medianrent"
+	Btab:	699
+	Alias:	"Medianrent"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.740
+	Name:	"Units_1det"
+	Btab:	699
+	Alias:	"Units_1det"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.741
+	Name:	"Units_1att"
+	Btab:	699
+	Alias:	"Units_1att"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.742
+	Name:	"Units2"
+	Btab:	699
+	Alias:	"Units2"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.743
+	Name:	"Units3_9"
+	Btab:	699
+	Alias:	"Units3_9"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.744
+	Name:	"Units10_49"
+	Btab:	699
+	Alias:	"Units10_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.745
+	Name:	"Units50_up"
+	Btab:	699
+	Alias:	"Units50_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.746
+	Name:	"Mobilehome"
+	Btab:	699
+	Alias:	"Mobilehome"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.747
+	Name:	"No_farms87"
+	Btab:	699
+	Alias:	"No_farms87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.748
+	Name:	"Avg_size87"
+	Btab:	699
+	Alias:	"Avg_size87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.749
+	Name:	"Crop_acr87"
+	Btab:	699
+	Alias:	"Crop_acr87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.750
+	Name:	"Avg_sale87"
+	Btab:	699
+	Alias:	"Avg_sale87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.751
+	Path:	"c:/cgis/states that prohibit use of footholds.dbf"
+)
+
+(Field.752
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.753
+	NumBits:	3
+
+)
+
+(Legend.754
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	755
+	Class:	760
+	StdDevs:	1.00000000000000
+	NullSym:	761
+	NullValues:	765
+	StatValues:	766
+	Precision:	-3
+)
+
+(SymList.755
+	Child:	756
+)
+
+(BShSym.756
+	Color:	757
+	Outline:	1
+	OutlineColor:	758
+	OutlineWidth:	0.10000000000000
+	BgColor:	759
+)
+
+(TClr.757
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.758
+)
+
+(TClr.759
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.760
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.761
+	Color:	762
+	Outline:	1
+	OutlineColor:	763
+	OutlineWidth:	0.10000000000000
+	BgColor:	764
+)
+
+(TClr.762
+	Name:	"Transparent"
+)
+
+(TClr.763
+	Name:	"Transparent"
+)
+
+(TClr.764
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.765
+)
+
+(NameDict.766
+)
+
+(Thresh.767
+)
+
+(GSet.768
+)
+
+(TxPosPly.769
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.770
+	FTab:	698
+	Field:	700
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.771
+	FTab:	698
+	Field:	701
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.772
+	FTab:	698
+	Field:	702
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.773
+	FTab:	698
+	Field:	703
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.774
+	FTab:	698
+	Field:	704
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.775
+	FTab:	698
+	Field:	705
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.776
+	FTab:	698
+	Field:	706
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.777
+	FTab:	698
+	Field:	707
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.778
+	FTab:	698
+	Field:	708
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.779
+	FTab:	698
+	Field:	709
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.780
+	FTab:	698
+	Field:	710
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.781
+	FTab:	698
+	Field:	711
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.782
+	FTab:	698
+	Field:	712
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.783
+	FTab:	698
+	Field:	713
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.784
+	FTab:	698
+	Field:	714
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.785
+	FTab:	698
+	Field:	715
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.786
+	FTab:	698
+	Field:	716
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.787
+	FTab:	698
+	Field:	717
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.788
+	FTab:	698
+	Field:	718
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.789
+	FTab:	698
+	Field:	719
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.790
+	FTab:	698
+	Field:	720
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.791
+	FTab:	698
+	Field:	721
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.792
+	FTab:	698
+	Field:	722
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.793
+	FTab:	698
+	Field:	723
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.794
+	FTab:	698
+	Field:	724
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.795
+	FTab:	698
+	Field:	725
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.796
+	FTab:	698
+	Field:	726
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.797
+	FTab:	698
+	Field:	727
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.798
+	FTab:	698
+	Field:	728
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.799
+	FTab:	698
+	Field:	729
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.800
+	FTab:	698
+	Field:	730
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.801
+	FTab:	698
+	Field:	731
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.802
+	FTab:	698
+	Field:	732
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.803
+	FTab:	698
+	Field:	733
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.804
+	FTab:	698
+	Field:	734
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.805
+	FTab:	698
+	Field:	735
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.806
+	FTab:	698
+	Field:	736
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.807
+	FTab:	698
+	Field:	737
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.808
+	FTab:	698
+	Field:	738
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.809
+	FTab:	698
+	Field:	739
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.810
+	FTab:	698
+	Field:	740
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.811
+	FTab:	698
+	Field:	741
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.812
+	FTab:	698
+	Field:	742
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.813
+	FTab:	698
+	Field:	743
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.814
+	FTab:	698
+	Field:	744
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.815
+	FTab:	698
+	Field:	745
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.816
+	FTab:	698
+	Field:	746
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.817
+	FTab:	698
+	Field:	747
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.818
+	FTab:	698
+	Field:	748
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.819
+	FTab:	698
+	Field:	749
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.820
+	FTab:	698
+	Field:	750
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.821
+	Name:	"States that allow use of footholds.shp"
+	Source:	822
+	Flags:	0x04
+	Legend:	881
+	Threshold:	894
+	View:	413
+	GSet:	895
+	LegEditScript:	"View.EditLegend"
+	TxPos:	896
+	LabelField:	828
+	AttrRules:	897
+	AttrRules:	898
+	AttrRules:	899
+	AttrRules:	900
+	AttrRules:	901
+	AttrRules:	902
+	AttrRules:	903
+	AttrRules:	904
+	AttrRules:	905
+	AttrRules:	906
+	AttrRules:	907
+	AttrRules:	908
+	AttrRules:	909
+	AttrRules:	910
+	AttrRules:	911
+	AttrRules:	912
+	AttrRules:	913
+	AttrRules:	914
+	AttrRules:	915
+	AttrRules:	916
+	AttrRules:	917
+	AttrRules:	918
+	AttrRules:	919
+	AttrRules:	920
+	AttrRules:	921
+	AttrRules:	922
+	AttrRules:	923
+	AttrRules:	924
+	AttrRules:	925
+	AttrRules:	926
+	AttrRules:	927
+	AttrRules:	928
+	AttrRules:	929
+	AttrRules:	930
+	AttrRules:	931
+	AttrRules:	932
+	AttrRules:	933
+	AttrRules:	934
+	AttrRules:	935
+	AttrRules:	936
+	AttrRules:	937
+	AttrRules:	938
+	AttrRules:	939
+	AttrRules:	940
+	AttrRules:	941
+	AttrRules:	942
+	AttrRules:	943
+	AttrRules:	944
+	AttrRules:	945
+	AttrRules:	946
+	AttrRules:	947
+	SnapTolCursor:	1
+)
+
+(ShpSrc.822
+	Name:	823
+	FTab:	825
+)
+
+(SrcName.823
+	FileName:	824
+	Name:	"states that allow use of footholds.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.824
+	Path:	"c:/cgis/states that allow use of footholds.shp"
+)
+
+(FTab.825
+	Name:	"states that allow use of footholds.dbf"
+	BTab:	826
+	Fields:	879
+	Fields:	827
+	Fields:	828
+	Fields:	829
+	Fields:	830
+	Fields:	831
+	Fields:	832
+	Fields:	833
+	Fields:	834
+	Fields:	835
+	Fields:	836
+	Fields:	837
+	Fields:	838
+	Fields:	839
+	Fields:	840
+	Fields:	841
+	Fields:	842
+	Fields:	843
+	Fields:	844
+	Fields:	845
+	Fields:	846
+	Fields:	847
+	Fields:	848
+	Fields:	849
+	Fields:	850
+	Fields:	851
+	Fields:	852
+	Fields:	853
+	Fields:	854
+	Fields:	855
+	Fields:	856
+	Fields:	857
+	Fields:	858
+	Fields:	859
+	Fields:	860
+	Fields:	861
+	Fields:	862
+	Fields:	863
+	Fields:	864
+	Fields:	865
+	Fields:	866
+	Fields:	867
+	Fields:	868
+	Fields:	869
+	Fields:	870
+	Fields:	871
+	Fields:	872
+	Fields:	873
+	Fields:	874
+	Fields:	875
+	Fields:	876
+	Fields:	877
+	SelBits:	880
+	FSrc:	822
+)
+
+(dBASE.826
+	Name:	"states that allow use of footholds.dbf"
+	Fields:	827
+	Fields:	828
+	Fields:	829
+	Fields:	830
+	Fields:	831
+	Fields:	832
+	Fields:	833
+	Fields:	834
+	Fields:	835
+	Fields:	836
+	Fields:	837
+	Fields:	838
+	Fields:	839
+	Fields:	840
+	Fields:	841
+	Fields:	842
+	Fields:	843
+	Fields:	844
+	Fields:	845
+	Fields:	846
+	Fields:	847
+	Fields:	848
+	Fields:	849
+	Fields:	850
+	Fields:	851
+	Fields:	852
+	Fields:	853
+	Fields:	854
+	Fields:	855
+	Fields:	856
+	Fields:	857
+	Fields:	858
+	Fields:	859
+	Fields:	860
+	Fields:	861
+	Fields:	862
+	Fields:	863
+	Fields:	864
+	Fields:	865
+	Fields:	866
+	Fields:	867
+	Fields:	868
+	Fields:	869
+	Fields:	870
+	Fields:	871
+	Fields:	872
+	Fields:	873
+	Fields:	874
+	Fields:	875
+	Fields:	876
+	Fields:	877
+	FileName:	878
+)
+
+(Field.827
+	Name:	"Area"
+	Btab:	826
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.828
+	Name:	"State_name"
+	Btab:	826
+	Alias:	"State_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.829
+	Name:	"State_fips"
+	Btab:	826
+	Alias:	"State_fips"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.830
+	Name:	"Sub_region"
+	Btab:	826
+	Alias:	"Sub_region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.831
+	Name:	"State_abbr"
+	Btab:	826
+	Alias:	"State_abbr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.832
+	Name:	"Pop1990"
+	Btab:	826
+	Alias:	"Pop1990"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.833
+	Name:	"Pop1999"
+	Btab:	826
+	Alias:	"Pop1999"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.834
+	Name:	"Pop90_sqmi"
+	Btab:	826
+	Alias:	"Pop90_sqmi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.835
+	Name:	"Households"
+	Btab:	826
+	Alias:	"Households"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.836
+	Name:	"Males"
+	Btab:	826
+	Alias:	"Males"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.837
+	Name:	"Females"
+	Btab:	826
+	Alias:	"Females"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.838
+	Name:	"White"
+	Btab:	826
+	Alias:	"White"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.839
+	Name:	"Black"
+	Btab:	826
+	Alias:	"Black"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.840
+	Name:	"Ameri_es"
+	Btab:	826
+	Alias:	"Ameri_es"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.841
+	Name:	"Asian_pi"
+	Btab:	826
+	Alias:	"Asian_pi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.842
+	Name:	"Other"
+	Btab:	826
+	Alias:	"Other"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.843
+	Name:	"Hispanic"
+	Btab:	826
+	Alias:	"Hispanic"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.844
+	Name:	"Age_under5"
+	Btab:	826
+	Alias:	"Age_under5"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.845
+	Name:	"Age_5_17"
+	Btab:	826
+	Alias:	"Age_5_17"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.846
+	Name:	"Age_18_29"
+	Btab:	826
+	Alias:	"Age_18_29"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.847
+	Name:	"Age_30_49"
+	Btab:	826
+	Alias:	"Age_30_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.848
+	Name:	"Age_50_64"
+	Btab:	826
+	Alias:	"Age_50_64"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.849
+	Name:	"Age_65_up"
+	Btab:	826
+	Alias:	"Age_65_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.850
+	Name:	"Nevermarry"
+	Btab:	826
+	Alias:	"Nevermarry"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.851
+	Name:	"Married"
+	Btab:	826
+	Alias:	"Married"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.852
+	Name:	"Separated"
+	Btab:	826
+	Alias:	"Separated"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.853
+	Name:	"Widowed"
+	Btab:	826
+	Alias:	"Widowed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.854
+	Name:	"Divorced"
+	Btab:	826
+	Alias:	"Divorced"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.855
+	Name:	"Hsehld_1_m"
+	Btab:	826
+	Alias:	"Hsehld_1_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.856
+	Name:	"Hsehld_1_f"
+	Btab:	826
+	Alias:	"Hsehld_1_f"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.857
+	Name:	"Marhh_chd"
+	Btab:	826
+	Alias:	"Marhh_chd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.858
+	Name:	"Marhh_no_c"
+	Btab:	826
+	Alias:	"Marhh_no_c"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.859
+	Name:	"Mhh_child"
+	Btab:	826
+	Alias:	"Mhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.860
+	Name:	"Fhh_child"
+	Btab:	826
+	Alias:	"Fhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.861
+	Name:	"Hse_units"
+	Btab:	826
+	Alias:	"Hse_units"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.862
+	Name:	"Vacant"
+	Btab:	826
+	Alias:	"Vacant"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.863
+	Name:	"Owner_occ"
+	Btab:	826
+	Alias:	"Owner_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.864
+	Name:	"Renter_occ"
+	Btab:	826
+	Alias:	"Renter_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.865
+	Name:	"Median_val"
+	Btab:	826
+	Alias:	"Median_val"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.866
+	Name:	"Medianrent"
+	Btab:	826
+	Alias:	"Medianrent"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.867
+	Name:	"Units_1det"
+	Btab:	826
+	Alias:	"Units_1det"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.868
+	Name:	"Units_1att"
+	Btab:	826
+	Alias:	"Units_1att"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.869
+	Name:	"Units2"
+	Btab:	826
+	Alias:	"Units2"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.870
+	Name:	"Units3_9"
+	Btab:	826
+	Alias:	"Units3_9"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.871
+	Name:	"Units10_49"
+	Btab:	826
+	Alias:	"Units10_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.872
+	Name:	"Units50_up"
+	Btab:	826
+	Alias:	"Units50_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.873
+	Name:	"Mobilehome"
+	Btab:	826
+	Alias:	"Mobilehome"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.874
+	Name:	"No_farms87"
+	Btab:	826
+	Alias:	"No_farms87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.875
+	Name:	"Avg_size87"
+	Btab:	826
+	Alias:	"Avg_size87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.876
+	Name:	"Crop_acr87"
+	Btab:	826
+	Alias:	"Crop_acr87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.877
+	Name:	"Avg_sale87"
+	Btab:	826
+	Alias:	"Avg_sale87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.878
+	Path:	"c:/cgis/states that allow use of footholds.dbf"
+)
+
+(Field.879
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.880
+	NumBits:	14
+	NumBitsSet:	12
+	Bits:	00003d7f 
+)
+
+(Legend.881
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	882
+	Class:	887
+	StdDevs:	1.00000000000000
+	NullSym:	888
+	NullValues:	892
+	StatValues:	893
+	Precision:	-3
+)
+
+(SymList.882
+	Child:	883
+)
+
+(BShSym.883
+	Color:	884
+	Outline:	1
+	OutlineColor:	885
+	OutlineWidth:	0.10000000000000
+	BgColor:	886
+)
+
+(TClr.884
+	Red:	0xa5a5
+	Green:	0xa5a5
+	Blue:	0xa5a5
+)
+
+(TClr.885
+)
+
+(TClr.886
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.887
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.888
+	Color:	889
+	Outline:	1
+	OutlineColor:	890
+	OutlineWidth:	0.10000000000000
+	BgColor:	891
+)
+
+(TClr.889
+	Name:	"Transparent"
+)
+
+(TClr.890
+	Name:	"Transparent"
+)
+
+(TClr.891
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.892
+)
+
+(NameDict.893
+)
+
+(Thresh.894
+)
+
+(GSet.895
+)
+
+(TxPosPly.896
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.897
+	FTab:	825
+	Field:	827
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.898
+	FTab:	825
+	Field:	828
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.899
+	FTab:	825
+	Field:	829
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.900
+	FTab:	825
+	Field:	830
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.901
+	FTab:	825
+	Field:	831
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.902
+	FTab:	825
+	Field:	832
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.903
+	FTab:	825
+	Field:	833
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.904
+	FTab:	825
+	Field:	834
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.905
+	FTab:	825
+	Field:	835
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.906
+	FTab:	825
+	Field:	836
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.907
+	FTab:	825
+	Field:	837
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.908
+	FTab:	825
+	Field:	838
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.909
+	FTab:	825
+	Field:	839
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.910
+	FTab:	825
+	Field:	840
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.911
+	FTab:	825
+	Field:	841
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.912
+	FTab:	825
+	Field:	842
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.913
+	FTab:	825
+	Field:	843
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.914
+	FTab:	825
+	Field:	844
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.915
+	FTab:	825
+	Field:	845
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.916
+	FTab:	825
+	Field:	846
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.917
+	FTab:	825
+	Field:	847
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.918
+	FTab:	825
+	Field:	848
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.919
+	FTab:	825
+	Field:	849
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.920
+	FTab:	825
+	Field:	850
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.921
+	FTab:	825
+	Field:	851
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.922
+	FTab:	825
+	Field:	852
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.923
+	FTab:	825
+	Field:	853
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.924
+	FTab:	825
+	Field:	854
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.925
+	FTab:	825
+	Field:	855
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.926
+	FTab:	825
+	Field:	856
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.927
+	FTab:	825
+	Field:	857
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.928
+	FTab:	825
+	Field:	858
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.929
+	FTab:	825
+	Field:	859
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.930
+	FTab:	825
+	Field:	860
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.931
+	FTab:	825
+	Field:	861
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.932
+	FTab:	825
+	Field:	862
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.933
+	FTab:	825
+	Field:	863
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.934
+	FTab:	825
+	Field:	864
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.935
+	FTab:	825
+	Field:	865
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.936
+	FTab:	825
+	Field:	866
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.937
+	FTab:	825
+	Field:	867
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.938
+	FTab:	825
+	Field:	868
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.939
+	FTab:	825
+	Field:	869
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.940
+	FTab:	825
+	Field:	870
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.941
+	FTab:	825
+	Field:	871
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.942
+	FTab:	825
+	Field:	872
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.943
+	FTab:	825
+	Field:	873
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.944
+	FTab:	825
+	Field:	874
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.945
+	FTab:	825
+	Field:	875
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.946
+	FTab:	825
+	Field:	876
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.947
+	FTab:	825
+	Field:	877
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.948
+	Name:	"States.shp"
+	Source:	949
+	Legend:	1008
+	Threshold:	1277
+	View:	413
+	GSet:	1278
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1279
+	LabelField:	955
+	AttrRules:	1280
+	AttrRules:	1281
+	AttrRules:	1282
+	AttrRules:	1283
+	AttrRules:	1284
+	AttrRules:	1285
+	AttrRules:	1286
+	AttrRules:	1287
+	AttrRules:	1288
+	AttrRules:	1289
+	AttrRules:	1290
+	AttrRules:	1291
+	AttrRules:	1292
+	AttrRules:	1293
+	AttrRules:	1294
+	AttrRules:	1295
+	AttrRules:	1296
+	AttrRules:	1297
+	AttrRules:	1298
+	AttrRules:	1299
+	AttrRules:	1300
+	AttrRules:	1301
+	AttrRules:	1302
+	AttrRules:	1303
+	AttrRules:	1304
+	AttrRules:	1305
+	AttrRules:	1306
+	AttrRules:	1307
+	AttrRules:	1308
+	AttrRules:	1309
+	AttrRules:	1310
+	AttrRules:	1311
+	AttrRules:	1312
+	AttrRules:	1313
+	AttrRules:	1314
+	AttrRules:	1315
+	AttrRules:	1316
+	AttrRules:	1317
+	AttrRules:	1318
+	AttrRules:	1319
+	AttrRules:	1320
+	AttrRules:	1321
+	AttrRules:	1322
+	AttrRules:	1323
+	AttrRules:	1324
+	AttrRules:	1325
+	AttrRules:	1326
+	AttrRules:	1327
+	AttrRules:	1328
+	AttrRules:	1329
+	AttrRules:	1330
+	SnapTolCursor:	1
+)
+
+(ShpSrc.949
+	Name:	950
+	FTab:	952
+)
+
+(SrcName.950
+	FileName:	951
+	Name:	"states.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.951
+	Path:	"c:/esri/esridata/usa/states.shp"
+)
+
+(FTab.952
+	Name:	"states.dbf"
+	BTab:	953
+	Fields:	1006
+	Fields:	954
+	Fields:	955
+	Fields:	956
+	Fields:	957
+	Fields:	958
+	Fields:	959
+	Fields:	960
+	Fields:	961
+	Fields:	962
+	Fields:	963
+	Fields:	964
+	Fields:	965
+	Fields:	966
+	Fields:	967
+	Fields:	968
+	Fields:	969
+	Fields:	970
+	Fields:	971
+	Fields:	972
+	Fields:	973
+	Fields:	974
+	Fields:	975
+	Fields:	976
+	Fields:	977
+	Fields:	978
+	Fields:	979
+	Fields:	980
+	Fields:	981
+	Fields:	982
+	Fields:	983
+	Fields:	984
+	Fields:	985
+	Fields:	986
+	Fields:	987
+	Fields:	988
+	Fields:	989
+	Fields:	990
+	Fields:	991
+	Fields:	992
+	Fields:	993
+	Fields:	994
+	Fields:	995
+	Fields:	996
+	Fields:	997
+	Fields:	998
+	Fields:	999
+	Fields:	1000
+	Fields:	1001
+	Fields:	1002
+	Fields:	1003
+	Fields:	1004
+	SelBits:	1007
+	FSrc:	949
+)
+
+(dBASE.953
+	Name:	"states.dbf"
+	Fields:	954
+	Fields:	955
+	Fields:	956
+	Fields:	957
+	Fields:	958
+	Fields:	959
+	Fields:	960
+	Fields:	961
+	Fields:	962
+	Fields:	963
+	Fields:	964
+	Fields:	965
+	Fields:	966
+	Fields:	967
+	Fields:	968
+	Fields:	969
+	Fields:	970
+	Fields:	971
+	Fields:	972
+	Fields:	973
+	Fields:	974
+	Fields:	975
+	Fields:	976
+	Fields:	977
+	Fields:	978
+	Fields:	979
+	Fields:	980
+	Fields:	981
+	Fields:	982
+	Fields:	983
+	Fields:	984
+	Fields:	985
+	Fields:	986
+	Fields:	987
+	Fields:	988
+	Fields:	989
+	Fields:	990
+	Fields:	991
+	Fields:	992
+	Fields:	993
+	Fields:	994
+	Fields:	995
+	Fields:	996
+	Fields:	997
+	Fields:	998
+	Fields:	999
+	Fields:	1000
+	Fields:	1001
+	Fields:	1002
+	Fields:	1003
+	Fields:	1004
+	FileName:	1005
+)
+
+(Field.954
+	Name:	"Area"
+	Btab:	953
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.955
+	Name:	"State_name"
+	Btab:	953
+	Alias:	"State_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.956
+	Name:	"State_fips"
+	Btab:	953
+	Alias:	"State_fips"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.957
+	Name:	"Sub_region"
+	Btab:	953
+	Alias:	"Sub_region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.958
+	Name:	"State_abbr"
+	Btab:	953
+	Alias:	"State_abbr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+)
+
+(Field.959
+	Name:	"Pop1990"
+	Btab:	953
+	Alias:	"Pop1990"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.960
+	Name:	"Pop1999"
+	Btab:	953
+	Alias:	"Pop1999"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.961
+	Name:	"Pop90_sqmi"
+	Btab:	953
+	Alias:	"Pop90_sqmi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.962
+	Name:	"Households"
+	Btab:	953
+	Alias:	"Households"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.963
+	Name:	"Males"
+	Btab:	953
+	Alias:	"Males"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.964
+	Name:	"Females"
+	Btab:	953
+	Alias:	"Females"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.965
+	Name:	"White"
+	Btab:	953
+	Alias:	"White"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.966
+	Name:	"Black"
+	Btab:	953
+	Alias:	"Black"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.967
+	Name:	"Ameri_es"
+	Btab:	953
+	Alias:	"Ameri_es"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.968
+	Name:	"Asian_pi"
+	Btab:	953
+	Alias:	"Asian_pi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.969
+	Name:	"Other"
+	Btab:	953
+	Alias:	"Other"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.970
+	Name:	"Hispanic"
+	Btab:	953
+	Alias:	"Hispanic"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.971
+	Name:	"Age_under5"
+	Btab:	953
+	Alias:	"Age_under5"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.972
+	Name:	"Age_5_17"
+	Btab:	953
+	Alias:	"Age_5_17"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.973
+	Name:	"Age_18_29"
+	Btab:	953
+	Alias:	"Age_18_29"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.974
+	Name:	"Age_30_49"
+	Btab:	953
+	Alias:	"Age_30_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.975
+	Name:	"Age_50_64"
+	Btab:	953
+	Alias:	"Age_50_64"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.976
+	Name:	"Age_65_up"
+	Btab:	953
+	Alias:	"Age_65_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.977
+	Name:	"Nevermarry"
+	Btab:	953
+	Alias:	"Nevermarry"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.978
+	Name:	"Married"
+	Btab:	953
+	Alias:	"Married"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.979
+	Name:	"Separated"
+	Btab:	953
+	Alias:	"Separated"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.980
+	Name:	"Widowed"
+	Btab:	953
+	Alias:	"Widowed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.981
+	Name:	"Divorced"
+	Btab:	953
+	Alias:	"Divorced"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.982
+	Name:	"Hsehld_1_m"
+	Btab:	953
+	Alias:	"Hsehld_1_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.983
+	Name:	"Hsehld_1_f"
+	Btab:	953
+	Alias:	"Hsehld_1_f"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.984
+	Name:	"Marhh_chd"
+	Btab:	953
+	Alias:	"Marhh_chd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.985
+	Name:	"Marhh_no_c"
+	Btab:	953
+	Alias:	"Marhh_no_c"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.986
+	Name:	"Mhh_child"
+	Btab:	953
+	Alias:	"Mhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.987
+	Name:	"Fhh_child"
+	Btab:	953
+	Alias:	"Fhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.988
+	Name:	"Hse_units"
+	Btab:	953
+	Alias:	"Hse_units"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.989
+	Name:	"Vacant"
+	Btab:	953
+	Alias:	"Vacant"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.990
+	Name:	"Owner_occ"
+	Btab:	953
+	Alias:	"Owner_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.991
+	Name:	"Renter_occ"
+	Btab:	953
+	Alias:	"Renter_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.992
+	Name:	"Median_val"
+	Btab:	953
+	Alias:	"Median_val"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.993
+	Name:	"Medianrent"
+	Btab:	953
+	Alias:	"Medianrent"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.994
+	Name:	"Units_1det"
+	Btab:	953
+	Alias:	"Units_1det"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.995
+	Name:	"Units_1att"
+	Btab:	953
+	Alias:	"Units_1att"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.996
+	Name:	"Units2"
+	Btab:	953
+	Alias:	"Units2"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.997
+	Name:	"Units3_9"
+	Btab:	953
+	Alias:	"Units3_9"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.998
+	Name:	"Units10_49"
+	Btab:	953
+	Alias:	"Units10_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.999
+	Name:	"Units50_up"
+	Btab:	953
+	Alias:	"Units50_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1000
+	Name:	"Mobilehome"
+	Btab:	953
+	Alias:	"Mobilehome"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1001
+	Name:	"No_farms87"
+	Btab:	953
+	Alias:	"No_farms87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1002
+	Name:	"Avg_size87"
+	Btab:	953
+	Alias:	"Avg_size87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1003
+	Name:	"Crop_acr87"
+	Btab:	953
+	Alias:	"Crop_acr87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(Field.1004
+	Name:	"Avg_sale87"
+	Btab:	953
+	Alias:	"Avg_sale87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+)
+
+(FN.1005
+	Path:	"c:/esri/esridata/usa/states.dbf"
+)
+
+(Field.1006
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+)
+
+(Bitmap.1007
+	NumBits:	51
+	NumBitsSet:	3
+	Bits:	000c2000 00000000 
+)
+
+(Legend.1008
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	1009
+	Symbols:	1010
+	Class:	1219
+	Class:	1220
+	Class:	1221
+	Class:	1222
+	Class:	1223
+	Class:	1224
+	Class:	1225
+	Class:	1226
+	Class:	1227
+	Class:	1228
+	Class:	1229
+	Class:	1230
+	Class:	1231
+	Class:	1232
+	Class:	1233
+	Class:	1234
+	Class:	1235
+	Class:	1236
+	Class:	1237
+	Class:	1238
+	Class:	1239
+	Class:	1240
+	Class:	1241
+	Class:	1242
+	Class:	1243
+	Class:	1244
+	Class:	1245
+	Class:	1246
+	Class:	1247
+	Class:	1248
+	Class:	1249
+	Class:	1250
+	Class:	1251
+	Class:	1252
+	Class:	1253
+	Class:	1254
+	Class:	1255
+	Class:	1256
+	Class:	1257
+	Class:	1258
+	Class:	1259
+	Class:	1260
+	Class:	1261
+	Class:	1262
+	Class:	1263
+	Class:	1264
+	Class:	1265
+	Class:	1266
+	Class:	1267
+	Class:	1268
+	Class:	1269
+	Class:	1270
+	StdDevs:	1.00000000000000
+	NullSym:	1271
+	NullValues:	1275
+	StatValues:	1276
+	Precision:	-3
+)
+
+(AVStr.1009
+	S:	"State_name"
+)
+
+(SymList.1010
+	Child:	1011
+	Child:	1015
+	Child:	1019
+	Child:	1023
+	Child:	1027
+	Child:	1031
+	Child:	1035
+	Child:	1039
+	Child:	1043
+	Child:	1047
+	Child:	1051
+	Child:	1055
+	Child:	1059
+	Child:	1063
+	Child:	1067
+	Child:	1071
+	Child:	1075
+	Child:	1079
+	Child:	1083
+	Child:	1087
+	Child:	1091
+	Child:	1095
+	Child:	1099
+	Child:	1103
+	Child:	1107
+	Child:	1111
+	Child:	1115
+	Child:	1119
+	Child:	1123
+	Child:	1127
+	Child:	1131
+	Child:	1135
+	Child:	1139
+	Child:	1143
+	Child:	1147
+	Child:	1151
+	Child:	1155
+	Child:	1159
+	Child:	1163
+	Child:	1167
+	Child:	1171
+	Child:	1175
+	Child:	1179
+	Child:	1183
+	Child:	1187
+	Child:	1191
+	Child:	1195
+	Child:	1199
+	Child:	1203
+	Child:	1207
+	Child:	1211
+	Child:	1215
+)
+
+(BShSym.1011
+	Color:	1012
+	Outline:	1
+	OutlineColor:	1013
+	OutlineWidth:	0.10000000000000
+	BgColor:	1014
+)
+
+(TClr.1012
+	Red:	0xc0ff
+	Green:	0x6538
+	Blue:	0x4920
+)
+
+(TClr.1013
+)
+
+(TClr.1014
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1015
+	Color:	1016
+	Outline:	1
+	OutlineColor:	1017
+	OutlineWidth:	0.10000000000000
+	BgColor:	1018
+)
+
+(TClr.1016
+	Red:	0xffff
+	Green:	0xd7d7
+)
+
+(TClr.1017
+)
+
+(TClr.1018
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1019
+	Color:	1020
+	Outline:	1
+	OutlineColor:	1021
+	OutlineWidth:	0.10000000000000
+	BgColor:	1022
+)
+
+(TClr.1020
+	Red:	0xbdbd
+	Green:	0xb7b7
+	Blue:	0x6b6b
+)
+
+(TClr.1021
+)
+
+(TClr.1022
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1023
+	Color:	1024
+	Outline:	1
+	OutlineColor:	1025
+	OutlineWidth:	0.10000000000000
+	BgColor:	1026
+)
+
+(TClr.1024
+	Red:	0xf7ff
+	Green:	0xb575
+	Blue:	0x67a7
+)
+
+(TClr.1025
+)
+
+(TClr.1026
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1027
+	Color:	1028
+	Outline:	1
+	OutlineColor:	1029
+	OutlineWidth:	0.10000000000000
+	BgColor:	1030
+)
+
+(TClr.1028
+	Red:	0xceff
+	Green:	0xc355
+	Blue:	0x9596
+)
+
+(TClr.1029
+)
+
+(TClr.1030
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1031
+	Color:	1032
+	Outline:	1
+	OutlineColor:	1033
+	OutlineWidth:	0.10000000000000
+	BgColor:	1034
+)
+
+(TClr.1032
+	Red:	0xcdcd
+	Green:	0x9b9b
+	Blue:	0x1d1d
+)
+
+(TClr.1033
+)
+
+(TClr.1034
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1035
+	Color:	1036
+	Outline:	1
+	OutlineColor:	1037
+	OutlineWidth:	0.10000000000000
+	BgColor:	1038
+)
+
+(TClr.1036
+	Red:	0xf0f0
+	Green:	0xe6e6
+	Blue:	0x8c8c
+)
+
+(TClr.1037
+)
+
+(TClr.1038
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1039
+	Color:	1040
+	Outline:	1
+	OutlineColor:	1041
+	OutlineWidth:	0.10000000000000
+	BgColor:	1042
+)
+
+(TClr.1040
+	Red:	0xa7b2
+	Green:	0xafff
+	Blue:	0x5e2f
+)
+
+(TClr.1041
+)
+
+(TClr.1042
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1043
+	Color:	1044
+	Outline:	1
+	OutlineColor:	1045
+	OutlineWidth:	0.10000000000000
+	BgColor:	1046
+)
+
+(TClr.1044
+	Red:	0xc0ff
+	Green:	0x90b1
+	Blue:	0x5834
+)
+
+(TClr.1045
+)
+
+(TClr.1046
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1047
+	Color:	1048
+	Outline:	1
+	OutlineColor:	1049
+	OutlineWidth:	0.10000000000000
+	BgColor:	1050
+)
+
+(TClr.1048
+	Red:	0x8b8b
+	Green:	0x4545
+	Blue:	0x1313
+)
+
+(TClr.1049
+)
+
+(TClr.1050
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1051
+	Color:	1052
+	Outline:	1
+	OutlineColor:	1053
+	OutlineWidth:	0.10000000000000
+	BgColor:	1054
+)
+
+(TClr.1052
+	Red:	0xacff
+	Green:	0x9619
+	Blue:	0xac
+)
+
+(TClr.1053
+)
+
+(TClr.1054
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1055
+	Color:	1056
+	Outline:	1
+	OutlineColor:	1057
+	OutlineWidth:	0.10000000000000
+	BgColor:	1058
+)
+
+(TClr.1056
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x6969
+)
+
+(TClr.1057
+)
+
+(TClr.1058
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1059
+	Color:	1060
+	Outline:	1
+	OutlineColor:	1061
+	OutlineWidth:	0.10000000000000
+	BgColor:	1062
+)
+
+(TClr.1060
+	Red:	0x8b8b
+	Green:	0x6969
+	Blue:	0x1414
+)
+
+(TClr.1061
+)
+
+(TClr.1062
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1063
+	Color:	1064
+	Outline:	1
+	OutlineColor:	1065
+	OutlineWidth:	0.10000000000000
+	BgColor:	1066
+)
+
+(TClr.1064
+	Red:	0x8b8b
+	Green:	0x8b8b
+)
+
+(TClr.1065
+)
+
+(TClr.1066
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1067
+	Color:	1068
+	Outline:	1
+	OutlineColor:	1069
+	OutlineWidth:	0.10000000000000
+	BgColor:	1070
+)
+
+(TClr.1068
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.1069
+)
+
+(TClr.1070
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1071
+	Color:	1072
+	Outline:	1
+	OutlineColor:	1073
+	OutlineWidth:	0.10000000000000
+	BgColor:	1074
+)
+
+(TClr.1072
+	Red:	0xbdff
+	Green:	0xb04a
+	Blue:	0x56d5
+)
+
+(TClr.1073
+)
+
+(TClr.1074
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1075
+	Color:	1076
+	Outline:	1
+	OutlineColor:	1077
+	OutlineWidth:	0.10000000000000
+	BgColor:	1078
+)
+
+(TClr.1076
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.1077
+)
+
+(TClr.1078
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1079
+	Color:	1080
+	Outline:	1
+	OutlineColor:	1081
+	OutlineWidth:	0.10000000000000
+	BgColor:	1082
+)
+
+(TClr.1080
+	Red:	0xfeff
+	Green:	0xea26
+	Blue:	0xc638
+)
+
+(TClr.1081
+)
+
+(TClr.1082
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1083
+	Color:	1084
+	Outline:	1
+	OutlineColor:	1085
+	OutlineWidth:	0.10000000000000
+	BgColor:	1086
+)
+
+(TClr.1084
+	Red:	0xffff
+	Green:	0xc7c7
+	Blue:	0xaeae
+)
+
+(TClr.1085
+)
+
+(TClr.1086
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1087
+	Color:	1088
+	Outline:	1
+	OutlineColor:	1089
+	OutlineWidth:	0.10000000000000
+	BgColor:	1090
+)
+
+(TClr.1088
+	Red:	0xa600
+	Green:	0xb600
+	Blue:	0x5500
+)
+
+(TClr.1089
+)
+
+(TClr.1090
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1091
+	Color:	1092
+	Outline:	1
+	OutlineColor:	1093
+	OutlineWidth:	0.10000000000000
+	BgColor:	1094
+)
+
+(TClr.1092
+	Red:	0xdb00
+	Green:	0x6700
+)
+
+(TClr.1093
+)
+
+(TClr.1094
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1095
+	Color:	1096
+	Outline:	1
+	OutlineColor:	1097
+	OutlineWidth:	0.10000000000000
+	BgColor:	1098
+)
+
+(TClr.1096
+	Red:	0xe500
+	Green:	0xa100
+)
+
+(TClr.1097
+)
+
+(TClr.1098
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1099
+	Color:	1100
+	Outline:	1
+	OutlineColor:	1101
+	OutlineWidth:	0.10000000000000
+	BgColor:	1102
+)
+
+(TClr.1100
+	Red:	0xf700
+	Green:	0xd300
+	Blue:	0xb300
+)
+
+(TClr.1101
+)
+
+(TClr.1102
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1103
+	Color:	1104
+	Outline:	1
+	OutlineColor:	1105
+	OutlineWidth:	0.10000000000000
+	BgColor:	1106
+)
+
+(TClr.1104
+	Red:	0x7300
+	Green:	0x8300
+	Blue:	0x2500
+)
+
+(TClr.1105
+)
+
+(TClr.1106
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1107
+	Color:	1108
+	Outline:	1
+	OutlineColor:	1109
+	OutlineWidth:	0.10000000000000
+	BgColor:	1110
+)
+
+(TClr.1108
+	Red:	0xb100
+	Green:	0xba00
+	Blue:	0x8400
+)
+
+(TClr.1109
+)
+
+(TClr.1110
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1111
+	Color:	1112
+	Outline:	1
+	OutlineColor:	1113
+	OutlineWidth:	0.10000000000000
+	BgColor:	1114
+)
+
+(TClr.1112
+	Red:	0xc0ff
+	Green:	0x6538
+	Blue:	0x4920
+)
+
+(TClr.1113
+)
+
+(TClr.1114
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1115
+	Color:	1116
+	Outline:	1
+	OutlineColor:	1117
+	OutlineWidth:	0.10000000000000
+	BgColor:	1118
+)
+
+(TClr.1116
+	Red:	0xffff
+	Green:	0xd7d7
+)
+
+(TClr.1117
+)
+
+(TClr.1118
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1119
+	Color:	1120
+	Outline:	1
+	OutlineColor:	1121
+	OutlineWidth:	0.10000000000000
+	BgColor:	1122
+)
+
+(TClr.1120
+	Red:	0xbdbd
+	Green:	0xb7b7
+	Blue:	0x6b6b
+)
+
+(TClr.1121
+)
+
+(TClr.1122
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1123
+	Color:	1124
+	Outline:	1
+	OutlineColor:	1125
+	OutlineWidth:	0.10000000000000
+	BgColor:	1126
+)
+
+(TClr.1124
+	Red:	0xf7ff
+	Green:	0xb575
+	Blue:	0x67a7
+)
+
+(TClr.1125
+)
+
+(TClr.1126
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1127
+	Color:	1128
+	Outline:	1
+	OutlineColor:	1129
+	OutlineWidth:	0.10000000000000
+	BgColor:	1130
+)
+
+(TClr.1128
+	Red:	0xceff
+	Green:	0xc355
+	Blue:	0x9596
+)
+
+(TClr.1129
+)
+
+(TClr.1130
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1131
+	Color:	1132
+	Outline:	1
+	OutlineColor:	1133
+	OutlineWidth:	0.10000000000000
+	BgColor:	1134
+)
+
+(TClr.1132
+	Red:	0xcdcd
+	Green:	0x9b9b
+	Blue:	0x1d1d
+)
+
+(TClr.1133
+)
+
+(TClr.1134
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1135
+	Color:	1136
+	Outline:	1
+	OutlineColor:	1137
+	OutlineWidth:	0.10000000000000
+	BgColor:	1138
+)
+
+(TClr.1136
+	Red:	0xf0f0
+	Green:	0xe6e6
+	Blue:	0x8c8c
+)
+
+(TClr.1137
+)
+
+(TClr.1138
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1139
+	Color:	1140
+	Outline:	1
+	OutlineColor:	1141
+	OutlineWidth:	0.10000000000000
+	BgColor:	1142
+)
+
+(TClr.1140
+	Red:	0xa7b2
+	Green:	0xafff
+	Blue:	0x5e2f
+)
+
+(TClr.1141
+)
+
+(TClr.1142
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1143
+	Color:	1144
+	Outline:	1
+	OutlineColor:	1145
+	OutlineWidth:	0.10000000000000
+	BgColor:	1146
+)
+
+(TClr.1144
+	Red:	0xc0ff
+	Green:	0x90b1
+	Blue:	0x5834
+)
+
+(TClr.1145
+)
+
+(TClr.1146
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1147
+	Color:	1148
+	Outline:	1
+	OutlineColor:	1149
+	OutlineWidth:	0.10000000000000
+	BgColor:	1150
+)
+
+(TClr.1148
+	Red:	0x8b8b
+	Green:	0x4545
+	Blue:	0x1313
+)
+
+(TClr.1149
+)
+
+(TClr.1150
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1151
+	Color:	1152
+	Outline:	1
+	OutlineColor:	1153
+	OutlineWidth:	0.10000000000000
+	BgColor:	1154
+)
+
+(TClr.1152
+	Red:	0xacff
+	Green:	0x9619
+	Blue:	0xac
+)
+
+(TClr.1153
+)
+
+(TClr.1154
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1155
+	Color:	1156
+	Outline:	1
+	OutlineColor:	1157
+	OutlineWidth:	0.10000000000000
+	BgColor:	1158
+)
+
+(TClr.1156
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x6969
+)
+
+(TClr.1157
+)
+
+(TClr.1158
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1159
+	Color:	1160
+	Outline:	1
+	OutlineColor:	1161
+	OutlineWidth:	0.10000000000000
+	BgColor:	1162
+)
+
+(TClr.1160
+	Red:	0x8b8b
+	Green:	0x6969
+	Blue:	0x1414
+)
+
+(TClr.1161
+)
+
+(TClr.1162
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1163
+	Color:	1164
+	Outline:	1
+	OutlineColor:	1165
+	OutlineWidth:	0.10000000000000
+	BgColor:	1166
+)
+
+(TClr.1164
+	Red:	0x8b8b
+	Green:	0x8b8b
+)
+
+(TClr.1165
+)
+
+(TClr.1166
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1167
+	Color:	1168
+	Outline:	1
+	OutlineColor:	1169
+	OutlineWidth:	0.10000000000000
+	BgColor:	1170
+)
+
+(TClr.1168
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.1169
+)
+
+(TClr.1170
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1171
+	Color:	1172
+	Outline:	1
+	OutlineColor:	1173
+	OutlineWidth:	0.10000000000000
+	BgColor:	1174
+)
+
+(TClr.1172
+	Red:	0xbdff
+	Green:	0xb04a
+	Blue:	0x56d5
+)
+
+(TClr.1173
+)
+
+(TClr.1174
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1175
+	Color:	1176
+	Outline:	1
+	OutlineColor:	1177
+	OutlineWidth:	0.10000000000000
+	BgColor:	1178
+)
+
+(TClr.1176
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.1177
+)
+
+(TClr.1178
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1179
+	Color:	1180
+	Outline:	1
+	OutlineColor:	1181
+	OutlineWidth:	0.10000000000000
+	BgColor:	1182
+)
+
+(TClr.1180
+	Red:	0xfeff
+	Green:	0xea26
+	Blue:	0xc638
+)
+
+(TClr.1181
+)
+
+(TClr.1182
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1183
+	Color:	1184
+	Outline:	1
+	OutlineColor:	1185
+	OutlineWidth:	0.10000000000000
+	BgColor:	1186
+)
+
+(TClr.1184
+	Red:	0xffff
+	Green:	0xc7c7
+	Blue:	0xaeae
+)
+
+(TClr.1185
+)
+
+(TClr.1186
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1187
+	Color:	1188
+	Outline:	1
+	OutlineColor:	1189
+	OutlineWidth:	0.10000000000000
+	BgColor:	1190
+)
+
+(TClr.1188
+	Red:	0xa600
+	Green:	0xb600
+	Blue:	0x5500
+)
+
+(TClr.1189
+)
+
+(TClr.1190
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1191
+	Color:	1192
+	Outline:	1
+	OutlineColor:	1193
+	OutlineWidth:	0.10000000000000
+	BgColor:	1194
+)
+
+(TClr.1192
+	Red:	0xdb00
+	Green:	0x6700
+)
+
+(TClr.1193
+)
+
+(TClr.1194
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1195
+	Color:	1196
+	Outline:	1
+	OutlineColor:	1197
+	OutlineWidth:	0.10000000000000
+	BgColor:	1198
+)
+
+(TClr.1196
+	Red:	0xe500
+	Green:	0xa100
+)
+
+(TClr.1197
+)
+
+(TClr.1198
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1199
+	Color:	1200
+	Outline:	1
+	OutlineColor:	1201
+	OutlineWidth:	0.10000000000000
+	BgColor:	1202
+)
+
+(TClr.1200
+	Red:	0xf700
+	Green:	0xd300
+	Blue:	0xb300
+)
+
+(TClr.1201
+)
+
+(TClr.1202
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1203
+	Color:	1204
+	Outline:	1
+	OutlineColor:	1205
+	OutlineWidth:	0.10000000000000
+	BgColor:	1206
+)
+
+(TClr.1204
+	Red:	0x7300
+	Green:	0x8300
+	Blue:	0x2500
+)
+
+(TClr.1205
+)
+
+(TClr.1206
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1207
+	Color:	1208
+	Outline:	1
+	OutlineColor:	1209
+	OutlineWidth:	0.10000000000000
+	BgColor:	1210
+)
+
+(TClr.1208
+	Red:	0xb100
+	Green:	0xba00
+	Blue:	0x8400
+)
+
+(TClr.1209
+)
+
+(TClr.1210
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1211
+	Color:	1212
+	Outline:	1
+	OutlineColor:	1213
+	OutlineWidth:	0.10000000000000
+	BgColor:	1214
+)
+
+(TClr.1212
+	Red:	0xc0ff
+	Green:	0x6538
+	Blue:	0x4920
+)
+
+(TClr.1213
+)
+
+(TClr.1214
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.1215
+	Color:	1216
+	Outline:	1
+	OutlineColor:	1217
+	OutlineWidth:	0.10000000000000
+	BgColor:	1218
+)
+
+(TClr.1216
+	Name:	"Transparent"
+)
+
+(TClr.1217
+	Name:	"Transparent"
+)
+
+(TClr.1218
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.1219
+	IsText:	1
+	Label:	"Alabama"
+	MinStr:	"Alabama"
+	MaxStr:	"Alabama"
+	Precision:	-3
+)
+
+(LClass.1220
+	IsText:	1
+	Label:	"Alaska"
+	MinStr:	"Alaska"
+	MaxStr:	"Alaska"
+	Precision:	-3
+)
+
+(LClass.1221
+	IsText:	1
+	Label:	"Arizona"
+	MinStr:	"Arizona"
+	MaxStr:	"Arizona"
+	Precision:	-3
+)
+
+(LClass.1222
+	IsText:	1
+	Label:	"Arkansas"
+	MinStr:	"Arkansas"
+	MaxStr:	"Arkansas"
+	Precision:	-3
+)
+
+(LClass.1223
+	IsText:	1
+	Label:	"California"
+	MinStr:	"California"
+	MaxStr:	"California"
+	Precision:	-3
+)
+
+(LClass.1224
+	IsText:	1
+	Label:	"Colorado"
+	MinStr:	"Colorado"
+	MaxStr:	"Colorado"
+	Precision:	-3
+)
+
+(LClass.1225
+	IsText:	1
+	Label:	"Connecticut"
+	MinStr:	"Connecticut"
+	MaxStr:	"Connecticut"
+	Precision:	-3
+)
+
+(LClass.1226
+	IsText:	1
+	Label:	"Delaware"
+	MinStr:	"Delaware"
+	MaxStr:	"Delaware"
+	Precision:	-3
+)
+
+(LClass.1227
+	IsText:	1
+	Label:	"District of Columbia"
+	MinStr:	"District of Columbia"
+	MaxStr:	"District of Columbia"
+	Precision:	-3
+)
+
+(LClass.1228
+	IsText:	1
+	Label:	"Florida"
+	MinStr:	"Florida"
+	MaxStr:	"Florida"
+	Precision:	-3
+)
+
+(LClass.1229
+	IsText:	1
+	Label:	"Georgia"
+	MinStr:	"Georgia"
+	MaxStr:	"Georgia"
+	Precision:	-3
+)
+
+(LClass.1230
+	IsText:	1
+	Label:	"Hawaii"
+	MinStr:	"Hawaii"
+	MaxStr:	"Hawaii"
+	Precision:	-3
+)
+
+(LClass.1231
+	IsText:	1
+	Label:	"Idaho"
+	MinStr:	"Idaho"
+	MaxStr:	"Idaho"
+	Precision:	-3
+)
+
+(LClass.1232
+	IsText:	1
+	Label:	"Illinois"
+	MinStr:	"Illinois"
+	MaxStr:	"Illinois"
+	Precision:	-3
+)
+
+(LClass.1233
+	IsText:	1
+	Label:	"Indiana"
+	MinStr:	"Indiana"
+	MaxStr:	"Indiana"
+	Precision:	-3
+)
+
+(LClass.1234
+	IsText:	1
+	Label:	"Iowa"
+	MinStr:	"Iowa"
+	MaxStr:	"Iowa"
+	Precision:	-3
+)
+
+(LClass.1235
+	IsText:	1
+	Label:	"Kansas"
+	MinStr:	"Kansas"
+	MaxStr:	"Kansas"
+	Precision:	-3
+)
+
+(LClass.1236
+	IsText:	1
+	Label:	"Kentucky"
+	MinStr:	"Kentucky"
+	MaxStr:	"Kentucky"
+	Precision:	-3
+)
+
+(LClass.1237
+	IsText:	1
+	Label:	"Louisiana"
+	MinStr:	"Louisiana"
+	MaxStr:	"Louisiana"
+	Precision:	-3
+)
+
+(LClass.1238
+	IsText:	1
+	Label:	"Maine"
+	MinStr:	"Maine"
+	MaxStr:	"Maine"
+	Precision:	-3
+)
+
+(LClass.1239
+	IsText:	1
+	Label:	"Maryland"
+	MinStr:	"Maryland"
+	MaxStr:	"Maryland"
+	Precision:	-3
+)
+
+(LClass.1240
+	IsText:	1
+	Label:	"Massachusetts"
+	MinStr:	"Massachusetts"
+	MaxStr:	"Massachusetts"
+	Precision:	-3
+)
+
+(LClass.1241
+	IsText:	1
+	Label:	"Michigan"
+	MinStr:	"Michigan"
+	MaxStr:	"Michigan"
+	Precision:	-3
+)
+
+(LClass.1242
+	IsText:	1
+	Label:	"Minnesota"
+	MinStr:	"Minnesota"
+	MaxStr:	"Minnesota"
+	Precision:	-3
+)
+
+(LClass.1243
+	IsText:	1
+	Label:	"Mississippi"
+	MinStr:	"Mississippi"
+	MaxStr:	"Mississippi"
+	Precision:	-3
+)
+
+(LClass.1244
+	IsText:	1
+	Label:	"Missouri"
+	MinStr:	"Missouri"
+	MaxStr:	"Missouri"
+	Precision:	-3
+)
+
+(LClass.1245
+	IsText:	1
+	Label:	"Montana"
+	MinStr:	"Montana"
+	MaxStr:	"Montana"
+	Precision:	-3
+)
+
+(LClass.1246
+	IsText:	1
+	Label:	"Nebraska"
+	MinStr:	"Nebraska"
+	MaxStr:	"Nebraska"
+	Precision:	-3
+)
+
+(LClass.1247
+	IsText:	1
+	Label:	"Nevada"
+	MinStr:	"Nevada"
+	MaxStr:	"Nevada"
+	Precision:	-3
+)
+
+(LClass.1248
+	IsText:	1
+	Label:	"New Hampshire"
+	MinStr:	"New Hampshire"
+	MaxStr:	"New Hampshire"
+	Precision:	-3
+)
+
+(LClass.1249
+	IsText:	1
+	Label:	"New Jersey"
+	MinStr:	"New Jersey"
+	MaxStr:	"New Jersey"
+	Precision:	-3
+)
+
+(LClass.1250
+	IsText:	1
+	Label:	"New Mexico"
+	MinStr:	"New Mexico"
+	MaxStr:	"New Mexico"
+	Precision:	-3
+)
+
+(LClass.1251
+	IsText:	1
+	Label:	"New York"
+	MinStr:	"New York"
+	MaxStr:	"New York"
+	Precision:	-3
+)
+
+(LClass.1252
+	IsText:	1
+	Label:	"North Carolina"
+	MinStr:	"North Carolina"
+	MaxStr:	"North Carolina"
+	Precision:	-3
+)
+
+(LClass.1253
+	IsText:	1
+	Label:	"North Dakota"
+	MinStr:	"North Dakota"
+	MaxStr:	"North Dakota"
+	Precision:	-3
+)
+
+(LClass.1254
+	IsText:	1
+	Label:	"Ohio"
+	MinStr:	"Ohio"
+	MaxStr:	"Ohio"
+	Precision:	-3
+)
+
+(LClass.1255
+	IsText:	1
+	Label:	"Oklahoma"
+	MinStr:	"Oklahoma"
+	MaxStr:	"Oklahoma"
+	Precision:	-3
+)
+
+(LClass.1256
+	IsText:	1
+	Label:	"Oregon"
+	MinStr:	"Oregon"
+	MaxStr:	"Oregon"
+	Precision:	-3
+)
+
+(LClass.1257
+	IsText:	1
+	Label:	"Pennsylvania"
+	MinStr:	"Pennsylvania"
+	MaxStr:	"Pennsylvania"
+	Precision:	-3
+)
+
+(LClass.1258
+	IsText:	1
+	Label:	"Rhode Island"
+	MinStr:	"Rhode Island"
+	MaxStr:	"Rhode Island"
+	Precision:	-3
+)
+
+(LClass.1259
+	IsText:	1
+	Label:	"South Carolina"
+	MinStr:	"South Carolina"
+	MaxStr:	"South Carolina"
+	Precision:	-3
+)
+
+(LClass.1260
+	IsText:	1
+	Label:	"South Dakota"
+	MinStr:	"South Dakota"
+	MaxStr:	"South Dakota"
+	Precision:	-3
+)
+
+(LClass.1261
+	IsText:	1
+	Label:	"Tennessee"
+	MinStr:	"Tennessee"
+	MaxStr:	"Tennessee"
+	Precision:	-3
+)
+
+(LClass.1262
+	IsText:	1
+	Label:	"Texas"
+	MinStr:	"Texas"
+	MaxStr:	"Texas"
+	Precision:	-3
+)
+
+(LClass.1263
+	IsText:	1
+	Label:	"Utah"
+	MinStr:	"Utah"
+	MaxStr:	"Utah"
+	Precision:	-3
+)
+
+(LClass.1264
+	IsText:	1
+	Label:	"Vermont"
+	MinStr:	"Vermont"
+	MaxStr:	"Vermont"
+	Precision:	-3
+)
+
+(LClass.1265
+	IsText:	1
+	Label:	"Virginia"
+	MinStr:	"Virginia"
+	MaxStr:	"Virginia"
+	Precision:	-3
+)
+
+(LClass.1266
+	IsText:	1
+	Label:	"Washington"
+	MinStr:	"Washington"
+	MaxStr:	"Washington"
+	Precision:	-3
+)
+
+(LClass.1267
+	IsText:	1
+	Label:	"West Virginia"
+	MinStr:	"West Virginia"
+	MaxStr:	"West Virginia"
+	Precision:	-3
+)
+
+(LClass.1268
+	IsText:	1
+	Label:	"Wisconsin"
+	MinStr:	"Wisconsin"
+	MaxStr:	"Wisconsin"
+	Precision:	-3
+)
+
+(LClass.1269
+	IsText:	1
+	Label:	"Wyoming"
+	MinStr:	"Wyoming"
+	MaxStr:	"Wyoming"
+	Precision:	-3
+)
+
+(LClass.1270
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.1271
+	Color:	1272
+	Outline:	1
+	OutlineColor:	1273
+	OutlineWidth:	0.10000000000000
+	BgColor:	1274
+)
+
+(TClr.1272
+	Name:	"Transparent"
+)
+
+(TClr.1273
+	Name:	"Transparent"
+)
+
+(TClr.1274
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.1275
+)
+
+(NameDict.1276
+)
+
+(Thresh.1277
+)
+
+(GSet.1278
+)
+
+(TxPosPly.1279
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.1280
+	FTab:	952
+	Field:	954
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.1281
+	FTab:	952
+	Field:	955
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1282
+	FTab:	952
+	Field:	956
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1283
+	FTab:	952
+	Field:	957
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1284
+	FTab:	952
+	Field:	958
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1285
+	FTab:	952
+	Field:	959
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1286
+	FTab:	952
+	Field:	960
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1287
+	FTab:	952
+	Field:	961
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1288
+	FTab:	952
+	Field:	962
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1289
+	FTab:	952
+	Field:	963
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1290
+	FTab:	952
+	Field:	964
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1291
+	FTab:	952
+	Field:	965
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1292
+	FTab:	952
+	Field:	966
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1293
+	FTab:	952
+	Field:	967
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1294
+	FTab:	952
+	Field:	968
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1295
+	FTab:	952
+	Field:	969
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1296
+	FTab:	952
+	Field:	970
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1297
+	FTab:	952
+	Field:	971
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1298
+	FTab:	952
+	Field:	972
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1299
+	FTab:	952
+	Field:	973
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1300
+	FTab:	952
+	Field:	974
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1301
+	FTab:	952
+	Field:	975
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1302
+	FTab:	952
+	Field:	976
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1303
+	FTab:	952
+	Field:	977
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1304
+	FTab:	952
+	Field:	978
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1305
+	FTab:	952
+	Field:	979
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1306
+	FTab:	952
+	Field:	980
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1307
+	FTab:	952
+	Field:	981
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1308
+	FTab:	952
+	Field:	982
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1309
+	FTab:	952
+	Field:	983
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1310
+	FTab:	952
+	Field:	984
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1311
+	FTab:	952
+	Field:	985
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1312
+	FTab:	952
+	Field:	986
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1313
+	FTab:	952
+	Field:	987
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1314
+	FTab:	952
+	Field:	988
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1315
+	FTab:	952
+	Field:	989
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1316
+	FTab:	952
+	Field:	990
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1317
+	FTab:	952
+	Field:	991
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1318
+	FTab:	952
+	Field:	992
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1319
+	FTab:	952
+	Field:	993
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1320
+	FTab:	952
+	Field:	994
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1321
+	FTab:	952
+	Field:	995
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1322
+	FTab:	952
+	Field:	996
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1323
+	FTab:	952
+	Field:	997
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1324
+	FTab:	952
+	Field:	998
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1325
+	FTab:	952
+	Field:	999
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1326
+	FTab:	952
+	Field:	1000
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1327
+	FTab:	952
+	Field:	1001
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1328
+	FTab:	952
+	Field:	1002
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1329
+	FTab:	952
+	Field:	1003
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1330
+	FTab:	952
+	Field:	1004
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(FTheme.1331
+	Name:	"States that do not currently allow river otter harvest"
+	Source:	1332
+	Flags:	0x04
+	Legend:	1391
+	Threshold:	1404
+	View:	413
+	GSet:	1405
+	LegEditScript:	"View.EditLegend"
+	TxPos:	1406
+	LabelField:	1338
+	Table:	1407
+	AttrRules:	1412
+	AttrRules:	1413
+	AttrRules:	1414
+	AttrRules:	1415
+	AttrRules:	1416
+	AttrRules:	1417
+	AttrRules:	1418
+	AttrRules:	1419
+	AttrRules:	1420
+	AttrRules:	1421
+	AttrRules:	1422
+	AttrRules:	1423
+	AttrRules:	1424
+	AttrRules:	1425
+	AttrRules:	1426
+	AttrRules:	1427
+	AttrRules:	1428
+	AttrRules:	1429
+	AttrRules:	1430
+	AttrRules:	1431
+	AttrRules:	1432
+	AttrRules:	1433
+	AttrRules:	1434
+	AttrRules:	1435
+	AttrRules:	1436
+	AttrRules:	1437
+	AttrRules:	1438
+	AttrRules:	1439
+	AttrRules:	1440
+	AttrRules:	1441
+	AttrRules:	1442
+	AttrRules:	1443
+	AttrRules:	1444
+	AttrRules:	1445
+	AttrRules:	1446
+	AttrRules:	1447
+	AttrRules:	1448
+	AttrRules:	1449
+	AttrRules:	1450
+	AttrRules:	1451
+	AttrRules:	1452
+	AttrRules:	1453
+	AttrRules:	1454
+	AttrRules:	1455
+	AttrRules:	1456
+	AttrRules:	1457
+	AttrRules:	1458
+	AttrRules:	1459
+	AttrRules:	1460
+	AttrRules:	1461
+	AttrRules:	1462
+	SnapTolCursor:	1
+)
+
+(ShpSrc.1332
+	Name:	1333
+	FTab:	1335
+)
+
+(SrcName.1333
+	FileName:	1334
+	Name:	"ri and wva.shp"
+	SubName:	"Polygon"
+	OwnerClass:	"ShpSrc"
+)
+
+(FN.1334
+	Path:	"c:/cgis/ri and wva.shp"
+)
+
+(FTab.1335
+	Name:	"ri and wva.dbf"
+	BTab:	1336
+	Fields:	1389
+	Fields:	1337
+	Fields:	1338
+	Fields:	1339
+	Fields:	1340
+	Fields:	1341
+	Fields:	1342
+	Fields:	1343
+	Fields:	1344
+	Fields:	1345
+	Fields:	1346
+	Fields:	1347
+	Fields:	1348
+	Fields:	1349
+	Fields:	1350
+	Fields:	1351
+	Fields:	1352
+	Fields:	1353
+	Fields:	1354
+	Fields:	1355
+	Fields:	1356
+	Fields:	1357
+	Fields:	1358
+	Fields:	1359
+	Fields:	1360
+	Fields:	1361
+	Fields:	1362
+	Fields:	1363
+	Fields:	1364
+	Fields:	1365
+	Fields:	1366
+	Fields:	1367
+	Fields:	1368
+	Fields:	1369
+	Fields:	1370
+	Fields:	1371
+	Fields:	1372
+	Fields:	1373
+	Fields:	1374
+	Fields:	1375
+	Fields:	1376
+	Fields:	1377
+	Fields:	1378
+	Fields:	1379
+	Fields:	1380
+	Fields:	1381
+	Fields:	1382
+	Fields:	1383
+	Fields:	1384
+	Fields:	1385
+	Fields:	1386
+	Fields:	1387
+	SelBits:	1390
+	FSrc:	1332
+)
+
+(dBASE.1336
+	Name:	"ri and wva.dbf"
+	Fields:	1337
+	Fields:	1338
+	Fields:	1339
+	Fields:	1340
+	Fields:	1341
+	Fields:	1342
+	Fields:	1343
+	Fields:	1344
+	Fields:	1345
+	Fields:	1346
+	Fields:	1347
+	Fields:	1348
+	Fields:	1349
+	Fields:	1350
+	Fields:	1351
+	Fields:	1352
+	Fields:	1353
+	Fields:	1354
+	Fields:	1355
+	Fields:	1356
+	Fields:	1357
+	Fields:	1358
+	Fields:	1359
+	Fields:	1360
+	Fields:	1361
+	Fields:	1362
+	Fields:	1363
+	Fields:	1364
+	Fields:	1365
+	Fields:	1366
+	Fields:	1367
+	Fields:	1368
+	Fields:	1369
+	Fields:	1370
+	Fields:	1371
+	Fields:	1372
+	Fields:	1373
+	Fields:	1374
+	Fields:	1375
+	Fields:	1376
+	Fields:	1377
+	Fields:	1378
+	Fields:	1379
+	Fields:	1380
+	Fields:	1381
+	Fields:	1382
+	Fields:	1383
+	Fields:	1384
+	Fields:	1385
+	Fields:	1386
+	Fields:	1387
+	FileName:	1388
+)
+
+(Field.1337
+	Name:	"Area"
+	Btab:	1336
+	Alias:	"Area"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	77
+)
+
+(Field.1338
+	Name:	"State_name"
+	Btab:	1336
+	Alias:	"State_name"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	150
+)
+
+(Field.1339
+	Name:	"State_fips"
+	Btab:	1336
+	Alias:	"State_fips"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	54
+)
+
+(Field.1340
+	Name:	"Sub_region"
+	Btab:	1336
+	Alias:	"Sub_region"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.1341
+	Name:	"State_abbr"
+	Btab:	1336
+	Alias:	"State_abbr"
+	Visible:	1
+	Type:	4
+	Order:	-1
+	Pixels:	58
+)
+
+(Field.1342
+	Name:	"Pop1990"
+	Btab:	1336
+	Alias:	"Pop1990"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.1343
+	Name:	"Pop1999"
+	Btab:	1336
+	Alias:	"Pop1999"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.1344
+	Name:	"Pop90_sqmi"
+	Btab:	1336
+	Alias:	"Pop90_sqmi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.1345
+	Name:	"Households"
+	Btab:	1336
+	Alias:	"Households"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	62
+)
+
+(Field.1346
+	Name:	"Males"
+	Btab:	1336
+	Alias:	"Males"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1347
+	Name:	"Females"
+	Btab:	1336
+	Alias:	"Females"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1348
+	Name:	"White"
+	Btab:	1336
+	Alias:	"White"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1349
+	Name:	"Black"
+	Btab:	1336
+	Alias:	"Black"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1350
+	Name:	"Ameri_es"
+	Btab:	1336
+	Alias:	"Ameri_es"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	51
+)
+
+(Field.1351
+	Name:	"Asian_pi"
+	Btab:	1336
+	Alias:	"Asian_pi"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1352
+	Name:	"Other"
+	Btab:	1336
+	Alias:	"Other"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1353
+	Name:	"Hispanic"
+	Btab:	1336
+	Alias:	"Hispanic"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1354
+	Name:	"Age_under5"
+	Btab:	1336
+	Alias:	"Age_under5"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.1355
+	Name:	"Age_5_17"
+	Btab:	1336
+	Alias:	"Age_5_17"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	55
+)
+
+(Field.1356
+	Name:	"Age_18_29"
+	Btab:	1336
+	Alias:	"Age_18_29"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.1357
+	Name:	"Age_30_49"
+	Btab:	1336
+	Alias:	"Age_30_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.1358
+	Name:	"Age_50_64"
+	Btab:	1336
+	Alias:	"Age_50_64"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.1359
+	Name:	"Age_65_up"
+	Btab:	1336
+	Alias:	"Age_65_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.1360
+	Name:	"Nevermarry"
+	Btab:	1336
+	Alias:	"Nevermarry"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	62
+)
+
+(Field.1361
+	Name:	"Married"
+	Btab:	1336
+	Alias:	"Married"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1362
+	Name:	"Separated"
+	Btab:	1336
+	Alias:	"Separated"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	55
+)
+
+(Field.1363
+	Name:	"Widowed"
+	Btab:	1336
+	Alias:	"Widowed"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1364
+	Name:	"Divorced"
+	Btab:	1336
+	Alias:	"Divorced"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1365
+	Name:	"Hsehld_1_m"
+	Btab:	1336
+	Alias:	"Hsehld_1_m"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	64
+)
+
+(Field.1366
+	Name:	"Hsehld_1_f"
+	Btab:	1336
+	Alias:	"Hsehld_1_f"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	60
+)
+
+(Field.1367
+	Name:	"Marhh_chd"
+	Btab:	1336
+	Alias:	"Marhh_chd"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1368
+	Name:	"Marhh_no_c"
+	Btab:	1336
+	Alias:	"Marhh_no_c"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	65
+)
+
+(Field.1369
+	Name:	"Mhh_child"
+	Btab:	1336
+	Alias:	"Mhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1370
+	Name:	"Fhh_child"
+	Btab:	1336
+	Alias:	"Fhh_child"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	51
+)
+
+(Field.1371
+	Name:	"Hse_units"
+	Btab:	1336
+	Alias:	"Hse_units"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1372
+	Name:	"Vacant"
+	Btab:	1336
+	Alias:	"Vacant"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	47
+)
+
+(Field.1373
+	Name:	"Owner_occ"
+	Btab:	1336
+	Alias:	"Owner_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.1374
+	Name:	"Renter_occ"
+	Btab:	1336
+	Alias:	"Renter_occ"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.1375
+	Name:	"Median_val"
+	Btab:	1336
+	Alias:	"Median_val"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1376
+	Name:	"Medianrent"
+	Btab:	1336
+	Alias:	"Medianrent"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	58
+)
+
+(Field.1377
+	Name:	"Units_1det"
+	Btab:	1336
+	Alias:	"Units_1det"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	56
+)
+
+(Field.1378
+	Name:	"Units_1att"
+	Btab:	1336
+	Alias:	"Units_1att"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1379
+	Name:	"Units2"
+	Btab:	1336
+	Alias:	"Units2"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	47
+)
+
+(Field.1380
+	Name:	"Units3_9"
+	Btab:	1336
+	Alias:	"Units3_9"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	53
+)
+
+(Field.1381
+	Name:	"Units10_49"
+	Btab:	1336
+	Alias:	"Units10_49"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1382
+	Name:	"Units50_up"
+	Btab:	1336
+	Alias:	"Units50_up"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	59
+)
+
+(Field.1383
+	Name:	"Mobilehome"
+	Btab:	1336
+	Alias:	"Mobilehome"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	61
+)
+
+(Field.1384
+	Name:	"No_farms87"
+	Btab:	1336
+	Alias:	"No_farms87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	64
+)
+
+(Field.1385
+	Name:	"Avg_size87"
+	Btab:	1336
+	Alias:	"Avg_size87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	63
+)
+
+(Field.1386
+	Name:	"Crop_acr87"
+	Btab:	1336
+	Alias:	"Crop_acr87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	62
+)
+
+(Field.1387
+	Name:	"Avg_sale87"
+	Btab:	1336
+	Alias:	"Avg_sale87"
+	Visible:	1
+	Type:	9
+	Order:	-1
+	Pixels:	63
+)
+
+(FN.1388
+	Path:	"c:/cgis/ri and wva.dbf"
+)
+
+(Field.1389
+	Name:	"Shape"
+	Alias:	"Shape"
+	Visible:	1
+	Type:	19
+	Order:	-1
+	Pixels:	53
+)
+
+(Bitmap.1390
+	NumBits:	2
+	Bits:	00000000 
+)
+
+(Legend.1391
+	SymType:	0x02
+	LegType:	0x01
+	ClassType:	0x03
+	Symbols:	1392
+	Class:	1397
+	StdDevs:	1.00000000000000
+	NullSym:	1398
+	NullValues:	1402
+	StatValues:	1403
+	Precision:	-3
+)
+
+(SymList.1392
+	Child:	1393
+)
+
+(BShSym.1393
+	Color:	1394
+	Outline:	1
+	OutlineColor:	1395
+	OutlineWidth:	0.10000000000000
+	BgColor:	1396
+)
+
+(TClr.1394
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(TClr.1395
+)
+
+(TClr.1396
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.1397
+	IsText:	1
+	Precision:	-3
+)
+
+(BShSym.1398
+	Color:	1399
+	Outline:	1
+	OutlineColor:	1400
+	OutlineWidth:	0.10000000000000
+	BgColor:	1401
+)
+
+(TClr.1399
+	Name:	"Transparent"
+)
+
+(TClr.1400
+	Name:	"Transparent"
+)
+
+(TClr.1401
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.1402
+)
+
+(NameDict.1403
+)
+
+(Thresh.1404
+)
+
+(GSet.1405
+)
+
+(TxPosPly.1406
+	HAlign:	3
+	VAlign:	3
+)
+
+(Table.1407
+	Name:	"Attributes of States that do not currently allow river otter harvest"
+	CreationDate:	"Monday, September 26, 2011 2:45:21 PM"
+	GUIName:	"Table"
+	Win:	1408
+	CSMgr:	1409
+	DocExts:	1411
+	VTab:	1335
+)
+
+(DocWin.1408
+	Owner:	1407
+	X:	20
+	Y:	20
+	W:	365
+	H:	248
+)
+
+(CSMgr.1409
+	Client:	1410
+)
+
+(CSClient.1410
+	Client:	1331
+	ReqName:	"RespondTable"
+)
+
+(DocAct.1411
+	Doc:	1407
+)
+
+(AttrSingle.1412
+	FTab:	1335
+	Field:	1337
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.1413
+	FTab:	1335
+	Field:	1338
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1414
+	FTab:	1335
+	Field:	1339
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1415
+	FTab:	1335
+	Field:	1340
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1416
+	FTab:	1335
+	Field:	1341
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1417
+	FTab:	1335
+	Field:	1342
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1418
+	FTab:	1335
+	Field:	1343
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1419
+	FTab:	1335
+	Field:	1344
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1420
+	FTab:	1335
+	Field:	1345
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1421
+	FTab:	1335
+	Field:	1346
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1422
+	FTab:	1335
+	Field:	1347
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1423
+	FTab:	1335
+	Field:	1348
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1424
+	FTab:	1335
+	Field:	1349
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1425
+	FTab:	1335
+	Field:	1350
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1426
+	FTab:	1335
+	Field:	1351
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1427
+	FTab:	1335
+	Field:	1352
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1428
+	FTab:	1335
+	Field:	1353
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1429
+	FTab:	1335
+	Field:	1354
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1430
+	FTab:	1335
+	Field:	1355
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1431
+	FTab:	1335
+	Field:	1356
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1432
+	FTab:	1335
+	Field:	1357
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1433
+	FTab:	1335
+	Field:	1358
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1434
+	FTab:	1335
+	Field:	1359
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1435
+	FTab:	1335
+	Field:	1360
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1436
+	FTab:	1335
+	Field:	1361
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1437
+	FTab:	1335
+	Field:	1362
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1438
+	FTab:	1335
+	Field:	1363
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1439
+	FTab:	1335
+	Field:	1364
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1440
+	FTab:	1335
+	Field:	1365
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1441
+	FTab:	1335
+	Field:	1366
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1442
+	FTab:	1335
+	Field:	1367
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1443
+	FTab:	1335
+	Field:	1368
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1444
+	FTab:	1335
+	Field:	1369
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1445
+	FTab:	1335
+	Field:	1370
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1446
+	FTab:	1335
+	Field:	1371
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1447
+	FTab:	1335
+	Field:	1372
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1448
+	FTab:	1335
+	Field:	1373
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1449
+	FTab:	1335
+	Field:	1374
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1450
+	FTab:	1335
+	Field:	1375
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1451
+	FTab:	1335
+	Field:	1376
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1452
+	FTab:	1335
+	Field:	1377
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1453
+	FTab:	1335
+	Field:	1378
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1454
+	FTab:	1335
+	Field:	1379
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1455
+	FTab:	1335
+	Field:	1380
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1456
+	FTab:	1335
+	Field:	1381
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1457
+	FTab:	1335
+	Field:	1382
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1458
+	FTab:	1335
+	Field:	1383
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1459
+	FTab:	1335
+	Field:	1384
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1460
+	FTab:	1335
+	Field:	1385
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1461
+	FTab:	1335
+	Field:	1386
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1462
+	FTab:	1335
+	Field:	1387
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(GSet.1463
+)
+
+(TxPosPly.1464
+	HAlign:	3
+	VAlign:	3
+)
+
+(AttrSingle.1465
+	FTab:	343
+	Field:	345
+	UnionRule:	5
+	SplitRule:	3
+)
+
+(AttrSingle.1466
+	FTab:	343
+	Field:	346
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1467
+	FTab:	343
+	Field:	347
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1468
+	FTab:	343
+	Field:	348
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1469
+	FTab:	343
+	Field:	349
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1470
+	FTab:	343
+	Field:	350
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1471
+	FTab:	343
+	Field:	351
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1472
+	FTab:	343
+	Field:	352
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1473
+	FTab:	343
+	Field:	353
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1474
+	FTab:	343
+	Field:	354
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1475
+	FTab:	343
+	Field:	355
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1476
+	FTab:	343
+	Field:	356
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1477
+	FTab:	343
+	Field:	357
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1478
+	FTab:	343
+	Field:	358
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1479
+	FTab:	343
+	Field:	359
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1480
+	FTab:	343
+	Field:	360
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1481
+	FTab:	343
+	Field:	361
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1482
+	FTab:	343
+	Field:	362
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1483
+	FTab:	343
+	Field:	363
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1484
+	FTab:	343
+	Field:	364
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1485
+	FTab:	343
+	Field:	365
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1486
+	FTab:	343
+	Field:	366
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1487
+	FTab:	343
+	Field:	367
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1488
+	FTab:	343
+	Field:	368
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1489
+	FTab:	343
+	Field:	369
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1490
+	FTab:	343
+	Field:	370
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1491
+	FTab:	343
+	Field:	371
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1492
+	FTab:	343
+	Field:	372
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1493
+	FTab:	343
+	Field:	373
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1494
+	FTab:	343
+	Field:	374
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1495
+	FTab:	343
+	Field:	375
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1496
+	FTab:	343
+	Field:	376
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1497
+	FTab:	343
+	Field:	377
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1498
+	FTab:	343
+	Field:	378
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1499
+	FTab:	343
+	Field:	379
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1500
+	FTab:	343
+	Field:	380
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1501
+	FTab:	343
+	Field:	381
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1502
+	FTab:	343
+	Field:	382
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1503
+	FTab:	343
+	Field:	383
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1504
+	FTab:	343
+	Field:	384
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1505
+	FTab:	343
+	Field:	385
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1506
+	FTab:	343
+	Field:	386
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1507
+	FTab:	343
+	Field:	387
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1508
+	FTab:	343
+	Field:	388
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1509
+	FTab:	343
+	Field:	389
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1510
+	FTab:	343
+	Field:	390
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1511
+	FTab:	343
+	Field:	391
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1512
+	FTab:	343
+	Field:	392
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1513
+	FTab:	343
+	Field:	393
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1514
+	FTab:	343
+	Field:	394
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(AttrSingle.1515
+	FTab:	343
+	Field:	395
+	UnionRule:	1
+	SplitRule:	1
+)
+
+(DocAct.1516
+	Doc:	335
+)
+
+(Layout.1517
+	Name:	"river otter roadkills in RI"
+	CreationDate:	"Monday, February 12, 2007 2:42:18 PM"
+	GUIName:	"Layout"
+	Win:	1518
+	CSMgr:	1519
+	DocExts:	1521
+	DocExts:	1522
+	Graphics:	1523
+	Dpy:	79
+)
+
+(DocWin.1518
+	Owner:	1517
+	Open:	1
+	X:	-4
+	Y:	-4
+	W:	1034
+	H:	641
+)
+
+(CSMgr.1519
+	Client:	1520
+)
+
+(CSClient.1520
+	Client:	1521
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.1521
+	Doc:	1517
+)
+
+(DocAct.1522
+	Doc:	1517
+)
+
+(GList.1523
+	Child:	70
+	Child:	84
+	Child:	1524
+	Child:	100
+	Child:	1647
+	Child:	1658
+	Child:	1672
+	Dpy:	79
+	FormatNumb:	1686
+)
+
+(GNorth.1524
+	Name:	"NorthArrow3"
+	Bounds:	1525
+	Graphic:	1526
+	UserBounds:	1646
+	Index:	1
+)
+
+(RectD.1525
+	Left:	752.36696428571429
+	Top:	753.46780038916813
+	Right:	753.50624999999991
+	Bottom:	752.23928571428564
+)
+
+(GNorth.1526
+	Bounds:	1527
+	Selected:	0x01
+	Graphic:	1528
+	Graphic:	1600
+	Graphic:	1612
+	Graphic:	1623
+	Graphic:	1634
+	UserBounds:	1645
+	Index:	-1
+)
+
+(RectD.1527
+	Left:	752.36696428571429
+	Top:	753.46780038916813
+	Right:	753.50624999999991
+	Bottom:	752.23928571428564
+)
+
+(GGroup.1528
+	Bounds:	1529
+	Selected:	0x01
+	Graphic:	1530
+	Graphic:	1536
+	Graphic:	1544
+	Graphic:	1552
+	Graphic:	1560
+	Graphic:	1568
+	Graphic:	1576
+	Graphic:	1584
+	Graphic:	1592
+)
+
+(RectD.1529
+	Left:	752.56094296464096
+	Top:	753.20916827669089
+	Right:	753.33684623956731
+	Bottom:	752.43326153301723
+)
+
+(GShape.1530
+	Bounds:	1531
+	Sym:	1532
+	Selected:	0x01
+	Shape:	1534
+)
+
+(RectD.1531
+	Left:	752.56094296464096
+	Top:	753.20916827669089
+	Right:	753.33684623956731
+	Bottom:	752.43326153301723
+)
+
+(BLnSym.1532
+	Color:	1533
+	Width:	1.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+
+(TClr.1533
+)
+
+(ArcD.1534
+	Box:	1535
+	Points:	752.56094296464096	752.82121317048041
+	Points:	752.81957623336734	752.88587408922251
+	Points:	752.75491878337255	753.01519245795930
+	Points:	752.88423368336214	752.95053153921720
+	Points:	752.94889460210413	753.20916827669089
+	Points:	753.01355205209893	752.95053153921720
+	Points:	753.14287042083572	753.01519245795930
+	Points:	753.07821297084104	752.88587408922251
+	Points:	753.33684623956731	752.82121317048041
+	Points:	753.07821297084104	752.75655572048561
+	Points:	753.14287042083572	752.62723735174882
+	Points:	753.01355205209893	752.69189827049092
+	Points:	752.94889460210413	752.43326153301723
+	Points:	752.88423368336214	752.69189827049092
+	Points:	752.75491878337255	752.62723735174882
+	Points:	752.81957623336734	752.75655572048561
+	Points:	752.56094296464096	752.82121317048041
+	Parts:	00000000 
+)
+
+(RectD.1535
+	Left:	752.56094296464096
+	Top:	753.20916827669089
+	Right:	753.33684623956731
+	Bottom:	752.43326153301723
+)
+
+(GShape.1536
+	Bounds:	1537
+	Sym:	1538
+	Selected:	0x01
+	Shape:	1542
+)
+
+(RectD.1537
+	Left:	752.94889460210425
+	Top:	753.20916827669089
+	Right:	753.01355205209904
+	Bottom:	752.82121317048041
+)
+
+(BShSym.1538
+	Color:	1539
+	Outline:	1
+	OutlineColor:	1540
+	OutlineWidth:	1.00000000000000
+	BgColor:	1541
+)
+
+(TClr.1539
+)
+
+(TClr.1540
+)
+
+(TClr.1541
+	Name:	"Transparent"
+)
+
+(PolyD.1542
+	Box:	1543
+	Points:	752.94889460210425	753.20916827669089
+	Points:	752.94889460210425	752.82121317048041
+	Points:	753.01355205209904	752.95053153921731
+	Points:	752.94889460210425	753.20916827669089
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1543
+	Left:	752.94889460210425
+	Top:	753.20916827669089
+	Right:	753.01355205209904
+	Bottom:	752.82121317048041
+)
+
+(GShape.1544
+	Bounds:	1545
+	Sym:	1546
+	Selected:	0x01
+	Shape:	1550
+)
+
+(RectD.1545
+	Left:	752.94889460210413
+	Top:	752.82121317048052
+	Right:	753.33684623956731
+	Bottom:	752.75655572048572
+)
+
+(BShSym.1546
+	Color:	1547
+	Outline:	1
+	OutlineColor:	1548
+	OutlineWidth:	1.00000000000000
+	BgColor:	1549
+)
+
+(TClr.1547
+)
+
+(TClr.1548
+)
+
+(TClr.1549
+	Name:	"Transparent"
+)
+
+(PolyD.1550
+	Box:	1551
+	Points:	752.94889460210413	752.82121317048052
+	Points:	753.33684623956731	752.82121317048052
+	Points:	753.07821297084104	752.75655572048572
+	Points:	752.94889460210413	752.82121317048052
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1551
+	Left:	752.94889460210413
+	Top:	752.82121317048052
+	Right:	753.33684623956731
+	Bottom:	752.75655572048572
+)
+
+(GShape.1552
+	Bounds:	1553
+	Sym:	1554
+	Selected:	0x01
+	Shape:	1558
+)
+
+(RectD.1553
+	Left:	752.88423368336225
+	Top:	752.82121317048041
+	Right:	752.94889460210436
+	Bottom:	752.43326153301723
+)
+
+(BShSym.1554
+	Color:	1555
+	Outline:	1
+	OutlineColor:	1556
+	OutlineWidth:	1.00000000000000
+	BgColor:	1557
+)
+
+(TClr.1555
+)
+
+(TClr.1556
+)
+
+(TClr.1557
+	Name:	"Transparent"
+)
+
+(PolyD.1558
+	Box:	1559
+	Points:	752.94889460210436	752.82121317048041
+	Points:	752.94889460210436	752.43326153301723
+	Points:	752.88423368336225	752.69189827049081
+	Points:	752.94889460210436	752.82121317048041
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1559
+	Left:	752.88423368336225
+	Top:	752.82121317048041
+	Right:	752.94889460210436
+	Bottom:	752.43326153301723
+)
+
+(GShape.1560
+	Bounds:	1561
+	Sym:	1562
+	Selected:	0x01
+	Shape:	1566
+)
+
+(RectD.1561
+	Left:	752.56094296464096
+	Top:	752.88587408922251
+	Right:	752.94889460210413
+	Bottom:	752.82121317048041
+)
+
+(BShSym.1562
+	Color:	1563
+	Outline:	1
+	OutlineColor:	1564
+	OutlineWidth:	1.00000000000000
+	BgColor:	1565
+)
+
+(TClr.1563
+)
+
+(TClr.1564
+)
+
+(TClr.1565
+	Name:	"Transparent"
+)
+
+(PolyD.1566
+	Box:	1567
+	Points:	752.94889460210413	752.82121317048041
+	Points:	752.56094296464096	752.82121317048041
+	Points:	752.81957623336734	752.88587408922251
+	Points:	752.94889460210413	752.82121317048041
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1567
+	Left:	752.56094296464096
+	Top:	752.88587408922251
+	Right:	752.94889460210413
+	Bottom:	752.82121317048041
+)
+
+(GShape.1568
+	Bounds:	1569
+	Sym:	1570
+	Selected:	0x01
+	Shape:	1574
+)
+
+(RectD.1569
+	Left:	752.94889460210413
+	Top:	753.01519245795930
+	Right:	753.14287042083572
+	Bottom:	752.82121317048041
+)
+
+(BShSym.1570
+	Color:	1571
+	Outline:	1
+	OutlineColor:	1572
+	OutlineWidth:	1.00000000000000
+	BgColor:	1573
+)
+
+(TClr.1571
+)
+
+(TClr.1572
+)
+
+(TClr.1573
+	Name:	"Transparent"
+)
+
+(PolyD.1574
+	Box:	1575
+	Points:	752.94889460210413	752.82121317048041
+	Points:	753.14287042083572	753.01519245795930
+	Points:	753.07821297084104	752.88587408922251
+	Points:	752.94889460210413	752.82121317048041
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1575
+	Left:	752.94889460210413
+	Top:	753.01519245795930
+	Right:	753.14287042083572
+	Bottom:	752.82121317048041
+)
+
+(GShape.1576
+	Bounds:	1577
+	Sym:	1578
+	Selected:	0x01
+	Shape:	1582
+)
+
+(RectD.1577
+	Left:	752.94889460210413
+	Top:	752.82121317048041
+	Right:	753.14287042083572
+	Bottom:	752.62723735174882
+)
+
+(BShSym.1578
+	Color:	1579
+	Outline:	1
+	OutlineColor:	1580
+	OutlineWidth:	1.00000000000000
+	BgColor:	1581
+)
+
+(TClr.1579
+)
+
+(TClr.1580
+)
+
+(TClr.1581
+	Name:	"Transparent"
+)
+
+(PolyD.1582
+	Box:	1583
+	Points:	752.94889460210413	752.82121317048041
+	Points:	753.14287042083572	752.62723735174882
+	Points:	753.01355205209893	752.69189827049092
+	Points:	752.94889460210413	752.82121317048041
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1583
+	Left:	752.94889460210413
+	Top:	752.82121317048041
+	Right:	753.14287042083572
+	Bottom:	752.62723735174882
+)
+
+(GShape.1584
+	Bounds:	1585
+	Sym:	1586
+	Selected:	0x01
+	Shape:	1590
+)
+
+(RectD.1585
+	Left:	752.75491878337255
+	Top:	752.82121317048041
+	Right:	752.94889460210413
+	Bottom:	752.62723735174882
+)
+
+(BShSym.1586
+	Color:	1587
+	Outline:	1
+	OutlineColor:	1588
+	OutlineWidth:	1.00000000000000
+	BgColor:	1589
+)
+
+(TClr.1587
+)
+
+(TClr.1588
+)
+
+(TClr.1589
+	Name:	"Transparent"
+)
+
+(PolyD.1590
+	Box:	1591
+	Points:	752.94889460210413	752.82121317048041
+	Points:	752.75491878337255	752.62723735174882
+	Points:	752.81957623336734	752.75655572048572
+	Points:	752.94889460210413	752.82121317048041
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1591
+	Left:	752.75491878337255
+	Top:	752.82121317048041
+	Right:	752.94889460210413
+	Bottom:	752.62723735174882
+)
+
+(GShape.1592
+	Bounds:	1593
+	Sym:	1594
+	Selected:	0x01
+	Shape:	1598
+)
+
+(RectD.1593
+	Left:	752.75491878337255
+	Top:	753.01519245795930
+	Right:	752.94889460210413
+	Bottom:	752.82121317048041
+)
+
+(BShSym.1594
+	Color:	1595
+	Outline:	1
+	OutlineColor:	1596
+	OutlineWidth:	1.00000000000000
+	BgColor:	1597
+)
+
+(TClr.1595
+)
+
+(TClr.1596
+)
+
+(TClr.1597
+	Name:	"Transparent"
+)
+
+(PolyD.1598
+	Box:	1599
+	Points:	752.94889460210413	752.82121317048041
+	Points:	752.75491878337255	753.01519245795930
+	Points:	752.88423368336214	752.95053153921731
+	Points:	752.94889460210413	752.82121317048041
+	Parts:	00000000 
+	RingTypes:	00000000 
+)
+
+(RectD.1599
+	Left:	752.75491878337255
+	Top:	753.01519245795930
+	Right:	752.94889460210413
+	Bottom:	752.82121317048041
+)
+
+(GText.1600
+	Name:	"GText1"
+	Bounds:	1601
+	Sym:	1602
+	Selected:	0x01
+	Text:	"N"
+	Spacing:	1.00000000000000
+)
+
+(RectD.1601
+	Left:	752.88682064277111
+	Top:	753.46780038916813
+	Right:	753.01096528360131
+	Bottom:	753.27382438787095
+)
+
+(TxSym.1602
+	Color:	1603
+	Scale:	1604
+	Font:	1605
+	BgColor:	1610
+	OlColor:	1611
+	Size:	13.96627209339749
+)
+
+(TClr.1603
+)
+
+(Numb.1604
+	N:	1.00000000000000
+)
+
+(NFont.1605
+	Family:	1606
+	Name:	1607
+	Style:	1608
+	CommonFamily:	1609
+	Serif:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.1606
+	S:	"Times New Roman"
+)
+
+(AVStr.1607
+	S:	"Times New Roman"
+)
+
+(AVStr.1608
+	S:	"Normal"
+)
+
+(AVStr.1609
+	S:	"Times"
+)
+
+(TClr.1610
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.1611
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.1612
+	Name:	"GText1"
+	Bounds:	1613
+	Sym:	1614
+	Selected:	0x01
+	Text:	"E"
+	Spacing:	1.00000000000000
+)
+
+(RectD.1613
+	Left:	753.40150295929948
+	Top:	752.91820162369788
+	Right:	753.50624999999991
+	Bottom:	752.72422562240070
+)
+
+(TxSym.1614
+	Color:	1615
+	Scale:	1604
+	Font:	1616
+	BgColor:	1621
+	OlColor:	1622
+	Size:	13.96627209339749
+)
+
+(TClr.1615
+)
+
+(NFont.1616
+	Family:	1617
+	Name:	1618
+	Style:	1619
+	CommonFamily:	1620
+	Serif:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.1617
+	S:	"Times New Roman"
+)
+
+(AVStr.1618
+	S:	"Times New Roman"
+)
+
+(AVStr.1619
+	S:	"Normal"
+)
+
+(AVStr.1620
+	S:	"Times"
+)
+
+(TClr.1621
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.1622
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.1623
+	Name:	"GText1"
+	Bounds:	1624
+	Sym:	1625
+	Selected:	0x01
+	Text:	"W"
+	Spacing:	1.00000000000000
+)
+
+(RectD.1624
+	Left:	752.36696428571429
+	Top:	752.91820162369788
+	Right:	752.52796436679091
+	Bottom:	752.72422562240070
+)
+
+(TxSym.1625
+	Color:	1626
+	Scale:	1604
+	Font:	1627
+	BgColor:	1632
+	OlColor:	1633
+	Size:	13.96627209339749
+)
+
+(TClr.1626
+)
+
+(NFont.1627
+	Family:	1628
+	Name:	1629
+	Style:	1630
+	CommonFamily:	1631
+	Serif:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.1628
+	S:	"Times New Roman"
+)
+
+(AVStr.1629
+	S:	"Times New Roman"
+)
+
+(AVStr.1630
+	S:	"Normal"
+)
+
+(AVStr.1631
+	S:	"Times"
+)
+
+(TClr.1632
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.1633
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GText.1634
+	Name:	"GText1"
+	Bounds:	1635
+	Sym:	1636
+	Selected:	0x01
+	Text:	"S"
+	Spacing:	1.00000000000000
+)
+
+(RectD.1635
+	Left:	752.90136884286835
+	Top:	752.43326171558283
+	Right:	752.99641708350396
+	Bottom:	752.23928571428564
+)
+
+(TxSym.1636
+	Color:	1637
+	Scale:	1604
+	Font:	1638
+	BgColor:	1643
+	OlColor:	1644
+	Size:	13.96627209339749
+)
+
+(TClr.1637
+)
+
+(NFont.1638
+	Family:	1639
+	Name:	1640
+	Style:	1641
+	CommonFamily:	1642
+	Serif:	1
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.1639
+	S:	"Times New Roman"
+)
+
+(AVStr.1640
+	S:	"Times New Roman"
+)
+
+(AVStr.1641
+	S:	"Normal"
+)
+
+(AVStr.1642
+	S:	"Times"
+)
+
+(TClr.1643
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.1644
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(RectD.1645
+	Left:	752.36696428571429
+	Top:	753.46780038916813
+	Right:	753.50625000000002
+	Bottom:	752.23928571428564
+)
+
+(RectD.1646
+	Left:	752.36696428571429
+	Top:	753.46780038916813
+	Right:	753.50625000000002
+	Bottom:	752.23928571428564
+)
+
+(GText.1647
+	Name:	"GraphicText5"
+	Bounds:	1648
+	Sym:	1649
+	Text:	"Road-killed river otters documented by\n the DEM in Rhode Island 1999-2011"
+	Alignment:	0x01
+	Spacing:	1.00000000000000
+)
+
+(RectD.1648
+	Left:	746.40741964285746
+	Top:	755.24464285714282
+	Right:	753.48251588141579
+	Bottom:	754.31370914154309
+)
+
+(TxSym.1649
+	Color:	1650
+	Font:	1651
+	BgColor:	1656
+	OlColor:	1657
+	Size:	33.51361376159198
+)
+
+(TClr.1650
+)
+
+(NFont.1651
+	Family:	1652
+	Name:	1653
+	Style:	1654
+	CommonFamily:	1655
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.1652
+	S:	"Arial"
+)
+
+(AVStr.1653
+	S:	"Arial"
+)
+
+(AVStr.1654
+	S:	"Normal"
+)
+
+(AVStr.1655
+	S:	"Helvetica"
+)
+
+(TClr.1656
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.1657
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(GPict.1658
+	Name:	"PictureFrame6"
+	Bounds:	1659
+	Sym:	1660
+	UserBounds:	1664
+	Refresh:	2
+	Quality:	1
+	Pict:	1665
+)
+
+(RectD.1659
+	Left:	753.09469866071424
+	Top:	746.13584821428572
+	Right:	753.73093325818013
+	Bottom:	745.33049107142858
+)
+
+(BShSym.1660
+	Color:	1661
+	OutlineColor:	1662
+	BgColor:	1663
+	Style:	0x01
+)
+
+(TClr.1661
+)
+
+(TClr.1662
+)
+
+(TClr.1663
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.1664
+	Left:	753.09469866071424
+	Top:	746.13584821428572
+	Right:	753.76255580357144
+	Bottom:	745.33049107142858
+)
+
+(ImgPict.1665
+	Fn:	1666
+	ISrc:	1667
+)
+
+(FN.1666
+	Path:	"c:/my documents/fish&wildlogo.bmp"
+)
+
+(ISrc.1667
+	Name:	1668
+	MapBox:	1670
+	BandStats:	1671
+)
+
+(SrcName.1668
+	FileName:	1669
+	Name:	"fish&wildlogo.bmp"
+	OwnerClass:	"ISrc"
+)
+
+(FN.1669
+	Path:	"c:/my documents/fish&wildlogo.bmp"
+)
+
+(RectD.1670
+	Left:	-0.50000000000000
+	Top:	3280.50000000000000
+	Right:	2591.50000000000000
+	Bottom:	-0.50000000000000
+)
+
+(BStat.1671
+	Max:	1.00000000000000
+	Mean:	0.50000000000000
+	StDv:	0.25000000000000
+)
+
+(GPict.1672
+	Name:	"PictureFrame7"
+	Bounds:	1673
+	Sym:	1674
+	UserBounds:	1678
+	Refresh:	2
+	Quality:	1
+	Pict:	1679
+)
+
+(RectD.1673
+	Left:	753.07410714285720
+	Top:	745.36428571428576
+	Right:	753.76160714285709
+	Bottom:	745.08928571428578
+)
+
+(BShSym.1674
+	Color:	1675
+	OutlineColor:	1676
+	BgColor:	1677
+	Style:	0x01
+)
+
+(TClr.1675
+)
+
+(TClr.1676
+)
+
+(TClr.1677
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(RectD.1678
+	Left:	753.07410714285720
+	Top:	745.36428571428576
+	Right:	753.85982142857142
+	Bottom:	745.08928571428578
+)
+
+(ImgPict.1679
+	Fn:	1680
+	ISrc:	1681
+)
+
+(FN.1680
+	Path:	"c:/my documents/rigis_logo.bmp"
+)
+
+(ISrc.1681
+	Name:	1682
+	MapBox:	1684
+	BandStats:	1685
+)
+
+(SrcName.1682
+	FileName:	1683
+	Name:	"rigis_logo.bmp"
+	OwnerClass:	"ISrc"
+)
+
+(FN.1683
+	Path:	"c:/my documents/rigis_logo.bmp"
+)
+
+(RectD.1684
+	Left:	-0.50000000000000
+	Top:	47.50000000000000
+	Right:	119.50000000000000
+	Bottom:	-0.50000000000000
+)
+
+(BStat.1685
+	Max:	255.00000000000000
+	Mean:	127.50000000000000
+	StDv:	63.75000000000000
+)
+
+(Numb.1686
+)
+
+(Layout.1687
+	Name:	"states that allow harvest"
+	CreationDate:	"Wednesday, December 24, 2008 10:16:59 AM"
+	GUIName:	"Layout"
+	Win:	1688
+	CSMgr:	1689
+	DocExts:	1691
+	DocExts:	1692
+	Graphics:	1693
+	Dpy:	428
+)
+
+(DocWin.1688
+	Owner:	1687
+	X:	-4
+	Y:	-4
+	W:	1034
+	H:	641
+)
+
+(CSMgr.1689
+	Client:	1690
+)
+
+(CSClient.1690
+	Client:	1691
+	ReqName:	"ClientNfy"
+)
+
+(PanMgr.1691
+	Doc:	1687
+)
+
+(DocAct.1692
+	Doc:	1687
+)
+
+(GList.1693
+	Child:	419
+	Child:	1694
+	Dpy:	428
+	FormatNumb:	1705
+)
+
+(GText.1694
+	Name:	"GraphicText3"
+	Bounds:	1695
+	Sym:	1696
+	Text:	"NORTHEAST STATES THAT CURRENTLY\n ALLOW THE HARVEST OF RIVER OTTER (SHADED)"
+	Alignment:	0x01
+	Spacing:	1.00000000000000
+)
+
+(RectD.1695
+	Left:	746.40446453361938
+	Top:	747.16785711531190
+	Right:	753.69874837988186
+	Bottom:	746.50714299880258
+)
+
+(TxSym.1696
+	Color:	1697
+	Font:	1698
+	BgColor:	1703
+	OlColor:	1704
+	Size:	23.78570819433417
+)
+
+(TClr.1697
+)
+
+(NFont.1698
+	Family:	1699
+	Name:	1700
+	Style:	1701
+	CommonFamily:	1702
+	Weight:	1
+	Wideness:	1
+)
+
+(AVStr.1699
+	S:	"Arial"
+)
+
+(AVStr.1700
+	S:	"Arial"
+)
+
+(AVStr.1701
+	S:	"Normal"
+)
+
+(AVStr.1702
+	S:	"Helvetica"
+)
+
+(TClr.1703
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(TClr.1704
+	Red:	0xff
+	Green:	0xff
+	Blue:	0xff
+)
+
+(Numb.1705
+)
+
+(LButn.1706
+	HelpTopic:	"New_button"
+	Update:	"Doc.NewUpdate"
+	Label:	"&New"
+	Click:	"View.New"
+)
+
+(LButn.1707
+	HelpTopic:	"Open_button"
+	Update:	"Doc.OpenUpdate"
+	Label:	"&Open"
+	Click:	"Doc.Open"
+)
+
+(LButn.1708
+	HelpTopic:	"Print_button"
+	Update:	"Doc.ActionUpdate"
+	Label:	"P&rint"
+	Click:	"Doc.Action"
+)
+
+(NameDict.1709
+)
+
+(NameDict.1710
+	Obj:	1711
+	Obj:	1712
+)
+
+(AVDict.1711
+	InternalName:	"Table of Contents Defaults Dialog"
+)
+
+(AVDict.1712
+	InternalName:	"_Thor_"
+)
+
+(FN.2544
+	Path:	"$HOME"
+)
+
+(TClr.2545
+	Red:	0xffff
+	Green:	0xffff
+)
+
+(AVStr.2546
+	S:	"View"
+)
+
+(AVStr.2547
+	S:	"Table"
+)
+
+(AVStr.2548
+	S:	"Chart"
+)
+
+(AVStr.2549
+	S:	"Layout"
+)
+
+(AVStr.2550
+	S:	"Script"
+)
+
+(AVStr.2551
+	S:	"Project"
+)
+
+(AVStr.2552
+	S:	"Appl"
+)
+
