@@ -23,14 +23,11 @@ library(openmeteo)
 #####
 #Clearing all leftover vars
 rm(list=ls())
-library(this.path)
-setwd(here())
-setwd('..')
-##Pointing R towards the right folder. From here on in you could run this##
+##Pointing R towards the right folder. Form here on in you could run this##
 ##on a loop but I didn't want to bother. Something like for (z in 1:5){  ##
-##  all of step one but using paste0 and assign to get GPS[z] to be  ##
+##  all the stuff below but using paste0 and assign to get GPS[z] to be  ##
 ##  legible}
-
+setwd("C:/Users/John Crockett/Documents/GitHub/URI_SemAqMammals_Muskrat/Data from Field Work/2023 Data/Tracks/GPS 1")
 #Setting up a dummy dataframe
 GPS1=data.frame(lon=0,lat=0,ele=0,time="2021-01-13T16:08:30Z")
 #make a list of the files in the folder so we can loop over them. 
@@ -2113,6 +2110,8 @@ FieldAll$Sign.Type[FieldAll$Spp=="Muskrat"&
                      FieldAll$Sign.Type=="lodge?"]="lodge"
 FieldAll$Sign.Type[FieldAll$Spp=="Muskrat"&
                      FieldAll$Sign.Type=="feeding platform"]="platform"
+FieldAll$TTD[FieldAll$Spp=="Muskrat"&
+               FieldAll$Sign.Type=="chewed veg"]=NA
 #fix the sign types for beavers
 unique(FieldAll$Sign.Type[FieldAll$Spp=="Beaver"])
 FieldAll$Sign.Type[FieldAll$Spp=="Beaver"&

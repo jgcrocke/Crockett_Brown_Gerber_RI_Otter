@@ -1,7 +1,7 @@
 library(sf)
 library(lubridate)
-rm(list=ls())
 library(this.path)
+rm(list=ls())
 setwd(here())
 setwd('..')
 km=st_read("Site Shapefiles/km_IDM.shp")
@@ -33,12 +33,12 @@ Urban=COVS[,which(regexpr("Urb",colnames(COVS))>0)]
 COVS$BStrm=ifelse(COVS$StrmOr_>1,1,0)
 
 
-COVS$Broads=COVS$logroads-mean(COVS$logroads,na.rm=T)
+#COVS$Broads=COVS$logroads-mean(COVS$logroads,na.rm=T)
 COVS$roadpres=ifelse(is.na(COVS$roads),0,
                      ifelse(COVS$roads>0,1,0))
 COVS$boatscale=(COVS$boatd-mean(COVS$boatd))/(sqrt(var(COVS$boatd)))
 
-COVS$Broads[!is.finite(COVS$logroads)]=-99
+#COVS$Broads[!is.finite(COVS$logroads)]=-99
 
 
 ocovs=OtterTTD[,10:18]
@@ -50,7 +50,7 @@ for (i in 1:9){
 
 
 #####
-#Making the Effect Coding for Watershed and Observer
+#Making the Effect Coding Observer
 #####
 wshed=as.factor(COVS$Watrshd)
 levels(wshed)
@@ -103,53 +103,43 @@ library(rjags)
 library(runjags)
 library(mcmcplots)
 library(MCMCvis)
-#####
-# The full model
-#####
 model_string <-"model
 {
   
 # Likelihood
-for (w in 1:25){ #Looping across the years of data
-for (m in 1:ncells){ # Looping across the sites
-# Occurrence model for otters
-# Model of otter intensity of use or the number of otter points expected per site
+for (w in 1:25){
+for (m in 1:ncells){ # Model for occurrence at site level
 log(lambda[m,w])=lambda.0+lambdaWat*Wat[m,yrstoNLCD[w]]+
                         lambdaStrm*Strm[m]+lambdaSalt*Salt[m]+
                         lambdaWet*Wet[m,yrstoNLCD[w]]+
                         lambdaUrb*Urb[m,yrstoNLCD[w]]+
                         lambda.Time*(w-1)
-#Converting from intensity of use to presence/absence
 z[m,w] ~ dbern(1-exp(-lambda[m,w]))
-#Model for thinning the number of otters on landscape to the number of latrines
 logit(b.L[m,w])=alpha.int.L+alphalaunch*launch[m]+alphaStrm*Strm[m]+
                           alphabeav*beaver[m,w]+
-                          alphaSalt*Salt[m]+alphatime.L*(w-1)
-#Model for thinning the number of otters on the landscape to the number of roadkilled otters
-logit(b.R[m,w])=alpha.int.R+alpharoadp*roadpres[m]+alphatime.R*(w-1)+
+                          alphaSalt*Salt[m]+alphatime.L[w]
+logit(b.R[m,w])=alpha.int.R+alpharoadp*roadpres[m]+alphatime.R[w]+
                           alpharoads*roads[m]*roadpres[m]
-#An overall probability of detection by roadkill or latrines
 b[m,w]<-1-((1-b.L[m,w])*(1-b.R[m,w]))
 }
-#Calculating the denominator for the likelihood of each point
 denom[w]=inprod(lambda[1:ncells,w],b[1:ncells,w])
-
+alphatime.L[w]~dnorm(0,1/tau.L)
+alphatime.R[w]~dnorm(0,1/tau.R)
 }
-#Likelihood of each presence-only point 
 for(p in 1:npoints){
- ones[p]~dbern(
-              exp(
-                  log(
-                      lambda[landid[p],pointyr[p]]*((1-
-                      isrk[p])*b.L[landid[p],pointyr[p]]+
-                      isrk[p]*b.R[landid[p],pointyr[p]])
-                      )-
-                  log(denom[pointyr[p]]/npoints)
-                  )/CONSTANT
+ones[p]~dbern(
+                exp(
+                    log(
+                    lambda[landid[p],pointyr[p]]*(
+                    isrk[p]*b.L[landid[p],pointyr[p]]+
+                    (1-isrk[p])*b.R[landid[p],pointyr[p]]
+                    )
+                    )-
+                    log(denom[pointyr[p]]/npoints)
+                )/CONSTANT
               )
- }
+}
 
-#Detection-nondetection submodel:
 
 for (i in 1:nobs){ # Observation model at observation level
 y[i] ~ dbern(p[i]*z[TTDF[i],occyr[i]])
@@ -160,8 +150,6 @@ logit(p[i]) <- p.0+alpha1*OBS[i,2]+alpha2*OBS[i,3]+
                   alpha10*temp[i]+alpha11*cloud[i]+
                   alpha12*precip[i]+alpha13*kayak[i]
 }
-#Some latrines were re-surveyed in subsequent years; we modeled these resurveys 
-# as a single detection-nondetection data point
 for (i in 1:nrsurv){#observation model for re-surveyed latrines
   yrsrv[i]~dbern(p.rsrv[i]*z[ursurv[i],rsrvyr[i]])
   logit(p.rsrv[i])=p.rsrv.0
@@ -176,9 +164,9 @@ lambdaUrb  ~dnorm(0,1)
 lambdaWat  ~dnorm(0,1)
 lambda.Time~dnorm(0,25)
 alpha.int.L    ~dlogis(0,1)
-alphatime.L ~dlogis(0,1)
+tau.L~dgamma(1,1)
 alpha.int.R    ~dlogis(0,1)
-alphatime.R ~dlogis(0,1)
+tau.R~dgamma(1,1)
 alphalaunch ~dlogis(0,1)
 alphaStrm   ~dlogis(0,1)
 alphabeav   ~dlogis(0,1)
@@ -237,7 +225,6 @@ data <- list(ncells=ncells,
                         length(roadkill$ID)),
              isrk=isrk
 )
-#Making initial values
 zst=matrix(nrow=ncells,ncol = 25)
 for(i in 1:25){
   zst[,i] <- rep(1, ncells)
@@ -277,33 +264,54 @@ inits=function(){list(z =zst,
                       alpha13    =rnorm(1),
                       p.rsrv.0=rnorm(1)
 )}
-#Passing the model to JAGS to run. 
-Otter.IDM_with_roadkill_TREND=run.jags(model=model_string,
-                                       monitor= names(inits()[2:33]),
-                                       burnin=100, sample=200,thin = 4,
-                                       data=data, n.chains=4, method="rjags", inits=inits)
-Otter.IDM_with_roadkill_TREND=extend.jags(runjags.object = Otter.IDM_with_roadkill_TREND,
-                                     adapt=2500,burnin=10000, sample=19800,thin = 4)
+save(data, zst,inits,file="OtterDataForSharing.RData")
+#Otter.IDM_with_roadkill_TEST=run.jags(model=model_string,adapt = 25,
+#                                     monitor= names(inits()[2:33]),
+#                                     burnin=20, sample=200,thin = 1,
+#                                     data=data, n.chains=4, method="rjags", inits=inits)
 
-#save(Otter.IDM_with_roadkill_TREND,file="OtterIDM_with_roadkill_TREND.Rdata")
+#save(Otter.IDM_with_roadkill_dyn,file="OtterIDM_with_roadkill_dyn.Rdata")
+#plot(Otter.IDM_with_roadkill_dyn,plot.type = c("trace","autocorr","histogram","ecdf"),
+#     vars=names(inits()[c(2,8,14,17)]))
+#summary(Otter.IDM_all_detections)
 
+#load("OtterIDM_with_roadkill_dynamic.Rdata")
+#load("OtterIDM_with_roadkill_dynamic_SimpleLambda.Rdata")
+#load("OtterIDM_with_roadkill_dynamic_TESTING.Rdata")
+#load("OtterIDM_with_roadkill_dynamic_funPrior.Rdata")
+#load("OtterIDM_with_roadkill_dynamic_simple.Rdata")
+#load("OtterIDM_with_roadkill_MoreTime.Rdata")
+#load("OtterIDM_with_roadkill_MoreTime2.Rdata")
+#load("OtterIDM_with_roadkill_Rand_p.Rdata")
+#load("OtterIDM_with_roadkill_dyn.Rdata")
 load("OtterIDM_with_roadkill_TREND.Rdata")
-
-
-jpeg(filename = "Figures/Otter/Fig4BetaCoeff.jpg",width =6.5,height = 4,
+#load("Otter_Occ_only.Rdata")
+#load("OtterIDM_latrines.Rdata")
+load("Otter_Model_with_data.Rdata")
+library(vioplot)
+jpeg(filename = "Figures/Otter/Fig4BetaCoeff.jpg",width =6.5,height = 6,
      units = "in",res = 100)
 MCMCplot(Otter.IDM_with_roadkill_TREND$mcmc,
-         params =Otter.IDM_with_roadkill_TREND$monitor[c(1:7)],
+         params =Otter.IDM_with_roadkill_TREND$monitor[c(2:16)],
         main = expression(paste("Otter intensity of use coefficients (",beta,")")),
-        labels = c("Intercept","Stream","Wetland",
-                   "Salt","Urban","Water","Time trend")
+        labels = c("Stream","Wetland",
+                   "Salt","Urban","Water","Time trend",
+                   "Non-native plants","Benthic invertebrates","Trout","Dissolved oxygen",
+                   "Other metals","Lead","Mercury","PCBs","Fecal indicator bacteria")
                    )
 dev.off()
+MCMCplot(Otter.IDM_with_roadkill_TREND$mcmc,
+         params =Otter.IDM_with_roadkill_TREND$monitor[c(1,17:22)],
+         main = expression(paste("Otter intensity of use coefficients (",beta,")")),
+         labels = c("Grand Mean","Block Island Sound",
+                    "Blackstone River","Narragansett Bay","Pawcatuck River",
+                    "Pawtuxet River","Quinebaug River")
+)
 jpeg(filename = "Figures/Otter/Fig2AlphaDCoeff.jpg",width =6.5,height = 5.5,
      units = "in",res = 100)
 
 MCMCplot(Otter.IDM_with_roadkill_TREND$mcmc,
-         params =Otter.IDM_with_roadkill_TREND$monitor[c(18:31)],
+         params =Otter.IDM_with_roadkill_TREND$monitor[c(33:46)],
          main = expression(paste("Otter detection coefficients in designed surveys (",alpha^D,")")),
          labels = c("Intercept","Observer 1","Observer 2",
          "Observer 3","Observer 4","Observer 5","Observer 6","Water",
@@ -314,19 +322,21 @@ dev.off()
 png(filename = "Figures/Otter/Fig3AlphaRLCoeff.jpg",width =6,height = 8,
      units = "in",res = 100)
 par(mfrow=c(2,1))
+
 MCMCplot(Otter.IDM_with_roadkill_TREND$mcmc,
-         params =Otter.IDM_with_roadkill_TREND$monitor[c(8,11:15)],
+         params =Otter.IDM_with_roadkill_TREND$monitor[c(24,26,31,32)],
+         main = expression(paste("Otter roadkill detection coefficients (",alpha^R,")")),
+         xlim = c(-5,15),
+         labels = c("Intercept","Time trend",
+                    "Freeway presence", "Arterial presence")
+)
+legend(x = "topleft",legend = "a",bty = "n", inset=c(-0.5,-.4),xpd=NA,cex=2)
+MCMCplot(Otter.IDM_with_roadkill_TREND$mcmc,
+         params =Otter.IDM_with_roadkill_TREND$monitor[c(23,25,27:30)],
          main = expression(paste("Otter latrine detection coefficients (",alpha^L,")")),
          xlim = c(-5,15),
          labels = c("Intercept","Time trend","Distance to launch","Salt",
                     "Stream","Beaver surveys")
-)
-legend(x = "topleft",legend = "a",bty = "n", inset=c(-0.5,-.4),xpd=NA,cex=2)
-MCMCplot(Otter.IDM_with_roadkill_TREND$mcmc,
-         params =Otter.IDM_with_roadkill_TREND$monitor[c(9,10,16,17)],
-         main = expression(paste("Otter roadkill detection coefficients (",alpha^R,")")),
-         xlim = c(-5,15),
-         labels = c("Intercept","Time trend","Presence of roads","Road density")
 )
 legend(x = "topleft",legend = "b",bty = "n", inset=c(-0.5,-.4),xpd=NA,cex=2)
 dev.off()
@@ -345,57 +355,144 @@ MCMCplot(Otter.IDM_with_roadkill_TREND$mcmc,
 #}
 #Otter.IDM_with_roadkill_dyn$timetaken/60
 mcmc=data.frame(combine.mcmc(Otter.IDM_with_roadkill_TREND))
+mcmc$lambdaW7=-(mcmc$lambdaW1+mcmc$lambdaW2+mcmc$lambdaW3+mcmc$lambdaW4+
+ mcmc$lambdaW5+mcmc$lambdaW6+mcmc$lambdaW0)
 #mcmc01=data.frame(combine.mcmc(Otter.SDM))
 #mcmc20=data.frame(combine.mcmc(Otter.occ.only))
-#PredLam01=data.frame(matrix(NA, nrow=length(km$id),ncol=length(mcmc$lambda.0)))
-#for(j in 1:length(km$id)){
-#    PredLam01[j,]=mcmc$lambda.0+
-#                   mcmc$lambdaStrm*COVS$BStrm[j]+
-#                   mcmc$lambdaWet*wetland$N01_Wet[j]+
-#                   mcmc$lambdaSalt*km$Salt[j]+
-#                   mcmc$lambdaUrb*Urban$N01_Urb[j]+
-#                   mcmc$lambdaWat*water$N01_Wtr[j]
-#    print(j/2301)
-#}
-#km$medlam01=apply(X = PredLam01,MARGIN = 1,FUN = median)
-#km$lcilam01=apply(X = PredLam01,MARGIN = 1,FUN = quantile,probs=0.025)
-#km$ucilam01=apply(X = PredLam01,MARGIN = 1,FUN = quantile,probs=0.975)
-#
-#PredLam23=data.frame(matrix(NA, nrow=length(km$id),ncol=length(mcmc$lambda.0)))
-#for(j in 1:length(km$id)){
-#  PredLam23[j,]=mcmc$lambda.0+
-#    mcmc$lambdaStrm*COVS$BStrm[j]+
-#    mcmc$lambdaWet*wetland$N19_Wet[j]+
-#    mcmc$lambdaSalt*km$Salt[j]+
-#    mcmc$lambdaUrb*Urban$N19_Urb[j]+
-#    mcmc$lambdaWat*water$N19_Wtr[j]+
-#    mcmc$lambda.Time*24
-#  print(j/2301)
-#}
-#km$medlam23=apply(X = PredLam23,MARGIN = 1,FUN = median)
-#km$lcilam23=apply(X = PredLam23,MARGIN = 1,FUN = quantile,probs=0.025)
-#km$ucilam23=apply(X = PredLam23,MARGIN = 1,FUN = quantile,probs=0.975)
-#
-#PredPsi99=1-exp(-exp(PredLam01))
-#PredPsi23=1-exp(-exp(PredLam23))
-#ChangeLam=PredLam23-PredLam01
-#for(i in 1:2301){
-#  ChangeLam[,i]=PredLam23[,i]-PredLam01[,i]
-#  print(i/2301)
-#}
-#
-#km$medPsi99=apply(X = PredPsi99,MARGIN = 1,FUN=median)
-#km$medPsi23=apply(X = PredPsi23,MARGIN = 1,FUN=median)
-#km$varPsi99=apply(X = PredPsi99,MARGIN = 1,FUN=var)
-#km$varPsi23=apply(X = PredPsi23,MARGIN = 1,FUN=var)
-#km$sd99=sqrt(km$varPsi99)
-#km$sd23=sqrt(km$varPsi23)
-#km$lamchange=apply(X = ChangeLam,MARGIN = 1,FUN=median)
-#km$varchangelam=apply(X = ChangeLam,MARGIN = 1,FUN=var)
-#km$sdchangelam=sqrt(km$varchangelam)
-#
-#save(ChangeLam,PredLam23,PredPsi23,PredLam01,PredPsi99,km,file="OtterPredictions.Rdata")
+#####
+wshed=as.factor(km$Watrshd)
+levels(wshed)
+WSHED=model.matrix(~wshed,contrasts = list(wshed = contr.sum))
+PredLam01=data.frame(matrix(NA, nrow=length(km$id),ncol=length(mcmc$lambdaW0)))
+for(j in 1:length(km$id)){
+    PredLam01[j,]= mcmc$lambdaStrm*km$strm2[j]+
+                   mcmc$lambdaWet*wetland$N01_Wet[j]+
+                   mcmc$lambdaSalt*km$Salt[j]+
+                   mcmc$lambdaUrb*Urban$N01_Urb[j]+
+                   mcmc$lambdaWat*water$N01_Wtr[j]+
+                   mcmc$lambdaW0*WSHED[j,1]+
+                   mcmc$lambdaW1*WSHED[j,2]+
+                   mcmc$lambdaW2*WSHED[j,3]+
+                   mcmc$lambdaW3*WSHED[j,4]+
+                   mcmc$lambdaW4*WSHED[j,5]+
+                   mcmc$lambdaW5*WSHED[j,6]+
+                   mcmc$lambdaW6*WSHED[j,7]+
+                   mcmc$lambdaNnp*km$NNPlntA[j]+
+                   mcmc$lambdaBenth*km$benthcS[j]+
+                   mcmc$lambdaTrout*km$trotAll[j]+
+                   mcmc$lambdaDO2*km$DO2All[j]+
+                   mcmc$lambdaOMet*km$OthrMtA[j]+
+                   mcmc$lambdaPb*km$PbAll[j]+
+                   mcmc$lambdaHg*km$HgAll[j]+
+                   mcmc$lambdaPCB*km$PCBAll[j]+
+                   mcmc$lambdaEffl*km$EfflntA[j]+
+    
+    print(j/2301)
+}
+km$medlam01=apply(X = PredLam01,MARGIN = 1,FUN = median)
+km$lcilam01=apply(X = PredLam01,MARGIN = 1,FUN = quantile,probs=0.025)
+km$ucilam01=apply(X = PredLam01,MARGIN = 1,FUN = quantile,probs=0.975)
+
+PredLam23=data.frame(matrix(NA, nrow=length(km$id),ncol=length(mcmc$lambdaW0)))
+for(j in 1:length(km$id)){
+  PredLam23[j,]=mcmc$lambdaStrm*km$strm2[j]+
+    mcmc$lambdaWet*wetland$N19_Wet[j]+
+    mcmc$lambdaSalt*km$Salt[j]+
+    mcmc$lambdaUrb*Urban$N19_Urb[j]+
+    mcmc$lambdaWat*water$N19_Wtr[j]+
+    mcmc$lambda.Time*24+
+    mcmc$lambdaW0*WSHED[j,1]+
+    mcmc$lambdaW1*WSHED[j,2]+
+    mcmc$lambdaW2*WSHED[j,3]+
+    mcmc$lambdaW3*WSHED[j,4]+
+    mcmc$lambdaW4*WSHED[j,5]+
+    mcmc$lambdaW5*WSHED[j,6]+
+    mcmc$lambdaW6*WSHED[j,7]+
+    mcmc$lambdaNnp*km$NNPlntA[j]+
+    mcmc$lambdaBenth*km$benthcS[j]+
+    mcmc$lambdaTrout*km$trotAll[j]+
+    mcmc$lambdaDO2*km$DO2All[j]+
+    mcmc$lambdaOMet*km$OthrMtA[j]+
+    mcmc$lambdaPb*km$PbAll[j]+
+    mcmc$lambdaHg*km$HgAll[j]+
+    mcmc$lambdaPCB*km$PCBAll[j]+
+    mcmc$lambdaEffl*km$EfflntA[j]+
+  print(j/2301)
+}
+km$medlam23=apply(X = PredLam23,MARGIN = 1,FUN = median)
+km$lcilam23=apply(X = PredLam23,MARGIN = 1,FUN = quantile,probs=0.025)
+km$ucilam23=apply(X = PredLam23,MARGIN = 1,FUN = quantile,probs=0.975)
+
+PredPsi99=1-exp(-exp(PredLam01))
+PredPsi23=1-exp(-exp(PredLam23))
+ChangeLam=PredLam23
+for(i in 1:2301){
+  ChangeLam[,i]=PredLam23[,i]-PredLam01[,i]
+  print(i/2301)
+}
+
+km$medPsi99=apply(X = PredPsi99,MARGIN = 1,FUN=median)
+km$medPsi23=apply(X = PredPsi23,MARGIN = 1,FUN=median)
+km$varPsi99=apply(X = PredPsi99,MARGIN = 1,FUN=var)
+km$varPsi23=apply(X = PredPsi23,MARGIN = 1,FUN=var)
+km$sd99=sqrt(km$varPsi99)
+km$sd23=sqrt(km$varPsi23)
+km$lamchange=apply(X = ChangeLam,MARGIN = 1,FUN=median)
+km$varchangelam=apply(X = ChangeLam,MARGIN = 1,FUN=var)
+km$sdchangelam=sqrt(km$varchangelam)
+
+save(ChangeLam,PredLam23,PredPsi23,PredLam01,PredPsi99,km,file="OtterPredictions.Rdata")
+st_write(km,dsn = "Site Shapefiles/km_otterpredict.shp", append=F)
 load("OtterPredictions.Rdata")
+library(vioplot)
+vioplot(km$medPsi23[data$Strm==0&data$Pb==0],
+        km$medPsi23[data$Strm==1&data$Pb==0],
+        km$medPsi23[data$Strm==0&data$Pb==1],
+        km$medPsi23[data$Strm==1&data$Pb==1],
+        names = c("Strm 0 Pb 0","Strm 1 Pb 0",
+                 "Strm 0 Pb 1","Strm 1 Pb 1"),
+        wex=c(length(km$medPsi23[data$Strm==0&data$Benthic==0])/800,
+              length(km$medPsi23[data$Strm==1&data$Benthic==0])/800,
+              length(km$medPsi23[data$Strm==0&data$Benthic==1])/800,
+              length(km$medPsi23[data$Strm==1&data$Benthic==1])/800))
+vioplot(km$medPsi23[data$Pb==0],
+        km$medPsi23[data$Pb==1],
+        wex=c(length(km$medPsi23[data$Pb==0])/2000,
+              length(km$medPsi23[data$Pb==1])/2000))
+our_strwrap <- function(x) lapply(strwrap(x, width = 9, simplify= FALSE), paste, collapse = "\n")
+Trout1Benth1=1-exp(-exp(mcmc$lambdaW0+mcmc$lambdaTrout+mcmc$lambdaBenth))
+Trout0Benth1=1-exp(-exp(mcmc$lambdaW0+mcmc$lambdaBenth))
+Trout1Benth0=1-exp(-exp(mcmc$lambdaW0+mcmc$lambdaTrout))
+Trout0Benth0=1-exp(-exp(mcmc$lambdaW0))
+TroutHPD=HPDinterval(as.mcmc(cbind(Trout0Benth0,
+                                Trout0Benth1,
+                                Trout1Benth0,
+                                Trout1Benth1)))
+TroutHPD=as.data.frame(TroutHPD)
+TroutHPD$median=c(median(Trout0Benth0),
+               median(Trout0Benth1),
+               median(Trout1Benth0),
+               median(Trout1Benth1))
+plot(x=c(1,2,3,4),y=TroutHPD$median,
+     ylim=c(0,1),xaxt="n",xlab="Site type",
+     ylab="Predicted occupancy 2023")
+arrows(c(1,2,3,4), TroutHPD$lower, c(1,2,3,4), TroutHPD$upper, length=0.05, angle=90, code=3)
+axis(1, at=1:4, labels=our_strwrap(c("Benthic=0 Trout=0","Benthic=1 Trout=0",
+                                 "Benthic=0 Trout=1","Benthic=1 Trout=1")),las=2)
+
+length(data$Salt[data$Salt==0&
+                   data$Pb==0&
+                   data$Hg==0&
+                   data$OtherMetals==0&
+                   data$Strm==0&
+                   data$NNPlants==0&
+                   data$DO2==0&
+                   data$PCB==0&
+                   data$Effluent==0&
+                   data$Trout==0&
+                   data$Benthic==1])
+
+
 km$change=km$medPsi23-km$medPsi99
 plot(km["medPsi99"],main = "Predicted probability of river otter occupancy in 1999",
      breaks=c(0,.1,.2,.3,.4,.5,.6,.7,.8,.9,1),
@@ -444,36 +541,39 @@ expit(median(mcmc$p.rsrv.0))
 #####
 #Look at medians and HPDI
 #####
-HPD=cbind(apply(mcmc,2,median),
-          HPDinterval(combine.mcmc(Otter.IDM_with_roadkill_TREND)))
+#mcmc$lambdaW8=-mcmc$lambdaW1-mcmc$lambdaW2-mcmc$lambdaW3-mcmc$lambdaW4-
+#  mcmc$lambdaW5-mcmc$lambdaW6-mcmc$lambdaW7
+HPD=signif(cbind(apply(mcmc,2,median),
+          HPDinterval(as.mcmc(mcmc))),3)
 HPD=as.data.frame(t(HPD))
 rownames(HPD)=c("median","lower","upper")
+t(HPD)
 #####
 #Graphing by site type
 #####
 x=seq(0:24)
-LMedNsaNst=HPD$lambda.0[1]+HPD$lambda.Time[1]*x
-LLCINsaNst=HPD$lambda.0[2]+HPD$lambda.Time[2]*x
-LUCINsaNst=HPD$lambda.0[3]+HPD$lambda.Time[3]*x
+LMedNsaNst=HPD$lambdaW0[1]+HPD$lambda.Time[1]*x
+LLCINsaNst=HPD$lambdaW0[2]+HPD$lambda.Time[2]*x
+LUCINsaNst=HPD$lambdaW0[3]+HPD$lambda.Time[3]*x
 xyear=1999:2023
 
 xLC=seq(0,1,100.1/100000)
 xurb=(xLC-mean(km$N01_Urb))/sqrt(var(km$N01_Urb))
-yUrbM=1-exp(-exp(HPD$lambda.0[1]+HPD$lambdaUrb[1]*xurb))
-yUrbL=1-exp(-exp(HPD$lambda.0[2]+HPD$lambdaUrb[2]*xurb))
-yUrbU=1-exp(-exp(HPD$lambda.0[3]+HPD$lambdaUrb[3]*xurb))
+yUrbM=1-exp(-exp(HPD$lambdaW0[1]+HPD$lambdaUrb[1]*xurb))
+yUrbL=1-exp(-exp(HPD$lambdaW0[2]+HPD$lambdaUrb[2]*xurb))
+yUrbU=1-exp(-exp(HPD$lambdaW0[3]+HPD$lambdaUrb[3]*xurb))
 
 xWtr=(xLC-mean(km$N01_Wtr))/sqrt(var(km$N01_Wtr))
-yWtrM=1-exp(-exp(HPD$lambda.0[1]+HPD$lambdaWat[1]*xWtr))
-yWtrL=1-exp(-exp(HPD$lambda.0[2]+HPD$lambdaWat[2]*xWtr))
-yWtrU=1-exp(-exp(HPD$lambda.0[3]+HPD$lambdaWat[3]*xWtr))
+yWtrM=1-exp(-exp(HPD$lambdaW0[1]+HPD$lambdaWat[1]*xWtr))
+yWtrL=1-exp(-exp(HPD$lambdaW0[2]+HPD$lambdaWat[2]*xWtr))
+yWtrU=1-exp(-exp(HPD$lambdaW0[3]+HPD$lambdaWat[3]*xWtr))
 
 xWet=(xLC-mean(km$N01_Wet))/sqrt(var(km$N01_Wet))
-yWetM=1-exp(-exp(HPD$lambda.0[1]+HPD$lambdaWet[1]*xWet))
-yWetL=1-exp(-exp(HPD$lambda.0[2]+HPD$lambdaWet[2]*xWet))
-yWetU=1-exp(-exp(HPD$lambda.0[3]+HPD$lambdaWet[3]*xWet))
+yWetM=1-exp(-exp(HPD$lambdaW0[1]+HPD$lambdaWet[1]*xWet))
+yWetL=1-exp(-exp(HPD$lambdaW0[2]+HPD$lambdaWet[2]*xWet))
+yWetU=1-exp(-exp(HPD$lambdaW0[3]+HPD$lambdaWet[3]*xWet))
 
-png(filename = "Figures/Otter/Fig5PsiCovs.png",width =6.5,height = 8,
+png(filename = "Figures/Otter/Fig5PsiCovs.png",width =8,height = 8,
      units = "in",res = 150)
 par(mfrow=c(2,2))
 plot(xyear,1-exp(-exp(LMedNsaNst)),type = "l",ylim=c(0,1),col="black",
@@ -481,27 +581,33 @@ plot(xyear,1-exp(-exp(LMedNsaNst)),type = "l",ylim=c(0,1),col="black",
 polygon(c(xyear,rev(xyear)),
         c(1-exp(-exp(LLCINsaNst)),rev(1-exp(-exp(LUCINsaNst)))),
         col=adjustcolor("black",0.2))
-legend(x = "topleft",legend = "a",cex=2,bty = "n",inset = c(-0.475,-0.2),xpd = NA)
+legend(x = "topleft",legend = "a",cex=2,bty = "n",inset = c(-0.3,-0.25),xpd = NA)
 plot(xLC,yUrbM,type = "l",ylim=c(0,1),
      xlab="Proportion of site covered by urban areas",
-     ylab="Predicted probability of otter occupancy")
-polygon(c(xLC,rev(xLC)),c(yUrbL,rev(yUrbU)),col=adjustcolor("black",0.2))
-legend(x = "topleft",legend = "b",cex=2,bty = "n",inset = c(-0.475,-0.2),xpd = NA)
-plot(xLC,yWtrM,type = "l",ylim=c(0,1),
-     xlab="Proportion of site covered by water",
-     ylab="Predicted probability of otter occupancy")
-polygon(c(xLC,rev(xLC)),c(yWtrL,rev(yWtrU)),col=adjustcolor("black",0.2))
-legend(x = "topleft",legend = "c",cex=2,bty = "n",inset = c(-0.475,-0.2),xpd = NA)
+     ylab="Predicted probability of occupancy")
+polygon(c(xLC,rev(xLC)),c(yUrbL,rev(yUrbU)),col=adjustcolor("black",0.1))
+legend(x = "topleft",legend = "b",cex=2,bty = "n",inset = c(-0.3,-0.25),xpd = NA)
 plot(xLC,yWetM,type = "l",ylim=c(0,1),
      xlab="Proportion of site covered by wetland",
-     ylab="Predicted probability of otter occupancy")
-polygon(c(xLC,rev(xLC)),c(yWetL,rev(yWetU)),col=adjustcolor("black",0.2))
-legend(x = "topleft",legend = "d",cex=2,bty = "n",inset = c(-0.475,-0.2),xpd = NA)
+     ylab="Predicted probability of occupancy")
+polygon(c(xLC,rev(xLC)),c(yWetL,rev(yWetU)),col=adjustcolor("black",0.1))
+legend(x = "topleft",legend = "c",cex=2,bty = "n",inset = c(-0.3,-0.25),xpd = NA)
+plot(x=c(1,2,3,4),y=TroutHPD$median,
+     ylim=c(0,1),xaxt="n",xlab="Site type",
+     ylab="Predicted probability of occupancy")
+arrows(c(1,2,3,4), TroutHPD$lower, c(1,2,3,4), TroutHPD$upper, length=0.05, angle=90, code=3)
+axis(1, at=1:4, labels=our_strwrap(c("Benthic=0 Trout=0","Benthic=1 Trout=0",
+                                     "Benthic=0 Trout=1","Benthic=1 Trout=1")),las=2)
+legend(x = "topleft",legend = "d",cex=2,bty = "n",inset = c(-0.3,-0.25),xpd = NA)
 dev.off()
 #Calculating probabilities of support
-for(i in 1:32){
-  print(colnames(mcmc)[i])
-  print(length(which(mcmc[,i]>0))/90000)
+HPD=signif(cbind(apply(mcmc,2,median),
+                 HPDinterval(as.mcmc(mcmc))),3)
+HPD=as.data.frame(HPD)
+colnames(HPD)=c("median","lower","upper")
+HPD$Support=NA
+for(i in 1:48){
+  HPD$Support[i]=signif(length(which(mcmc[,i]>0))/40000,digits=3)
 }
 #Some Graphs
 png(filename = "Figures/Otter/Fig1Histos.png",width =6.5,height = 9,
