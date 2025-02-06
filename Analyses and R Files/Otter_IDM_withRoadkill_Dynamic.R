@@ -103,43 +103,53 @@ library(rjags)
 library(runjags)
 library(mcmcplots)
 library(MCMCvis)
+#####
+# The full model
+#####
 model_string <-"model
 {
   
 # Likelihood
-for (w in 1:25){
-for (m in 1:ncells){ # Model for occurrence at site level
+for (w in 1:25){ #Looping across the years of data
+for (m in 1:ncells){ # Looping across the sites
+# Occurrence model for otters
+# Model of otter intensity of use or the number of otter points expected per site
 log(lambda[m,w])=lambda.0+lambdaWat*Wat[m,yrstoNLCD[w]]+
                         lambdaStrm*Strm[m]+lambdaSalt*Salt[m]+
                         lambdaWet*Wet[m,yrstoNLCD[w]]+
                         lambdaUrb*Urb[m,yrstoNLCD[w]]+
                         lambda.Time*(w-1)
+#Converting from intensity of use to presence/absence
 z[m,w] ~ dbern(1-exp(-lambda[m,w]))
+#Model for thinning the number of otters on landscape to the number of latrines
 logit(b.L[m,w])=alpha.int.L+alphalaunch*launch[m]+alphaStrm*Strm[m]+
                           alphabeav*beaver[m,w]+
-                          alphaSalt*Salt[m]+alphatime.L[w]
-logit(b.R[m,w])=alpha.int.R+alpharoadp*roadpres[m]+alphatime.R[w]+
+                          alphaSalt*Salt[m]+alphatime.L*(w-1)
+#Model for thinning the number of otters on the landscape to the number of roadkilled otters
+logit(b.R[m,w])=alpha.int.R+alpharoadp*roadpres[m]+alphatime.R*(w-1)+
                           alpharoads*roads[m]*roadpres[m]
+#An overall probability of detection by roadkill or latrines
 b[m,w]<-1-((1-b.L[m,w])*(1-b.R[m,w]))
 }
+#Calculating the denominator for the likelihood of each point
 denom[w]=inprod(lambda[1:ncells,w],b[1:ncells,w])
-alphatime.L[w]~dnorm(0,1/tau.L)
-alphatime.R[w]~dnorm(0,1/tau.R)
-}
-for(p in 1:npoints){
-ones[p]~dbern(
-                exp(
-                    log(
-                    lambda[landid[p],pointyr[p]]*(
-                    isrk[p]*b.L[landid[p],pointyr[p]]+
-                    (1-isrk[p])*b.R[landid[p],pointyr[p]]
-                    )
-                    )-
-                    log(denom[pointyr[p]]/npoints)
-                )/CONSTANT
-              )
-}
 
+}
+#Likelihood of each presence-only point 
+for(p in 1:npoints){
+ ones[p]~dbern(
+              exp(
+                  log(
+                      lambda[landid[p],pointyr[p]]*((1-
+                      isrk[p])*b.L[landid[p],pointyr[p]]+
+                      isrk[p]*b.R[landid[p],pointyr[p]])
+                      )-
+                  log(denom[pointyr[p]]/npoints)
+                  )/CONSTANT
+              )
+ }
+
+#Detection-nondetection submodel:
 
 for (i in 1:nobs){ # Observation model at observation level
 y[i] ~ dbern(p[i]*z[TTDF[i],occyr[i]])
@@ -150,6 +160,8 @@ logit(p[i]) <- p.0+alpha1*OBS[i,2]+alpha2*OBS[i,3]+
                   alpha10*temp[i]+alpha11*cloud[i]+
                   alpha12*precip[i]+alpha13*kayak[i]
 }
+#Some latrines were re-surveyed in subsequent years; we modeled these resurveys 
+# as a single detection-nondetection data point
 for (i in 1:nrsurv){#observation model for re-surveyed latrines
   yrsrv[i]~dbern(p.rsrv[i]*z[ursurv[i],rsrvyr[i]])
   logit(p.rsrv[i])=p.rsrv.0
@@ -164,9 +176,9 @@ lambdaUrb  ~dnorm(0,1)
 lambdaWat  ~dnorm(0,1)
 lambda.Time~dnorm(0,25)
 alpha.int.L    ~dlogis(0,1)
-tau.L~dgamma(1,1)
+alphatime.L ~dlogis(0,1)
 alpha.int.R    ~dlogis(0,1)
-tau.R~dgamma(1,1)
+alphatime.R ~dlogis(0,1)
 alphalaunch ~dlogis(0,1)
 alphaStrm   ~dlogis(0,1)
 alphabeav   ~dlogis(0,1)
@@ -225,6 +237,7 @@ data <- list(ncells=ncells,
                         length(roadkill$ID)),
              isrk=isrk
 )
+#Making initial values
 zst=matrix(nrow=ncells,ncol = 25)
 for(i in 1:25){
   zst[,i] <- rep(1, ncells)
@@ -264,11 +277,13 @@ inits=function(){list(z =zst,
                       alpha13    =rnorm(1),
                       p.rsrv.0=rnorm(1)
 )}
-
-#Otter.IDM_with_roadkill_TREND=run.jags(model=model_string,adapt = 25,
-#                                     monitor= names(inits()[2:33]),
-#                                     burnin=10000, sample=20000,thin = 4,
-#                                     data=data, n.chains=4, method="rjags", inits=inits)
+#Passing the model to JAGS to run. 
+Otter.IDM_with_roadkill_TREND=run.jags(model=model_string,
+                                       monitor= names(inits()[2:33]),
+                                       burnin=100, sample=200,thin = 4,
+                                       data=data, n.chains=4, method="rjags", inits=inits)
+Otter.IDM_with_roadkill_TREND=extend.jags(runjags.object = Otter.IDM_with_roadkill_TREND,
+                                     adapt=2500,burnin=10000, sample=19800,thin = 4)
 
 #save(Otter.IDM_with_roadkill_TREND,file="OtterIDM_with_roadkill_TREND.Rdata")
 
